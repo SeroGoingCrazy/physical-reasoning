@@ -1,0 +1,27 @@
+{
+ "id": 677366,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.66,
+ "reasoning": "As of November 2025, Russian forces had reached Kostyantynivka's southern and eastern outskirts, infiltrated parts of the city, and were pressing it from several directions. Pokrovsk and Myrnohrad were close to falling, which would free up Russian forces. The station sits fairly centrally in the city near the main rail line, and the market needs only part of the icon shaded red at any point in roughly the next 13.5 months. Comparable urban battles took 8 to 18 months from close approach to capture: Toretsk about 8, Chasiv Yar about 18, and Pokrovsk over a year. That suggests a good but not certain chance that Russia reaches the city center by end-2026. Ukraine's fortified defense and ISW's conservative shading of only confirmed advances temper the estimate, as does the possibility of a ceasefire freezing lines.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1161,
+  "output_tokens": 676,
+  "output_tokens_details": {
+   "thinking_tokens": 376
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.018164
+}

@@ -1,0 +1,239 @@
+{
+ "market": {
+  "id": "1280179",
+  "question": "Will there be 5 or fewer US strikes on Somalia in February 2026?",
+  "conditionId": "0x117197cd61a74b49a334084789ae701a0ec3e7637c25840a32ea9675473af447",
+  "slug": "will-there-be-5-or-fewer-us-strikes-on-somalia-in-february-2026",
+  "resolutionSource": "",
+  "endDate": "2026-03-04T00:00:00Z",
+  "startDate": "2026-01-28T00:22:59.065205Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-times-will-the-us-strike-somalia-by-january-31-ZfjWT7qXorC3.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-times-will-the-us-strike-somalia-by-january-31-ZfjWT7qXorC3.jpg",
+  "description": "This market will resolve according to the number of independent incidents of US-initiated drone, missile, or air strikes on the soil of Somalia that occur between February 1 and February 28, 2026, and are announced by the United States Africa Command (AFRICOM) by March 4, 2026, 12:00 PM ET.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any United States operatives, including military forces, intelligence agencies, or other U.S. government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count, regardless of whether they land in the listed country\u2019s territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nAn incident of a US-initiated drone, missile, or air strike refers to any strike or series of strikes described by AFRICOM as a contiguous incident in a single region. Each AFRICOM press release describing a strike or series of strikes will count as one incident, unless AFRICOM explicitly distinguishes incidents as separate strike events. For example, the strikes on January 25-26, 2026 (https://www.africom.mil/pressrelease/36183/us-forces-conduct-strikes-targeting-al-shabaab) and January 12, 2026 (https://www.africom.mil/pressrelease/36174/us-forces-conduct-strikes-targeting-al-shabaab) would have counted as single incidents, even though they included multiple individual strikes.\n\nThe date of a qualifying strike incident will be determined by the date provided by AFRICOM. Any strike incident announced by AFRICOM to have occurred at least partially in the listed period will count (e.g. a strike incident announced to have occurred from January 31-February 1, 2026, would count). If the date of an announced strike is not released by AFRICOM, a consensus of credible reporting may be used to determine the timing of a strike incident. In this case, a strike will be considered to have occurred in the specified period if it is determined that it occurred in that period, in Eastern Time (timeframes partially, but not fully, in this period will count). Any strike incident announced by AFRICOM after March 4, 2026, 11:59 PM ET will not count, regardless of the timing of the strike.\n\nThis market will remain open until March 4, 2026, 12:00 PM ET. If the date/time of a qualifying strike cannot be confirmed by that time, it will not count, regardless of whether a strike was later confirmed to have taken place.\n\nThe primary resolution source for this market will be the United States Africa Command (AFRICOM) (https://www.africom.mil/media-gallery/press-releases); however, a consensus of credible reporting may also be used to determine the timing of an announced strike incident.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "222174.257139",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-01-27T23:31:21.019673Z",
+  "updatedAt": "2026-02-19T00:26:13.520088Z",
+  "closedTime": "2026-02-17 17:07:31+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "\u22645",
+  "groupItemThreshold": "0",
+  "questionID": "0xbb99e04e49474914eaf2e0fb7cb51e94a1910546813a272e2a84095bc8a97500",
+  "umaEndDate": "2026-02-17T17:07:31Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 222174.257139,
+  "endDateIso": "2026-03-04",
+  "startDateIso": "2026-01-28",
+  "hasReviewedDates": true,
+  "volume1wk": 130839.74767299999,
+  "volume1mo": 222174.25713899996,
+  "volume1yr": 222174.25713899996,
+  "clobTokenIds": "[\"30833989107610160321272304943740421003870091217796013671809594714542129417932\", \"38649793146686577243280344162771570972654803439373231965707725542817951649055\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 130839.74767299999,
+  "volume1moClob": 222174.25713899996,
+  "volume1yrClob": 222174.25713899996,
+  "volumeClob": 222174.257139,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xbb99e04e49474914eaf2e0fb7cb51e94a1910546813a272e2a84095bc8a97500",
+  "negRiskRequestID": "0xd8a7e058f557cf17f3a927b621ce070875da1678a4b6631e32c7d08a1f12c89a",
+  "events": [
+   {
+    "id": "190746",
+    "ticker": "how-many-times-will-the-us-strike-somalia-in-february",
+    "slug": "how-many-times-will-the-us-strike-somalia-in-february",
+    "title": "How many times will the US strike Somalia in February?",
+    "description": "This market will resolve according to the number of independent incidents of US-initiated drone, missile, or air strikes on the soil of Somalia that occur between February 1 and February 28, 2026, and are announced by the United States Africa Command (AFRICOM) by March 4, 2026, 11:59 PM ET.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any United States operatives, including military forces, intelligence agencies, or other U.S. government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not count, regardless of whether they land in the listed country\u2019s territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nAn incident of a US-initiated drone, missile, or air strike refers to any strike or series of strikes described by AFRICOM as a contiguous incident in a single region. Each AFRICOM press release describing a strike or series of strikes will count as one incident, unless AFRICOM explicitly distinguishes incidents as separate strike events. For example, the strikes on January 25-26, 2026 (https://www.africom.mil/pressrelease/36183/us-forces-conduct-strikes-targeting-al-shabaab) and January 12, 2026 (https://www.africom.mil/pressrelease/36174/us-forces-conduct-strikes-targeting-al-shabaab) would have counted as single incidents, even though they included multiple individual strikes.\n\nThe date of a qualifying strike incident will be determined by the date provided by AFRICOM. Any strike incident announced by AFRICOM to have occurred at least partially in the listed period will count (e.g. a strike incident announced to have occurred from January 31-February 1, 2026, would count). If the date of an announced strike is not released by AFRICOM, a consensus of credible reporting may be used to determine the timing of a strike incident. In this case, a strike will be considered to have occurred in the specified period if it is determined that it occurred in that period, in Eastern Time (timeframes partially, but not fully, in this period will count). Any strike incident announced by AFRICOM after March 4, 2026, 11:59 PM ET will not count, regardless of the timing of the strike.\n\nThis market will remain open until March 4, 2026, 11:59 PM ET. If the date/time of a qualifying strike cannot be confirmed by that time, it will not count, regardless of whether a strike was later confirmed to have taken place.\n\nThe primary resolution source for this market will be the United States Africa Command (AFRICOM) (https://www.africom.mil/media-gallery/press-releases); however, a consensus of credible reporting may also be used to determine the timing of an announced strike incident.",
+    "resolutionSource": "",
+    "startDate": "2026-01-28T00:25:01.842313Z",
+    "creationDate": "2026-01-28T00:25:01.842307Z",
+    "endDate": "2026-03-04T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-times-will-the-us-strike-somalia-by-january-31-ZfjWT7qXorC3.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-times-will-the-us-strike-somalia-by-january-31-ZfjWT7qXorC3.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 618615.4002300003,
+    "openInterest": 0,
+    "createdAt": "2026-01-27T23:31:19.828672Z",
+    "updatedAt": "2026-03-23T08:21:34.415227Z",
+    "volume1wk": 306513.38013400004,
+    "volume1mo": 442001.66878999997,
+    "volume1yr": 442001.66878999997,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xbb99e04e49474914eaf2e0fb7cb51e94a1910546813a272e2a84095bc8a97500",
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11265",
+      "ticker": "times-will-the-us-strike-somalia",
+      "slug": "times-will-the-us-strike-somalia",
+      "title": "times will the US strike Somalia",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-02-25T22:28:06.177956Z",
+      "updatedAt": "2026-09-30T13:44:40.617933Z",
+      "commentCount": 127
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-03-05T01:41:53Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "seriesSlug": "times-will-the-us-strike-somalia",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-01-28T00:19:31.975554Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-01-28T00:21:53Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.007,
+  "oneWeekPriceChange": -0.0615,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-01-28T00:20:41.125166Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1769644828,
+   "p": 0.075
+  },
+  {
+   "t": 1769731215,
+   "p": 0.065
+  },
+  {
+   "t": 1769817615,
+   "p": 0.05
+  },
+  {
+   "t": 1769904018,
+   "p": 0.055
+  },
+  {
+   "t": 1769990414,
+   "p": 0.0455
+  },
+  {
+   "t": 1770076814,
+   "p": 0.048
+  },
+  {
+   "t": 1770163226,
+   "p": 0.052
+  },
+  {
+   "t": 1770249614,
+   "p": 0.061
+  },
+  {
+   "t": 1770336016,
+   "p": 0.079
+  },
+  {
+   "t": 1770422418,
+   "p": 0.0675
+  },
+  {
+   "t": 1770508817,
+   "p": 0.061
+  },
+  {
+   "t": 1770595215,
+   "p": 0.1065
+  },
+  {
+   "t": 1770681617,
+   "p": 0.082
+  },
+  {
+   "t": 1770768015,
+   "p": 0.0425
+  },
+  {
+   "t": 1770854429,
+   "p": 0.017
+  },
+  {
+   "t": 1770940817,
+   "p": 0.0125
+  },
+  {
+   "t": 1771027219,
+   "p": 0.0135
+  },
+  {
+   "t": 1771113618,
+   "p": 0.0035
+  },
+  {
+   "t": 1771200028,
+   "p": 0.003
+  },
+  {
+   "t": 1771286419,
+   "p": 0.01
+  }
+ ]
+}

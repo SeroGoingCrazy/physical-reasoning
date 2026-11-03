@@ -1,0 +1,449 @@
+{
+ "market": {
+  "id": "638492",
+  "question": "Will edgeX launch a token in 2025?",
+  "conditionId": "0x03ec83b8b1dc87d3c2b1c2c89535a344d859f25fa350801d63d2e1217827215b",
+  "slug": "will-edgex-launch-a-token-in-2025",
+  "resolutionSource": "",
+  "endDate": "2026-01-01T05:00:00Z",
+  "startDate": "2025-10-17T16:16:52.354Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-edgex-launch-a-token-in-2025-HYxLQtBesCT8.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-edgex-launch-a-token-in-2025-HYxLQtBesCT8.jpg",
+  "description": "This market will resolve to \"Yes\" if EdgeX officially launches a token by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe token must be actively and publicly transferable and tradable. Announcements alone do not qualify\n\nThe primary resolution source for this market will be information from EdgeX (https://www.edgex.exchange/en), however a consensus of credible reporting will also be used.\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "6533516.768918",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-10-17T16:14:58.795372Z",
+  "updatedAt": "2026-01-04T22:44:41.540033Z",
+  "closedTime": "2026-01-03 00:36:49+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x97a40ae02d62621f6b04f470bae844b2736bbe7fff42726b0faff48d3be6ca0e",
+  "umaEndDate": "2026-01-03T00:36:49Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 6533516.768918,
+  "endDateIso": "2026-01-01",
+  "startDateIso": "2025-10-17",
+  "hasReviewedDates": true,
+  "volume1wk": 5792005.538571994,
+  "volume1mo": 6324993.806866995,
+  "volume1yr": 6533516.768917995,
+  "gameStartTime": "2025-12-15 21:45:00+00",
+  "clobTokenIds": "[\"71050426559855927155645347680711886453829378742645913933743200211179053347853\", \"34546350609146701174660920978713618331160189318013935527036906032118950372409\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 5792005.538571994,
+  "volume1moClob": 6324993.806866995,
+  "volume1yrClob": 6533516.768917995,
+  "volumeClob": 6533516.768918,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "60993",
+    "ticker": "will-edgex-launch-a-token-in-2025",
+    "slug": "will-edgex-launch-a-token-in-2025",
+    "title": "Will edgeX launch a token in 2025?",
+    "description": "This market will resolve to \"Yes\" if EdgeX officially launches a token by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe token must be actively and publicly transferable and tradable. Announcements alone do not qualify\n\nThe primary resolution source for this market will be information from EdgeX (https://www.edgex.exchange/en), however a consensus of credible reporting will also be used.\n",
+    "resolutionSource": "",
+    "startDate": "2025-10-17T16:22:13.691625Z",
+    "creationDate": "2025-10-17T16:22:13.691622Z",
+    "endDate": "2026-01-01T05:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-edgex-launch-a-token-in-2025-HYxLQtBesCT8.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-edgex-launch-a-token-in-2025-HYxLQtBesCT8.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 6533516.768918,
+    "openInterest": 0,
+    "createdAt": "2025-10-17T16:14:57.875468Z",
+    "updatedAt": "2026-01-04T08:27:55.852046Z",
+    "volume1wk": 5792005.538571994,
+    "volume1mo": 6324993.806866995,
+    "volume1yr": 6533516.768917995,
+    "enableOrderBook": true,
+    "commentCount": 600,
+    "cyom": false,
+    "closedTime": "2026-01-03T00:36:49Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "eventDate": "2025-12-14",
+    "startTime": "2025-12-15T21:45:00Z",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-10-17T16:16:30Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0015,
+  "oneWeekPriceChange": 0.665,
+  "oneMonthPriceChange": 0.3845,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\", \"disputed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-10-17T16:16:03.318619Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1760745607,
+   "p": 0.375
+  },
+  {
+   "t": 1760832014,
+   "p": 0.735
+  },
+  {
+   "t": 1760918417,
+   "p": 0.565
+  },
+  {
+   "t": 1761004807,
+   "p": 0.775
+  },
+  {
+   "t": 1761091218,
+   "p": 0.815
+  },
+  {
+   "t": 1761177610,
+   "p": 0.82
+  },
+  {
+   "t": 1761264015,
+   "p": 0.82
+  },
+  {
+   "t": 1761350414,
+   "p": 0.83
+  },
+  {
+   "t": 1761436816,
+   "p": 0.84
+  },
+  {
+   "t": 1761523214,
+   "p": 0.87
+  },
+  {
+   "t": 1761609617,
+   "p": 0.89
+  },
+  {
+   "t": 1761696016,
+   "p": 0.92
+  },
+  {
+   "t": 1761782417,
+   "p": 0.91
+  },
+  {
+   "t": 1761868811,
+   "p": 0.845
+  },
+  {
+   "t": 1761955216,
+   "p": 0.875
+  },
+  {
+   "t": 1762041613,
+   "p": 0.87
+  },
+  {
+   "t": 1762128015,
+   "p": 0.835
+  },
+  {
+   "t": 1762214415,
+   "p": 0.825
+  },
+  {
+   "t": 1762300816,
+   "p": 0.825
+  },
+  {
+   "t": 1762387210,
+   "p": 0.815
+  },
+  {
+   "t": 1762473616,
+   "p": 0.855
+  },
+  {
+   "t": 1762560011,
+   "p": 0.835
+  },
+  {
+   "t": 1762646428,
+   "p": 0.81
+  },
+  {
+   "t": 1762732811,
+   "p": 0.8
+  },
+  {
+   "t": 1762819217,
+   "p": 0.74
+  },
+  {
+   "t": 1762905616,
+   "p": 0.75
+  },
+  {
+   "t": 1762992015,
+   "p": 0.855
+  },
+  {
+   "t": 1763078415,
+   "p": 0.805
+  },
+  {
+   "t": 1763164818,
+   "p": 0.76
+  },
+  {
+   "t": 1763251213,
+   "p": 0.795
+  },
+  {
+   "t": 1763337616,
+   "p": 0.725
+  },
+  {
+   "t": 1763424013,
+   "p": 0.71
+  },
+  {
+   "t": 1763510418,
+   "p": 0.795
+  },
+  {
+   "t": 1763596813,
+   "p": 0.79
+  },
+  {
+   "t": 1763683220,
+   "p": 0.73
+  },
+  {
+   "t": 1763769614,
+   "p": 0.745
+  },
+  {
+   "t": 1763856014,
+   "p": 0.74
+  },
+  {
+   "t": 1763942414,
+   "p": 0.645
+  },
+  {
+   "t": 1764028817,
+   "p": 0.55
+  },
+  {
+   "t": 1764115214,
+   "p": 0.69
+  },
+  {
+   "t": 1764201617,
+   "p": 0.655
+  },
+  {
+   "t": 1764288016,
+   "p": 0.65
+  },
+  {
+   "t": 1764374422,
+   "p": 0.575
+  },
+  {
+   "t": 1764460817,
+   "p": 0.62
+  },
+  {
+   "t": 1764547219,
+   "p": 0.605
+  },
+  {
+   "t": 1764633613,
+   "p": 0.625
+  },
+  {
+   "t": 1764720020,
+   "p": 0.535
+  },
+  {
+   "t": 1764806414,
+   "p": 0.615
+  },
+  {
+   "t": 1764892815,
+   "p": 0.475
+  },
+  {
+   "t": 1764979216,
+   "p": 0.43
+  },
+  {
+   "t": 1765065629,
+   "p": 0.455
+  },
+  {
+   "t": 1765152028,
+   "p": 0.44
+  },
+  {
+   "t": 1765238425,
+   "p": 0.56
+  },
+  {
+   "t": 1765324813,
+   "p": 0.525
+  },
+  {
+   "t": 1765411214,
+   "p": 0.535
+  },
+  {
+   "t": 1765497614,
+   "p": 0.54
+  },
+  {
+   "t": 1765584016,
+   "p": 0.58
+  },
+  {
+   "t": 1765670417,
+   "p": 0.575
+  },
+  {
+   "t": 1765756819,
+   "p": 0.6
+  },
+  {
+   "t": 1765843215,
+   "p": 0.705
+  },
+  {
+   "t": 1765929612,
+   "p": 0.925
+  },
+  {
+   "t": 1765929634,
+   "p": 0.925
+  },
+  {
+   "t": 1766016024,
+   "p": 0.855
+  },
+  {
+   "t": 1766102415,
+   "p": 0.8
+  },
+  {
+   "t": 1766188815,
+   "p": 0.795
+  },
+  {
+   "t": 1766275215,
+   "p": 0.945
+  },
+  {
+   "t": 1766361614,
+   "p": 0.815
+  },
+  {
+   "t": 1766448017,
+   "p": 0.915
+  },
+  {
+   "t": 1766534416,
+   "p": 0.945
+  },
+  {
+   "t": 1766620826,
+   "p": 0.994
+  },
+  {
+   "t": 1766707212,
+   "p": 0.4605
+  },
+  {
+   "t": 1766793616,
+   "p": 0.331
+  },
+  {
+   "t": 1766880016,
+   "p": 0.327
+  },
+  {
+   "t": 1766966432,
+   "p": 0.157
+  },
+  {
+   "t": 1767052819,
+   "p": 0.6785
+  },
+  {
+   "t": 1767139217,
+   "p": 0.997
+  },
+  {
+   "t": 1767225617,
+   "p": 0.997
+  },
+  {
+   "t": 1767312016,
+   "p": 0.9975
+  },
+  {
+   "t": 1767398414,
+   "p": 0.9995
+  }
+ ]
+}

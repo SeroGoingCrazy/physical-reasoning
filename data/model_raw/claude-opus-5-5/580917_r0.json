@@ -1,0 +1,27 @@
+{
+ "id": "580917",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.83,
+ "reasoning": "Through summer 2025, STAN was running on its own (not with the Pirates), and polls mostly put it around 10\u201313%, typically about 11%. That leaves it slightly above the threshold, but polling error of a couple of points could still push it under 10%. I also have a tentative recollection that STAN's actual result was about 11.2%, which would mean YES, but I can't fully verify that from this vantage point. Combining the polling picture with that recollection, I lean clearly toward YES.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 678,
+  "output_tokens": 467,
+  "output_tokens_details": {
+   "thinking_tokens": 293
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.012052
+}

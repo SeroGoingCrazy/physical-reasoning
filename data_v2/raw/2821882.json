@@ -1,0 +1,201 @@
+{
+ "market": {
+  "id": "2821882",
+  "question": "Will there be no next Culture Secretary of the UK in 2026?",
+  "conditionId": "0xc57b92c646380f59ec390581eed7fedd7e58c164c83299216eca7ecb1ad1f3f7",
+  "slug": "will-there-be-no-next-culture-secretary-of-the-uk-in-2026-20260706190332032",
+  "resolutionSource": "",
+  "endDate": "2026-12-31T23:59:00Z",
+  "startDate": "2026-07-06T21:27:47.812022Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-uk-culture-secretary-in-2026-20260706190332026-JtEksCdBAHKe.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-uk-culture-secretary-in-2026-20260706190332026-JtEksCdBAHKe.jpg",
+  "description": "This market will resolve to the individual who is officially appointed as the next Secretary of State for Culture, Media and Sport of the United Kingdom by December 31, 2026, 11:59 PM ET.\n\nTo count for resolution, the individual must be officially appointed by the United Kingdom Monarch. Any interim or caretaker Secretary of State for Culture, Media and Sport will not count toward the resolution of this market.\n\nIf no such Secretary of State for Culture, Media and Sport is appointed, or Lisa Nandy is re-appointed as Secretary of State for Culture, Media and Sport, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo next Culture Secretary in 2026\u201d.\n\nThe primary resolution source for this market will be official information from the Government of the United Kingdom; however, a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "72685.95006300004",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-07-06T21:16:55.420196Z",
+  "updatedAt": "2026-07-22T00:49:49.937612Z",
+  "closedTime": "2026-07-21 01:09:09+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "No next Culture Secretary in 2026",
+  "groupItemThreshold": "5",
+  "questionID": "0xf79c4095bbb45be1e0c23aa21135c48add47858e2d8d848b315f25dd43b7c005",
+  "umaEndDate": "2026-07-21T01:09:09Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 72685.95006300004,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2026-07-06",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"114342111977796503108098847191927567410621074794463882346307382232110706176335\", \"90265061615227129589684382694490195771263782448450626703656945373705018145818\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 72685.95006300004,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xf79c4095bbb45be1e0c23aa21135c48add47858e2d8d848b315f25dd43b7c000",
+  "negRiskRequestID": "0x0799f4c5e315d4aef4096e2f20fdf1b1b46b3b2e79ab263ae49812d6a82b75b6",
+  "events": [
+   {
+    "id": "674381",
+    "ticker": "next-uk-culture-secretary-in-2026-20260706190332026",
+    "slug": "next-uk-culture-secretary-in-2026-20260706190332026",
+    "title": "Next UK Culture Secretary in 2026?",
+    "description": "This market will resolve to the individual who is officially appointed as the next Secretary of State for Culture, Media and Sport of the United Kingdom by December 31, 2026, 11:59 PM ET.\n\nTo count for resolution, the individual must be officially appointed by the United Kingdom Monarch. Any interim or caretaker Secretary of State for Culture, Media and Sport will not count toward the resolution of this market.\n\nIf no such Secretary of State for Culture, Media and Sport is appointed, or Lisa Nandy is re-appointed as Secretary of State for Culture, Media and Sport, by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cNo next Culture Secretary in 2026\u201d.\n\nThe primary resolution source for this market will be official information from the Government of the United Kingdom; however, a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2026-07-06T21:26:17.717796Z",
+    "creationDate": "2026-07-06T21:38:08.770769Z",
+    "endDate": "2026-12-31T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-uk-culture-secretary-in-2026-20260706190332026-JtEksCdBAHKe.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-uk-culture-secretary-in-2026-20260706190332026-JtEksCdBAHKe.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 174446.06079000005,
+    "openInterest": 57969.884924,
+    "sortBy": "price",
+    "createdAt": "2026-07-06T21:16:53.24934Z",
+    "updatedAt": "2026-08-13T15:56:03.643523Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xf79c4095bbb45be1e0c23aa21135c48add47858e2d8d848b315f25dd43b7c000",
+    "commentCount": 1,
+    "cyom": false,
+    "closedTime": "2026-07-21T01:09:09Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-07-06T21:17:10.007835Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-07-06T21:26:47Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.005,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.8025,
+  "oneWeekPriceChange": 0.7225,
+  "lastTradePrice": 0.995,
+  "bestBid": 0.995,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-07-06T21:21:32.57896Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1783382408,
+   "p": 0.455
+  },
+  {
+   "t": 1783468804,
+   "p": 0.255
+  },
+  {
+   "t": 1783555208,
+   "p": 0.195
+  },
+  {
+   "t": 1783641605,
+   "p": 0.175
+  },
+  {
+   "t": 1783728006,
+   "p": 0.175
+  },
+  {
+   "t": 1783814418,
+   "p": 0.115
+  },
+  {
+   "t": 1783900806,
+   "p": 0.115
+  },
+  {
+   "t": 1783987205,
+   "p": 0.275
+  },
+  {
+   "t": 1784073605,
+   "p": 0.275
+  },
+  {
+   "t": 1784160004,
+   "p": 0.115
+  },
+  {
+   "t": 1784246406,
+   "p": 0.045
+  },
+  {
+   "t": 1784332804,
+   "p": 0.055
+  },
+  {
+   "t": 1784419205,
+   "p": 0.12
+  },
+  {
+   "t": 1784505618,
+   "p": 0.17
+  },
+  {
+   "t": 1784592006,
+   "p": 0.9685
+  }
+ ]
+}

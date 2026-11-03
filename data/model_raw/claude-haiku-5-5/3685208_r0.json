@@ -1,0 +1,27 @@
+{
+ "id": "3685208",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.35,
+ "reasoning": "A qualifying Opus model must be newly added to the agi.safe.ai HLE results between now and December 31, 2026, and the window is about four and a half months. Anthropic ships Opus-class models fairly often, but the site's listing lag and the chance that no new Opus appears in the window both cut against YES. Conditional on an Opus model being added, the score threshold is plausible but uncertain. My recollection is that Opus 4.6 was around 40% on HLE without tools, so a successor reaching 45% is roughly a coin flip, perhaps somewhat better given frontier progress. Combining a moderate chance of a new Opus listing with a roughly even chance of clearing 45% gives a probability around one third.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1367,
+  "output_tokens": 773,
+  "output_tokens_details": {
+   "thinking_tokens": 523
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005232
+}

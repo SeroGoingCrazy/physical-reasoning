@@ -1,0 +1,206 @@
+{
+ "market": {
+  "id": "5340071",
+  "question": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+  "conditionId": "0x704e1af6fadba2ba429fa208f48591cfc3f812202589c11076a0baaab8588ca9",
+  "slug": "will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4",
+  "resolutionSource": "",
+  "endDate": "2026-10-26T03:59:00Z",
+  "startDate": "2026-10-05T19:31:58Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election-LUNiqIvy01pf.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election-LUNiqIvy01pf.jpg",
+  "description": "The second round of the presidential election is scheduled to take place in Brazil on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the second round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf a candidate other than Fl\u00e1vio Bolsonaro or Luiz In\u00e1cio Lula da Silva receives the most valid votes in the second round, or if the top two candidates receive exactly the same number of valid votes, this market will resolve to \"Other\".\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "1605030.9536169998",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-10-05T19:31:32.743007Z",
+  "updatedAt": "2026-10-27T04:18:49.87381Z",
+  "closedTime": "2026-10-26 05:29:46.196294+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Fl\u00e1vio Bolsonaro <4%",
+  "groupItemThreshold": "3",
+  "questionID": "0xe92336c9237e5b34e639018c3214e2dad22d282cc3d521b5298ecec9b638f203",
+  "umaEndDate": "2026-10-26 05:29:46.196294+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 1605030.9536169998,
+  "endDateIso": "2026-10-26",
+  "startDateIso": "2026-10-05",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"33248445071287475784020539078449011387420179680117931563779651328806644373237\", \"25349054440013682842571127133038322301209167270229686994600990771013717798216\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 1605030.9536169998,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xe92336c9237e5b34e639018c3214e2dad22d282cc3d521b5298ecec9b638f200",
+  "negRiskRequestID": "0x5df313c478d5a622d2be086363a77557a80ebd51588fe96ba01ad762c72827be",
+  "events": [
+   {
+    "id": "1138953",
+    "ticker": "brazil-presidential-election-second-round-margin-of-victory",
+    "slug": "brazil-presidential-election-second-round-margin-of-victory",
+    "title": "Brazil Presidential Election Second Round: Margin of Victory",
+    "description": "The second round of the presidential election is scheduled to take place in Brazil on October 25, 2026.\n\nThis market will resolve according to the margin of victory between the top two candidates in the second round of the next Brazil Presidential Election.\n\nFor the purpose of this market, the \u201cmargin of victory\u201d is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nIf a candidate other than Fl\u00e1vio Bolsonaro or Luiz In\u00e1cio Lula da Silva receives the most valid votes in the second round, or if the top two candidates receive exactly the same number of valid votes, this market will resolve to \"Other\".\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+    "resolutionSource": "",
+    "startDate": "2026-10-05T19:31:58Z",
+    "creationDate": "2026-10-05T19:34:20.991049Z",
+    "endDate": "2026-10-26T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 10254180.625175001,
+    "openInterest": 769529.8187340002,
+    "sortBy": "ascending",
+    "createdAt": "2026-10-05T19:31:29.660818Z",
+    "updatedAt": "2026-10-27T09:05:01.512136Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xe92336c9237e5b34e639018c3214e2dad22d282cc3d521b5298ecec9b638f200",
+    "commentCount": 14,
+    "cyom": false,
+    "closedTime": "2026-10-26T09:06:41Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": false,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Brazil",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-10-05T19:31:46.637788Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-10-05T19:31:58Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.3845,
+  "oneHourPriceChange": -0.001,
+  "oneWeekPriceChange": -0.3895,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-10-05T19:31:46.656821Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1791244826,
+   "p": 0.545
+  },
+  {
+   "t": 1791331231,
+   "p": 0.48
+  },
+  {
+   "t": 1791417654,
+   "p": 0.325
+  },
+  {
+   "t": 1791504057,
+   "p": 0.25
+  },
+  {
+   "t": 1791590432,
+   "p": 0.245
+  },
+  {
+   "t": 1791676840,
+   "p": 0.265
+  },
+  {
+   "t": 1791763249,
+   "p": 0.255
+  },
+  {
+   "t": 1791849644,
+   "p": 0.245
+  },
+  {
+   "t": 1791936042,
+   "p": 0.335
+  },
+  {
+   "t": 1792108845,
+   "p": 0.415
+  },
+  {
+   "t": 1792195251,
+   "p": 0.405
+  },
+  {
+   "t": 1792368044,
+   "p": 0.395
+  },
+  {
+   "t": 1792454444,
+   "p": 0.465
+  },
+  {
+   "t": 1792540849,
+   "p": 0.37
+  },
+  {
+   "t": 1792800057,
+   "p": 0.415
+  },
+  {
+   "t": 1792886405,
+   "p": 0.455
+  }
+ ]
+}

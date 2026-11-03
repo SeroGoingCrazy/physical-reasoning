@@ -1,0 +1,783 @@
+{
+ "market": {
+  "id": "2088926",
+  "question": "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?",
+  "conditionId": "0xbb9450c639a6cff45852a72f736ad87bd7937bb6c32a5188951c384044db7a3e",
+  "slug": "will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election",
+  "resolutionSource": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+  "endDate": "2026-10-05T03:59:00Z",
+  "startDate": "2026-04-27T21:29:02.075803Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election-U84VSDwV0TuH.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-cleitinho-azevedo-win-the-2026-minas-gerais-gubernatorial-election-U84VSDwV0TuH.jpg",
+  "description": "The Minas Gerais gubernatorial election is scheduled to take place in Brazil on October 4, 2026, with a runoff on October 25, 2026, if no candidate receives a majority of the valid votes in the first round.\n\nThis market will resolve according to the candidate who wins this election.\n\nTemporary, interim, or placeholder governors appointed by any means before the specified election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "198005.04980200002",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-04-26T20:51:09.79893Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-10-05 20:26:14+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Cleitinho Azevedo",
+  "groupItemThreshold": "0",
+  "questionID": "0x05635777ac766b609a882b29c0dade80d8276192ddae77d890e45e615091cd00",
+  "umaEndDate": "2026-10-05T20:26:14Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 198005.04980200002,
+  "endDateIso": "2026-10-05",
+  "startDateIso": "2026-04-27",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"54664556200324793449929245163617063512863172456904840088634813156464291518709\", \"24078451613163097416410370805562772205827071462344242816835897193771116630414\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 198005.04980200002,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x05635777ac766b609a882b29c0dade80d8276192ddae77d890e45e615091cd00",
+  "negRiskRequestID": "0x50fa696ea2eb89e672bb351a5d4114ae2c697b03a32284a628ea94650a475d7d",
+  "events": [
+   {
+    "id": "421316",
+    "ticker": "minas-gerais-governor-election-winner",
+    "slug": "minas-gerais-governor-election-winner",
+    "title": "Minas Gerais Governor Election Winner",
+    "description": "The Minas Gerais gubernatorial election is scheduled to take place in Brazil on October 4, 2026, with a runoff on October 25, 2026, if no candidate receives a majority of the valid votes in the first round.\n\nThis market will resolve according to the candidate who wins this election.\n\nTemporary, interim, or placeholder governors appointed by any means before the specified election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+    "resolutionSource": "",
+    "startDate": "2026-04-27T21:29:02.075803Z",
+    "creationDate": "2026-04-27T21:32:31.779446Z",
+    "endDate": "2026-10-05T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minas-gerais-governor-election-winner-jbWAzr9-57E3.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/minas-gerais-governor-election-winner-jbWAzr9-57E3.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 518533.739849,
+    "openInterest": 53591.355395,
+    "sortBy": "price",
+    "createdAt": "2026-04-26T20:51:09.413029Z",
+    "updatedAt": "2026-10-06T20:26:02.386069Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x05635777ac766b609a882b29c0dade80d8276192ddae77d890e45e615091cd00",
+    "commentCount": 31,
+    "cyom": false,
+    "closedTime": "2026-10-05T20:26:14Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-10-04T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-04-27T21:24:06.681268Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-04-27T21:27:42Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0175,
+  "oneWeekPriceChange": 0.0965,
+  "oneMonthPriceChange": 0.1755,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-04-27T21:26:30.549002Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1777334411,
+   "p": 0.41
+  },
+  {
+   "t": 1777420809,
+   "p": 0.555
+  },
+  {
+   "t": 1777507213,
+   "p": 0.55
+  },
+  {
+   "t": 1777593614,
+   "p": 0.565
+  },
+  {
+   "t": 1777680007,
+   "p": 0.565
+  },
+  {
+   "t": 1777766406,
+   "p": 0.635
+  },
+  {
+   "t": 1777852805,
+   "p": 0.505
+  },
+  {
+   "t": 1777939219,
+   "p": 0.6
+  },
+  {
+   "t": 1778025609,
+   "p": 0.565
+  },
+  {
+   "t": 1778112009,
+   "p": 0.49
+  },
+  {
+   "t": 1778198405,
+   "p": 0.575
+  },
+  {
+   "t": 1778284824,
+   "p": 0.565
+  },
+  {
+   "t": 1778371210,
+   "p": 0.565
+  },
+  {
+   "t": 1778457611,
+   "p": 0.465
+  },
+  {
+   "t": 1778544012,
+   "p": 0.565
+  },
+  {
+   "t": 1778630413,
+   "p": 0.565
+  },
+  {
+   "t": 1778716818,
+   "p": 0.565
+  },
+  {
+   "t": 1778803211,
+   "p": 0.535
+  },
+  {
+   "t": 1778889618,
+   "p": 0.555
+  },
+  {
+   "t": 1778976028,
+   "p": 0.46
+  },
+  {
+   "t": 1779062410,
+   "p": 0.46
+  },
+  {
+   "t": 1779148808,
+   "p": 0.46
+  },
+  {
+   "t": 1779235212,
+   "p": 0.595
+  },
+  {
+   "t": 1779321614,
+   "p": 0.515
+  },
+  {
+   "t": 1779408014,
+   "p": 0.515
+  },
+  {
+   "t": 1779494412,
+   "p": 0.51
+  },
+  {
+   "t": 1779580806,
+   "p": 0.51
+  },
+  {
+   "t": 1779667207,
+   "p": 0.665
+  },
+  {
+   "t": 1779753607,
+   "p": 0.53
+  },
+  {
+   "t": 1779840008,
+   "p": 0.555
+  },
+  {
+   "t": 1779926411,
+   "p": 0.565
+  },
+  {
+   "t": 1780012811,
+   "p": 0.575
+  },
+  {
+   "t": 1780099221,
+   "p": 0.59
+  },
+  {
+   "t": 1780185610,
+   "p": 0.585
+  },
+  {
+   "t": 1780272006,
+   "p": 0.585
+  },
+  {
+   "t": 1780358408,
+   "p": 0.565
+  },
+  {
+   "t": 1780444808,
+   "p": 0.625
+  },
+  {
+   "t": 1780531206,
+   "p": 0.625
+  },
+  {
+   "t": 1780617619,
+   "p": 0.615
+  },
+  {
+   "t": 1780704004,
+   "p": 0.625
+  },
+  {
+   "t": 1780790415,
+   "p": 0.625
+  },
+  {
+   "t": 1780876805,
+   "p": 0.64
+  },
+  {
+   "t": 1780963206,
+   "p": 0.64
+  },
+  {
+   "t": 1781049607,
+   "p": 0.68
+  },
+  {
+   "t": 1781136011,
+   "p": 0.68
+  },
+  {
+   "t": 1781222407,
+   "p": 0.675
+  },
+  {
+   "t": 1781308807,
+   "p": 0.66
+  },
+  {
+   "t": 1781395210,
+   "p": 0.67
+  },
+  {
+   "t": 1781481606,
+   "p": 0.685
+  },
+  {
+   "t": 1781568010,
+   "p": 0.595
+  },
+  {
+   "t": 1781654408,
+   "p": 0.695
+  },
+  {
+   "t": 1781740823,
+   "p": 0.675
+  },
+  {
+   "t": 1781827225,
+   "p": 0.675
+  },
+  {
+   "t": 1781913607,
+   "p": 0.605
+  },
+  {
+   "t": 1782000010,
+   "p": 0.625
+  },
+  {
+   "t": 1782086409,
+   "p": 0.655
+  },
+  {
+   "t": 1782172808,
+   "p": 0.605
+  },
+  {
+   "t": 1782259207,
+   "p": 0.59
+  },
+  {
+   "t": 1782345612,
+   "p": 0.56
+  },
+  {
+   "t": 1782432007,
+   "p": 0.57
+  },
+  {
+   "t": 1782518407,
+   "p": 0.585
+  },
+  {
+   "t": 1782604807,
+   "p": 0.585
+  },
+  {
+   "t": 1782691206,
+   "p": 0.605
+  },
+  {
+   "t": 1782777607,
+   "p": 0.62
+  },
+  {
+   "t": 1782864007,
+   "p": 0.615
+  },
+  {
+   "t": 1782950411,
+   "p": 0.62
+  },
+  {
+   "t": 1783036808,
+   "p": 0.62
+  },
+  {
+   "t": 1783123207,
+   "p": 0.62
+  },
+  {
+   "t": 1783209607,
+   "p": 0.535
+  },
+  {
+   "t": 1783296004,
+   "p": 0.575
+  },
+  {
+   "t": 1783382410,
+   "p": 0.575
+  },
+  {
+   "t": 1783468806,
+   "p": 0.585
+  },
+  {
+   "t": 1783555213,
+   "p": 0.585
+  },
+  {
+   "t": 1783641608,
+   "p": 0.59
+  },
+  {
+   "t": 1783728009,
+   "p": 0.62
+  },
+  {
+   "t": 1783814421,
+   "p": 0.625
+  },
+  {
+   "t": 1783900810,
+   "p": 0.625
+  },
+  {
+   "t": 1783987209,
+   "p": 0.615
+  },
+  {
+   "t": 1784073611,
+   "p": 0.605
+  },
+  {
+   "t": 1784160013,
+   "p": 0.535
+  },
+  {
+   "t": 1784246412,
+   "p": 0.535
+  },
+  {
+   "t": 1784332809,
+   "p": 0.535
+  },
+  {
+   "t": 1784419212,
+   "p": 0.46
+  },
+  {
+   "t": 1784505624,
+   "p": 0.51
+  },
+  {
+   "t": 1784592011,
+   "p": 0.51
+  },
+  {
+   "t": 1784678409,
+   "p": 0.51
+  },
+  {
+   "t": 1784764817,
+   "p": 0.515
+  },
+  {
+   "t": 1784851218,
+   "p": 0.51
+  },
+  {
+   "t": 1784937626,
+   "p": 0.505
+  },
+  {
+   "t": 1785024020,
+   "p": 0.485
+  },
+  {
+   "t": 1785110429,
+   "p": 0.455
+  },
+  {
+   "t": 1785196830,
+   "p": 0.26
+  },
+  {
+   "t": 1785369624,
+   "p": 0.505
+  },
+  {
+   "t": 1785456022,
+   "p": 0.18
+  },
+  {
+   "t": 1785542413,
+   "p": 0.47
+  },
+  {
+   "t": 1785628814,
+   "p": 0.58
+  },
+  {
+   "t": 1785715211,
+   "p": 0.685
+  },
+  {
+   "t": 1785801613,
+   "p": 0.0015
+  },
+  {
+   "t": 1785888014,
+   "p": 0.0915
+  },
+  {
+   "t": 1785974412,
+   "p": 0.063
+  },
+  {
+   "t": 1786060813,
+   "p": 0.1465
+  },
+  {
+   "t": 1786147216,
+   "p": 0.503
+  },
+  {
+   "t": 1786233626,
+   "p": 0.6535
+  },
+  {
+   "t": 1786320018,
+   "p": 0.578
+  },
+  {
+   "t": 1786406423,
+   "p": 0.6355
+  },
+  {
+   "t": 1786492814,
+   "p": 0.6435
+  },
+  {
+   "t": 1786579219,
+   "p": 0.648
+  },
+  {
+   "t": 1786665619,
+   "p": 0.6465
+  },
+  {
+   "t": 1786752018,
+   "p": 0.644
+  },
+  {
+   "t": 1786838419,
+   "p": 0.6745
+  },
+  {
+   "t": 1786924821,
+   "p": 0.6715
+  },
+  {
+   "t": 1787011231,
+   "p": 0.6865
+  },
+  {
+   "t": 1787097620,
+   "p": 0.7005
+  },
+  {
+   "t": 1787184024,
+   "p": 0.733
+  },
+  {
+   "t": 1787270421,
+   "p": 0.714
+  },
+  {
+   "t": 1787356821,
+   "p": 0.7245
+  },
+  {
+   "t": 1787443218,
+   "p": 0.7075
+  },
+  {
+   "t": 1787529622,
+   "p": 0.7565
+  },
+  {
+   "t": 1787616020,
+   "p": 0.736
+  },
+  {
+   "t": 1787702422,
+   "p": 0.7355
+  },
+  {
+   "t": 1787788822,
+   "p": 0.698
+  },
+  {
+   "t": 1787875222,
+   "p": 0.7835
+  },
+  {
+   "t": 1787961623,
+   "p": 0.7895
+  },
+  {
+   "t": 1788048022,
+   "p": 0.8065
+  },
+  {
+   "t": 1788134421,
+   "p": 0.8125
+  },
+  {
+   "t": 1788220833,
+   "p": 0.816
+  },
+  {
+   "t": 1788307220,
+   "p": 0.874
+  },
+  {
+   "t": 1788393625,
+   "p": 0.8245
+  },
+  {
+   "t": 1788480019,
+   "p": 0.842
+  },
+  {
+   "t": 1788566419,
+   "p": 0.828
+  },
+  {
+   "t": 1788652825,
+   "p": 0.824
+  },
+  {
+   "t": 1788739233,
+   "p": 0.8315
+  },
+  {
+   "t": 1788825616,
+   "p": 0.8885
+  },
+  {
+   "t": 1788912025,
+   "p": 0.882
+  },
+  {
+   "t": 1788998419,
+   "p": 0.8905
+  },
+  {
+   "t": 1789084821,
+   "p": 0.862
+  },
+  {
+   "t": 1789171221,
+   "p": 0.855
+  },
+  {
+   "t": 1789257620,
+   "p": 0.831
+  },
+  {
+   "t": 1789344017,
+   "p": 0.834
+  },
+  {
+   "t": 1789430416,
+   "p": 0.841
+  },
+  {
+   "t": 1789516817,
+   "p": 0.8555
+  },
+  {
+   "t": 1789603219,
+   "p": 0.8595
+  },
+  {
+   "t": 1789689622,
+   "p": 0.874
+  },
+  {
+   "t": 1789776023,
+   "p": 0.8955
+  },
+  {
+   "t": 1789862422,
+   "p": 0.9135
+  },
+  {
+   "t": 1789948819,
+   "p": 0.9065
+  },
+  {
+   "t": 1790035219,
+   "p": 0.8735
+  },
+  {
+   "t": 1790121621,
+   "p": 0.885
+  },
+  {
+   "t": 1790208032,
+   "p": 0.894
+  },
+  {
+   "t": 1790294424,
+   "p": 0.908
+  },
+  {
+   "t": 1790380819,
+   "p": 0.881
+  },
+  {
+   "t": 1790467219,
+   "p": 0.8885
+  },
+  {
+   "t": 1790553633,
+   "p": 0.8885
+  },
+  {
+   "t": 1790640020,
+   "p": 0.902
+  },
+  {
+   "t": 1790726422,
+   "p": 0.922
+  },
+  {
+   "t": 1790812823,
+   "p": 0.942
+  },
+  {
+   "t": 1790899221,
+   "p": 0.94
+  },
+  {
+   "t": 1790985625,
+   "p": 0.9585
+  },
+  {
+   "t": 1791072021,
+   "p": 0.9765
+  },
+  {
+   "t": 1791158425,
+   "p": 0.9965
+  }
+ ]
+}

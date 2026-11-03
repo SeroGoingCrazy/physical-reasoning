@@ -1,0 +1,27 @@
+{
+ "id": 2646914,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.28,
+ "reasoning": "The June 22 Switzerland round reportedly produced a roadmap toward a final deal, and follow-on technical talks were expected. That momentum makes another formally convened senior-level round within about three months fairly likely. In 2025 and 2026, US-Iran senior rounds (Oman, Islamabad, Switzerland) often came every few weeks while processes were active. Breakdowns are a real risk, however, given renewed hostilities, domestic politics, or disputes over sequencing. Technical-only talks also would not count, which could stretch the gap between senior rounds. Overall I estimate roughly a 25-30% chance of no qualifying meeting by September 30.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1544,
+  "output_tokens": 568,
+  "output_tokens_details": {
+   "thinking_tokens": 334
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.017536
+}

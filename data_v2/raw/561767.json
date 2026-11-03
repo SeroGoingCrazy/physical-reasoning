@@ -1,0 +1,567 @@
+{
+ "market": {
+  "id": "561767",
+  "question": "OpenAI browser in 2025?",
+  "conditionId": "0xba88b6515079171739698b67a1186c0e0728583eb76c4b9216fff959806d355b",
+  "slug": "openai-browser-in-2025",
+  "resolutionSource": "",
+  "endDate": "2025-12-31T00:00:00Z",
+  "startDate": "2025-07-09T18:41:12.664Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-browser-in-2025-5Ixf3tmR9f5X.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-browser-in-2025-5Ixf3tmR9f5X.jpg",
+  "description": "This market will resolve to \"Yes\" if OpenAI publicly releases a standalone web browser that is intended for general web browsing and is available for use by the public in at least one country or region by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes,\" such a browser must be launched and publicly accessible, including via open beta or open rolling free waitlist signups. A closed beta or any form of private access will not suffice. The release must be clearly defined and publicly announced by OpenAI as being accessible to the general public.\n\nBrowser extensions, plugins, or integrations within third-party browsers do not count; it must be a standalone browser application.\n\nThe primary resolution source will be official announcements from OpenAI. If there is ambiguity, a consensus of credible reporting will be used.\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "899215.87511",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "0xb126bDE3C1B0B693432bBa207f72964Bcc619356",
+  "createdAt": "2025-07-09T18:28:34.610865Z",
+  "updatedAt": "2025-10-23T00:34:15.045582Z",
+  "closedTime": "2025-10-21 19:34:53+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x157Ce2d672854c848c9b79C49a8Cc6cc89176a49",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0xeb9efb8b220fd66a104a839676f953d7b963dddfdd6533ddda0c6fc103fa4310",
+  "umaEndDate": "2025-10-21T19:34:53Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 899215.87511,
+  "endDateIso": "2025-12-31",
+  "startDateIso": "2025-07-09",
+  "hasReviewedDates": true,
+  "volume1wk": 373757.42595299997,
+  "volume1mo": 570228.056577,
+  "volume1yr": 899215.8751100003,
+  "clobTokenIds": "[\"107464577842066559760656019062729852840640569883500658546207125400108659528704\", \"84463604037073935136662294659876451223367218769202288948744743875605774247448\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 373757.42595299997,
+  "volume1moClob": 570228.056577,
+  "volume1yrClob": 899215.8751100003,
+  "volumeClob": 899215.87511,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "31735",
+    "ticker": "openai-browser-in-2025",
+    "slug": "openai-browser-in-2025",
+    "title": "OpenAI browser in 2025?",
+    "description": "This market will resolve to \"Yes\" if OpenAI publicly releases a standalone web browser that is intended for general web browsing and is available for use by the public in at least one country or region by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor this market to resolve to \"Yes,\" such a browser must be launched and publicly accessible, including via open beta or open rolling free waitlist signups. A closed beta or any form of private access will not suffice. The release must be clearly defined and publicly announced by OpenAI as being accessible to the general public.\n\nBrowser extensions, plugins, or integrations within third-party browsers do not count; it must be a standalone browser application.\n\nThe primary resolution source will be official announcements from OpenAI. If there is ambiguity, a consensus of credible reporting will be used.\n",
+    "resolutionSource": "",
+    "startDate": "2025-07-09T18:43:27.596388Z",
+    "creationDate": "2025-07-09T18:43:27.596385Z",
+    "endDate": "2025-12-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-browser-in-2025-5Ixf3tmR9f5X.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/openai-browser-in-2025-5Ixf3tmR9f5X.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 899215.87511,
+    "openInterest": 0,
+    "createdAt": "2025-07-09T18:28:33.218807Z",
+    "updatedAt": "2025-10-23T00:34:32.84559Z",
+    "volume1wk": 373757.42595299997,
+    "volume1mo": 570228.056577,
+    "volume1yr": 899215.8751100003,
+    "enableOrderBook": true,
+    "commentCount": 2322,
+    "series": [
+     {
+      "id": "10206",
+      "ticker": "openai-browser",
+      "slug": "openai-browser",
+      "title": "OpenAI browser",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-08-18T22:03:11.192841Z",
+      "updatedAt": "2026-09-30T13:44:40.617933Z",
+      "commentCount": 2117
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2025-10-21T19:34:53Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "openai-browser",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-07-09T18:40:49Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.2945,
+  "oneHourPriceChange": 0.009,
+  "oneWeekPriceChange": 0.3395,
+  "oneMonthPriceChange": 0.5245,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-07-09T18:40:19.595417Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1752105608,
+   "p": 0.88
+  },
+  {
+   "t": 1752192008,
+   "p": 0.895
+  },
+  {
+   "t": 1752278409,
+   "p": 0.915
+  },
+  {
+   "t": 1752364808,
+   "p": 0.915
+  },
+  {
+   "t": 1752451207,
+   "p": 0.905
+  },
+  {
+   "t": 1752537608,
+   "p": 0.885
+  },
+  {
+   "t": 1752624008,
+   "p": 0.875
+  },
+  {
+   "t": 1752710408,
+   "p": 0.87
+  },
+  {
+   "t": 1752796808,
+   "p": 0.69
+  },
+  {
+   "t": 1752883209,
+   "p": 0.645
+  },
+  {
+   "t": 1752969608,
+   "p": 0.69
+  },
+  {
+   "t": 1753056007,
+   "p": 0.665
+  },
+  {
+   "t": 1753142409,
+   "p": 0.715
+  },
+  {
+   "t": 1753228809,
+   "p": 0.695
+  },
+  {
+   "t": 1753315209,
+   "p": 0.695
+  },
+  {
+   "t": 1753401609,
+   "p": 0.75
+  },
+  {
+   "t": 1753488009,
+   "p": 0.735
+  },
+  {
+   "t": 1753574410,
+   "p": 0.73
+  },
+  {
+   "t": 1753660809,
+   "p": 0.66
+  },
+  {
+   "t": 1753747210,
+   "p": 0.715
+  },
+  {
+   "t": 1753833610,
+   "p": 0.695
+  },
+  {
+   "t": 1753920008,
+   "p": 0.675
+  },
+  {
+   "t": 1754006409,
+   "p": 0.675
+  },
+  {
+   "t": 1754092809,
+   "p": 0.685
+  },
+  {
+   "t": 1754179208,
+   "p": 0.655
+  },
+  {
+   "t": 1754265607,
+   "p": 0.69
+  },
+  {
+   "t": 1754352008,
+   "p": 0.8
+  },
+  {
+   "t": 1754438409,
+   "p": 0.765
+  },
+  {
+   "t": 1754524808,
+   "p": 0.7
+  },
+  {
+   "t": 1754611202,
+   "p": 0.76
+  },
+  {
+   "t": 1754697607,
+   "p": 0.775
+  },
+  {
+   "t": 1754784003,
+   "p": 0.775
+  },
+  {
+   "t": 1754870414,
+   "p": 0.83
+  },
+  {
+   "t": 1754956804,
+   "p": 0.87
+  },
+  {
+   "t": 1755043212,
+   "p": 0.83
+  },
+  {
+   "t": 1755129604,
+   "p": 0.87
+  },
+  {
+   "t": 1755216011,
+   "p": 0.895
+  },
+  {
+   "t": 1755302404,
+   "p": 0.915
+  },
+  {
+   "t": 1755388802,
+   "p": 0.835
+  },
+  {
+   "t": 1755475205,
+   "p": 0.835
+  },
+  {
+   "t": 1755561614,
+   "p": 0.88
+  },
+  {
+   "t": 1755648004,
+   "p": 0.825
+  },
+  {
+   "t": 1755734403,
+   "p": 0.845
+  },
+  {
+   "t": 1755820806,
+   "p": 0.85
+  },
+  {
+   "t": 1755907211,
+   "p": 0.855
+  },
+  {
+   "t": 1755993606,
+   "p": 0.85
+  },
+  {
+   "t": 1756080004,
+   "p": 0.85
+  },
+  {
+   "t": 1756166407,
+   "p": 0.84
+  },
+  {
+   "t": 1756252806,
+   "p": 0.845
+  },
+  {
+   "t": 1756339210,
+   "p": 0.835
+  },
+  {
+   "t": 1756425614,
+   "p": 0.83
+  },
+  {
+   "t": 1756512007,
+   "p": 0.82
+  },
+  {
+   "t": 1756598416,
+   "p": 0.835
+  },
+  {
+   "t": 1756684810,
+   "p": 0.825
+  },
+  {
+   "t": 1756771208,
+   "p": 0.795
+  },
+  {
+   "t": 1756857609,
+   "p": 0.715
+  },
+  {
+   "t": 1756944003,
+   "p": 0.745
+  },
+  {
+   "t": 1757030410,
+   "p": 0.725
+  },
+  {
+   "t": 1757116802,
+   "p": 0.7
+  },
+  {
+   "t": 1757203213,
+   "p": 0.685
+  },
+  {
+   "t": 1757289617,
+   "p": 0.71
+  },
+  {
+   "t": 1757376017,
+   "p": 0.72
+  },
+  {
+   "t": 1757462416,
+   "p": 0.685
+  },
+  {
+   "t": 1757548807,
+   "p": 0.725
+  },
+  {
+   "t": 1757635211,
+   "p": 0.73
+  },
+  {
+   "t": 1757721608,
+   "p": 0.685
+  },
+  {
+   "t": 1757808003,
+   "p": 0.645
+  },
+  {
+   "t": 1757894404,
+   "p": 0.645
+  },
+  {
+   "t": 1757980811,
+   "p": 0.64
+  },
+  {
+   "t": 1758067218,
+   "p": 0.65
+  },
+  {
+   "t": 1758153610,
+   "p": 0.66
+  },
+  {
+   "t": 1758240018,
+   "p": 0.605
+  },
+  {
+   "t": 1758326413,
+   "p": 0.43
+  },
+  {
+   "t": 1758412810,
+   "p": 0.55
+  },
+  {
+   "t": 1758499211,
+   "p": 0.485
+  },
+  {
+   "t": 1758585604,
+   "p": 0.53
+  },
+  {
+   "t": 1758672006,
+   "p": 0.555
+  },
+  {
+   "t": 1758758404,
+   "p": 0.52
+  },
+  {
+   "t": 1758844807,
+   "p": 0.545
+  },
+  {
+   "t": 1758931207,
+   "p": 0.575
+  },
+  {
+   "t": 1759017608,
+   "p": 0.46
+  },
+  {
+   "t": 1759104007,
+   "p": 0.525
+  },
+  {
+   "t": 1759190410,
+   "p": 0.54
+  },
+  {
+   "t": 1759276802,
+   "p": 0.635
+  },
+  {
+   "t": 1759363209,
+   "p": 0.72
+  },
+  {
+   "t": 1759449610,
+   "p": 0.74
+  },
+  {
+   "t": 1759536005,
+   "p": 0.74
+  },
+  {
+   "t": 1759622405,
+   "p": 0.74
+  },
+  {
+   "t": 1759708805,
+   "p": 0.75
+  },
+  {
+   "t": 1759795209,
+   "p": 0.7
+  },
+  {
+   "t": 1759881606,
+   "p": 0.7
+  },
+  {
+   "t": 1759968009,
+   "p": 0.75
+  },
+  {
+   "t": 1760054407,
+   "p": 0.72
+  },
+  {
+   "t": 1760140808,
+   "p": 0.72
+  },
+  {
+   "t": 1760227204,
+   "p": 0.72
+  },
+  {
+   "t": 1760313616,
+   "p": 0.72
+  },
+  {
+   "t": 1760400007,
+   "p": 0.665
+  },
+  {
+   "t": 1760486416,
+   "p": 0.63
+  },
+  {
+   "t": 1760572803,
+   "p": 0.7
+  },
+  {
+   "t": 1760659212,
+   "p": 0.695
+  },
+  {
+   "t": 1760745605,
+   "p": 0.675
+  },
+  {
+   "t": 1760832021,
+   "p": 0.74
+  },
+  {
+   "t": 1760918410,
+   "p": 0.685
+  },
+  {
+   "t": 1761004819,
+   "p": 0.835
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": 2646914,
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.2,
+ "reasoning": "The premise describes a first-round US-Iran Switzerland meeting on June 22, 2026 that produced a roadmap, with follow-on talks expected. Continued diplomacy after a roadmap usually brings a next senior-level round within a few months, and the 2025 Oman-mediated rounds were held at roughly weekly intervals while momentum lasted. The main risks are a breakdown in talks, a stall while technical work runs, or a dispute over whether a later round counts as a new formal senior round rather than technical follow-up, since those are excluded. I do not know how events actually unfolded after June 2026, so this rests on base rates and the stated momentum. I estimate about a 20% chance that no qualifying round begins by September 30.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1544,
+  "output_tokens": 637,
+  "output_tokens_details": {
+   "thinking_tokens": 380
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0004729
+}

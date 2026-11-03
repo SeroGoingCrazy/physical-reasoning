@@ -1,0 +1,27 @@
+{
+ "id": "701993",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.77,
+ "reasoning": "GameStop has beaten EPS consensus in each of the last several quarters: Q3 FY24 ($0.06 vs -$0.03), Q4 FY24 ($0.29 vs $0.08), Q1 FY25 ($0.17 vs $0.08) and Q2 FY25 ($0.25 vs $0.19). The main driver is interest income on roughly $9B of cash, likely about $0.18\u20130.20 per share per quarter. On top of that, cost cuts and collectibles growth have pushed operating results to around breakeven or slightly positive. Q3 revenue is seasonally similar to or slightly above Q2, so adjusted EPS of about $0.22\u20130.25 looks plausible against a $0.20 consensus. I also have a tentative recollection that GME reported about $0.24 adjusted EPS alongside a revenue miss, which supports a beat. Risks include tax effects, dilution and an operating loss.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1399,
+  "output_tokens": 1162,
+  "output_tokens_details": {
+   "thinking_tokens": 836
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.028836
+}

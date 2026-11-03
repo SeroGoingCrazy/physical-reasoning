@@ -1,0 +1,27 @@
+{
+ "id": "546066",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.88,
+ "reasoning": "As of May 20, 2025, Republicans were pursuing a second reconciliation bill (the 2025 budget reconciliation package) with a July 4 target set by the White House, so passage near the start of July was plausible but far from certain. I also believe the bill (the One Big Beautiful Bill Act) actually resolved this way: the Senate passed its version on July 1, 2025, and the House passed the final version on July 3, 2025, which would put final passage by both chambers inside the July 1-6 window. I am relying on recollection of events after the question's opening date, so I hold this with some uncertainty about how the resolution was read, including which chamber's passage date counts as the completion date.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 660,
+  "output_tokens": 920,
+  "output_tokens_details": {
+   "thinking_tokens": 683
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.000526
+}

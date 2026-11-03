@@ -1,0 +1,380 @@
+{
+ "market": {
+  "id": "587258",
+  "question": "Will the GreenLeft\u2013Labour Party alliance win the third most seats in the 2025 Netherlands parliamentary election?",
+  "conditionId": "0x7dbe57b47c2454444ea5877a84c04897687ac423f6c90c261baf9d9de35fc08b",
+  "slug": "will-the-greenleftlabour-party-alliance-win-the-third-most-seats-in-the-2025-netherlands-parliamentary-election-732",
+  "resolutionSource": "",
+  "endDate": "2026-07-31T00:00:00Z",
+  "startDate": "2025-09-04T03:21:21.283Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-greenleftlabour-win-the-most-seats-in-the-2025-netherlands-parliamentary-election-9NXdyHp6mhHm.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-greenleftlabour-win-the-most-seats-in-the-2025-netherlands-parliamentary-election-9NXdyHp6mhHm.png",
+  "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are expected to be scheduled soon.\n\nThis market will resolve to the political party that wins the third greatest number of seats in the Netherlands House of Representatives (Tweede Kamer der Staten-Generaal) as a result of this election.\n\nIf voting in the Netherlands election for the House does not occur by July 31, 2026, this market will resolve to \"Other\".\n\nIn the case of a tie between this party and any other for the third most seats won, this market will resolve in favor of the party whose listed abbreviation comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Electoral Council (Kiesraad) (https://www.kiesraad.nl/).\n\nNote: If the GL/PvdA alliance splits and announce they will not run a joint list, this market will refer to the Labor Party (PvdA).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "137840.174928",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-09-03T20:18:51.558228Z",
+  "updatedAt": "2025-11-04T00:36:22.209108Z",
+  "closedTime": "2025-11-03 03:29:39+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "GL/PvdA",
+  "groupItemThreshold": "2",
+  "questionID": "0x857dd2715a0da7e133970463bf8b032661c0f380e63f8f052c81112b998e0801",
+  "umaEndDate": "2025-11-03T03:29:39Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 137840.174928,
+  "endDateIso": "2026-07-31",
+  "startDateIso": "2025-09-04",
+  "hasReviewedDates": true,
+  "volume1wk": 88197.48470200002,
+  "volume1mo": 132389.00197200003,
+  "volume1yr": 137840.17492800002,
+  "gameStartTime": "2025-10-30 18:00:00+00",
+  "clobTokenIds": "[\"75046480910483913765508723943028413785801381464634047111484345297297526827916\", \"21836217200377010250733421162128053337396293932023675947995205344458203228324\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 88197.48470200002,
+  "volume1moClob": 132389.00197200003,
+  "volume1yrClob": 137840.17492800002,
+  "volumeClob": 137840.174928,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x857dd2715a0da7e133970463bf8b032661c0f380e63f8f052c81112b998e0800",
+  "negRiskRequestID": "0x86a099c13413bf9bbe5bb3d34e3e7ddf9114bcf2603f788b64bdefef2f57bbcc",
+  "events": [
+   {
+    "id": "41654",
+    "ticker": "which-party-wins-3nd-most-seats-in-netherlands-election",
+    "slug": "which-party-wins-3nd-most-seats-in-netherlands-election",
+    "title": "Which Party wins 3rd most seats in Netherlands election?",
+    "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are expected to be scheduled soon.\n\nThis market will resolve to the political party that wins the third greatest number of seats in the Netherlands House of Representatives (Tweede Kamer der Staten-Generaal) as a result of this election.\n\nIf voting in the Netherlands election for the House does not occur by July 31, 2026, this market will resolve to \"Other\".\n\nIn the case of a tie between this party and any other for the third most seats won, this market will resolve in favor of the party whose listed abbreviation comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Electoral Council (Kiesraad) (https://www.kiesraad.nl/).\n\nNote: If the GL/PvdA alliance splits and announce they will not run a joint list, this market will refer to the Labor Party (PvdA).",
+    "resolutionSource": "",
+    "startDate": "2025-09-04T03:38:04.175696Z",
+    "creationDate": "2025-09-04T03:38:04.175686Z",
+    "endDate": "2026-07-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/netherlands-parliamentary-election-XbC9D5OKyQd4.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/netherlands-parliamentary-election-XbC9D5OKyQd4.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 1506315.446782,
+    "openInterest": 0,
+    "sortBy": "price",
+    "createdAt": "2025-09-03T20:18:50.28568Z",
+    "updatedAt": "2025-11-04T08:37:50.271531Z",
+    "volume1wk": 561575.3280070001,
+    "volume1mo": 1367601.8774120002,
+    "volume1yr": 1506315.4467820001,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x857dd2715a0da7e133970463bf8b032661c0f380e63f8f052c81112b998e0800",
+    "commentCount": 30,
+    "cyom": false,
+    "closedTime": "2025-11-03T04:42:39Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2025-10-30T18:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-09-04T03:13:22.666794Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-09-04T03:21:00Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0015,
+  "oneWeekPriceChange": -0.2495,
+  "oneMonthPriceChange": -0.3995,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-09-04T03:13:48.148198Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1757030409,
+   "p": 0.295
+  },
+  {
+   "t": 1757116808,
+   "p": 0.265
+  },
+  {
+   "t": 1757203212,
+   "p": 0.28
+  },
+  {
+   "t": 1757289609,
+   "p": 0.23
+  },
+  {
+   "t": 1757376017,
+   "p": 0.22
+  },
+  {
+   "t": 1757462404,
+   "p": 0.25
+  },
+  {
+   "t": 1757548804,
+   "p": 0.29
+  },
+  {
+   "t": 1757635209,
+   "p": 0.295
+  },
+  {
+   "t": 1757721612,
+   "p": 0.295
+  },
+  {
+   "t": 1757808015,
+   "p": 0.29
+  },
+  {
+   "t": 1757894407,
+   "p": 0.285
+  },
+  {
+   "t": 1757980820,
+   "p": 0.305
+  },
+  {
+   "t": 1758067202,
+   "p": 0.28
+  },
+  {
+   "t": 1758153615,
+   "p": 0.245
+  },
+  {
+   "t": 1758240009,
+   "p": 0.28
+  },
+  {
+   "t": 1758326421,
+   "p": 0.34
+  },
+  {
+   "t": 1758412807,
+   "p": 0.33
+  },
+  {
+   "t": 1758499215,
+   "p": 0.33
+  },
+  {
+   "t": 1758585605,
+   "p": 0.335
+  },
+  {
+   "t": 1758672006,
+   "p": 0.315
+  },
+  {
+   "t": 1758758408,
+   "p": 0.325
+  },
+  {
+   "t": 1758844813,
+   "p": 0.325
+  },
+  {
+   "t": 1758931208,
+   "p": 0.31
+  },
+  {
+   "t": 1759017607,
+   "p": 0.315
+  },
+  {
+   "t": 1759104006,
+   "p": 0.315
+  },
+  {
+   "t": 1759190411,
+   "p": 0.31
+  },
+  {
+   "t": 1759276805,
+   "p": 0.315
+  },
+  {
+   "t": 1759363209,
+   "p": 0.41
+  },
+  {
+   "t": 1759449611,
+   "p": 0.375
+  },
+  {
+   "t": 1759536006,
+   "p": 0.4
+  },
+  {
+   "t": 1759622407,
+   "p": 0.4
+  },
+  {
+   "t": 1759708806,
+   "p": 0.41
+  },
+  {
+   "t": 1759795208,
+   "p": 0.38
+  },
+  {
+   "t": 1759881606,
+   "p": 0.355
+  },
+  {
+   "t": 1759968010,
+   "p": 0.43
+  },
+  {
+   "t": 1760054408,
+   "p": 0.45
+  },
+  {
+   "t": 1760140811,
+   "p": 0.465
+  },
+  {
+   "t": 1760227215,
+   "p": 0.465
+  },
+  {
+   "t": 1760313606,
+   "p": 0.36
+  },
+  {
+   "t": 1760400018,
+   "p": 0.36
+  },
+  {
+   "t": 1760486408,
+   "p": 0.365
+  },
+  {
+   "t": 1760572819,
+   "p": 0.365
+  },
+  {
+   "t": 1760659206,
+   "p": 0.32
+  },
+  {
+   "t": 1760745614,
+   "p": 0.395
+  },
+  {
+   "t": 1760832014,
+   "p": 0.415
+  },
+  {
+   "t": 1760918420,
+   "p": 0.5
+  },
+  {
+   "t": 1761004811,
+   "p": 0.515
+  },
+  {
+   "t": 1761091220,
+   "p": 0.39
+  },
+  {
+   "t": 1761177610,
+   "p": 0.32
+  },
+  {
+   "t": 1761264016,
+   "p": 0.34
+  },
+  {
+   "t": 1761350415,
+   "p": 0.35
+  },
+  {
+   "t": 1761436818,
+   "p": 0.265
+  },
+  {
+   "t": 1761523216,
+   "p": 0.25
+  },
+  {
+   "t": 1761609620,
+   "p": 0.275
+  },
+  {
+   "t": 1761696018,
+   "p": 0.355
+  },
+  {
+   "t": 1761782419,
+   "p": 0.043
+  },
+  {
+   "t": 1761868812,
+   "p": 0.005
+  },
+  {
+   "t": 1761955218,
+   "p": 0.0015
+  },
+  {
+   "t": 1762041615,
+   "p": 0.002
+  },
+  {
+   "t": 1762128016,
+   "p": 0.0015
+  }
+ ]
+}

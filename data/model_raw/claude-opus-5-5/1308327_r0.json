@@ -1,0 +1,27 @@
+{
+ "id": "1308327",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.77,
+ "reasoning": "The brief partial shutdown that began on January 31 came from House timing. The Senate had passed a package of five appropriations bills plus a two-week DHS continuing resolution. The House was expected to pass it in early February, ending that shutdown and funding DHS only through about February 13. Democrats were resisting full-year DHS funding after the Minneapolis ICE shooting, so a DHS lapse starting Saturday, February 14 looked likely. To my recollection, DHS funding did lapse on February 14, which would count as a new partial shutdown after a reopening. The main uncertainty is whether OPM's operating status page formally announced a DHS-only lapse, which keeps this from near-certainty.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 726,
+  "output_tokens": 939,
+  "output_tokens_details": {
+   "thinking_tokens": 696
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.021684
+}

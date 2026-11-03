@@ -1,0 +1,27 @@
+{
+ "id": "1167607",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.8,
+ "reasoning": "As of January 12, 2026, the US had not struck Iranian territory since the June 2025 strikes during the Twelve-Day War. Tensions were elevated in early January 2026 because of mass protests in Iran, a violent crackdown, and Trump's public threats of action, along with reported US force buildup in the region. Trump has often issued strike threats without following through, and a qualifying strike requires aerial bombs, drones, or missiles that actually hit Iranian ground territory or an official Iranian embassy or consulate, with no intercepted launches counting. Given the short window of about 19 days, I put the chance of a qualifying US strike at roughly 20%, so the no-strike outcome is more likely. I have no knowledge of how this actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 975,
+  "output_tokens": 691,
+  "output_tokens_details": {
+   "thinking_tokens": 428
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.000443
+}

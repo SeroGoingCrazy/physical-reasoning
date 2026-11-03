@@ -1,0 +1,27 @@
+{
+ "id": 1130012,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.33,
+ "reasoning": "This market measures seat gains relative to the pre-election Duma, not total seats. United Russia holds about 320-324 seats after its 2021 result, which was already inflated, and it won about 198 of 225 single-member districts. That leaves limited room for ER to grow a lot. Polls in 2025 showed ER well below its 2021 official vote share, with LDPR (under Slutsky) and New People rising. The Kremlin is reportedly comfortable with a somewhat more 'pluralistic' managed outcome. LDPR could plausibly go from ~21 to 35-45 seats, and New People from ~15 to 25+. ER would therefore likely need to exceed roughly 340 seats to top them in gains. That is possible if the Kremlin pushes for a stronger constitutional majority and takes KPRF/SR seats, but it is not the base case. Vacancies and defections reducing ER's pre-election count slightly help its odds.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 837,
+  "output_tokens": 1225,
+  "output_tokens_details": {
+   "thinking_tokens": 899
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.027848
+}

@@ -1,0 +1,296 @@
+{
+ "market": {
+  "id": "690390",
+  "question": "Epstein blackmail evidence released in 2025? ",
+  "conditionId": "0xc9d59f87834edd00b75981175f05d9236eb8427bf9668c38d5ca4dd2bd1daf45",
+  "slug": "epstein-blackmail-files-released-in-2025",
+  "resolutionSource": "",
+  "endDate": "2025-12-31T00:00:00Z",
+  "startDate": "2025-11-20T23:03:39.522Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epstein-blackmail-files-released-in-2025-Tju35nxaeBWf.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epstein-blackmail-files-released-in-2025-Tju35nxaeBWf.jpg",
+  "description": "This market will resolve to \"Yes\" if previously unreleased documents containing evidence that Jeffrey Epstein blackmailed any individual are made public by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nBlackmail is defined as any use or attempted use of compromising materials or information (such as photos, videos, documents, or incriminating knowledge) to coerce, extort, manipulate, or otherwise gain leverage over a specific person or persons.\n\nQualifying evidence that Epstein blackmailed any individual requires one of the following:\n\n- A direct statement within the newly released files demonstrating that Epstein blackmailed any individual or group. \n\n- A clear consensus of credible reporting indicating that the newly released files show that Epstein blackmailed any individual or group.\n\n- A clear consensus of credible reporting indicating that Epstein used any materials released as part of the newly released files for blackmail.\n\nGeneral references to Epstein possessing damaging information, vague insinuations, or speculative commentary will not qualify.\n\nMentions of \u201cleverage,\u201d \u201cinfluence,\u201d \u201cfavors,\u201d or similar language will not qualify unless clearly tied to the use or attempted use of compromising materials for blackmail as defined in this market.\n\nThe primary resolution sources for this market will be the content of any released files and a consensus of credible reporting.\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "9257039.920657",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-11-18T20:52:00.098124Z",
+  "updatedAt": "2026-01-15T22:32:38.434216Z",
+  "closedTime": "2025-12-28 03:50:11+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "December 31",
+  "groupItemThreshold": "0",
+  "questionID": "0xa202b3236472daeb1ad3488628b7a86b356c341e90a947decbed0158f1e7f120",
+  "umaEndDate": "2025-12-28T03:50:11Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 9257039.920657,
+  "endDateIso": "2025-12-31",
+  "startDateIso": "2025-11-20",
+  "hasReviewedDates": true,
+  "volume1wk": 9210288.317184005,
+  "volume1mo": 9250192.038117006,
+  "volume1yr": 9257039.920657005,
+  "clobTokenIds": "[\"27695328018487126865140678987084292751433108128829892791442349095512543527405\", \"66929654862706119595556457864718719645706521900611031775760907439327687408012\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 9210288.317184005,
+  "volume1moClob": 9250192.038117006,
+  "volume1yrClob": 9257039.920657005,
+  "volumeClob": 9257039.920657,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "84841",
+    "ticker": "epstein-blackmail-files-released-in-2025",
+    "slug": "epstein-blackmail-files-released-in-2025",
+    "title": "Epstein blackmail evidence released by...? ",
+    "description": "This market will resolve to \"Yes\" if previously unreleased documents containing evidence that Jeffrey Epstein blackmailed any individual are made public by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nBlackmail is defined as any use or attempted use of compromising materials or information (such as photos, videos, documents, or incriminating knowledge) to coerce, extort, manipulate, or otherwise gain leverage over a specific person or persons.\n\nQualifying evidence that Epstein blackmailed any individual requires one of the following:\n\n- A direct statement within the newly released files demonstrating that Epstein blackmailed any individual or group. \n\n- A clear consensus of credible reporting indicating that the newly released files show that Epstein blackmailed any individual or group.\n\n- A clear consensus of credible reporting indicating that Epstein used any materials released as part of the newly released files for blackmail.\n\nGeneral references to Epstein possessing damaging information, vague insinuations, or speculative commentary will not qualify.\n\nMentions of \u201cleverage,\u201d \u201cinfluence,\u201d \u201cfavors,\u201d or similar language will not qualify unless clearly tied to the use or attempted use of compromising materials for blackmail as defined in this market.\n\nThe primary resolution sources for this market will be the content of any released files and a consensus of credible reporting.\n",
+    "resolutionSource": "",
+    "startDate": "2025-11-20T23:07:25.096153Z",
+    "creationDate": "2025-11-20T23:07:25.096148Z",
+    "endDate": "2026-03-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epstein-blackmail-files-released-in-2025-Tju35nxaeBWf.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/epstein-blackmail-files-released-in-2025-Tju35nxaeBWf.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 11566965.996412,
+    "openInterest": 0,
+    "createdAt": "2025-11-18T20:51:59.198358Z",
+    "updatedAt": "2026-03-23T19:14:07.639637Z",
+    "volume1wk": 9777644.492376005,
+    "volume1mo": 10124859.062845007,
+    "volume1yr": 11566965.996412005,
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 509,
+    "cyom": false,
+    "closedTime": "2026-01-31T13:40:04Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-11-20T23:03:17Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 5.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.94,
+  "oneHourPriceChange": -0.001,
+  "oneWeekPriceChange": 0.9535,
+  "oneMonthPriceChange": 0.9015,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\", \"disputed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-11-20T23:02:48.511443Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1763683223,
+   "p": 0.195
+  },
+  {
+   "t": 1763769615,
+   "p": 0.085
+  },
+  {
+   "t": 1763856016,
+   "p": 0.085
+  },
+  {
+   "t": 1763942414,
+   "p": 0.095
+  },
+  {
+   "t": 1764028819,
+   "p": 0.095
+  },
+  {
+   "t": 1764115216,
+   "p": 0.095
+  },
+  {
+   "t": 1764201620,
+   "p": 0.085
+  },
+  {
+   "t": 1764288018,
+   "p": 0.095
+  },
+  {
+   "t": 1764374425,
+   "p": 0.09
+  },
+  {
+   "t": 1764460818,
+   "p": 0.09
+  },
+  {
+   "t": 1764547221,
+   "p": 0.09
+  },
+  {
+   "t": 1764633614,
+   "p": 0.09
+  },
+  {
+   "t": 1764720022,
+   "p": 0.085
+  },
+  {
+   "t": 1764806415,
+   "p": 0.07
+  },
+  {
+   "t": 1764892816,
+   "p": 0.07
+  },
+  {
+   "t": 1764979217,
+   "p": 0.07
+  },
+  {
+   "t": 1765065630,
+   "p": 0.065
+  },
+  {
+   "t": 1765152029,
+   "p": 0.085
+  },
+  {
+   "t": 1765238427,
+   "p": 0.12
+  },
+  {
+   "t": 1765324814,
+   "p": 0.085
+  },
+  {
+   "t": 1765411215,
+   "p": 0.075
+  },
+  {
+   "t": 1765497615,
+   "p": 0.075
+  },
+  {
+   "t": 1765584018,
+   "p": 0.065
+  },
+  {
+   "t": 1765670418,
+   "p": 0.065
+  },
+  {
+   "t": 1765756820,
+   "p": 0.065
+  },
+  {
+   "t": 1765843217,
+   "p": 0.0495
+  },
+  {
+   "t": 1765929614,
+   "p": 0.048
+  },
+  {
+   "t": 1765929635,
+   "p": 0.048
+  },
+  {
+   "t": 1766016025,
+   "p": 0.043
+  },
+  {
+   "t": 1766102416,
+   "p": 0.0375
+  },
+  {
+   "t": 1766188816,
+   "p": 0.0625
+  },
+  {
+   "t": 1766275216,
+   "p": 0.036
+  },
+  {
+   "t": 1766361616,
+   "p": 0.0395
+  },
+  {
+   "t": 1766448018,
+   "p": 0.032
+  },
+  {
+   "t": 1766534418,
+   "p": 0.0435
+  },
+  {
+   "t": 1766620827,
+   "p": 0.998
+  },
+  {
+   "t": 1766707213,
+   "p": 0.9995
+  },
+  {
+   "t": 1766793617,
+   "p": 0.9995
+  },
+  {
+   "t": 1766880018,
+   "p": 0.9995
+  }
+ ]
+}

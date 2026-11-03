@@ -1,0 +1,27 @@
+{
+ "id": "5167103",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.2,
+ "reasoning": "Claude Haiku 4.5 (Oct 2025) landed well below flagship Claude and Gemini models on the Arena text leaderboard, roughly in the low-to-mid 1400s, so a Haiku-class model reaching 1440 at debut would require a substantial jump. Anthropic's Haiku cadence (3, 3.5, 4.5) makes a Haiku 4.6+ or Haiku 5 release by June 2027 plausible but uncertain, perhaps 55-65%. Leaderboard scores at the top tend to drift upward over time, which helps, but a small model's debut score still has to clear 1440 while the top of the board is moving too. Conditional on a release, I'd put roughly 35-40% on a score of at least 1440 at first appearance. Combining these gives a probability of about 0.2. I have no knowledge of how this actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1479,
+  "output_tokens": 889,
+  "output_tokens_details": {
+   "thinking_tokens": 583
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005924000000000001
+}

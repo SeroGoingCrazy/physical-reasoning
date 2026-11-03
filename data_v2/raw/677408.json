@@ -1,0 +1,1061 @@
+{
+ "market": {
+  "id": "677408",
+  "question": "China x Philippines military clash before 2027?",
+  "conditionId": "0x7e045734da5d2a0743da450cc5cff8e2c1e1298a9731f7fbadd7c13823c5c79c",
+  "slug": "china-x-philippines-military-clash-before-2027",
+  "resolutionSource": "",
+  "endDate": "2026-12-31T00:00:00Z",
+  "startDate": "2025-11-13T23:12:29.867785Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/china-x-philippines-military-clash-by-snG6EYjptORn.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/china-x-philippines-military-clash-by-snG6EYjptORn.jpg",
+  "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of China (People's Republic of China) and Philippines between November 11, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between Chinese and Philippine military forces. Non-violent actions, such as warning shots, artillery fire into uninhabited areas, or missile launches that land in territorial waters or pass through airspace, will not qualify for a \"Yes\" resolution. Intentional ship ramming that results in significant damage to (e.g., a hole in the hull) or the sinking of a military ship by another will count toward a \"Yes\" resolution, however minor damage (scrapes, dents) will not.\n\nNote: the China Coast Guard (CCG) is part of the military, however Philippine Coast Guard (PCG) is not.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "2332911.9775859965",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-11-11T22:59:22.256639Z",
+  "updatedAt": "2026-07-21T16:07:48.202042Z",
+  "closedTime": "2026-07-20 16:05:10+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x98631e7c87d472ebba67ca73a8e7ff5b6b1b32a8eec09aa0471d81674705cb86",
+  "umaEndDate": "2026-07-20T16:05:10Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 2332911.9775859965,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2025-11-13",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"44447031562738174918016769793991804433486269578769473189935766976836636647978\", \"45858479053746616749156519360893482359161569156141079722407137651102212018480\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 2332911.9775859965,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "79231",
+    "ticker": "china-x-philippines-military-clash-before-2027",
+    "slug": "china-x-philippines-military-clash-before-2027",
+    "title": "China x Philippines military clash before 2027?",
+    "description": "This market will resolve to \"Yes\" if there is a military encounter between the military forces of China (People's Republic of China) and Philippines between November 11, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA \"military encounter\" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between Chinese and Philippine military forces. Non-violent actions, such as warning shots, artillery fire into uninhabited areas, or missile launches that land in territorial waters or pass through airspace, will not qualify for a \"Yes\" resolution. Intentional ship ramming that results in significant damage to (e.g., a hole in the hull) or the sinking of a military ship by another will count toward a \"Yes\" resolution, however minor damage (scrapes, dents) will not.\n\nNote: the China Coast Guard (CCG) is part of the military, however Philippine Coast Guard (PCG) is not.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2025-11-13T23:12:29.867785Z",
+    "creationDate": "2025-11-13T23:20:43.153749Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/china-x-philippines-military-clash-by-snG6EYjptORn.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/china-x-philippines-military-clash-by-snG6EYjptORn.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 2332911.9775859965,
+    "openInterest": 881705.150215,
+    "createdAt": "2025-11-11T22:59:21.008844Z",
+    "updatedAt": "2026-08-13T19:11:43.828193Z",
+    "enableOrderBook": true,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "10654",
+      "ticker": "china-x-philippines-clash",
+      "slug": "china-x-philippines-clash",
+      "title": "China x Philippines Clash",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-11-11T22:57:37.977136Z",
+      "updatedAt": "2026-11-02T20:55:45.776471Z",
+      "volume24hr": 3611.374321,
+      "volume": 578058.053068,
+      "liquidity": 40617.9195,
+      "commentCount": 77
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-07-20T16:05:10Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "china-x-philippines-clash",
+    "negRiskAugmented": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-11-13T23:12:08Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 0,
+  "rewardsMaxSpread": 0,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.8945,
+  "oneHourPriceChange": 0.3745,
+  "oneWeekPriceChange": 0.9045,
+  "oneMonthPriceChange": 0.8245,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-11-13T22:56:34.042825Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1763078408,
+   "p": 0.415
+  },
+  {
+   "t": 1763164808,
+   "p": 0.165
+  },
+  {
+   "t": 1763251207,
+   "p": 0.17
+  },
+  {
+   "t": 1763337608,
+   "p": 0.165
+  },
+  {
+   "t": 1763424007,
+   "p": 0.17
+  },
+  {
+   "t": 1763510409,
+   "p": 0.17
+  },
+  {
+   "t": 1763596807,
+   "p": 0.175
+  },
+  {
+   "t": 1763683209,
+   "p": 0.175
+  },
+  {
+   "t": 1763769608,
+   "p": 0.225
+  },
+  {
+   "t": 1763856008,
+   "p": 0.215
+  },
+  {
+   "t": 1763942410,
+   "p": 0.215
+  },
+  {
+   "t": 1764028809,
+   "p": 0.2
+  },
+  {
+   "t": 1764115209,
+   "p": 0.2
+  },
+  {
+   "t": 1764201609,
+   "p": 0.2
+  },
+  {
+   "t": 1764288009,
+   "p": 0.195
+  },
+  {
+   "t": 1764374411,
+   "p": 0.195
+  },
+  {
+   "t": 1764460809,
+   "p": 0.185
+  },
+  {
+   "t": 1764547209,
+   "p": 0.185
+  },
+  {
+   "t": 1764633607,
+   "p": 0.19
+  },
+  {
+   "t": 1764720010,
+   "p": 0.19
+  },
+  {
+   "t": 1764806408,
+   "p": 0.19
+  },
+  {
+   "t": 1764892809,
+   "p": 0.18
+  },
+  {
+   "t": 1764979210,
+   "p": 0.17
+  },
+  {
+   "t": 1765065622,
+   "p": 0.17
+  },
+  {
+   "t": 1765152021,
+   "p": 0.17
+  },
+  {
+   "t": 1765238419,
+   "p": 0.17
+  },
+  {
+   "t": 1765324809,
+   "p": 0.17
+  },
+  {
+   "t": 1765411209,
+   "p": 0.17
+  },
+  {
+   "t": 1765497609,
+   "p": 0.17
+  },
+  {
+   "t": 1765584010,
+   "p": 0.17
+  },
+  {
+   "t": 1765670410,
+   "p": 0.17
+  },
+  {
+   "t": 1765756810,
+   "p": 0.165
+  },
+  {
+   "t": 1765843209,
+   "p": 0.165
+  },
+  {
+   "t": 1765929605,
+   "p": 0.175
+  },
+  {
+   "t": 1765929631,
+   "p": 0.175
+  },
+  {
+   "t": 1766016019,
+   "p": 0.175
+  },
+  {
+   "t": 1766102410,
+   "p": 0.175
+  },
+  {
+   "t": 1766188809,
+   "p": 0.18
+  },
+  {
+   "t": 1766275209,
+   "p": 0.18
+  },
+  {
+   "t": 1766361609,
+   "p": 0.18
+  },
+  {
+   "t": 1766448010,
+   "p": 0.18
+  },
+  {
+   "t": 1766534410,
+   "p": 0.18
+  },
+  {
+   "t": 1766620820,
+   "p": 0.165
+  },
+  {
+   "t": 1766707208,
+   "p": 0.175
+  },
+  {
+   "t": 1766793611,
+   "p": 0.175
+  },
+  {
+   "t": 1766880011,
+   "p": 0.175
+  },
+  {
+   "t": 1766966427,
+   "p": 0.175
+  },
+  {
+   "t": 1767052813,
+   "p": 0.175
+  },
+  {
+   "t": 1767139210,
+   "p": 0.175
+  },
+  {
+   "t": 1767225611,
+   "p": 0.175
+  },
+  {
+   "t": 1767312010,
+   "p": 0.175
+  },
+  {
+   "t": 1767398410,
+   "p": 0.175
+  },
+  {
+   "t": 1767484811,
+   "p": 0.24
+  },
+  {
+   "t": 1767571212,
+   "p": 0.245
+  },
+  {
+   "t": 1767657614,
+   "p": 0.245
+  },
+  {
+   "t": 1767744011,
+   "p": 0.245
+  },
+  {
+   "t": 1767830427,
+   "p": 0.235
+  },
+  {
+   "t": 1767916811,
+   "p": 0.235
+  },
+  {
+   "t": 1768003212,
+   "p": 0.245
+  },
+  {
+   "t": 1768089611,
+   "p": 0.25
+  },
+  {
+   "t": 1768176013,
+   "p": 0.245
+  },
+  {
+   "t": 1768262413,
+   "p": 0.25
+  },
+  {
+   "t": 1768348812,
+   "p": 0.25
+  },
+  {
+   "t": 1768435214,
+   "p": 0.245
+  },
+  {
+   "t": 1768521616,
+   "p": 0.235
+  },
+  {
+   "t": 1768608014,
+   "p": 0.24
+  },
+  {
+   "t": 1768694416,
+   "p": 0.25
+  },
+  {
+   "t": 1768780812,
+   "p": 0.24
+  },
+  {
+   "t": 1768867213,
+   "p": 0.245
+  },
+  {
+   "t": 1768953614,
+   "p": 0.245
+  },
+  {
+   "t": 1769040016,
+   "p": 0.245
+  },
+  {
+   "t": 1769126429,
+   "p": 0.245
+  },
+  {
+   "t": 1769212818,
+   "p": 0.245
+  },
+  {
+   "t": 1769299231,
+   "p": 0.245
+  },
+  {
+   "t": 1769385629,
+   "p": 0.245
+  },
+  {
+   "t": 1769472025,
+   "p": 0.245
+  },
+  {
+   "t": 1769558416,
+   "p": 0.245
+  },
+  {
+   "t": 1769644830,
+   "p": 0.245
+  },
+  {
+   "t": 1769731217,
+   "p": 0.25
+  },
+  {
+   "t": 1769817617,
+   "p": 0.25
+  },
+  {
+   "t": 1769904021,
+   "p": 0.25
+  },
+  {
+   "t": 1769990417,
+   "p": 0.245
+  },
+  {
+   "t": 1770076817,
+   "p": 0.255
+  },
+  {
+   "t": 1770163229,
+   "p": 0.255
+  },
+  {
+   "t": 1770249616,
+   "p": 0.26
+  },
+  {
+   "t": 1770336019,
+   "p": 0.26
+  },
+  {
+   "t": 1770422422,
+   "p": 0.255
+  },
+  {
+   "t": 1770508820,
+   "p": 0.255
+  },
+  {
+   "t": 1770595219,
+   "p": 0.26
+  },
+  {
+   "t": 1770681620,
+   "p": 0.265
+  },
+  {
+   "t": 1770768019,
+   "p": 0.265
+  },
+  {
+   "t": 1770854432,
+   "p": 0.235
+  },
+  {
+   "t": 1770940820,
+   "p": 0.21
+  },
+  {
+   "t": 1771027224,
+   "p": 0.19
+  },
+  {
+   "t": 1771113621,
+   "p": 0.17
+  },
+  {
+   "t": 1771200032,
+   "p": 0.18
+  },
+  {
+   "t": 1771286422,
+   "p": 0.21
+  },
+  {
+   "t": 1771372823,
+   "p": 0.23
+  },
+  {
+   "t": 1771459224,
+   "p": 0.22
+  },
+  {
+   "t": 1771545624,
+   "p": 0.19
+  },
+  {
+   "t": 1771632020,
+   "p": 0.175
+  },
+  {
+   "t": 1771718420,
+   "p": 0.175
+  },
+  {
+   "t": 1771804821,
+   "p": 0.17
+  },
+  {
+   "t": 1771891221,
+   "p": 0.165
+  },
+  {
+   "t": 1771977622,
+   "p": 0.14
+  },
+  {
+   "t": 1772064022,
+   "p": 0.17
+  },
+  {
+   "t": 1772150425,
+   "p": 0.135
+  },
+  {
+   "t": 1772236827,
+   "p": 0.14
+  },
+  {
+   "t": 1772323231,
+   "p": 0.22
+  },
+  {
+   "t": 1772409639,
+   "p": 0.255
+  },
+  {
+   "t": 1772496027,
+   "p": 0.265
+  },
+  {
+   "t": 1772582430,
+   "p": 0.265
+  },
+  {
+   "t": 1772668828,
+   "p": 0.275
+  },
+  {
+   "t": 1772755227,
+   "p": 0.24
+  },
+  {
+   "t": 1772841631,
+   "p": 0.24
+  },
+  {
+   "t": 1772928026,
+   "p": 0.245
+  },
+  {
+   "t": 1773014422,
+   "p": 0.245
+  },
+  {
+   "t": 1773100826,
+   "p": 0.24
+  },
+  {
+   "t": 1773187230,
+   "p": 0.205
+  },
+  {
+   "t": 1773273629,
+   "p": 0.205
+  },
+  {
+   "t": 1773360045,
+   "p": 0.205
+  },
+  {
+   "t": 1773446450,
+   "p": 0.22
+  },
+  {
+   "t": 1773532854,
+   "p": 0.245
+  },
+  {
+   "t": 1773705641,
+   "p": 0.245
+  },
+  {
+   "t": 1773792043,
+   "p": 0.225
+  },
+  {
+   "t": 1773878457,
+   "p": 0.22
+  },
+  {
+   "t": 1773964847,
+   "p": 0.22
+  },
+  {
+   "t": 1774051246,
+   "p": 0.22
+  },
+  {
+   "t": 1774137643,
+   "p": 0.22
+  },
+  {
+   "t": 1774224037,
+   "p": 0.22
+  },
+  {
+   "t": 1774310433,
+   "p": 0.225
+  },
+  {
+   "t": 1774396845,
+   "p": 0.265
+  },
+  {
+   "t": 1774483249,
+   "p": 0.245
+  },
+  {
+   "t": 1774569654,
+   "p": 0.21
+  },
+  {
+   "t": 1774656059,
+   "p": 0.205
+  },
+  {
+   "t": 1775347221,
+   "p": 0.145
+  },
+  {
+   "t": 1775692839,
+   "p": 0.165
+  },
+  {
+   "t": 1775952019,
+   "p": 0.17
+  },
+  {
+   "t": 1776816009,
+   "p": 0.19
+  },
+  {
+   "t": 1776902414,
+   "p": 0.19
+  },
+  {
+   "t": 1776988823,
+   "p": 0.185
+  },
+  {
+   "t": 1777075213,
+   "p": 0.175
+  },
+  {
+   "t": 1777161607,
+   "p": 0.135
+  },
+  {
+   "t": 1777248008,
+   "p": 0.135
+  },
+  {
+   "t": 1777334409,
+   "p": 0.135
+  },
+  {
+   "t": 1777420807,
+   "p": 0.165
+  },
+  {
+   "t": 1777507213,
+   "p": 0.155
+  },
+  {
+   "t": 1777593608,
+   "p": 0.145
+  },
+  {
+   "t": 1777680006,
+   "p": 0.16
+  },
+  {
+   "t": 1777766406,
+   "p": 0.16
+  },
+  {
+   "t": 1777852805,
+   "p": 0.155
+  },
+  {
+   "t": 1777939219,
+   "p": 0.155
+  },
+  {
+   "t": 1778025609,
+   "p": 0.155
+  },
+  {
+   "t": 1778112009,
+   "p": 0.165
+  },
+  {
+   "t": 1778198405,
+   "p": 0.155
+  },
+  {
+   "t": 1778284823,
+   "p": 0.185
+  },
+  {
+   "t": 1778371209,
+   "p": 0.205
+  },
+  {
+   "t": 1778457611,
+   "p": 0.195
+  },
+  {
+   "t": 1778544010,
+   "p": 0.195
+  },
+  {
+   "t": 1778630413,
+   "p": 0.205
+  },
+  {
+   "t": 1778716816,
+   "p": 0.205
+  },
+  {
+   "t": 1778803209,
+   "p": 0.195
+  },
+  {
+   "t": 1778889616,
+   "p": 0.195
+  },
+  {
+   "t": 1778976027,
+   "p": 0.195
+  },
+  {
+   "t": 1779062410,
+   "p": 0.195
+  },
+  {
+   "t": 1779148808,
+   "p": 0.195
+  },
+  {
+   "t": 1779235211,
+   "p": 0.2
+  },
+  {
+   "t": 1779321613,
+   "p": 0.195
+  },
+  {
+   "t": 1779408014,
+   "p": 0.195
+  },
+  {
+   "t": 1779494410,
+   "p": 0.195
+  },
+  {
+   "t": 1779580806,
+   "p": 0.19
+  },
+  {
+   "t": 1779667207,
+   "p": 0.2
+  },
+  {
+   "t": 1779753607,
+   "p": 0.225
+  },
+  {
+   "t": 1779840008,
+   "p": 0.235
+  },
+  {
+   "t": 1779926411,
+   "p": 0.235
+  },
+  {
+   "t": 1780012811,
+   "p": 0.245
+  },
+  {
+   "t": 1780099221,
+   "p": 0.245
+  },
+  {
+   "t": 1780185610,
+   "p": 0.245
+  },
+  {
+   "t": 1780272006,
+   "p": 0.205
+  },
+  {
+   "t": 1780358408,
+   "p": 0.215
+  },
+  {
+   "t": 1780444808,
+   "p": 0.205
+  },
+  {
+   "t": 1780531206,
+   "p": 0.205
+  },
+  {
+   "t": 1780617619,
+   "p": 0.195
+  },
+  {
+   "t": 1780704004,
+   "p": 0.205
+  },
+  {
+   "t": 1780790415,
+   "p": 0.205
+  },
+  {
+   "t": 1780876805,
+   "p": 0.205
+  },
+  {
+   "t": 1780963206,
+   "p": 0.21
+  },
+  {
+   "t": 1781049607,
+   "p": 0.205
+  },
+  {
+   "t": 1781136011,
+   "p": 0.205
+  },
+  {
+   "t": 1781222407,
+   "p": 0.205
+  },
+  {
+   "t": 1781308807,
+   "p": 0.205
+  },
+  {
+   "t": 1781395210,
+   "p": 0.195
+  },
+  {
+   "t": 1781481606,
+   "p": 0.195
+  },
+  {
+   "t": 1781568010,
+   "p": 0.195
+  },
+  {
+   "t": 1781654408,
+   "p": 0.185
+  },
+  {
+   "t": 1781740823,
+   "p": 0.19
+  },
+  {
+   "t": 1781827225,
+   "p": 0.225
+  },
+  {
+   "t": 1781913607,
+   "p": 0.225
+  },
+  {
+   "t": 1782000010,
+   "p": 0.175
+  },
+  {
+   "t": 1782086409,
+   "p": 0.165
+  },
+  {
+   "t": 1782172808,
+   "p": 0.16
+  },
+  {
+   "t": 1782259207,
+   "p": 0.145
+  },
+  {
+   "t": 1782345612,
+   "p": 0.135
+  },
+  {
+   "t": 1782432007,
+   "p": 0.135
+  },
+  {
+   "t": 1782518407,
+   "p": 0.135
+  },
+  {
+   "t": 1782604807,
+   "p": 0.135
+  },
+  {
+   "t": 1782691206,
+   "p": 0.145
+  },
+  {
+   "t": 1782777607,
+   "p": 0.145
+  },
+  {
+   "t": 1782864007,
+   "p": 0.135
+  },
+  {
+   "t": 1782950411,
+   "p": 0.135
+  },
+  {
+   "t": 1783036808,
+   "p": 0.135
+  },
+  {
+   "t": 1783123207,
+   "p": 0.135
+  },
+  {
+   "t": 1783209607,
+   "p": 0.135
+  },
+  {
+   "t": 1783296004,
+   "p": 0.135
+  },
+  {
+   "t": 1783382409,
+   "p": 0.135
+  },
+  {
+   "t": 1783468806,
+   "p": 0.145
+  },
+  {
+   "t": 1783555213,
+   "p": 0.14
+  },
+  {
+   "t": 1783641608,
+   "p": 0.115
+  },
+  {
+   "t": 1783728008,
+   "p": 0.095
+  },
+  {
+   "t": 1783814420,
+   "p": 0.085
+  },
+  {
+   "t": 1783900808,
+   "p": 0.095
+  },
+  {
+   "t": 1783987209,
+   "p": 0.115
+  },
+  {
+   "t": 1784073611,
+   "p": 0.095
+  },
+  {
+   "t": 1784160011,
+   "p": 0.105
+  },
+  {
+   "t": 1784246410,
+   "p": 0.115
+  },
+  {
+   "t": 1784332809,
+   "p": 0.11
+  },
+  {
+   "t": 1784419211,
+   "p": 0.105
+  },
+  {
+   "t": 1784505624,
+   "p": 0.115
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+id,url,title,description,resolution_criteria,fine_print,open_time,close_time,resolve_time,horizon_days,cp_time,cp_prob,cp_forecasters,resolution,tags,group
+601826,https://polymarket.com/market/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election,Will Flávio Bolsonaro win the 2026 Brazilian presidential election?,,"A presidential election is scheduled to take place in Brazil on October 4, 2026.
+
+This market will resolve according to the listed candidate that wins this election.
+
+This market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to ""Other"".
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",,2025-09-17T18:40:14.179977+00:00,2026-10-26T03:59:00+00:00,2026-10-26T03:17:16.107395+00:00,403.4,2026-10-19T00:00:26+00:00,0.7915,62159932,0,,post
+5340071,https://polymarket.com/market/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4,Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?,,"The second round of the presidential election is scheduled to take place in Brazil on October 25, 2026.
+
+This market will resolve according to the margin of victory between the top two candidates in the second round of the next Brazil Presidential Election.
+
+For the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If a candidate other than Flávio Bolsonaro or Luiz Inácio Lula da Silva receives the most valid votes in the second round, or if the top two candidates receive exactly the same number of valid votes, this market will resolve to ""Other"".
+
+This market will resolve based on the official vote count once the vote count has been made official.
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.
+
+If the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to ""Other"".
+
+This market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",,2026-10-05T19:31:32.743007+00:00,2026-10-26T03:59:00+00:00,2026-10-26T05:29:46.196294+00:00,20.4,2026-10-19T00:00:44+00:00,0.395,1605031,0,,post
+2252244,https://polymarket.com/market/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615,Will there be no change in Fed interest rates after the September 2026 meeting?,,"The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's September 2026 meeting.
+
+If the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)
+
+The resolution source for this market is the FOMC’s statement after its meeting scheduled for September 15-16, 2026 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.
+
+The level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.
+
+This market may resolve as soon as the FOMC’s statement for their September meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the ""No change"" bracket.",,2026-05-13T17:23:05.187964+00:00,2026-09-16T00:00:00+00:00,2026-09-16T20:02:43+00:00,126.1,2026-09-09T00:00:23+00:00,0.455,56435145,0,,post
+2686769,https://polymarket.com/market/iran-full-airspace-closure-by-july-15-20260625195254149,Iran full airspace closure by July 15?,,"This market will resolve to “Yes” if Iran initiates a general closure of its airspace, that is not solely due to weather conditions, between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+A “general closure” refers to a cancellation or suspension of aviation which is generally applicable to all commercial flights transiting Iranian airspace (“Tehran FIR”). A qualifying closure must apply generally to all of Iran or the Tehran FIR; limited cancellations, delays, or partial closures will not qualify. A closure which applies generally to commercial aviation across Iranian airspace, with limited exceptions for certain categories of flights, however, will qualify (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted).
+
+Qualifying previous examples include the February 28, 2026 total closure of Iranian airspace (https://www.iranintl.com/en/202602289115) and the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508), the April 2024 closure of Iran’s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/), and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in Iran (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).
+
+Warnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a “Yes” resolution.
+
+Airspace closures which occur solely due to weather conditions, earthquakes, or volcanic eruptions, will not qualify.
+
+The primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",,2026-06-25T23:21:25.134179+00:00,2026-07-16T03:59:00+00:00,2026-07-16T06:02:58+00:00,20.3,2026-07-09T00:00:13+00:00,0.161,2765136,0,,post
+908713,https://polymarket.com/market/fed-rate-hike-in-2026,Fed rate hike in 2026?,,"This market will resolve to “Yes” if the upper bound of the target federal funds rate is increased at any point between January 1, 2026 and the Fed's December 2026 meeting, currently scheduled for December 8-9, 2026. Otherwise, this market will resolve to “No”.
+
+This market may not resolve to ""No"" until the Fed has released its rate change decision following its December meeting.
+
+The primary resolution source for this market will be the official website of the Federal Reserve (https://www.federalreserve.gov/monetarypolicy/openmarket.htm), however a consensus of credible reporting may also be used.",,2025-12-10T20:33:37.568106+00:00,2026-12-09T00:00:00+00:00,2026-09-16T20:02:27+00:00,280.0,2026-09-09T00:00:24+00:00,0.705,10115410,1,,post
+1130012,https://polymarket.com/market/will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election,Will United Russia (ER) gain the most seats in the next Russian parliamentary election?,,"Parliamentary elections are to be scheduled to be held in Russia in September 2026.
+
+This market will resolve according to the political party that gains the greatest number of seats in the next Russian State Duma election, compared to before the election.
+
+If the results are not known definitively by September 30, 2027, 11:59 PM ET, this market will resolve to ""Other"".
+
+In the event of a tie between multiple parties for the most seats gained, this market will resolve in favor of the party that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.
+
+This market's resolution will be based solely on the number of seats gained by the named party in the State Duma of the Federal Assembly of the Russian Federation.
+
+This market will resolve based on the results of this election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by Russian government sources such as the Central Election Commission of the Russian Federation.",,2026-01-07T18:00:57.604709+00:00,2026-09-30T00:00:00+00:00,2026-09-21T12:43:47+00:00,256.8,2026-09-14T00:00:14+00:00,0.795,24490194,1,,post
+4824600,https://polymarket.com/market/will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election,Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?,,"Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.
+
+This market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.
+
+Electoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.
+
+This market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.
+
+If the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to ""Other"".
+
+This market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",,2026-09-21T22:56:02.004089+00:00,2026-10-25T23:59:00+00:00,2026-10-26T05:19:22.143448+00:00,34.3,2026-10-19T00:00:26+00:00,0.655,4481774,0,,post
+601920,https://polymarket.com/market/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election,Will any presidential candidate win outright in the first round of the Brazil election?,,"Presidential elections are scheduled to be held in Brazil on October 4, 2026. A second round will be held if no candidate secures more than 50% of the valid votes in the first round.
+
+This market will resolve to ""Yes"" if any candidate wins this election in the first round. Otherwise, this market will resolve to ""No"".
+
+If the result of the first round of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to ""No"".
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",,2025-09-17T19:25:54.524860+00:00,2026-10-05T03:59:00+00:00,2026-10-05T02:48:56+00:00,382.3,2026-09-28T00:00:32+00:00,0.071,1452789,0,,post
+2646914,https://polymarket.com/market/will-no-qualifying-diplomatic-us-iran-meeting-occur-by-september-30-2026-20260622185050763,"Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?",,"On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).
+
+This market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.
+
+A qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.
+
+Indirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.
+
+Follow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.
+
+Brief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.
+
+The meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.
+
+If a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.
+
+If the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to “Other - Middle East/North Africa.”
+
+If the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to “Other - Europe.”
+
+For purposes of this market, countries’ regions will be determined based on the U.S. State Department’s regional classifications in the “Countries and Areas List” (https://www.state.gov/countries-and-areas-list). Any country classified as part of “Europe and Eurasia” will be considered to be in Europe. Any country classified as part of “Near East (Middle East and North Africa)” will be considered to be in the Middle East/North Africa.
+
+If the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to “Other.”
+
+If no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to “No Meeting by September 30.”
+
+The resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.",,2026-06-23T02:46:22.152126+00:00,2026-10-01T03:59:00+00:00,2026-09-22T21:22:15+00:00,91.8,2026-09-15T00:00:19+00:00,0.902,1641762,0,,post
+4037599,https://polymarket.com/market/will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election,Will Lula win the most votes in the first round of the 2026 Brazil presidential election?,,"A presidential election is scheduled to take place in Brazil on October 4, 2026.
+
+This market will resolve according to the listed candidate who receives the most valid votes in the first round of this election.
+
+Candidates will be primarily ranked by order of valid votes won. If two or more candidates are tied for any position, ties will be broken by alphabetical order of the candidates’ listed full names as they appear in this market. This market will resolve to the candidate that occupies the highest finishing position after applying this ranking.
+
+If the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to ""Other"".
+
+This market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",,2026-08-31T17:47:03.958721+00:00,2026-10-05T03:59:00+00:00,2026-10-05T03:40:14+00:00,34.4,2026-09-28T00:00:37+00:00,0.745,3409755,0,,post
+2734313,https://polymarket.com/market/will-donald-trump-publicly-insult-vladimir-putin-by-july-31-2026-20260626210612715,"Will Donald Trump publicly insult Vladimir Putin by July 31, 2026?",,"This market will resolve to ""Yes"" if Donald Trump makes any public statement in which he insults, mocks, or attacks the listed individual personally or professionally in a clearly negative manner between market creation and the specified date (ET). Otherwise, this market will resolve to ""No"". 
+
+This includes calling the individual weak, stupid, disloyal, a failure, using an insulting nickname, using other derogatory language, or using the negative form of a positive trait in a derogatory personal way (e.g., “He/She isn’t smart”). Negative forms used in reference to the individual's professional actions, policies, or decisions (e.g., “He/She isn’t being smart about this policy”) will not count. Policy disagreements stated without disparaging language will not count.
+
+A direct reference will qualify even if the individual is not named, so long as it is reasonably clear from context that they are the subject.
+
+Any written, verbal, or recorded public statement by Trump qualifies.
+
+The resolution source for this market will be public statements from Donald Trump.",,2026-06-29T19:08:46.446466+00:00,2026-07-31T23:59:00+00:00,2026-08-03T02:44:45+00:00,34.3,2026-07-27T00:00:58+00:00,0.101,1480348,0,,post
+2470848,https://polymarket.com/market/will-trump-be-in-the-wc-champions-photo-20260608152527021,Will Trump be in the WC Champions Photo?,,"This market will resolve to “Yes” if Donald Trump is visibly in the frame for the winning team's official team photo following the 2026 FIFA World Cup Final. Otherwise, this market will resolve to “No”.
+
+If Trump does not attend the 2026 FIFA World Cup Final, this market will resolve to “No”.
+
+If the 2026 FIFA World Cup Final is cancelled or postponed beyond August 2, 2026, 11:59 PM ET, this market will resolve to “No”.
+
+The resolution source for this market will be a consensus of credible reporting.",,2026-06-08T15:28:21.880145+00:00,2026-07-20T03:59:00+00:00,2026-07-24T00:32:15+00:00,45.4,2026-07-17T00:00:06+00:00,0.705,26990138,1,,post
+677366,https://polymarket.com/market/will-russia-capture-kostyantynivka-by-december-31-2026-936-942-271-276-578-687-312-238-912,"Will Russia capture Kostyantynivka by December 31, 2026?",,"This market will resolve to “Yes” if, according to the ISW map, Russia captures the Kostyantynivka railroad station located on Pravoberezhna vulytsia by December 31, 2026 at 11:59 PM ET.
+
+The railroad station will be considered captured if any part of the train station icon is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by December 31, 2026, 11:59 PM ET, the market will resolve to “No”.
+
+If Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.
+
+Once Russia captures the railroad station, any subsequent loss of control will not be considered towards the resolution of this market.
+
+Train Station Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka3.jpg
+
+Train Station Location in Kostyantynivka: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka2.jpg
+
+Kostyantynivka Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Kostyantynivka1.jpg
+
+Location on Google maps: https://maps.app.goo.gl/hZ6ch5jVRvkNFY317
+
+The primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.
+
+Note: Any temporary glitches or errors in the map which will not be considered.",,2025-11-11T22:27:09.238172+00:00,2026-12-31T12:00:00+00:00,2026-08-19T21:32:13+00:00,281.0,2026-08-12T00:00:15+00:00,0.914,2284320,1,,post
+789953,https://polymarket.com/market/will-afd-win-the-most-seats-in-the-2026-berlin-state-elections,Will AfD win the most seats in the 2026 Berlin state elections?,,"Parliamentary elections to elect the Abgeordnetehaus of Berlin are scheduled to take place in Berlin on September 20, 2026.
+
+This market will resolve to the political party that wins the greatest number of seats in the formal deliberative assembly of Berlin (Abgeordnetenhaus) as a result of this election.
+
+If voting in the Berlin election for the Abgeordnetenhaus does not occur by December 31, 2026, this market will resolve to ""Other"".
+
+In the case of a tie between this party or coalition and any other for the most seats won, this market will resolve in favor of the party or coalition whose listed abbreviation comes first in alphabetical order.
+
+This market's resolution will be based solely on the number of seats won by the named party or coalition.
+
+This market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Election Office of Berlin (Landeswahlleiter Berlin https://www.berlin.de/wahlen/)",,2025-12-01T20:47:15.715362+00:00,2026-09-20T00:00:00+00:00,2026-09-21T04:36:10+00:00,293.3,2026-09-14T00:00:15+00:00,0.0985,2611971,0,,post
+677408,https://polymarket.com/market/china-x-philippines-military-clash-before-2027,China x Philippines military clash before 2027?,,"This market will resolve to ""Yes"" if there is a military encounter between the military forces of China (People's Republic of China) and Philippines between November 11, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+A ""military encounter"" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between Chinese and Philippine military forces. Non-violent actions, such as warning shots, artillery fire into uninhabited areas, or missile launches that land in territorial waters or pass through airspace, will not qualify for a ""Yes"" resolution. Intentional ship ramming that results in significant damage to (e.g., a hole in the hull) or the sinking of a military ship by another will count toward a ""Yes"" resolution, however minor damage (scrapes, dents) will not.
+
+Note: the China Coast Guard (CCG) is part of the military, however Philippine Coast Guard (PCG) is not.
+
+The resolution source for this market will be a consensus of credible reporting.",,2025-11-11T22:59:22.256639+00:00,2026-12-31T00:00:00+00:00,2026-07-20T16:05:10+00:00,250.7,2026-07-13T00:00:08+00:00,0.095,2332912,1,,post
+690635,https://polymarket.com/market/will-stephen-colbert-be-named-in-newly-released-epstein-files,Will Stephen Colbert be named in newly released Epstein files?,,"This market will resolve to ""Yes"" if the Trump Administration (including any federal court) publicly releases previously unreleased files pertaining to the illegal activities of Jeffrey Epstein which contain any mention of the listed individual between November 18 and December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Only previously unreleased files which contain novel material not previously available to the public will qualify. Documents that are merely re-released, have had redactions removed, repackaged, or newly publicized versions of already available information do not qualify.
+
+Any mention of the listed individual in connection with Jeffrey Epstein will qualify, regardless of if connected to nefarious or illegal activities.
+
+Previously unreleased files is inclusive of any written, audio, photo or video documentation (e.g., qualifying photos which depict the listed individual will count).
+
+The primary resolution source for this market will be a consensus of credible reporting.",,2025-11-18T23:47:39.333046+00:00,2025-12-31T00:00:00+00:00,2025-12-26T01:05:23+00:00,37.1,2025-12-19T00:00:21+00:00,0.045,11385725,1,,pre
+680392,https://polymarket.com/market/will-there-be-another-us-government-shutdown-by-january-31,US government shutdown Saturday?,,"This market will resolve to “Yes” if the U.S. Office of Personnel Management (OPM) announces another federal government shutdown due to a lapse in appropriations by January 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Partial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown.
+
+The resolution source for this market will be OPM’s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/).",,2025-11-13T14:57:42.410551+00:00,2026-01-31T00:00:00+00:00,2026-02-04T00:35:28+00:00,82.4,2026-01-28T00:00:13+00:00,0.725,157296576,1,,pre
+543988,https://polymarket.com/market/will-lee-jun-seok-win-3rd-place-in-the-south-korean-presidential-election,Will Lee Jun-seok win 3rd place in the South Korean presidential election?,,"South Korean presidential elections are scheduled to occur on June 3, 2025, following the impeachment of Yoon Suk Yeol.
+
+This market will resolve according to the person who receives the third greatest number of votes in the election for the next President of South Korea.
+
+If no election for the next President of South Korea occurs by February 28, 2026, 11:59 PM ET, or the results are otherwise unknown by that date, this market will resolve to ""Other"".
+
+The primary resolution source for this market will be official information from the Government of South Korea, however a consensus of credible reporting may also be used.",,2025-05-12T20:31:23.369365+00:00,2025-06-03T12:00:00+00:00,2025-06-04T02:35:56+00:00,22.3,2025-05-28T00:00:06+00:00,0.895,4882739,1,,pre
+532742,https://polymarket.com/market/israel-military-action-against-iran-before-july,Israel military action against Iran before July?,,"This market will resolve to ""Yes"" if Israel initiates a military action on Iranian soil, airspace, or maritime territory or against any Iranian embassies or consulates between March 31, and June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, a ""military action"" will be considered to be any use of force executed by Israel on Iranian soil, airspace, or maritime territory (e.g. if a weapons depot on Iranian soil is hit by an Israeli missile, this market will resolve to ""Yes"") that is officially acknowledged by the Israeli government or a consensus of credible reporting. This includes, but is not limited to, airstrikes, naval attacks, or ground invasions. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.
+
+In the case that the ""Yes"" resolution criteria are met prior to this market's resolution date, this market will resolve immediately.",,2025-03-31T16:47:35.478417+00:00,2025-06-30T12:00:00+00:00,2025-06-13T03:24:45+00:00,73.4,2025-06-06T00:00:06+00:00,0.215,4506859,1,,pre
+542539,https://polymarket.com/market/no-change-in-fed-interest-rates-after-september-2025-meeting,No change in Fed interest rates after September 2025 meeting?,,"The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's September 2025 meeting.
+
+If the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)
+
+The resolution source for this market is the FOMC’s statement after its meeting scheduled for September 16 - 17, 2025 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.
+
+The level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.
+
+This market may resolve as soon as the FOMC’s statement for their September meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the ""No change"" bracket.",,2025-05-07T21:42:51.193297+00:00,2025-09-17T12:00:00+00:00,2025-09-17T21:27:42+00:00,133.0,2025-09-10T00:00:14+00:00,0.0395,67368762,0,,pre
+551017,https://polymarket.com/market/israel-x-hamas-ceasefire-before-august,Israel x Hamas ceasefire before August?,,"On March 17, Israel announced extensive strikes on terror targets belonging to the Hamas terrorist organization in the Gaza Strip ending a previous ceasefire agreement which had been agreed on January 15 (See: https://x.com/IDF/status/1901802698237935705).
+
+This market will resolve to ""Yes"" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between Israel and Hamas between June 9, and July 31, 2025, 11:59 PM ET.
+
+If the agreement is officially reached before the resolution date, this market will resolve to ""Yes"", regardless of whether the ceasefire officially starts afterwards.
+
+An announced agreement to reinstate the previous agreed upon January 15th ceasefire deal will qualify.
+
+Any form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.
+
+This market's resolution will be based on official announcements from both Israel and Hamas, however a wide consensus of credible media reporting stating an official ceasefire agreement between Israel and Hamas has been reached will suffice.",,2025-06-09T17:54:45.839207+00:00,2025-07-31T00:00:00+00:00,2025-08-01T06:11:24+00:00,52.5,2025-07-25T00:00:09+00:00,0.075,11176262,0,,pre
+528974,https://polymarket.com/market/no-change-in-fed-interest-rates-after-july-2025-meeting,No change in Fed interest rates after July 2025 meeting?,,"The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's July 2025 meeting.
+
+If the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)
+
+The resolution source for this market is the FOMC’s statement after its meeting scheduled for July 29 - 30, 2025 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.
+
+The level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.
+
+This market may resolve as soon as the FOMC’s statement for their July meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the ""No change"" bracket.",,2025-03-19T19:32:16.594619+00:00,2025-07-30T12:00:00+00:00,2025-07-30T21:10:09+00:00,133.1,2025-07-23T00:00:09+00:00,0.9555,28670117,1,,pre
+690390,https://polymarket.com/market/epstein-blackmail-files-released-in-2025,Epstein blackmail evidence released in 2025? ,,"This market will resolve to ""Yes"" if previously unreleased documents containing evidence that Jeffrey Epstein blackmailed any individual are made public by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+Blackmail is defined as any use or attempted use of compromising materials or information (such as photos, videos, documents, or incriminating knowledge) to coerce, extort, manipulate, or otherwise gain leverage over a specific person or persons.
+
+Qualifying evidence that Epstein blackmailed any individual requires one of the following:
+
+- A direct statement within the newly released files demonstrating that Epstein blackmailed any individual or group. 
+
+- A clear consensus of credible reporting indicating that the newly released files show that Epstein blackmailed any individual or group.
+
+- A clear consensus of credible reporting indicating that Epstein used any materials released as part of the newly released files for blackmail.
+
+General references to Epstein possessing damaging information, vague insinuations, or speculative commentary will not qualify.
+
+Mentions of “leverage,” “influence,” “favors,” or similar language will not qualify unless clearly tied to the use or attempted use of compromising materials for blackmail as defined in this market.
+
+The primary resolution sources for this market will be the content of any released files and a consensus of credible reporting.",,2025-11-18T20:52:00.098124+00:00,2025-12-31T00:00:00+00:00,2025-12-28T03:50:11+00:00,39.3,2025-12-21T00:00:16+00:00,0.036,9257040,1,,pre
+516792,https://polymarket.com/market/will-zohran-mamdani-win-the-democratic-primary-for-mayor-of-new-york-city,Will  Zohran Mamdani win the Democratic Primary for Mayor of New York City?,,"The Democratic Primary for Mayor of New York City is scheduled for June 24, 2025.  
+
+This market will resolve to “Yes” if Zohran Mamdani wins the 2025 Democratic Primary for Mayor of New York City. Otherwise, this market will resolve to “No”.
+
+If no 2025 Democratic Primary for the Mayor of New York City takes place this market will resolve to “No”.
+
+The resolution source for this market will be the first announcement of the results from the Democratic Primary, however an overwhelming consensus of credible reporting may suffice.",,2024-12-30T09:31:17.263449+00:00,2025-06-24T12:00:00+00:00,2025-06-28T04:52:34+00:00,179.8,2025-06-21T00:00:08+00:00,0.2385,17848349,1,,pre
+514670,https://polymarket.com/market/yoon-out-as-president-of-south-korea-before-april,Yoon out as president of South Korea before April?,,"This market will resolve to “Yes” if Yoon Suk Yeol ceases to be the President of South Korea for any period of time between December 3, 2024 and March 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+If Yoon Suk Yeol is impeached by the National Assembly, however the Constitutional Court does not uphold the impeachment by this market's end date, it will not count toward a ""Yes"" resolution.
+
+For this market to resolve to ""Yes"" Yoon Suk Yeol must have actually ceased to be President of South Korea before this market's end date; an announcement that Yoon will resign at a later time will not count.
+
+The resolution source for this market will be a consensus of credible reporting.",,2024-12-04T17:09:19.761091+00:00,2025-03-31T12:00:00+00:00,2025-04-01T07:20:28+00:00,117.6,2025-03-25T00:00:06+00:00,0.205,32369093,0,,pre
+556077,https://polymarket.com/market/will-lighter-perform-an-airdrop-by-december-31,Will lighter perform an airdrop by December 31? ,,"This market will resolve to ""Yes"" if Ligher launches a token and performs an airdrop by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market ""locked"" tokens or non-swappable tokens will not suffice to resolve this market to ""Yes"". Airdrops of NFTs will not qualify.
+
+The primary resolution source for this market is on-chain information and official information from Lighter, however a consensus of credible reporting will also be used.",,2025-06-26T19:29:18.117330+00:00,2025-12-31T00:00:00+00:00,2025-12-30T09:19:35+00:00,186.6,2025-12-23T00:00:17+00:00,0.88,26021665,1,,pre
+638492,https://polymarket.com/market/will-edgex-launch-a-token-in-2025,Will edgeX launch a token in 2025?,,"This market will resolve to ""Yes"" if EdgeX officially launches a token by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+The token must be actively and publicly transferable and tradable. Announcements alone do not qualify
+
+The primary resolution source for this market will be information from EdgeX (https://www.edgex.exchange/en), however a consensus of credible reporting will also be used.",,2025-10-17T16:14:58.795372+00:00,2026-01-01T05:00:00+00:00,2026-01-03T00:36:49+00:00,77.3,2025-12-27T00:00:16+00:00,0.331,6533517,1,,pre
+621018,https://polymarket.com/market/us-x-venezuela-military-engagement-by-november-30-216-397-226-467-735-374-192-441-421-482-389,US x Venezuela military engagement by November 30?,,"This market will resolve to ""Yes"" if there is a military engagement between the military forces of the United States of America and Venezuela between August 21, and November 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+A ""military engagement"" is defined as any incident involving the use of force such as missile strikes, artillery fire, exchange of gunfire, or other forms of direct military engagement between US and Venezuelan military forces. Non-violent actions, such as warning shots or missile launches that land in territorial waters or pass through airspace, will not qualify for a ""Yes"" resolution. Intentional ship ramming that results in significant damage to (e.g., a hole in the hull) or the sinking of a military ship by another will count toward a ""Yes"" resolution; however, minor damage (scrapes, dents) will not. 
+
+Any U.S. military kinetic strike that impacts Venezuelan land territory will qualify for a “Yes” resolution.
+
+Missiles or drone strikes which are intercepted will not qualify regardless of whether they land on adversarial territory or cause damage. Similarly, surface-to-air missile strikes impacting adversarial territory will not qualify for a ""Yes"" resolution (although surface to air missiles fired at an adversarial military aircraft would qualify).
+
+Note: the U.S. Coast Guard is a branch of the U.S. Armed Forces; Venezuela’s Milicia Nacional Bolivariana (militia) is a “special component” of the Venezuelan National Bolivarian Armed Forces (FANB); and Venezuela’s Coast Guard (Comando de Guardacostas) is a component of the Venezuelan Navy (Armada Bolivariana) and thus part of the FANB.
+
+The resolution source for this market will be a consensus of credible reporting.",,2025-10-03T18:30:55.959202+00:00,2025-11-30T00:00:00+00:00,2025-12-01T07:18:48+00:00,58.5,2025-11-24T00:00:14+00:00,0.405,9188344,0,,pre
+538932,https://polymarket.com/market/will-zohran-mamdani-win-the-2025-nyc-mayoral-election,Will Zohran Mamdani win the 2025 NYC mayoral election?,,"The 2025 New York City mayoral election will be held on November 4, 2025, to elect the mayor of New York City.
+
+This market will resolve according to the candidate that wins the election.
+
+The resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven’t called the race for the same candidate, this market will resolve based on official certification.",,2025-04-22T15:32:27.448351+00:00,2025-11-04T12:00:00+00:00,2025-11-05T05:44:47+00:00,196.6,2025-10-29T00:00:18+00:00,0.8825,143254859,1,,pre
+623602,https://polymarket.com/market/will-the-government-shutdown-end-november-8-11,Will the Government shutdown end November 8-11?,,"This market will resolve to the calendar date range (ET) of the first day after September 30, 2025 which the U.S. The Office of Personnel Management (OPM) announces that the U.S. federal government is not shut down due to a lapse in appropriations. 
+
+Partial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown. 
+
+The resolution source for this market will be OPM’s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/).",,2025-10-06T17:08:46.955128+00:00,2025-11-15T00:00:00+00:00,2025-11-12T08:06:57+00:00,36.6,2025-11-05T00:00:05+00:00,0.32,11773856,0,,pre

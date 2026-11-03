@@ -1,0 +1,27 @@
+{
+ "id": "580917",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.45,
+ "reasoning": "STAN polled around 4-8% through much of 2025 and won about 5% in 2021 running alone, so reaching 10% on its own would require a sizable surge. The main uncertainty is that STAN appears to have formed a joint list with the Pirates, which polled near 10-12% combined. If the resolver counts the joint list's result as STAN's, YES becomes plausible; if it counts only STAN's own party line, NO is much more likely. I don't know the actual result, so I weigh these scenarios roughly evenly.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 678,
+  "output_tokens": 1050,
+  "output_tokens_details": {
+   "thinking_tokens": 862
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005928
+}

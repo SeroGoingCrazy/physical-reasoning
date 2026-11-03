@@ -1,0 +1,27 @@
+{
+ "id": "2374236",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.25,
+ "reasoning": "Maliivka, on the Dnipropetrovsk\u2013Zaporizhzhia\u2013Donetsk border near the Huliaipole/Oleksandrivka axis, was taken by Russian forces in 2025. Ukraine's early-2026 counterattacks in this sector recovered some territory in Dnipropetrovsk Oblast. The market's framing of 're-enter' suggests Maliivka is currently Russian-held but likely near the front, possibly a site of recent Ukrainian claims. ISW's 'Claimed Ukrainian Counteroffensives' layer is relatively permissive, which raises the chance of qualifying shading over a seven-month window. Even so, the overall trend has favored Russian advances, and Ukrainian counterattacks rarely produce persistent shading of specific villages behind Russian lines. I estimate a moderate-low probability.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1117,
+  "output_tokens": 786,
+  "output_tokens_details": {
+   "thinking_tokens": 484
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.020188
+}

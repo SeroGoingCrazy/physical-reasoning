@@ -1,0 +1,27 @@
+{
+ "id": 538932,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.95,
+ "reasoning": "As of April 2025, Andrew Cuomo led the Democratic primary polls and Mamdani was a rising second-tier candidate, so markets gave him only about 5\u201310%. However, I believe I know how this resolved: Mamdani won the June 24, 2025 Democratic primary over Cuomo. He then won the November 4, 2025 general election against Cuomo, who ran as an independent, and Republican Curtis Sliwa, with major outlets calling the race for him. Given that recollection, I assign a high probability, with a small allowance for memory error.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 642,
+  "output_tokens": 449,
+  "output_tokens_details": {
+   "thinking_tokens": 249
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.011548
+}

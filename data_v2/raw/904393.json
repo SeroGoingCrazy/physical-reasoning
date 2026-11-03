@@ -1,0 +1,1094 @@
+{
+ "market": {
+  "id": "904393",
+  "question": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
+  "conditionId": "0x709f7a236b27180f120a23913387e11d8bbaf2e59418dd2d9efd513276742bdf",
+  "slug": "will-ty-masterson-win-the-2026-kansas-governor-republican-primary-election",
+  "resolutionSource": "",
+  "endDate": "2026-08-04T00:00:00Z",
+  "startDate": "2025-12-09T23:28:01.732Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ty-masterson-win-the-2026-kansas-governor-republican-primary-election-kgBgUtG6tnq8.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ty-masterson-win-the-2026-kansas-governor-republican-primary-election-kgBgUtG6tnq8.jpg",
+  "description": "This market will resolve according to the winner of the Republican Primary for Governor of Kansas, scheduled to take place on August 4, 2026. Resolution will be based on the overall winner of the primary, including any potential second round or run-off.\n\nIf no 2026 Kansas Gubernatorial Republican Primary takes place, this market will resolve to \u201cOther.\u201d\n\nThe resolution source for this market will be the first official announcement of the results from the Kansas Republican Party; however, an overwhelming consensus of credible reporting may suffice.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "70843.80933100001",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-12-09T23:00:41.827881Z",
+  "updatedAt": "2026-08-06T04:02:27.553819Z",
+  "closedTime": "2026-08-05 04:15:21+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Ty Masterson",
+  "groupItemThreshold": "2",
+  "questionID": "0x2ac4d7d40e55b72e8bcddfa1bcf08dba5cb0c47538689a7985060cf37dffad02",
+  "umaEndDate": "2026-08-05T04:15:21Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 70843.80933100001,
+  "endDateIso": "2026-08-04",
+  "startDateIso": "2025-12-09",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"29269535318085431798536938893761899769340212320969665256762152920510551553195\", \"62494282369332352999013484215921509070478004755459391079943482977128243845604\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 70843.80933100001,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x2ac4d7d40e55b72e8bcddfa1bcf08dba5cb0c47538689a7985060cf37dffad00",
+  "negRiskRequestID": "0x30d6bbabb627f741b70ace6ece0503ca45b977d7d483e61f9dda2d19a0b660bb",
+  "events": [
+   {
+    "id": "101235",
+    "ticker": "kansas-governor-republican-primary-winner",
+    "slug": "kansas-governor-republican-primary-winner",
+    "title": "Kansas Governor Republican Primary Winner",
+    "description": "This market will resolve according to the winner of the Republican Primary for Governor of Kansas, scheduled to take place on August 4, 2026. Resolution will be based on the overall winner of the primary, including any potential second round or run-off.\n\nIf no 2026 Kansas Gubernatorial Republican Primary takes place, this market will resolve to \u201cOther.\u201d\n\nThe resolution source for this market will be the first official announcement of the results from the Kansas Republican Party; however, an overwhelming consensus of credible reporting may suffice.",
+    "resolutionSource": "",
+    "startDate": "2025-12-09T23:28:01.732Z",
+    "creationDate": "2025-12-09T23:36:38.000827Z",
+    "endDate": "2026-08-04T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-governor-republican-primary-winner-NCwwnChUZMux.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kansas-governor-republican-primary-winner-NCwwnChUZMux.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 160048.69925099998,
+    "openInterest": 37075.062496,
+    "sortBy": "price",
+    "createdAt": "2025-12-09T23:00:39.830549Z",
+    "updatedAt": "2026-08-13T16:09:44.231701Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x2ac4d7d40e55b72e8bcddfa1bcf08dba5cb0c47538689a7985060cf37dffad00",
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2026-08-05T04:36:11Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-08-04T23:59:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Kansas Governor",
+    "electionType": "Republican Primary",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-12-09T23:05:06.568971Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-12-09T23:27:40Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.073,
+  "oneWeekPriceChange": 0.1645,
+  "oneMonthPriceChange": 0.0745,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-12-09T23:15:25.419634Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1765324808,
+   "p": 0.495
+  },
+  {
+   "t": 1765411208,
+   "p": 0.36
+  },
+  {
+   "t": 1765497608,
+   "p": 0.305
+  },
+  {
+   "t": 1765584009,
+   "p": 0.275
+  },
+  {
+   "t": 1765670409,
+   "p": 0.485
+  },
+  {
+   "t": 1765756809,
+   "p": 0.3
+  },
+  {
+   "t": 1765843208,
+   "p": 0.34
+  },
+  {
+   "t": 1765929605,
+   "p": 0.265
+  },
+  {
+   "t": 1765929631,
+   "p": 0.265
+  },
+  {
+   "t": 1766016019,
+   "p": 0.27
+  },
+  {
+   "t": 1766102409,
+   "p": 0.27
+  },
+  {
+   "t": 1766188808,
+   "p": 0.27
+  },
+  {
+   "t": 1766275209,
+   "p": 0.275
+  },
+  {
+   "t": 1766361608,
+   "p": 0.31
+  },
+  {
+   "t": 1766448009,
+   "p": 0.265
+  },
+  {
+   "t": 1766534409,
+   "p": 0.265
+  },
+  {
+   "t": 1766620819,
+   "p": 0.42
+  },
+  {
+   "t": 1766707208,
+   "p": 0.44
+  },
+  {
+   "t": 1766793610,
+   "p": 0.285
+  },
+  {
+   "t": 1766880010,
+   "p": 0.42
+  },
+  {
+   "t": 1766966426,
+   "p": 0.405
+  },
+  {
+   "t": 1767052813,
+   "p": 0.455
+  },
+  {
+   "t": 1767139210,
+   "p": 0.38
+  },
+  {
+   "t": 1767225610,
+   "p": 0.275
+  },
+  {
+   "t": 1767312010,
+   "p": 0.275
+  },
+  {
+   "t": 1767398410,
+   "p": 0.42
+  },
+  {
+   "t": 1767484810,
+   "p": 0.27
+  },
+  {
+   "t": 1767571211,
+   "p": 0.4
+  },
+  {
+   "t": 1767657613,
+   "p": 0.27
+  },
+  {
+   "t": 1767744010,
+   "p": 0.275
+  },
+  {
+   "t": 1767830426,
+   "p": 0.275
+  },
+  {
+   "t": 1767916811,
+   "p": 0.43
+  },
+  {
+   "t": 1768003212,
+   "p": 0.275
+  },
+  {
+   "t": 1768089611,
+   "p": 0.375
+  },
+  {
+   "t": 1768176013,
+   "p": 0.275
+  },
+  {
+   "t": 1768262412,
+   "p": 0.28
+  },
+  {
+   "t": 1768348812,
+   "p": 0.38
+  },
+  {
+   "t": 1768435213,
+   "p": 0.28
+  },
+  {
+   "t": 1768521615,
+   "p": 0.28
+  },
+  {
+   "t": 1768608013,
+   "p": 0.365
+  },
+  {
+   "t": 1768694415,
+   "p": 0.345
+  },
+  {
+   "t": 1768780811,
+   "p": 0.29
+  },
+  {
+   "t": 1768867212,
+   "p": 0.255
+  },
+  {
+   "t": 1768953613,
+   "p": 0.195
+  },
+  {
+   "t": 1769040015,
+   "p": 0.19
+  },
+  {
+   "t": 1769126428,
+   "p": 0.195
+  },
+  {
+   "t": 1769212817,
+   "p": 0.16
+  },
+  {
+   "t": 1769299230,
+   "p": 0.215
+  },
+  {
+   "t": 1769385627,
+   "p": 0.265
+  },
+  {
+   "t": 1769472025,
+   "p": 0.195
+  },
+  {
+   "t": 1769558416,
+   "p": 0.2
+  },
+  {
+   "t": 1769644830,
+   "p": 0.175
+  },
+  {
+   "t": 1769731217,
+   "p": 0.145
+  },
+  {
+   "t": 1769817617,
+   "p": 0.165
+  },
+  {
+   "t": 1769904020,
+   "p": 0.145
+  },
+  {
+   "t": 1769990416,
+   "p": 0.145
+  },
+  {
+   "t": 1770076816,
+   "p": 0.16
+  },
+  {
+   "t": 1770163228,
+   "p": 0.18
+  },
+  {
+   "t": 1770249615,
+   "p": 0.185
+  },
+  {
+   "t": 1770336018,
+   "p": 0.165
+  },
+  {
+   "t": 1770422421,
+   "p": 0.17
+  },
+  {
+   "t": 1770508818,
+   "p": 0.18
+  },
+  {
+   "t": 1770595218,
+   "p": 0.175
+  },
+  {
+   "t": 1770681618,
+   "p": 0.15
+  },
+  {
+   "t": 1770768017,
+   "p": 0.15
+  },
+  {
+   "t": 1770854431,
+   "p": 0.13
+  },
+  {
+   "t": 1770940819,
+   "p": 0.125
+  },
+  {
+   "t": 1771027221,
+   "p": 0.125
+  },
+  {
+   "t": 1771113620,
+   "p": 0.125
+  },
+  {
+   "t": 1771200030,
+   "p": 0.125
+  },
+  {
+   "t": 1771286420,
+   "p": 0.125
+  },
+  {
+   "t": 1771372822,
+   "p": 0.125
+  },
+  {
+   "t": 1771459222,
+   "p": 0.28
+  },
+  {
+   "t": 1771545623,
+   "p": 0.29
+  },
+  {
+   "t": 1771632019,
+   "p": 0.29
+  },
+  {
+   "t": 1771718419,
+   "p": 0.33
+  },
+  {
+   "t": 1771804820,
+   "p": 0.265
+  },
+  {
+   "t": 1771891220,
+   "p": 0.265
+  },
+  {
+   "t": 1771977620,
+   "p": 0.15
+  },
+  {
+   "t": 1772064021,
+   "p": 0.235
+  },
+  {
+   "t": 1772150424,
+   "p": 0.245
+  },
+  {
+   "t": 1772236827,
+   "p": 0.15
+  },
+  {
+   "t": 1772323228,
+   "p": 0.165
+  },
+  {
+   "t": 1772409638,
+   "p": 0.2
+  },
+  {
+   "t": 1772496026,
+   "p": 0.19
+  },
+  {
+   "t": 1772582429,
+   "p": 0.2
+  },
+  {
+   "t": 1772668827,
+   "p": 0.2
+  },
+  {
+   "t": 1772755226,
+   "p": 0.18
+  },
+  {
+   "t": 1772841629,
+   "p": 0.17
+  },
+  {
+   "t": 1772928026,
+   "p": 0.155
+  },
+  {
+   "t": 1773014421,
+   "p": 0.15
+  },
+  {
+   "t": 1773100825,
+   "p": 0.165
+  },
+  {
+   "t": 1773187228,
+   "p": 0.165
+  },
+  {
+   "t": 1773273627,
+   "p": 0.2
+  },
+  {
+   "t": 1773360044,
+   "p": 0.155
+  },
+  {
+   "t": 1773446426,
+   "p": 0.175
+  },
+  {
+   "t": 1773532826,
+   "p": 0.17
+  },
+  {
+   "t": 1773619242,
+   "p": 0.17
+  },
+  {
+   "t": 1773705628,
+   "p": 0.215
+  },
+  {
+   "t": 1773792028,
+   "p": 0.21
+  },
+  {
+   "t": 1773878430,
+   "p": 0.195
+  },
+  {
+   "t": 1773964834,
+   "p": 0.185
+  },
+  {
+   "t": 1774051230,
+   "p": 0.39
+  },
+  {
+   "t": 1774137628,
+   "p": 0.335
+  },
+  {
+   "t": 1774224023,
+   "p": 0.12
+  },
+  {
+   "t": 1774310421,
+   "p": 0.215
+  },
+  {
+   "t": 1774396825,
+   "p": 0.21
+  },
+  {
+   "t": 1774483228,
+   "p": 0.2
+  },
+  {
+   "t": 1774569627,
+   "p": 0.21
+  },
+  {
+   "t": 1774656029,
+   "p": 0.245
+  },
+  {
+   "t": 1774742431,
+   "p": 0.245
+  },
+  {
+   "t": 1774828842,
+   "p": 0.22
+  },
+  {
+   "t": 1774915237,
+   "p": 0.22
+  },
+  {
+   "t": 1775001649,
+   "p": 0.205
+  },
+  {
+   "t": 1775088041,
+   "p": 0.205
+  },
+  {
+   "t": 1775174449,
+   "p": 0.17
+  },
+  {
+   "t": 1775260840,
+   "p": 0.18
+  },
+  {
+   "t": 1775433646,
+   "p": 0.205
+  },
+  {
+   "t": 1775520042,
+   "p": 0.205
+  },
+  {
+   "t": 1775606449,
+   "p": 0.19
+  },
+  {
+   "t": 1775692802,
+   "p": 0.205
+  },
+  {
+   "t": 1775779242,
+   "p": 0.215
+  },
+  {
+   "t": 1775865643,
+   "p": 0.15
+  },
+  {
+   "t": 1776038438,
+   "p": 0.17
+  },
+  {
+   "t": 1776124856,
+   "p": 0.175
+  },
+  {
+   "t": 1776211239,
+   "p": 0.17
+  },
+  {
+   "t": 1776297643,
+   "p": 0.15
+  },
+  {
+   "t": 1776384048,
+   "p": 0.405
+  },
+  {
+   "t": 1776556835,
+   "p": 0.43
+  },
+  {
+   "t": 1776643238,
+   "p": 0.425
+  },
+  {
+   "t": 1776729643,
+   "p": 0.395
+  },
+  {
+   "t": 1776816005,
+   "p": 0.435
+  },
+  {
+   "t": 1776902405,
+   "p": 0.445
+  },
+  {
+   "t": 1776988818,
+   "p": 0.45
+  },
+  {
+   "t": 1777075210,
+   "p": 0.45
+  },
+  {
+   "t": 1777161604,
+   "p": 0.47
+  },
+  {
+   "t": 1777248003,
+   "p": 0.455
+  },
+  {
+   "t": 1777334404,
+   "p": 0.455
+  },
+  {
+   "t": 1777420803,
+   "p": 0.425
+  },
+  {
+   "t": 1777507205,
+   "p": 0.395
+  },
+  {
+   "t": 1777593604,
+   "p": 0.44
+  },
+  {
+   "t": 1777680004,
+   "p": 0.45
+  },
+  {
+   "t": 1777766406,
+   "p": 0.375
+  },
+  {
+   "t": 1777852804,
+   "p": 0.485
+  },
+  {
+   "t": 1777939217,
+   "p": 0.485
+  },
+  {
+   "t": 1778025606,
+   "p": 0.475
+  },
+  {
+   "t": 1778112005,
+   "p": 0.48
+  },
+  {
+   "t": 1778198403,
+   "p": 0.485
+  },
+  {
+   "t": 1778284822,
+   "p": 0.475
+  },
+  {
+   "t": 1778371204,
+   "p": 0.465
+  },
+  {
+   "t": 1778457608,
+   "p": 0.45
+  },
+  {
+   "t": 1778544004,
+   "p": 0.47
+  },
+  {
+   "t": 1778630408,
+   "p": 0.47
+  },
+  {
+   "t": 1778716808,
+   "p": 0.48
+  },
+  {
+   "t": 1778803206,
+   "p": 0.465
+  },
+  {
+   "t": 1778889612,
+   "p": 0.42
+  },
+  {
+   "t": 1778976023,
+   "p": 0.38
+  },
+  {
+   "t": 1779062407,
+   "p": 0.385
+  },
+  {
+   "t": 1779148805,
+   "p": 0.375
+  },
+  {
+   "t": 1779235208,
+   "p": 0.37
+  },
+  {
+   "t": 1779321605,
+   "p": 0.375
+  },
+  {
+   "t": 1779408009,
+   "p": 0.375
+  },
+  {
+   "t": 1779494406,
+   "p": 0.395
+  },
+  {
+   "t": 1779580804,
+   "p": 0.495
+  },
+  {
+   "t": 1779667204,
+   "p": 0.8
+  },
+  {
+   "t": 1779753604,
+   "p": 0.84
+  },
+  {
+   "t": 1779840005,
+   "p": 0.845
+  },
+  {
+   "t": 1779926405,
+   "p": 0.84
+  },
+  {
+   "t": 1780012807,
+   "p": 0.885
+  },
+  {
+   "t": 1780099218,
+   "p": 0.895
+  },
+  {
+   "t": 1780185607,
+   "p": 0.88
+  },
+  {
+   "t": 1780272003,
+   "p": 0.83
+  },
+  {
+   "t": 1780358405,
+   "p": 0.85
+  },
+  {
+   "t": 1780444805,
+   "p": 0.85
+  },
+  {
+   "t": 1780531203,
+   "p": 0.83
+  },
+  {
+   "t": 1780617618,
+   "p": 0.82
+  },
+  {
+   "t": 1780704003,
+   "p": 0.795
+  },
+  {
+   "t": 1780790413,
+   "p": 0.805
+  },
+  {
+   "t": 1780876803,
+   "p": 0.81
+  },
+  {
+   "t": 1780963203,
+   "p": 0.81
+  },
+  {
+   "t": 1781049604,
+   "p": 0.805
+  },
+  {
+   "t": 1781136005,
+   "p": 0.805
+  },
+  {
+   "t": 1781222404,
+   "p": 0.8
+  },
+  {
+   "t": 1781308804,
+   "p": 0.805
+  },
+  {
+   "t": 1781395207,
+   "p": 0.81
+  },
+  {
+   "t": 1781481603,
+   "p": 0.81
+  },
+  {
+   "t": 1781568006,
+   "p": 0.815
+  },
+  {
+   "t": 1781654405,
+   "p": 0.75
+  },
+  {
+   "t": 1781740816,
+   "p": 0.755
+  },
+  {
+   "t": 1781827221,
+   "p": 0.755
+  },
+  {
+   "t": 1781913604,
+   "p": 0.82
+  },
+  {
+   "t": 1782000006,
+   "p": 0.805
+  },
+  {
+   "t": 1782086405,
+   "p": 0.765
+  },
+  {
+   "t": 1782172804,
+   "p": 0.785
+  },
+  {
+   "t": 1782259204,
+   "p": 0.775
+  },
+  {
+   "t": 1782345604,
+   "p": 0.77
+  },
+  {
+   "t": 1782432003,
+   "p": 0.785
+  },
+  {
+   "t": 1782518404,
+   "p": 0.795
+  },
+  {
+   "t": 1782604803,
+   "p": 0.795
+  },
+  {
+   "t": 1782691203,
+   "p": 0.865
+  },
+  {
+   "t": 1782777604,
+   "p": 0.89
+  },
+  {
+   "t": 1782864003,
+   "p": 0.93
+  },
+  {
+   "t": 1782950404,
+   "p": 0.945
+  },
+  {
+   "t": 1783036804,
+   "p": 0.915
+  },
+  {
+   "t": 1783123203,
+   "p": 0.91
+  },
+  {
+   "t": 1783209603,
+   "p": 0.91
+  },
+  {
+   "t": 1783296004,
+   "p": 0.925
+  },
+  {
+   "t": 1783382408,
+   "p": 0.925
+  },
+  {
+   "t": 1783468804,
+   "p": 0.91
+  },
+  {
+   "t": 1783555208,
+   "p": 0.915
+  },
+  {
+   "t": 1783641605,
+   "p": 0.915
+  },
+  {
+   "t": 1783728006,
+   "p": 0.92
+  },
+  {
+   "t": 1783814418,
+   "p": 0.865
+  },
+  {
+   "t": 1783900806,
+   "p": 0.845
+  },
+  {
+   "t": 1783987205,
+   "p": 0.855
+  },
+  {
+   "t": 1784073605,
+   "p": 0.86
+  },
+  {
+   "t": 1784160004,
+   "p": 0.84
+  },
+  {
+   "t": 1784246406,
+   "p": 0.84
+  },
+  {
+   "t": 1784332804,
+   "p": 0.835
+  },
+  {
+   "t": 1784419205,
+   "p": 0.805
+  },
+  {
+   "t": 1784505618,
+   "p": 0.73
+  },
+  {
+   "t": 1784592006,
+   "p": 0.725
+  },
+  {
+   "t": 1784678405,
+   "p": 0.78
+  },
+  {
+   "t": 1784764807,
+   "p": 0.84
+  },
+  {
+   "t": 1784851205,
+   "p": 0.84
+  },
+  {
+   "t": 1784937606,
+   "p": 0.835
+  },
+  {
+   "t": 1785024006,
+   "p": 0.835
+  },
+  {
+   "t": 1785110405,
+   "p": 0.835
+  },
+  {
+   "t": 1785196807,
+   "p": 0.775
+  },
+  {
+   "t": 1785283217,
+   "p": 0.835
+  },
+  {
+   "t": 1785369620,
+   "p": 0.84
+  },
+  {
+   "t": 1785456019,
+   "p": 0.8
+  },
+  {
+   "t": 1785542410,
+   "p": 0.835
+  },
+  {
+   "t": 1785628810,
+   "p": 0.89
+  },
+  {
+   "t": 1785715209,
+   "p": 0.89
+  },
+  {
+   "t": 1785801609,
+   "p": 0.956
+  },
+  {
+   "t": 1785888010,
+   "p": 0.98
+  }
+ ]
+}

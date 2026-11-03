@@ -1,0 +1,27 @@
+{
+ "id": "665276",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.8,
+ "reasoning": "Turkey is scheduled to host the 2026 NATO summit in Ankara, planned for July 2026, which would bring the U.S. president to the country. Trump attended the 2025 NATO summit in The Hague and has generally valued summit attendance, though his travel is sometimes cut short or skipped. Erdogan has also publicly invited him to Turkey, and Trump has been warm toward Erdogan, which adds to the odds. Risks include a summit schedule change, a skipped trip, or a shift in U.S.-Turkey relations, but a visit in 2026 seems more likely than not. I do not know how this resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 731,
+  "output_tokens": 629,
+  "output_tokens_details": {
+   "thinking_tokens": 405
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003876
+}

@@ -1,0 +1,27 @@
+{
+ "id": "4424531",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.4,
+ "reasoning": "The Reservists party (led by Yoaz Hendel, now apparently combined with the New Economic Party) has polled roughly around the Knesset electoral threshold, which is about 3.25% of valid votes. Its polling in 2025 was typically around 3 to 4 seats, with some polls below the threshold. A result under 2.75% would require a clear slide below the threshold, which is plausible for a new party that may fail to clear it, but the party also has a real chance of landing in the 2.75% to 3.25% band or above. I do not know the actual result, and my information on 2026 polling for this specific merged list is limited, so I put this close to even but somewhat below 50%.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 958,
+  "output_tokens": 876,
+  "output_tokens_details": {
+   "thinking_tokens": 640
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005338000000000001
+}

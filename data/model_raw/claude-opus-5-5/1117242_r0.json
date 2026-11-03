@@ -1,0 +1,27 @@
+{
+ "id": "1117242",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.3,
+ "reasoning": "Khamenei is 86, and the risk around him is unusually high. Iran saw nationwide protests from late December 2025 driven by currency collapse, Trump warned of US intervention, and the regime is weakened after the June 2025 Israel-Iran war. There were also reports of contingency plans for him to flee to Moscow. Ordinarily a long-entrenched leader staying in place for about three months would be likely, around 80%. I also have a vague, unconfirmed recollection that US/Israeli strikes in late February 2026 killed Khamenei and that Mojtaba Khamenei succeeded him. I can't verify this, but it pushes my estimate well below the base rate.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 943,
+  "output_tokens": 710,
+  "output_tokens_details": {
+   "thinking_tokens": 472
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.017972000000000002
+}

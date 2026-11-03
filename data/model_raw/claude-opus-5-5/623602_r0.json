@@ -1,0 +1,27 @@
+{
+ "id": 623602,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.03,
+ "reasoning": "The shutdown began October 1, 2025. My recollection is that it became the longest on record, about 43 days. The Senate passed a continuing resolution around November 10, the House passed it November 12, and the President signed it late on November 12. That would make OPM's first 'open' status date November 13, which is outside the November 8-11 window. Even setting that recollection aside, a prior over plausible end dates would put only a modest share of probability on this specific four-day window. Given that I believe I know the outcome, I assign a low probability.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 684,
+  "output_tokens": 394,
+  "output_tokens_details": {
+   "thinking_tokens": 211
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.010616
+}

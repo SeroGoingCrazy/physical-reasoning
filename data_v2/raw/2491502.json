@@ -1,0 +1,366 @@
+{
+ "market": {
+  "id": "2491502",
+  "question": "Todd Blanche confirmed as Attorney General by August 30?",
+  "conditionId": "0x66a6d4b5efe16194979e39a7f452a8c860b054724a1e27eec822fae17f980def",
+  "slug": "todd-blanche-confirmed-as-attorney-general-by-august-30-20260608213258431",
+  "resolutionSource": "",
+  "endDate": "2027-01-01T04:59:00Z",
+  "startDate": "2026-06-10T15:49:28.234664Z",
+  "description": "This market will resolve to \u201cYes\u201d if Todd Blanche is confirmed as United States Attorney General by the specified date at 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf Todd Blanche's nomination is formally withdrawn, or if the Senate rejects the nomination, this market will immediately resolve to \u201cNo\u201d.\n\nThe Senate must confirm this nominee as United States Attorney General for this market to resolve to \"Yes\". Recess appointments without Senate confirmation will not count toward a \"Yes\" resolution. \n\nThe primary resolution source for this market is official information from the U.S. Senate; however, a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "48178.914614000016",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-10T15:45:31.43691Z",
+  "updatedAt": "2026-08-09T08:57:51.712722Z",
+  "closedTime": "2026-08-08 10:54:12+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "August 30",
+  "groupItemThreshold": "1",
+  "questionID": "0x4d2d099c62ce1ffa0b8553eeaf222642ac2f87457b2d5396f0eb983c1c3a3a1c",
+  "umaEndDate": "2026-08-08T10:54:12Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 48178.914614000016,
+  "endDateIso": "2027-01-01",
+  "startDateIso": "2026-06-10",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"99525272373421144440924546594750202218409431135704127587412785928949527807011\", \"13362369789983105649479686874730087833392888523896781078323549283250613084856\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 48178.914614000016,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "580309",
+    "ticker": "todd-blanche-confirmed-as-attorney-general-byptptpt-20260608213256942",
+    "slug": "todd-blanche-confirmed-as-attorney-general-byptptpt-20260608213256942",
+    "title": "Todd Blanche confirmed as Attorney General by...?",
+    "description": "This market will resolve to \u201cYes\u201d if Todd Blanche is confirmed as United States Attorney General by the specified date at 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf Todd Blanche's nomination is formally withdrawn, or if the Senate rejects the nomination, this market will immediately resolve to \u201cNo\u201d.\n\nThe Senate must confirm this nominee as United States Attorney General for this market to resolve to \"Yes\". Recess appointments without Senate confirmation will not count toward a \"Yes\" resolution. \n\nThe primary resolution source for this market is official information from the U.S. Senate; however, a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2026-06-10T15:48:15.544116Z",
+    "creationDate": "2026-06-10T16:18:21.375276Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/todd-blanche-confirmed-as-attorney-general-byptptpt-20260608213256942-3DbCCbNBvv6s.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/todd-blanche-confirmed-as-attorney-general-byptptpt-20260608213256942-3DbCCbNBvv6s.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 63181.66060100002,
+    "openInterest": 37964.363349,
+    "sortBy": "ascending",
+    "createdAt": "2026-06-10T15:45:30.231973Z",
+    "updatedAt": "2026-08-13T19:28:02.123805Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2026-08-08T11:19:55Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-10T15:48:25Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.4545,
+  "oneWeekPriceChange": 0.6345,
+  "oneMonthPriceChange": 0.5495,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-10T15:45:54.156165Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1781136011,
+   "p": 0.27
+  },
+  {
+   "t": 1781222408,
+   "p": 0.29
+  },
+  {
+   "t": 1781308808,
+   "p": 0.3
+  },
+  {
+   "t": 1781395212,
+   "p": 0.27
+  },
+  {
+   "t": 1781481608,
+   "p": 0.3
+  },
+  {
+   "t": 1781568012,
+   "p": 0.275
+  },
+  {
+   "t": 1781654410,
+   "p": 0.435
+  },
+  {
+   "t": 1781740824,
+   "p": 0.425
+  },
+  {
+   "t": 1781827225,
+   "p": 0.345
+  },
+  {
+   "t": 1781913607,
+   "p": 0.515
+  },
+  {
+   "t": 1782000010,
+   "p": 0.525
+  },
+  {
+   "t": 1782086409,
+   "p": 0.52
+  },
+  {
+   "t": 1782172811,
+   "p": 0.43
+  },
+  {
+   "t": 1782259210,
+   "p": 0.505
+  },
+  {
+   "t": 1782345612,
+   "p": 0.505
+  },
+  {
+   "t": 1782432007,
+   "p": 0.525
+  },
+  {
+   "t": 1782518409,
+   "p": 0.59
+  },
+  {
+   "t": 1782604808,
+   "p": 0.485
+  },
+  {
+   "t": 1782691208,
+   "p": 0.59
+  },
+  {
+   "t": 1782777609,
+   "p": 0.5
+  },
+  {
+   "t": 1782864009,
+   "p": 0.585
+  },
+  {
+   "t": 1782950413,
+   "p": 0.57
+  },
+  {
+   "t": 1783036810,
+   "p": 0.405
+  },
+  {
+   "t": 1783123209,
+   "p": 0.535
+  },
+  {
+   "t": 1783209609,
+   "p": 0.55
+  },
+  {
+   "t": 1783296005,
+   "p": 0.6
+  },
+  {
+   "t": 1783382410,
+   "p": 0.375
+  },
+  {
+   "t": 1783468806,
+   "p": 0.42
+  },
+  {
+   "t": 1783555213,
+   "p": 0.535
+  },
+  {
+   "t": 1783641609,
+   "p": 0.475
+  },
+  {
+   "t": 1783728009,
+   "p": 0.525
+  },
+  {
+   "t": 1783814422,
+   "p": 0.485
+  },
+  {
+   "t": 1783900810,
+   "p": 0.49
+  },
+  {
+   "t": 1783987209,
+   "p": 0.31
+  },
+  {
+   "t": 1784073612,
+   "p": 0.51
+  },
+  {
+   "t": 1784160013,
+   "p": 0.56
+  },
+  {
+   "t": 1784246413,
+   "p": 0.615
+  },
+  {
+   "t": 1784332809,
+   "p": 0.635
+  },
+  {
+   "t": 1784419212,
+   "p": 0.555
+  },
+  {
+   "t": 1784505626,
+   "p": 0.56
+  },
+  {
+   "t": 1784592013,
+   "p": 0.635
+  },
+  {
+   "t": 1784678410,
+   "p": 0.65
+  },
+  {
+   "t": 1784764818,
+   "p": 0.705
+  },
+  {
+   "t": 1784851220,
+   "p": 0.66
+  },
+  {
+   "t": 1784937636,
+   "p": 0.635
+  },
+  {
+   "t": 1785024029,
+   "p": 0.64
+  },
+  {
+   "t": 1785110432,
+   "p": 0.615
+  },
+  {
+   "t": 1785196835,
+   "p": 0.59
+  },
+  {
+   "t": 1785369625,
+   "p": 0.355
+  },
+  {
+   "t": 1785456022,
+   "p": 0.195
+  },
+  {
+   "t": 1785542413,
+   "p": 0.2
+  },
+  {
+   "t": 1785628814,
+   "p": 0.15
+  },
+  {
+   "t": 1785715211,
+   "p": 0.175
+  },
+  {
+   "t": 1785801613,
+   "p": 0.795
+  },
+  {
+   "t": 1785888014,
+   "p": 0.785
+  },
+  {
+   "t": 1785974413,
+   "p": 0.835
+  },
+  {
+   "t": 1786060813,
+   "p": 0.78
+  },
+  {
+   "t": 1786147217,
+   "p": 0.918
+  }
+ ]
+}

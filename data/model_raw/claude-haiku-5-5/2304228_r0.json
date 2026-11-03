@@ -1,0 +1,27 @@
+{
+ "id": "2304228",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.8,
+ "reasoning": "As of mid-2026, Swedish polling has generally shown the Social Democrats clearly first, with the Sweden Democrats usually in the 19-21% range and the Moderates typically around 16-18%. That gap has been fairly stable, and the 2022 result had SD second at 20.5% versus M at 19.1%. The main risk is the Moderates closing the gap through a late campaign surge or tactical shifts, and the margin between SD and M is narrow enough that this could happen. I do not know the actual result, so this rests on polling and recent history, with a modest allowance for the chance of a Moderate overtake or a sharp SD decline.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 874,
+  "output_tokens": 529,
+  "output_tokens_details": {
+   "thinking_tokens": 302
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003519
+}

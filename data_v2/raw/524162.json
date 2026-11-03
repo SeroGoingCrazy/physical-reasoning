@@ -1,0 +1,241 @@
+{
+ "market": {
+  "id": "524162",
+  "question": "Israel x Hamas ceasefire cancelled before April?",
+  "conditionId": "0xcba58d7e057d3a6051d062d6b62388f9207b6f3bc9212835f137128720964c76",
+  "slug": "israel-x-hamas-ceasefire-cancelled-before-april",
+  "resolutionSource": "",
+  "endDate": "2025-03-31T12:00:00Z",
+  "startDate": "2025-02-19T23:41:19.726Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hamas-ceasefire-cancelled-before-april-MwBibfQDBnor.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hamas-ceasefire-cancelled-before-april-MwBibfQDBnor.jpg",
+  "description": "This market will resolve to \"Yes\" if a either Israel or Hamas announce the cancelation of the ongoing ceasefire, or if a consensus of credible reporting confirms that the ceasefire is no longer in effect, by March 31, 2025, 11:59 PM ET. Otherwise this market will resolve to \"No\". \n\nThe primary solution resolution source will be official information from Hamas or the government of Israel however a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "1088284.188625",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-02-19T20:21:00.171912Z",
+  "updatedAt": "2025-03-19T03:24:47.168066Z",
+  "closedTime": "2025-03-18 03:28:53+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x49753e227fb913537aa603bf46a08faa2e851dd24ea7efe58e55bcca44a07962",
+  "umaEndDate": "2025-03-18T03:28:53Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 1088284.188625,
+  "endDateIso": "2025-03-31",
+  "startDateIso": "2025-02-19",
+  "hasReviewedDates": true,
+  "volume1wk": 0,
+  "volume1mo": 0,
+  "volume1yr": 0,
+  "gameStartTime": "2025-03-18 01:32:00+00",
+  "clobTokenIds": "[\"106778760257960927065446367087081013052911591061030159663714456582147598334961\", \"75877902791069119591672849747439201773512860764621242230067803906589803041976\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkAmm": 0,
+  "volume1moAmm": 0,
+  "volume1yrAmm": 0,
+  "volume1wkClob": 0,
+  "volume1moClob": 0,
+  "volume1yrClob": 0,
+  "volumeClob": 1088284.188625,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "19059",
+    "ticker": "israel-x-hamas-ceasefire-cancelled-before-april",
+    "slug": "israel-x-hamas-ceasefire-cancelled-before-april",
+    "title": "Israel x Hamas ceasefire cancelled before April?",
+    "description": "This market will resolve to \"Yes\" if a either Israel or Hamas announce the cancelation of the ongoing ceasefire, or if a consensus of credible reporting confirms that the ceasefire is no longer in effect, by March 31, 2025, 11:59 PM ET. Otherwise this market will resolve to \"No\". \n\nThe primary solution resolution source will be official information from Hamas or the government of Israel however a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2025-02-19T23:42:58.95079Z",
+    "creationDate": "2025-02-19T23:42:58.950788Z",
+    "endDate": "2025-03-31T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hamas-ceasefire-cancelled-before-april-MwBibfQDBnor.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-hamas-ceasefire-cancelled-before-april-MwBibfQDBnor.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 1088284.188625,
+    "openInterest": 0,
+    "createdAt": "2025-02-19T20:20:57.600571Z",
+    "updatedAt": "2025-03-19T03:24:53.269962Z",
+    "volume1wk": 0,
+    "volume1mo": 0,
+    "volume1yr": 0,
+    "enableOrderBook": true,
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2025-03-18T03:28:53Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-02-19T23:40:13Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.8145,
+  "oneHourPriceChange": 0,
+  "oneWeekPriceChange": 0,
+  "oneMonthPriceChange": 0,
+  "oneYearPriceChange": 0,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1740009604,
+   "p": 0.455
+  },
+  {
+   "t": 1740096005,
+   "p": 0.62
+  },
+  {
+   "t": 1740182405,
+   "p": 0.56
+  },
+  {
+   "t": 1740268804,
+   "p": 0.525
+  },
+  {
+   "t": 1740355204,
+   "p": 0.49
+  },
+  {
+   "t": 1740441604,
+   "p": 0.42
+  },
+  {
+   "t": 1740528005,
+   "p": 0.37
+  },
+  {
+   "t": 1740614405,
+   "p": 0.33
+  },
+  {
+   "t": 1740700805,
+   "p": 0.305
+  },
+  {
+   "t": 1740787205,
+   "p": 0.335
+  },
+  {
+   "t": 1740873605,
+   "p": 0.565
+  },
+  {
+   "t": 1740960005,
+   "p": 0.5
+  },
+  {
+   "t": 1741046405,
+   "p": 0.495
+  },
+  {
+   "t": 1741132804,
+   "p": 0.375
+  },
+  {
+   "t": 1741219205,
+   "p": 0.42
+  },
+  {
+   "t": 1741305605,
+   "p": 0.315
+  },
+  {
+   "t": 1741392005,
+   "p": 0.42
+  },
+  {
+   "t": 1741478405,
+   "p": 0.195
+  },
+  {
+   "t": 1741564804,
+   "p": 0.22
+  },
+  {
+   "t": 1741651205,
+   "p": 0.33
+  },
+  {
+   "t": 1741737605,
+   "p": 0.295
+  },
+  {
+   "t": 1741824006,
+   "p": 0.2
+  },
+  {
+   "t": 1741910405,
+   "p": 0.18
+  },
+  {
+   "t": 1741996804,
+   "p": 0.195
+  },
+  {
+   "t": 1742083204,
+   "p": 0.175
+  },
+  {
+   "t": 1742169604,
+   "p": 0.18
+  },
+  {
+   "t": 1742256005,
+   "p": 0.345
+  }
+ ]
+}

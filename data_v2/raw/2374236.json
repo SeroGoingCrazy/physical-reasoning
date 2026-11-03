@@ -1,0 +1,321 @@
+{
+ "market": {
+  "id": "2374236",
+  "question": "Will Ukraine re-enter Maliivka by December 31?",
+  "conditionId": "0xb8879d2f55f3a15028660eba65785832c1dfc04f99e8e495010933688ccb9c6d",
+  "slug": "will-ukraine-re-enter-maliivka-by-december-31",
+  "resolutionSource": "",
+  "endDate": "2026-12-31T00:00:00Z",
+  "startDate": "2026-05-27T22:12:09.439Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+  "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Ukraine captures any territory of Maliivka, Dnipropetrovsk Oblast, (47.920810\u00b0 N, 36.618600\u00b0 E) between market creation and the specified date (ET).\n\nTerritory will be considered captured if any part of the specified territory is shaded under a below specified layer on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. Otherwise, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Ukrainian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \"Reported Ukrainian Territorial Gains in the Past 24 Hours\", or \u201cClaimed Ukrainian Counteroffensives\u201d will qualify. \n\nOnce a qualifying condition is met, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIf Ukraine comes into control of the specified territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded blue in the ISW map. However, an announcement of a negotiated settlement that gives Ukraine de jure control will not qualify. Actual control must be established.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "26381.341665000007",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-05-27T22:03:29.054914Z",
+  "updatedAt": "2026-07-15T21:34:50.20427Z",
+  "closedTime": "2026-07-14 22:37:56+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "December 31",
+  "groupItemThreshold": "4",
+  "questionID": "0x2ee8ce4de95b247ec4d224c5448b6261e0bcfbd34a404c7d0547483969cb0159",
+  "umaEndDate": "2026-07-14T22:37:56Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 26381.341665000007,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2026-05-27",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"106357377462470777162074136663993867544289851940849210066031068582103797897415\", \"74046502503155234885231803278151260570741145964546163022470604504443125767130\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 26381.341665000007,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "257564",
+    "ticker": "will-ukraine-re-enter-maliivka-by-march-31",
+    "slug": "will-ukraine-re-enter-maliivka-by-march-31",
+    "title": "Will Ukraine re-enter Maliivka by...?",
+    "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Ukraine captures any territory of Maliivka, Dnipropetrovsk Oblast, (47.920810\u00b0 N, 36.618600\u00b0 E) between market creation and the specified date (ET).\n\nTerritory will be considered captured if any part of the specified territory is shaded under a below specified layer on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. Otherwise, the market will resolve to \u201cNo\u201d.\n\nFor any change on the ISW map to qualify for this market\u2019s resolution, the relevant shading indicating Ukrainian control must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date. Any continuous shading which reflects either \"Reported Ukrainian Territorial Gains in the Past 24 Hours\", or \u201cClaimed Ukrainian Counteroffensives\u201d will qualify. \n\nOnce a qualifying condition is met, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIf Ukraine comes into control of the specified territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded blue in the ISW map. However, an announcement of a negotiated settlement that gives Ukraine de jure control will not qualify. Actual control must be established.\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map will not be considered.",
+    "resolutionSource": "",
+    "startDate": "2026-03-10T03:19:28.127002Z",
+    "creationDate": "2026-03-10T03:19:28.126996Z",
+    "endDate": "2026-05-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ukraine-enter-novomykolaivka-by-march-31-jZAp-MOZ1pZ0.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 82677.546966,
+    "openInterest": 8086.528098999999,
+    "createdAt": "2026-03-09T22:21:21.831156Z",
+    "updatedAt": "2026-08-11T16:02:49.652407Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 23,
+    "cyom": false,
+    "closedTime": "2026-07-14T22:37:56Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-05-27T22:11:13Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0275,
+  "oneWeekPriceChange": 0.5145,
+  "oneMonthPriceChange": 0.3645,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-05-27T22:03:46.247624Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1779926409,
+   "p": 0.5
+  },
+  {
+   "t": 1780012811,
+   "p": 0.7
+  },
+  {
+   "t": 1780099221,
+   "p": 0.7
+  },
+  {
+   "t": 1780185610,
+   "p": 0.38
+  },
+  {
+   "t": 1780272005,
+   "p": 0.465
+  },
+  {
+   "t": 1780358405,
+   "p": 0.495
+  },
+  {
+   "t": 1780444805,
+   "p": 0.285
+  },
+  {
+   "t": 1780531203,
+   "p": 0.365
+  },
+  {
+   "t": 1780617618,
+   "p": 0.62
+  },
+  {
+   "t": 1780704003,
+   "p": 0.58
+  },
+  {
+   "t": 1780790413,
+   "p": 0.455
+  },
+  {
+   "t": 1780876803,
+   "p": 0.355
+  },
+  {
+   "t": 1780963203,
+   "p": 0.325
+  },
+  {
+   "t": 1781049604,
+   "p": 0.4
+  },
+  {
+   "t": 1781136009,
+   "p": 0.425
+  },
+  {
+   "t": 1781222406,
+   "p": 0.535
+  },
+  {
+   "t": 1781308807,
+   "p": 0.59
+  },
+  {
+   "t": 1781395210,
+   "p": 0.565
+  },
+  {
+   "t": 1781481606,
+   "p": 0.6
+  },
+  {
+   "t": 1781568010,
+   "p": 0.655
+  },
+  {
+   "t": 1781654408,
+   "p": 0.655
+  },
+  {
+   "t": 1781740821,
+   "p": 0.64
+  },
+  {
+   "t": 1781827221,
+   "p": 0.71
+  },
+  {
+   "t": 1781913604,
+   "p": 0.7
+  },
+  {
+   "t": 1782000006,
+   "p": 0.76
+  },
+  {
+   "t": 1782086405,
+   "p": 0.76
+  },
+  {
+   "t": 1782172807,
+   "p": 0.755
+  },
+  {
+   "t": 1782259207,
+   "p": 0.715
+  },
+  {
+   "t": 1782345609,
+   "p": 0.72
+  },
+  {
+   "t": 1782432003,
+   "p": 0.73
+  },
+  {
+   "t": 1782518407,
+   "p": 0.72
+  },
+  {
+   "t": 1782604806,
+   "p": 0.725
+  },
+  {
+   "t": 1782691206,
+   "p": 0.66
+  },
+  {
+   "t": 1782777607,
+   "p": 0.705
+  },
+  {
+   "t": 1782864007,
+   "p": 0.68
+  },
+  {
+   "t": 1782950408,
+   "p": 0.65
+  },
+  {
+   "t": 1783036807,
+   "p": 0.67
+  },
+  {
+   "t": 1783123207,
+   "p": 0.645
+  },
+  {
+   "t": 1783209607,
+   "p": 0.58
+  },
+  {
+   "t": 1783296004,
+   "p": 0.605
+  },
+  {
+   "t": 1783382409,
+   "p": 0.59
+  },
+  {
+   "t": 1783468806,
+   "p": 0.475
+  },
+  {
+   "t": 1783555213,
+   "p": 0.475
+  },
+  {
+   "t": 1783641608,
+   "p": 0.475
+  },
+  {
+   "t": 1783728008,
+   "p": 0.475
+  },
+  {
+   "t": 1783814420,
+   "p": 0.48
+  },
+  {
+   "t": 1783900808,
+   "p": 0.45
+  },
+  {
+   "t": 1783987208,
+   "p": 0.9765
+  }
+ ]
+}

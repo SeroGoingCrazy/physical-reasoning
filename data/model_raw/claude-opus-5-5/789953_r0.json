@@ -1,0 +1,27 @@
+{
+ "id": 789953,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.05,
+ "reasoning": "Berlin polling in late 2025 has the CDU leading at roughly 24\u201326%. Die Linke, the Greens and the AfD are clustered around 14\u201319%, with the AfD typically at about 15\u201316%, and the SPD trails further back. The AfD is structurally weaker in Berlin than nationally, especially in the western districts, so overtaking the CDU's lead of roughly 8\u201310 points within about 10 months would require a major shift. The alphabetical tie-break favours the AfD only in the unlikely event of an exact seat tie. A national AfD surge or a CDU collapse is possible but improbable, and Linke looks more likely than the AfD to challenge the CDU.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 844,
+  "output_tokens": 388,
+  "output_tokens_details": {
+   "thinking_tokens": 147
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.011136
+}

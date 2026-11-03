@@ -1,0 +1,283 @@
+{
+ "market": {
+  "id": "583681",
+  "question": "Will Elon tweet between 950 and 999 times September 1\u201330?",
+  "conditionId": "0x753c68a321eaf3b6a4ebd42d8ada5d437a03739dacddd93fa80afd28453251ab",
+  "slug": "will-elon-tweet-between-950-and-999-times-september-130",
+  "resolutionSource": "",
+  "endDate": "2025-09-30T00:00:00Z",
+  "startDate": "2025-08-29T19:34:04.729578Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+  "description": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X in September (ET).\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total. \n\nThe resolution source for this market is the \u2018Post Counter\u2019 figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "74788.824772",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-08-29T19:15:57.379147Z",
+  "updatedAt": "2025-10-02T08:35:07.683407Z",
+  "closedTime": "2025-10-01 07:21:45+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "950\u2013999",
+  "groupItemThreshold": "12",
+  "questionID": "0xc04d5d62be28d51eb23e2afd899b148864517bfc553872ad68c5ca6c38eb1c0c",
+  "umaEndDate": "2025-10-01T07:21:45Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 74788.824772,
+  "endDateIso": "2025-09-30",
+  "startDateIso": "2025-08-29",
+  "hasReviewedDates": true,
+  "volume1wk": 58477.534222000024,
+  "volume1mo": 72198.707126,
+  "volume1yr": 74788.82477199999,
+  "clobTokenIds": "[\"40809362770118792248359969272382748024709282971949779037625432384281780828185\", \"20230413597891054928820487121344658287531711833473467987356912624802061154985\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 58477.534222000024,
+  "volume1moClob": 72198.707126,
+  "volume1yrClob": 74788.82477199999,
+  "volumeClob": 74788.824772,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xc04d5d62be28d51eb23e2afd899b148864517bfc553872ad68c5ca6c38eb1c00",
+  "negRiskRequestID": "0x0f9876fb3ec3818d12fd0a0e345babfcbb40fe341b92328fe9601b4bd3f63ab6",
+  "events": [
+   {
+    "id": "40686",
+    "ticker": "elon-musk-of-tweets-in-september",
+    "slug": "elon-musk-of-tweets-in-september",
+    "title": "Elon Musk # of tweets in September? ",
+    "description": "This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X in September (ET).\n\nFor the purposes of this market, only main feed posts, quote posts and reposts will count.\n\nReplies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.\n\nDeleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).\n\nCommunity reposts which are not counted by the tracker not count toward the total. \n\nThe resolution source for this market is the \u2018Post Counter\u2019 figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking \"Export Data\". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.",
+    "resolutionSource": "https://x.com/elonmusk",
+    "startDate": "2025-08-29T19:46:16.210343Z",
+    "creationDate": "2025-08-29T19:46:16.210319Z",
+    "endDate": "2025-10-01T04:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 877877.200349,
+    "openInterest": 0,
+    "createdAt": "2025-08-29T19:15:48.715195Z",
+    "updatedAt": "2025-10-02T08:36:36.89449Z",
+    "volume1wk": 463565.72727200005,
+    "volume1mo": 851937.030286,
+    "volume1yr": 877877.200349,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xc04d5d62be28d51eb23e2afd899b148864517bfc553872ad68c5ca6c38eb1c00",
+    "commentCount": 58,
+    "cyom": false,
+    "closedTime": "2025-10-01T07:41:23Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2025-09-01T04:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "tweetCount": 948,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-08-29T19:29:06.411268Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-08-29T19:33:43Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "36247",
+    "conditionId": "0x753c68a321eaf3b6a4ebd42d8ada5d437a03739dacddd93fa80afd28453251ab",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 50,
+    "startDate": "2025-09-29",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0505,
+  "oneHourPriceChange": -0.159,
+  "oneWeekPriceChange": -0.2375,
+  "oneMonthPriceChange": -0.0265,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-08-29T19:29:33.91454Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1756512009,
+   "p": 0.06
+  },
+  {
+   "t": 1756598417,
+   "p": 0.045
+  },
+  {
+   "t": 1756684802,
+   "p": 0.027
+  },
+  {
+   "t": 1756771216,
+   "p": 0.032
+  },
+  {
+   "t": 1756857614,
+   "p": 0.0285
+  },
+  {
+   "t": 1756944011,
+   "p": 0.0225
+  },
+  {
+   "t": 1757030408,
+   "p": 0.0205
+  },
+  {
+   "t": 1757116816,
+   "p": 0.031
+  },
+  {
+   "t": 1757203207,
+   "p": 0.034
+  },
+  {
+   "t": 1757289616,
+   "p": 0.0305
+  },
+  {
+   "t": 1757376017,
+   "p": 0.035
+  },
+  {
+   "t": 1757462407,
+   "p": 0.0425
+  },
+  {
+   "t": 1757548811,
+   "p": 0.04
+  },
+  {
+   "t": 1757635207,
+   "p": 0.042
+  },
+  {
+   "t": 1757721605,
+   "p": 0.0835
+  },
+  {
+   "t": 1757808021,
+   "p": 0.0775
+  },
+  {
+   "t": 1757894410,
+   "p": 0.058
+  },
+  {
+   "t": 1757980813,
+   "p": 0.0425
+  },
+  {
+   "t": 1758067216,
+   "p": 0.0585
+  },
+  {
+   "t": 1758153606,
+   "p": 0.058
+  },
+  {
+   "t": 1758240002,
+   "p": 0.0455
+  },
+  {
+   "t": 1758326418,
+   "p": 0.0405
+  },
+  {
+   "t": 1758412806,
+   "p": 0.032
+  },
+  {
+   "t": 1758499215,
+   "p": 0.0415
+  },
+  {
+   "t": 1758585607,
+   "p": 0.108
+  },
+  {
+   "t": 1758672012,
+   "p": 0.195
+  },
+  {
+   "t": 1758758406,
+   "p": 0.28
+  },
+  {
+   "t": 1758844809,
+   "p": 0.3125
+  },
+  {
+   "t": 1758931207,
+   "p": 0.184
+  },
+  {
+   "t": 1759017606,
+   "p": 0.096
+  },
+  {
+   "t": 1759104006,
+   "p": 0.391
+  },
+  {
+   "t": 1759190410,
+   "p": 0.0885
+  },
+  {
+   "t": 1759276804,
+   "p": 0.7425
+  }
+ ]
+}

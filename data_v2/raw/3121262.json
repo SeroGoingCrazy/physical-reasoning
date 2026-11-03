@@ -1,0 +1,254 @@
+{
+ "market": {
+  "id": "3121262",
+  "question": "NATO downs another Russian drone by August 31?",
+  "conditionId": "0x032bea9bdb1cc6b3456b5f6b4589d600eda00fea105e9f028acd169fbd1aaf74",
+  "slug": "nato-downs-another-russian-drone-by-august-31-20260726215001931",
+  "resolutionSource": "",
+  "endDate": "2026-08-31T23:59:00Z",
+  "startDate": "2026-07-26T22:49:29.422763Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
+  "description": "This market will resolve to \"Yes\" if a NATO military downs another Russian drone by any means (kinetic, jammer, etc.) between market creation and the specified date 11:59 PM Kyiv Time.\n\nThe resolution source for this market will be a consensus of credible reporting.\n\nThe occurrence, attribution, and timing of a qualifying incident will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant incident, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the incident based on a consensus of information available from the resolution sources or ii) 3 full calendar days (CEST) from the date of the first credibly reported evidence of the incident. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the incident, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "485611.6507999999",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-07-26T22:29:07.083455Z",
+  "updatedAt": "2026-08-23T16:31:40.543735Z",
+  "closedTime": "2026-08-23 00:33:31+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "August 31",
+  "groupItemThreshold": "1",
+  "questionID": "0x0997dfdfe390dd9f6d3724fde57e5e55265dfd8650595d7b1aab5385444b90f1",
+  "umaEndDate": "2026-08-23T00:33:31Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 485611.6507999999,
+  "endDateIso": "2026-08-31",
+  "startDateIso": "2026-07-26",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"41048648785539586541944394584390493025778662263709403417581187578616777468679\", \"32000787824422574139554883823896949129925736605885876586681458552574037099932\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 485611.6507999999,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "753548",
+    "ticker": "nato-downs-another-russian-drone-byptptpt-20260726214930818",
+    "slug": "nato-downs-another-russian-drone-byptptpt-20260726214930818",
+    "title": "NATO downs another Russian drone by...?",
+    "description": "This market will resolve to \"Yes\" if a NATO military downs another Russian drone by any means (kinetic, jammer, etc.) between market creation and the specified date 11:59 PM Kyiv Time.\n\nThe resolution source for this market will be a consensus of credible reporting.\n\nThe occurrence, attribution, and timing of a qualifying incident will be primarily determined based on a consensus of information available from the resolution sources. Where multiple sources conflict regarding the occurrence, attribution, or timing of a relevant incident, this market will remain open until the earlier of: i) the confirmation of the occurrence, attribution, and timing of the incident based on a consensus of information available from the resolution sources or ii) 3 full calendar days (CEST) from the date of the first credibly reported evidence of the incident. If this period would extend past the end date, this market will remain open to allow for 3 full calendar days to pass. If, at the end of the third calendar day, conflicting reports remain as to the occurrence, attribution, or timing of the incident, this market will resolve based on the totality of information available from the resolution sources at that time. No single statement, denial, or presentation of evidence will govern where it is contradicted by the totality of information.",
+    "resolutionSource": "",
+    "startDate": "2026-07-26T22:40:19.463079Z",
+    "creationDate": "2026-07-26T22:51:17.239717Z",
+    "endDate": "2026-08-31T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nato-shoots-down-another-russian-drone-by-september-30-sgWL6SXVgm-H.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 490964.8824899999,
+    "openInterest": 374845.914283,
+    "sortBy": "ascending",
+    "createdAt": "2026-07-26T22:29:06.297483Z",
+    "updatedAt": "2026-08-23T16:33:58.795655Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 1,
+    "series": [
+     {
+      "id": "12692",
+      "ticker": "nato-downs-russian-drone",
+      "slug": "nato-downs-russian-drone",
+      "title": "NATO downs Russian drone",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-08-20T10:11:58.901144Z",
+      "updatedAt": "2026-11-02T20:53:48.10601Z",
+      "volume": 1428.410449,
+      "liquidity": 1374.46785,
+      "commentCount": 174
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-08-23T00:33:31Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "nato-downs-russian-drone",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-07-26T22:48:40Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneWeekPriceChange": 0.6395,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\", \"disputed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-07-26T22:29:19.116681Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1785110430,
+   "p": 0.49
+  },
+  {
+   "t": 1785196831,
+   "p": 0.535
+  },
+  {
+   "t": 1785369625,
+   "p": 0.555
+  },
+  {
+   "t": 1785456022,
+   "p": 0.64
+  },
+  {
+   "t": 1785542413,
+   "p": 0.6
+  },
+  {
+   "t": 1785628814,
+   "p": 0.595
+  },
+  {
+   "t": 1785715211,
+   "p": 0.595
+  },
+  {
+   "t": 1785801613,
+   "p": 0.57
+  },
+  {
+   "t": 1785888014,
+   "p": 0.505
+  },
+  {
+   "t": 1785974413,
+   "p": 0.525
+  },
+  {
+   "t": 1786060813,
+   "p": 0.58
+  },
+  {
+   "t": 1786147217,
+   "p": 0.525
+  },
+  {
+   "t": 1786233627,
+   "p": 0.39
+  },
+  {
+   "t": 1786320019,
+   "p": 0.28
+  },
+  {
+   "t": 1786406423,
+   "p": 0.285
+  },
+  {
+   "t": 1786492814,
+   "p": 0.545
+  },
+  {
+   "t": 1786579220,
+   "p": 0.395
+  },
+  {
+   "t": 1786665620,
+   "p": 0.315
+  },
+  {
+   "t": 1786752018,
+   "p": 0.42
+  },
+  {
+   "t": 1786838420,
+   "p": 0.365
+  },
+  {
+   "t": 1786924822,
+   "p": 0.9675
+  },
+  {
+   "t": 1787011232,
+   "p": 0.9495
+  },
+  {
+   "t": 1787097621,
+   "p": 0.899
+  },
+  {
+   "t": 1787184024,
+   "p": 0.971
+  },
+  {
+   "t": 1787270422,
+   "p": 0.9945
+  },
+  {
+   "t": 1787356821,
+   "p": 0.9995
+  },
+  {
+   "t": 1787443219,
+   "p": 0.9995
+  }
+ ]
+}

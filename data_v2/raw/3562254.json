@@ -1,0 +1,287 @@
+{
+ "market": {
+  "id": "3562254",
+  "question": "Will Moderate Party (M) win at least 20% of all valid votes?",
+  "conditionId": "0xdd725685718b2d500be6f5dd469a405c8ccc24dcde8c8ff9e372a42567c9905d",
+  "slug": "will-moderate-party-m-win-at-least-20-of-all-valid-votes-20260812172636434",
+  "resolutionSource": "https://www.val.se/",
+  "endDate": "2026-09-13T00:00:00Z",
+  "startDate": "2026-08-13T09:43:33Z",
+  "description": "Parliamentary elections are scheduled to be held in Sweden on September 13, 2026.\n\nThis market will resolve according to the percentage of valid votes received by Moderate Party (M) in the specified election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve solely based on the percentage of valid votes won by the specified party, defined as the number of valid votes won by the specified party divided by the total number of valid votes in the specified election.\n\nValid vote percentages will be counted only where the Swedish Election Authority attributes them to the aforementioned party. Vote percentages attributed to other parties or electoral designations will not count, regardless of electoral cooperation, endorsements, coalition agreements, or subsequent parliamentary-group arrangements. If the specified party formally merges into a successor party before the election and does not contest separately, the valid vote percentage of the successor party will count towards resolution.\n\nIf the results of this election are not definitively known by December 31, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Swedish government, specifically the Swedish Election Authority (Valmyndigheten) (https://www.val.se/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "165502.01980299997",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-08-13T09:43:19.235883Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-09-19 19:03:27+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "20%+",
+  "groupItemThreshold": "3",
+  "questionID": "0x185ab712403dbfb02d632e8aefd1c5fdda28e2d2a6d3b25a5bdbe6165e345903",
+  "umaEndDate": "2026-09-19T19:03:27Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 165502.01980299997,
+  "endDateIso": "2026-09-13",
+  "startDateIso": "2026-08-13",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"32870754046185979497183163253384646408103980496689264824423535458172171710164\", \"68881840109114245521797275025596256928384613251108429808491092208111156621485\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 165502.01980299997,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x185ab712403dbfb02d632e8aefd1c5fdda28e2d2a6d3b25a5bdbe6165e345900",
+  "negRiskRequestID": "0x97cca458f257fcd59032a8a5e4b10862b576d900f7e9a03d06002b780b112702",
+  "events": [
+   {
+    "id": "843054",
+    "ticker": "sweden-parliamentary-election-m-vote-share-20260812172636430",
+    "slug": "sweden-parliamentary-election-m-vote-share-20260812172636430",
+    "title": "Sweden Parliamentary Election: M Vote Share?",
+    "description": "Parliamentary elections are scheduled to be held in Sweden on September 13, 2026.\n\nThis market will resolve according to the percentage of valid votes received by Moderate Party (M) in the specified election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve solely based on the percentage of valid votes won by the specified party, defined as the number of valid votes won by the specified party divided by the total number of valid votes in the specified election.\n\nValid vote percentages will be counted only where the Swedish Election Authority attributes them to the aforementioned party. Vote percentages attributed to other parties or electoral designations will not count, regardless of electoral cooperation, endorsements, coalition agreements, or subsequent parliamentary-group arrangements. If the specified party formally merges into a successor party before the election and does not contest separately, the valid vote percentage of the successor party will count towards resolution.\n\nIf the results of this election are not definitively known by December 31, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Swedish government, specifically the Swedish Election Authority (Valmyndigheten) (https://www.val.se/).",
+    "resolutionSource": "",
+    "startDate": "2026-08-13T09:43:33Z",
+    "creationDate": "2026-08-13T09:45:26.431297Z",
+    "endDate": "2026-09-13T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-mod-09be805398.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-mod-09be805398.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 316024.81109,
+    "openInterest": 135479.836773,
+    "sortBy": "ascending",
+    "createdAt": "2026-08-13T09:43:18.028647Z",
+    "updatedAt": "2026-09-20T19:06:42.792664Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x185ab712403dbfb02d632e8aefd1c5fdda28e2d2a6d3b25a5bdbe6165e345900",
+    "commentCount": 21,
+    "cyom": false,
+    "closedTime": "2026-09-19T19:03:27Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "countryName": "Sweden",
+    "electionType": "Parliamentary",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-08-13T09:43:22.803111Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-08-13T09:43:33Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.005,
+  "automaticallyResolved": true,
+  "oneWeekPriceChange": -0.0795,
+  "oneMonthPriceChange": -0.1175,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.005,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-08-13T09:43:22.874325Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1786665616,
+   "p": 0.2
+  },
+  {
+   "t": 1786752015,
+   "p": 0.085
+  },
+  {
+   "t": 1786838416,
+   "p": 0.12
+  },
+  {
+   "t": 1786924817,
+   "p": 0.135
+  },
+  {
+   "t": 1787011227,
+   "p": 0.11
+  },
+  {
+   "t": 1787097617,
+   "p": 0.1
+  },
+  {
+   "t": 1787184020,
+   "p": 0.12
+  },
+  {
+   "t": 1787270417,
+   "p": 0.115
+  },
+  {
+   "t": 1787356816,
+   "p": 0.115
+  },
+  {
+   "t": 1787443215,
+   "p": 0.115
+  },
+  {
+   "t": 1787529618,
+   "p": 0.07
+  },
+  {
+   "t": 1787616016,
+   "p": 0.07
+  },
+  {
+   "t": 1787702417,
+   "p": 0.065
+  },
+  {
+   "t": 1787788818,
+   "p": 0.095
+  },
+  {
+   "t": 1787875217,
+   "p": 0.12
+  },
+  {
+   "t": 1787961618,
+   "p": 0.115
+  },
+  {
+   "t": 1788048017,
+   "p": 0.105
+  },
+  {
+   "t": 1788134418,
+   "p": 0.115
+  },
+  {
+   "t": 1788220828,
+   "p": 0.12
+  },
+  {
+   "t": 1788307216,
+   "p": 0.12
+  },
+  {
+   "t": 1788393620,
+   "p": 0.11
+  },
+  {
+   "t": 1788480017,
+   "p": 0.11
+  },
+  {
+   "t": 1788566416,
+   "p": 0.105
+  },
+  {
+   "t": 1788652822,
+   "p": 0.105
+  },
+  {
+   "t": 1788739231,
+   "p": 0.16
+  },
+  {
+   "t": 1788825615,
+   "p": 0.061
+  },
+  {
+   "t": 1788912022,
+   "p": 0.055
+  },
+  {
+   "t": 1788998417,
+   "p": 0.0265
+  },
+  {
+   "t": 1789084818,
+   "p": 0.048
+  },
+  {
+   "t": 1789171218,
+   "p": 0.054
+  },
+  {
+   "t": 1789257617,
+   "p": 0.078
+  },
+  {
+   "t": 1789344015,
+   "p": 0.066
+  },
+  {
+   "t": 1789430414,
+   "p": 0.066
+  },
+  {
+   "t": 1789516815,
+   "p": 0.0885
+  },
+  {
+   "t": 1789603216,
+   "p": 0.0025
+  },
+  {
+   "t": 1789689619,
+   "p": 0.0015
+  },
+  {
+   "t": 1789776019,
+   "p": 0.005
+  }
+ ]
+}

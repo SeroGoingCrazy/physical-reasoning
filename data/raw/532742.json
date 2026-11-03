@@ -1,0 +1,456 @@
+{
+ "market": {
+  "id": "532742",
+  "question": "Israel military action against Iran before July?",
+  "conditionId": "0xd25ff3223a2233f6cd96a349455ca3237931c64358792f90c5f02d8cc39be38d",
+  "slug": "israel-military-action-against-iran-before-july",
+  "resolutionSource": "",
+  "endDate": "2025-06-30T12:00:00Z",
+  "startDate": "2025-03-31T17:03:55.237Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-military-action-against-iran-before-july-QGx2BaN6VWXp.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-military-action-against-iran-before-july-QGx2BaN6VWXp.jpg",
+  "description": "This market will resolve to \"Yes\" if Israel initiates a military action on Iranian soil, airspace, or maritime territory or against any Iranian embassies or consulates between March 31, and June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a \"military action\" will be considered to be any use of force executed by Israel on Iranian soil, airspace, or maritime territory (e.g. if a weapons depot on Iranian soil is hit by an Israeli missile, this market will resolve to \"Yes\") that is officially acknowledged by the Israeli government or a consensus of credible reporting. This includes, but is not limited to, airstrikes, naval attacks, or ground invasions. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.\n\nIn the case that the \"Yes\" resolution criteria are met prior to this market's resolution date, this market will resolve immediately.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "4506858.957355",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-03-31T16:47:35.478417Z",
+  "updatedAt": "2025-06-14T08:24:31.174436Z",
+  "closedTime": "2025-06-13 03:24:45+00",
+  "new": false,
+  "featured": true,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x45244d59a3d70008463a9a375510d5a79a0b01178aafc00a3e4cac75f1974bf2",
+  "umaEndDate": "2025-06-13T03:24:45Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 4506858.957355,
+  "endDateIso": "2025-06-30",
+  "startDateIso": "2025-03-31",
+  "hasReviewedDates": true,
+  "volume1wk": 2568510.5526659964,
+  "volume1mo": 3644915.2542719953,
+  "volume1yr": 4506858.957354992,
+  "clobTokenIds": "[\"109681959945973300464568698402968596289258214226684818748321941747028805721376\", \"27456501610006311014068399561885358574565747911401600704676751676364482833825\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 2568510.5526659964,
+  "volume1moClob": 3644915.2542719953,
+  "volume1yrClob": 4506858.957354992,
+  "volumeClob": 4506858.957355,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "21903",
+    "ticker": "israel-military-action-against-iran-before-july",
+    "slug": "israel-military-action-against-iran-before-july",
+    "title": "Israel military action against Iran before July?",
+    "description": "This market will resolve to \"Yes\" if Israel initiates a military action on Iranian soil, airspace, or maritime territory or against any Iranian embassies or consulates between March 31, and June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a \"military action\" will be considered to be any use of force executed by Israel on Iranian soil, airspace, or maritime territory (e.g. if a weapons depot on Iranian soil is hit by an Israeli missile, this market will resolve to \"Yes\") that is officially acknowledged by the Israeli government or a consensus of credible reporting. This includes, but is not limited to, airstrikes, naval attacks, or ground invasions. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.\n\nIn the case that the \"Yes\" resolution criteria are met prior to this market's resolution date, this market will resolve immediately.",
+    "resolutionSource": "",
+    "startDate": "2025-03-31T17:04:49.015688Z",
+    "creationDate": "2025-03-31T17:04:49.015686Z",
+    "endDate": "2025-06-30T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-military-action-against-iran-before-july-QGx2BaN6VWXp.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-military-action-against-iran-before-july-QGx2BaN6VWXp.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 4506858.957355,
+    "openInterest": 0,
+    "createdAt": "2025-03-31T16:47:34.748592Z",
+    "updatedAt": "2025-06-14T08:24:34.725165Z",
+    "volume1wk": 2568510.5526659964,
+    "volume1mo": 3644915.2542719953,
+    "volume1yr": 4506858.957354992,
+    "enableOrderBook": true,
+    "commentCount": 3485,
+    "series": [
+     {
+      "id": "10108",
+      "ticker": "israel-strike-iran",
+      "slug": "israel-strike-iran",
+      "title": "Israel strike iran",
+      "seriesType": "single",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-issue-an-executive-order-on-february-14-IRIODX3MAqwP.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/trump-negative-approval-before-march-1qIERzlB6HpB.jpg",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-05-21T01:57:08.443692Z",
+      "updatedAt": "2026-09-30T13:44:40.617933Z",
+      "commentCount": 4000
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2025-06-13T03:24:45Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "israel-strike-iran",
+    "negRiskAugmented": false,
+    "featuredOrder": 5,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-03-31T17:02:49Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "19881",
+    "conditionId": "0xd25ff3223a2233f6cd96a349455ca3237931c64358792f90c5f02d8cc39be38d",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 10,
+    "startDate": "2025-03-31",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.5645,
+  "oneHourPriceChange": 0.0005,
+  "oneWeekPriceChange": 0.7895,
+  "oneMonthPriceChange": 0.7645,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1743465605,
+   "p": 0.295
+  },
+  {
+   "t": 1743552006,
+   "p": 0.385
+  },
+  {
+   "t": 1743638405,
+   "p": 0.39
+  },
+  {
+   "t": 1743724805,
+   "p": 0.355
+  },
+  {
+   "t": 1743811205,
+   "p": 0.275
+  },
+  {
+   "t": 1743897605,
+   "p": 0.275
+  },
+  {
+   "t": 1743984006,
+   "p": 0.285
+  },
+  {
+   "t": 1744070406,
+   "p": 0.27
+  },
+  {
+   "t": 1744156806,
+   "p": 0.26
+  },
+  {
+   "t": 1744243205,
+   "p": 0.275
+  },
+  {
+   "t": 1744329605,
+   "p": 0.275
+  },
+  {
+   "t": 1744416006,
+   "p": 0.245
+  },
+  {
+   "t": 1744502405,
+   "p": 0.24
+  },
+  {
+   "t": 1744588805,
+   "p": 0.25
+  },
+  {
+   "t": 1744675205,
+   "p": 0.25
+  },
+  {
+   "t": 1744761605,
+   "p": 0.18
+  },
+  {
+   "t": 1744848006,
+   "p": 0.18
+  },
+  {
+   "t": 1744934404,
+   "p": 0.2
+  },
+  {
+   "t": 1745020806,
+   "p": 0.205
+  },
+  {
+   "t": 1745107206,
+   "p": 0.24
+  },
+  {
+   "t": 1745193606,
+   "p": 0.24
+  },
+  {
+   "t": 1745280006,
+   "p": 0.27
+  },
+  {
+   "t": 1745366407,
+   "p": 0.28
+  },
+  {
+   "t": 1745452806,
+   "p": 0.31
+  },
+  {
+   "t": 1745539206,
+   "p": 0.295
+  },
+  {
+   "t": 1745625606,
+   "p": 0.315
+  },
+  {
+   "t": 1745712005,
+   "p": 0.315
+  },
+  {
+   "t": 1745798405,
+   "p": 0.285
+  },
+  {
+   "t": 1745884805,
+   "p": 0.27
+  },
+  {
+   "t": 1745971206,
+   "p": 0.215
+  },
+  {
+   "t": 1746057606,
+   "p": 0.195
+  },
+  {
+   "t": 1746144006,
+   "p": 0.225
+  },
+  {
+   "t": 1746230406,
+   "p": 0.2
+  },
+  {
+   "t": 1746316805,
+   "p": 0.22
+  },
+  {
+   "t": 1746403205,
+   "p": 0.28
+  },
+  {
+   "t": 1746489606,
+   "p": 0.235
+  },
+  {
+   "t": 1746576005,
+   "p": 0.25
+  },
+  {
+   "t": 1746662406,
+   "p": 0.21
+  },
+  {
+   "t": 1746748807,
+   "p": 0.175
+  },
+  {
+   "t": 1746835206,
+   "p": 0.185
+  },
+  {
+   "t": 1746921606,
+   "p": 0.21
+  },
+  {
+   "t": 1747008006,
+   "p": 0.225
+  },
+  {
+   "t": 1747094406,
+   "p": 0.2
+  },
+  {
+   "t": 1747180807,
+   "p": 0.24
+  },
+  {
+   "t": 1747267207,
+   "p": 0.235
+  },
+  {
+   "t": 1747353606,
+   "p": 0.21
+  },
+  {
+   "t": 1747440007,
+   "p": 0.205
+  },
+  {
+   "t": 1747526406,
+   "p": 0.21
+  },
+  {
+   "t": 1747612806,
+   "p": 0.26
+  },
+  {
+   "t": 1747699206,
+   "p": 0.255
+  },
+  {
+   "t": 1747785606,
+   "p": 0.34
+  },
+  {
+   "t": 1747872007,
+   "p": 0.28
+  },
+  {
+   "t": 1747958407,
+   "p": 0.285
+  },
+  {
+   "t": 1748044807,
+   "p": 0.285
+  },
+  {
+   "t": 1748131206,
+   "p": 0.275
+  },
+  {
+   "t": 1748217607,
+   "p": 0.27
+  },
+  {
+   "t": 1748304006,
+   "p": 0.245
+  },
+  {
+   "t": 1748390406,
+   "p": 0.235
+  },
+  {
+   "t": 1748476807,
+   "p": 0.245
+  },
+  {
+   "t": 1748563207,
+   "p": 0.24
+  },
+  {
+   "t": 1748649607,
+   "p": 0.245
+  },
+  {
+   "t": 1748736007,
+   "p": 0.275
+  },
+  {
+   "t": 1748822406,
+   "p": 0.265
+  },
+  {
+   "t": 1748908807,
+   "p": 0.255
+  },
+  {
+   "t": 1748995206,
+   "p": 0.24
+  },
+  {
+   "t": 1749081606,
+   "p": 0.225
+  },
+  {
+   "t": 1749168006,
+   "p": 0.215
+  },
+  {
+   "t": 1749254407,
+   "p": 0.205
+  },
+  {
+   "t": 1749340807,
+   "p": 0.205
+  },
+  {
+   "t": 1749427207,
+   "p": 0.205
+  },
+  {
+   "t": 1749513606,
+   "p": 0.27
+  },
+  {
+   "t": 1749600007,
+   "p": 0.275
+  },
+  {
+   "t": 1749686407,
+   "p": 0.445
+  },
+  {
+   "t": 1749772807,
+   "p": 0.915
+  }
+ ]
+}

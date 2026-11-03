@@ -1,0 +1,27 @@
+{
+ "id": "3562254",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.22,
+ "reasoning": "The Moderate Party won 19.1% of valid votes in the 2022 Swedish election. Through 2025 and into 2026, its polling has mostly sat around 17-19%, so reaching 20% would require a modest gain over its recent average and its previous result. Polls in Sweden can shift in the months before an election, and a campaign surge is possible, but the party's trend has been flat to slightly down rather than rising. Nothing I know of as of 2026-08-13 points to a clear breakout, so I put the chance of 20% or more somewhat below even odds. I do not know how the election actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 955,
+  "output_tokens": 412,
+  "output_tokens_details": {
+   "thinking_tokens": 199
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003015
+}

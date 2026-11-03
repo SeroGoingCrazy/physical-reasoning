@@ -1,0 +1,27 @@
+{
+ "id": "530839",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.8,
+ "reasoning": "The Liberals under new leader Mark Carney surged in national polling after he replaced Trudeau in March 2025, narrowing or reversing the Bloc Qu\u00e9b\u00e9cois's lead in Quebec. In 2021 the Liberals won 35 of Quebec's 78 seats, a plurality ahead of the Bloc's 32, and the Bloc's Quebec lead in 2024 polling was largely eroded by Carney's rise. The Bloc's vote is concentrated, which could still give it a seat advantage despite close vote shares, and the Conservatives are a distant third in Quebec. My recollection is that the Liberals did win the most Quebec seats on April 28, 2025, but my confidence in that recall is moderate, so I am not treating it as certain.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 813,
+  "output_tokens": 825,
+  "output_tokens_details": {
+   "thinking_tokens": 559
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0004938
+}

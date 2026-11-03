@@ -1,0 +1,274 @@
+{
+ "market": {
+  "id": "4824600",
+  "question": "Will Aleksandar Vu\u010di\u0107 \u2013 United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+  "conditionId": "0xda4a7d85a3c1abaf52bb4dd561d45c1cb33e7f76f76a21069a0d10d4668aefa6",
+  "slug": "will-aleksandar-vucic-united-serbia-win-the-most-seats-in-the-2026-serbian-parliamentary-election",
+  "resolutionSource": "https://www.rik.parlament.gov.rs/",
+  "endDate": "2026-10-25T23:59:00Z",
+  "startDate": "2026-09-21T22:57:07Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/srb26-sns-fb8c4a9d4e.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/srb26-sns-fb8c4a9d4e.jpg",
+  "description": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "4481773.564998",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-09-21T22:56:02.004089Z",
+  "updatedAt": "2026-10-27T05:20:50.678963Z",
+  "closedTime": "2026-10-26 05:19:22.143448+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Aleksandar Vu\u010di\u0107 \u2013 United Serbia",
+  "groupItemThreshold": "0",
+  "questionID": "0xbf1335751e6a6395b44edc13743a53b248e5970b2014541b10c511be8cc3dd00",
+  "umaEndDate": "2026-10-26 05:19:22.143448+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 4481773.564998,
+  "endDateIso": "2026-10-25",
+  "startDateIso": "2026-09-21",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"40220000390489237442666590685171156363211017606636287738930798027342360240862\", \"27580599101456904267590411630030264757609607532043711182842476051444173220871\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 4481773.564998,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xbf1335751e6a6395b44edc13743a53b248e5970b2014541b10c511be8cc3dd00",
+  "negRiskRequestID": "0xb1b769161fede55cccac5502c20c71b59b7c2e9a286a377610b409bea340e479",
+  "events": [
+   {
+    "id": "1061332",
+    "ticker": "serbia-parliamentary-election-winner-2026",
+    "slug": "serbia-parliamentary-election-winner-2026",
+    "title": "Serbia Parliamentary Election Winner",
+    "description": "Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.\n\nThis market will resolve to the electoral list that wins the greatest number of seats in the National Assembly of Serbia as a result of this election.\n\nElectoral lists will be primarily ranked by the number of seats won in the specified election. If two or more lists are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If lists remain tied, ties will be broken by alphabetical order of the listed names. This market will resolve to the list that occupies the highest finishing position after applying this ranking.\n\nThis market's resolution will be based solely on the number of seats won by the named electoral list, as it appears on the ballot and official proclamations, regardless of which parties make up the list or how its members later organize themselves in the National Assembly.\n\nIf the results of the specified election are not definitively known by March 31, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThis market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Republic Electoral Commission of Serbia (https://www.rik.parlament.gov.rs/).",
+    "resolutionSource": "https://www.rik.parlament.gov.rs/",
+    "startDate": "2026-09-21T22:57:07Z",
+    "creationDate": "2026-09-21T22:59:16.759105Z",
+    "endDate": "2026-10-25T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-serbia-20260629223938642-1arHDSHMNTZz.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 11325993.581469,
+    "openInterest": 3744140.8398210006,
+    "sortBy": "price",
+    "createdAt": "2026-09-21T22:56:00.964765Z",
+    "updatedAt": "2026-10-27T05:23:01.273679Z",
+    "volume1wk": 1673476.0462480006,
+    "volume1mo": 2046374.6001860003,
+    "volume1yr": 2099389.7451110003,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xbf1335751e6a6395b44edc13743a53b248e5970b2014541b10c511be8cc3dd00",
+    "commentCount": 715,
+    "cyom": false,
+    "closedTime": "2026-10-26T05:20:42Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": false,
+    "startTime": "2026-10-25T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Serbia",
+    "electionType": "Parliamentary",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-09-21T22:56:31.384881Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-09-21T22:57:07Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.7395,
+  "oneWeekPriceChange": -0.6745,
+  "oneMonthPriceChange": -0.6945,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-09-21T22:56:31.408092Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1790035215,
+   "p": 0.495
+  },
+  {
+   "t": 1790121616,
+   "p": 0.605
+  },
+  {
+   "t": 1790208028,
+   "p": 0.595
+  },
+  {
+   "t": 1790294419,
+   "p": 0.625
+  },
+  {
+   "t": 1790380816,
+   "p": 0.59
+  },
+  {
+   "t": 1790467215,
+   "p": 0.645
+  },
+  {
+   "t": 1790553630,
+   "p": 0.65
+  },
+  {
+   "t": 1790640016,
+   "p": 0.655
+  },
+  {
+   "t": 1790726418,
+   "p": 0.655
+  },
+  {
+   "t": 1790812819,
+   "p": 0.65
+  },
+  {
+   "t": 1790899217,
+   "p": 0.65
+  },
+  {
+   "t": 1790985621,
+   "p": 0.665
+  },
+  {
+   "t": 1791072017,
+   "p": 0.665
+  },
+  {
+   "t": 1791158420,
+   "p": 0.66
+  },
+  {
+   "t": 1791244819,
+   "p": 0.635
+  },
+  {
+   "t": 1791331222,
+   "p": 0.635
+  },
+  {
+   "t": 1791417630,
+   "p": 0.615
+  },
+  {
+   "t": 1791504030,
+   "p": 0.595
+  },
+  {
+   "t": 1791590423,
+   "p": 0.615
+  },
+  {
+   "t": 1791676828,
+   "p": 0.62
+  },
+  {
+   "t": 1791763239,
+   "p": 0.605
+  },
+  {
+   "t": 1791849630,
+   "p": 0.625
+  },
+  {
+   "t": 1791936028,
+   "p": 0.625
+  },
+  {
+   "t": 1792022443,
+   "p": 0.625
+  },
+  {
+   "t": 1792108828,
+   "p": 0.615
+  },
+  {
+   "t": 1792195234,
+   "p": 0.61
+  },
+  {
+   "t": 1792281654,
+   "p": 0.635
+  },
+  {
+   "t": 1792368026,
+   "p": 0.655
+  },
+  {
+   "t": 1792454426,
+   "p": 0.68
+  },
+  {
+   "t": 1792540828,
+   "p": 0.685
+  },
+  {
+   "t": 1792713644,
+   "p": 0.685
+  },
+  {
+   "t": 1792800042,
+   "p": 0.705
+  }
+ ]
+}

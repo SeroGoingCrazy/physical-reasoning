@@ -1,0 +1,27 @@
+{
+ "id": "2089111",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.12,
+ "reasoning": "Ciro Gomes, a former Cear\u00e1 governor, has been widely discussed as a possible 2026 gubernatorial candidate, but he faces a strong field. The incumbent Elmano de Freitas (PT) has the backing of the Lula-aligned machine, the state has leaned heavily toward the PT-allied bloc in recent elections, and incumbents running for reelection are generally favored. Ciro's candidacy is also not guaranteed, and there is a chance he runs for another office or does not run. I have no knowledge of the actual result, so this estimate rests on structural factors and a modest chance of a Ciro victory.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 800,
+  "output_tokens": 934,
+  "output_tokens_details": {
+   "thinking_tokens": 711
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005470000000000001
+}

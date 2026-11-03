@@ -1,0 +1,27 @@
+{
+ "id": "2100981",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.52,
+ "reasoning": "Throughout 2025 and early 2026, polls generally showed Likud as the largest single party, at roughly 24-27 seats. Bennett's party usually polled in the high teens to low 20s. The market's explicit reference to 'Together' suggests a Bennett\u2013Lapid merger (or similar), and a combined list could poll near or above Likud. Historically, merged lists often win fewer seats than their parts polled separately. Likud's base is very stable, and the security environment and campaign dynamics could favor Netanyahu. Other events could shift things either way: Likud splits, new right-wing lists, or further opposition consolidation (e.g., Eisenkot joining). Overall this looks close to a toss-up, with a slight edge to Likud for base stability.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1329,
+  "output_tokens": 608,
+  "output_tokens_details": {
+   "thinking_tokens": 345
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.017476000000000002
+}

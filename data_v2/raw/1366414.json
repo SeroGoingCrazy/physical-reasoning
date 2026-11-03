@@ -1,0 +1,1037 @@
+{
+ "market": {
+  "id": "1366414",
+  "question": "Will Partido Liberal (PL) win the most seats in the next Brazilian Senate election?",
+  "conditionId": "0xbd30a99e5e7572bcf8cb89def3fcaabbd59afdb343f931de2b261e8f42ad716d",
+  "slug": "will-partido-liberal-pl-win-the-most-seats-in-the-next-brazilian-senate-election",
+  "resolutionSource": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+  "endDate": "2026-10-05T03:59:00Z",
+  "startDate": "2026-02-11T22:37:44.96657Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-partido-liberal-pl-win-the-most-seats-in-the-next-brazilian-senate-election-xVEuIViCeHQN.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-partido-liberal-pl-win-the-most-seats-in-the-next-brazilian-senate-election-xVEuIViCeHQN.png",
+  "description": "The next federal Senate election is scheduled to take place in Brazil on October 4, 2026, in which two-thirds of the Senate\u2019s 81 seats will be contested.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the next Brazilian Senate election. \n\nOnly seats contested in the next Brazilian Senate election will be considered.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "269387.23830499995",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-02-11T16:45:48.800954Z",
+  "updatedAt": "2026-10-07T20:08:36.798727Z",
+  "closedTime": "2026-10-05 07:31:11+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "PL",
+  "groupItemThreshold": "0",
+  "questionID": "0xb2701dda01d00121733794a5d93f2a4ecd21582921c77961de6ee151c0f28800",
+  "umaEndDate": "2026-10-05T07:31:11Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 269387.23830499995,
+  "endDateIso": "2026-10-05",
+  "startDateIso": "2026-02-11",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"98638426952414884640940089760414665318123704330665867082434547092905248053858\", \"41342442725734765986993687139497605133773269989779790610380893121656725020587\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 269387.23830499995,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xb2701dda01d00121733794a5d93f2a4ecd21582921c77961de6ee151c0f28800",
+  "negRiskRequestID": "0x763ea247a199f2f37ad79b632609ff8f991ace666fa11119edb6699e2b9840ff",
+  "events": [
+   {
+    "id": "205176",
+    "ticker": "next-brazil-senate-election-most-seats-won",
+    "slug": "next-brazil-senate-election-most-seats-won",
+    "title": "Next Brazil Senate Election: Most Seats Won",
+    "description": "The next federal Senate election is scheduled to take place in Brazil on October 4, 2026, in which two-thirds of the Senate\u2019s 81 seats will be contested.\n\nThis market will resolve according to the political party that wins the greatest number of seats in the next Brazilian Senate election. \n\nOnly seats contested in the next Brazilian Senate election will be considered.\n\nIn the event of a tie between multiple parties for the most seats won, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party in the Brazilian Senate, not by any federation or coalition it may be a part of.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+    "resolutionSource": "",
+    "startDate": "2026-02-11T22:37:44.96657Z",
+    "creationDate": "2026-02-11T22:41:35.593408Z",
+    "endDate": "2026-10-05T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 330165.840956,
+    "openInterest": 10722.673658999998,
+    "sortBy": "price",
+    "createdAt": "2026-02-11T16:45:46.353584Z",
+    "updatedAt": "2026-10-06T07:16:19.248526Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xb2701dda01d00121733794a5d93f2a4ecd21582921c77961de6ee151c0f28800",
+    "commentCount": 11,
+    "cyom": false,
+    "closedTime": "2026-10-05T07:32:11Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-10-04T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Brazil",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-02-11T22:33:42.150183Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-02-11T22:36:23Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0365,
+  "oneWeekPriceChange": 0.0895,
+  "oneMonthPriceChange": 0.1745,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-02-11T22:35:08.960471Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1770854437,
+   "p": 0.485
+  },
+  {
+   "t": 1770940826,
+   "p": 0.215
+  },
+  {
+   "t": 1771027230,
+   "p": 0.205
+  },
+  {
+   "t": 1771113628,
+   "p": 0.42
+  },
+  {
+   "t": 1771200039,
+   "p": 0.435
+  },
+  {
+   "t": 1771286429,
+   "p": 0.45
+  },
+  {
+   "t": 1771372831,
+   "p": 0.54
+  },
+  {
+   "t": 1771459232,
+   "p": 0.59
+  },
+  {
+   "t": 1771545631,
+   "p": 0.595
+  },
+  {
+   "t": 1771632023,
+   "p": 0.635
+  },
+  {
+   "t": 1771718424,
+   "p": 0.635
+  },
+  {
+   "t": 1771804826,
+   "p": 0.615
+  },
+  {
+   "t": 1771891226,
+   "p": 0.665
+  },
+  {
+   "t": 1771977629,
+   "p": 0.61
+  },
+  {
+   "t": 1772064028,
+   "p": 0.66
+  },
+  {
+   "t": 1772150431,
+   "p": 0.68
+  },
+  {
+   "t": 1772236833,
+   "p": 0.745
+  },
+  {
+   "t": 1772323239,
+   "p": 0.74
+  },
+  {
+   "t": 1772409644,
+   "p": 0.73
+  },
+  {
+   "t": 1772496034,
+   "p": 0.765
+  },
+  {
+   "t": 1772582437,
+   "p": 0.745
+  },
+  {
+   "t": 1772668833,
+   "p": 0.735
+  },
+  {
+   "t": 1772755232,
+   "p": 0.735
+  },
+  {
+   "t": 1772841637,
+   "p": 0.74
+  },
+  {
+   "t": 1772928031,
+   "p": 0.74
+  },
+  {
+   "t": 1773014426,
+   "p": 0.74
+  },
+  {
+   "t": 1773100831,
+   "p": 0.765
+  },
+  {
+   "t": 1773187235,
+   "p": 0.635
+  },
+  {
+   "t": 1773273634,
+   "p": 0.62
+  },
+  {
+   "t": 1773360051,
+   "p": 0.675
+  },
+  {
+   "t": 1773446452,
+   "p": 0.735
+  },
+  {
+   "t": 1773532856,
+   "p": 0.685
+  },
+  {
+   "t": 1773705643,
+   "p": 0.72
+  },
+  {
+   "t": 1773792044,
+   "p": 0.705
+  },
+  {
+   "t": 1773964848,
+   "p": 0.655
+  },
+  {
+   "t": 1774051248,
+   "p": 0.66
+  },
+  {
+   "t": 1774137645,
+   "p": 0.71
+  },
+  {
+   "t": 1774224038,
+   "p": 0.77
+  },
+  {
+   "t": 1774310434,
+   "p": 0.685
+  },
+  {
+   "t": 1774396834,
+   "p": 0.69
+  },
+  {
+   "t": 1774483237,
+   "p": 0.72
+  },
+  {
+   "t": 1774569634,
+   "p": 0.75
+  },
+  {
+   "t": 1774656036,
+   "p": 0.72
+  },
+  {
+   "t": 1774742439,
+   "p": 0.725
+  },
+  {
+   "t": 1774828850,
+   "p": 0.77
+  },
+  {
+   "t": 1774915246,
+   "p": 0.675
+  },
+  {
+   "t": 1775001654,
+   "p": 0.745
+  },
+  {
+   "t": 1775088049,
+   "p": 0.755
+  },
+  {
+   "t": 1775174457,
+   "p": 0.75
+  },
+  {
+   "t": 1775260855,
+   "p": 0.76
+  },
+  {
+   "t": 1775433657,
+   "p": 0.79
+  },
+  {
+   "t": 1775520053,
+   "p": 0.775
+  },
+  {
+   "t": 1775692813,
+   "p": 0.785
+  },
+  {
+   "t": 1776038452,
+   "p": 0.78
+  },
+  {
+   "t": 1776211255,
+   "p": 0.745
+  },
+  {
+   "t": 1776297659,
+   "p": 0.795
+  },
+  {
+   "t": 1776470405,
+   "p": 0.795
+  },
+  {
+   "t": 1776816015,
+   "p": 0.855
+  },
+  {
+   "t": 1776902417,
+   "p": 0.825
+  },
+  {
+   "t": 1776988831,
+   "p": 0.825
+  },
+  {
+   "t": 1777075215,
+   "p": 0.765
+  },
+  {
+   "t": 1777161609,
+   "p": 0.795
+  },
+  {
+   "t": 1777248011,
+   "p": 0.815
+  },
+  {
+   "t": 1777334412,
+   "p": 0.845
+  },
+  {
+   "t": 1777420810,
+   "p": 0.835
+  },
+  {
+   "t": 1777507215,
+   "p": 0.8
+  },
+  {
+   "t": 1777593614,
+   "p": 0.775
+  },
+  {
+   "t": 1777680009,
+   "p": 0.765
+  },
+  {
+   "t": 1777766406,
+   "p": 0.795
+  },
+  {
+   "t": 1777852806,
+   "p": 0.87
+  },
+  {
+   "t": 1777939219,
+   "p": 0.86
+  },
+  {
+   "t": 1778025610,
+   "p": 0.835
+  },
+  {
+   "t": 1778112009,
+   "p": 0.84
+  },
+  {
+   "t": 1778198407,
+   "p": 0.815
+  },
+  {
+   "t": 1778284824,
+   "p": 0.815
+  },
+  {
+   "t": 1778371210,
+   "p": 0.835
+  },
+  {
+   "t": 1778457611,
+   "p": 0.825
+  },
+  {
+   "t": 1778544012,
+   "p": 0.775
+  },
+  {
+   "t": 1778630413,
+   "p": 0.77
+  },
+  {
+   "t": 1778716818,
+   "p": 0.785
+  },
+  {
+   "t": 1778803211,
+   "p": 0.77
+  },
+  {
+   "t": 1778889618,
+   "p": 0.8
+  },
+  {
+   "t": 1778976028,
+   "p": 0.795
+  },
+  {
+   "t": 1779062412,
+   "p": 0.8
+  },
+  {
+   "t": 1779148809,
+   "p": 0.765
+  },
+  {
+   "t": 1779235213,
+   "p": 0.79
+  },
+  {
+   "t": 1779321614,
+   "p": 0.74
+  },
+  {
+   "t": 1779408018,
+   "p": 0.75
+  },
+  {
+   "t": 1779494412,
+   "p": 0.695
+  },
+  {
+   "t": 1779580808,
+   "p": 0.67
+  },
+  {
+   "t": 1779667207,
+   "p": 0.72
+  },
+  {
+   "t": 1779753607,
+   "p": 0.675
+  },
+  {
+   "t": 1779840008,
+   "p": 0.7
+  },
+  {
+   "t": 1779926411,
+   "p": 0.62
+  },
+  {
+   "t": 1780012813,
+   "p": 0.58
+  },
+  {
+   "t": 1780099222,
+   "p": 0.69
+  },
+  {
+   "t": 1780185610,
+   "p": 0.685
+  },
+  {
+   "t": 1780272006,
+   "p": 0.68
+  },
+  {
+   "t": 1780358408,
+   "p": 0.78
+  },
+  {
+   "t": 1780444808,
+   "p": 0.755
+  },
+  {
+   "t": 1780531206,
+   "p": 0.73
+  },
+  {
+   "t": 1780617619,
+   "p": 0.725
+  },
+  {
+   "t": 1780704004,
+   "p": 0.725
+  },
+  {
+   "t": 1780790415,
+   "p": 0.735
+  },
+  {
+   "t": 1780876805,
+   "p": 0.73
+  },
+  {
+   "t": 1780963206,
+   "p": 0.735
+  },
+  {
+   "t": 1781049607,
+   "p": 0.735
+  },
+  {
+   "t": 1781136011,
+   "p": 0.73
+  },
+  {
+   "t": 1781222407,
+   "p": 0.725
+  },
+  {
+   "t": 1781308808,
+   "p": 0.725
+  },
+  {
+   "t": 1781395211,
+   "p": 0.765
+  },
+  {
+   "t": 1781481608,
+   "p": 0.73
+  },
+  {
+   "t": 1781568012,
+   "p": 0.73
+  },
+  {
+   "t": 1781654409,
+   "p": 0.73
+  },
+  {
+   "t": 1781740824,
+   "p": 0.77
+  },
+  {
+   "t": 1781827225,
+   "p": 0.775
+  },
+  {
+   "t": 1781913607,
+   "p": 0.775
+  },
+  {
+   "t": 1782000010,
+   "p": 0.775
+  },
+  {
+   "t": 1782086409,
+   "p": 0.775
+  },
+  {
+   "t": 1782172808,
+   "p": 0.765
+  },
+  {
+   "t": 1782259209,
+   "p": 0.765
+  },
+  {
+   "t": 1782345612,
+   "p": 0.765
+  },
+  {
+   "t": 1782432007,
+   "p": 0.765
+  },
+  {
+   "t": 1782518407,
+   "p": 0.765
+  },
+  {
+   "t": 1782604808,
+   "p": 0.765
+  },
+  {
+   "t": 1782691208,
+   "p": 0.765
+  },
+  {
+   "t": 1782777609,
+   "p": 0.755
+  },
+  {
+   "t": 1782864009,
+   "p": 0.755
+  },
+  {
+   "t": 1782950411,
+   "p": 0.745
+  },
+  {
+   "t": 1783036810,
+   "p": 0.735
+  },
+  {
+   "t": 1783123209,
+   "p": 0.875
+  },
+  {
+   "t": 1783209609,
+   "p": 0.875
+  },
+  {
+   "t": 1783296004,
+   "p": 0.875
+  },
+  {
+   "t": 1783382410,
+   "p": 0.875
+  },
+  {
+   "t": 1783468806,
+   "p": 0.875
+  },
+  {
+   "t": 1783555213,
+   "p": 0.875
+  },
+  {
+   "t": 1783641609,
+   "p": 0.875
+  },
+  {
+   "t": 1783728009,
+   "p": 0.875
+  },
+  {
+   "t": 1783814422,
+   "p": 0.875
+  },
+  {
+   "t": 1783900810,
+   "p": 0.875
+  },
+  {
+   "t": 1783987209,
+   "p": 0.875
+  },
+  {
+   "t": 1784073611,
+   "p": 0.845
+  },
+  {
+   "t": 1784160013,
+   "p": 0.845
+  },
+  {
+   "t": 1784246413,
+   "p": 0.86
+  },
+  {
+   "t": 1784332809,
+   "p": 0.86
+  },
+  {
+   "t": 1784419212,
+   "p": 0.855
+  },
+  {
+   "t": 1784505624,
+   "p": 0.855
+  },
+  {
+   "t": 1784592013,
+   "p": 0.855
+  },
+  {
+   "t": 1784678410,
+   "p": 0.86
+  },
+  {
+   "t": 1784764818,
+   "p": 0.72
+  },
+  {
+   "t": 1784851220,
+   "p": 0.675
+  },
+  {
+   "t": 1784937635,
+   "p": 0.705
+  },
+  {
+   "t": 1785024021,
+   "p": 0.7
+  },
+  {
+   "t": 1785110430,
+   "p": 0.71
+  },
+  {
+   "t": 1785196831,
+   "p": 0.705
+  },
+  {
+   "t": 1785369625,
+   "p": 0.71
+  },
+  {
+   "t": 1785456022,
+   "p": 0.67
+  },
+  {
+   "t": 1785542413,
+   "p": 0.72
+  },
+  {
+   "t": 1785628814,
+   "p": 0.725
+  },
+  {
+   "t": 1785715211,
+   "p": 0.725
+  },
+  {
+   "t": 1785801613,
+   "p": 0.75
+  },
+  {
+   "t": 1785888014,
+   "p": 0.745
+  },
+  {
+   "t": 1785974413,
+   "p": 0.745
+  },
+  {
+   "t": 1786060813,
+   "p": 0.73
+  },
+  {
+   "t": 1786147217,
+   "p": 0.73
+  },
+  {
+   "t": 1786233627,
+   "p": 0.77
+  },
+  {
+   "t": 1786320019,
+   "p": 0.755
+  },
+  {
+   "t": 1786406423,
+   "p": 0.755
+  },
+  {
+   "t": 1786492814,
+   "p": 0.765
+  },
+  {
+   "t": 1786579220,
+   "p": 0.765
+  },
+  {
+   "t": 1786665620,
+   "p": 0.77
+  },
+  {
+   "t": 1786752018,
+   "p": 0.77
+  },
+  {
+   "t": 1786838420,
+   "p": 0.77
+  },
+  {
+   "t": 1786924822,
+   "p": 0.775
+  },
+  {
+   "t": 1787011232,
+   "p": 0.77
+  },
+  {
+   "t": 1787097621,
+   "p": 0.77
+  },
+  {
+   "t": 1787184025,
+   "p": 0.78
+  },
+  {
+   "t": 1787270422,
+   "p": 0.78
+  },
+  {
+   "t": 1787356821,
+   "p": 0.785
+  },
+  {
+   "t": 1787443219,
+   "p": 0.785
+  },
+  {
+   "t": 1787529623,
+   "p": 0.78
+  },
+  {
+   "t": 1787616021,
+   "p": 0.775
+  },
+  {
+   "t": 1787702423,
+   "p": 0.775
+  },
+  {
+   "t": 1787788823,
+   "p": 0.775
+  },
+  {
+   "t": 1787875223,
+   "p": 0.77
+  },
+  {
+   "t": 1787961623,
+   "p": 0.77
+  },
+  {
+   "t": 1788048022,
+   "p": 0.77
+  },
+  {
+   "t": 1788134422,
+   "p": 0.775
+  },
+  {
+   "t": 1788220834,
+   "p": 0.79
+  },
+  {
+   "t": 1788307221,
+   "p": 0.79
+  },
+  {
+   "t": 1788393625,
+   "p": 0.835
+  },
+  {
+   "t": 1788480019,
+   "p": 0.825
+  },
+  {
+   "t": 1788566419,
+   "p": 0.825
+  },
+  {
+   "t": 1788652825,
+   "p": 0.825
+  },
+  {
+   "t": 1788739233,
+   "p": 0.825
+  },
+  {
+   "t": 1788825617,
+   "p": 0.825
+  },
+  {
+   "t": 1788912025,
+   "p": 0.825
+  },
+  {
+   "t": 1788998419,
+   "p": 0.825
+  },
+  {
+   "t": 1789084822,
+   "p": 0.83
+  },
+  {
+   "t": 1789171222,
+   "p": 0.835
+  },
+  {
+   "t": 1789257621,
+   "p": 0.84
+  },
+  {
+   "t": 1789344018,
+   "p": 0.835
+  },
+  {
+   "t": 1789430416,
+   "p": 0.84
+  },
+  {
+   "t": 1789516818,
+   "p": 0.835
+  },
+  {
+   "t": 1789603219,
+   "p": 0.84
+  },
+  {
+   "t": 1789689623,
+   "p": 0.835
+  },
+  {
+   "t": 1789776024,
+   "p": 0.835
+  },
+  {
+   "t": 1789862423,
+   "p": 0.85
+  },
+  {
+   "t": 1789948820,
+   "p": 0.845
+  },
+  {
+   "t": 1790035220,
+   "p": 0.835
+  },
+  {
+   "t": 1790121622,
+   "p": 0.835
+  },
+  {
+   "t": 1790208032,
+   "p": 0.84
+  },
+  {
+   "t": 1790294425,
+   "p": 0.9
+  },
+  {
+   "t": 1790380820,
+   "p": 0.895
+  },
+  {
+   "t": 1790467220,
+   "p": 0.92
+  },
+  {
+   "t": 1790553634,
+   "p": 0.925
+  },
+  {
+   "t": 1790640020,
+   "p": 0.93
+  },
+  {
+   "t": 1790726422,
+   "p": 0.945
+  },
+  {
+   "t": 1790812824,
+   "p": 0.9495
+  },
+  {
+   "t": 1790899222,
+   "p": 0.951
+  },
+  {
+   "t": 1790985625,
+   "p": 0.9535
+  },
+  {
+   "t": 1791072021,
+   "p": 0.9605
+  },
+  {
+   "t": 1791158426,
+   "p": 0.989
+  }
+ ]
+}

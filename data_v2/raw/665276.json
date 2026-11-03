@@ -1,0 +1,1059 @@
+{
+ "market": {
+  "id": "665276",
+  "question": "Will Donald Trump visit Turkey in 2026?",
+  "conditionId": "0xebb9a87581bb1de91adc9bf9d1a9528cc203976a7f3ab2c9f98b8ef8ff531f30",
+  "slug": "will-donald-trump-visit-turkey-in-2026",
+  "endDate": "2026-12-31T23:59:00Z",
+  "startDate": "2025-11-05T16:22:22.04198Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-donald-trump-visit-belarus-in-2025-323-oI3y481YMMbT.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-donald-trump-visit-belarus-in-2025-323-oI3y481YMMbT.png",
+  "description": "If U.S. President Donald Trump visits a listed country between January 1 and December 31, 2026 11:59 PM ET, the relevant market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Trump physically entering the terrestrial or maritime territory of the listed country. Whether or not Trump enters the country's airspace during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this information will be official information from government of the United States of America, official information from Trump or released by his verified social media accounts (e.g. https://twitter.com/POTUS), however, a consensus of credible reporting will also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "52281.37528200003",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-11-04T18:24:58.395534Z",
+  "updatedAt": "2026-10-01T12:23:42.131068Z",
+  "closedTime": "2026-07-07 14:03:13+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "Turkey",
+  "groupItemThreshold": "17",
+  "questionID": "0x6c6ce0ad5ca33dd4119f7fe9b831953f843b995130341686e817879dbfb5ae84",
+  "umaEndDate": "2026-07-07T14:03:13Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 52281.37528200003,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2025-11-05",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"80565662128011357962455571983404475296941157466178826606369369682747118038961\", \"88029921829559155644040266469543487163288728503973960517496363367588422824320\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 52281.37528200003,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "73079",
+    "ticker": "which-countries-will-donald-trump-visit-in-2026",
+    "slug": "which-countries-will-donald-trump-visit-in-2026",
+    "title": "Which countries will Donald Trump visit in 2026?",
+    "description": "If U.S. President Donald Trump visits a listed country between January 1 and December 31, 2026 11:59 PM ET, the relevant market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Trump physically entering the terrestrial or maritime territory of the listed country. Whether or not Trump enters the country's airspace during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this information will be official information from government of the United States of America, official information from Trump or released by his verified social media accounts (e.g. https://twitter.com/POTUS), however, a consensus of credible reporting will also be used.\n",
+    "resolutionSource": "",
+    "startDate": "2025-11-05T16:22:18.173968Z",
+    "creationDate": "2025-11-05T16:32:02.677089Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-countries-will-donald-trump-visit-in-2025-MFgaFiz7YhFu.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-countries-will-donald-trump-visit-in-2025-MFgaFiz7YhFu.jpg",
+    "active": true,
+    "closed": false,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 53749.72039,
+    "volume": 691715.2383610001,
+    "openInterest": 83704.30993900001,
+    "sortBy": "price",
+    "createdAt": "2025-11-04T18:24:49.336426Z",
+    "updatedAt": "2026-11-02T20:55:30.970907Z",
+    "competitive": 0.8908685968819599,
+    "volume24hr": 1518.113489,
+    "volume1wk": 54593.981921,
+    "volume1mo": 66658.280703,
+    "volume1yr": 259360.941583,
+    "enableOrderBook": true,
+    "liquidityClob": 53749.72039,
+    "negRisk": false,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "10523",
+      "ticker": "trump-countries-visited",
+      "slug": "trump-countries-visited",
+      "title": "Trump Countries Visited",
+      "seriesType": "single",
+      "recurrence": "annual",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-11-05T19:06:41.535596Z",
+      "updatedAt": "2026-11-02T20:55:45.776471Z",
+      "volume24hr": 1518.113489,
+      "volume": 691715.2383610001,
+      "liquidity": 53749.72039,
+      "commentCount": 247
+     }
+    ],
+    "cyom": false,
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "trump-countries-visited",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-11-05T16:21:59Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.002,
+  "oneWeekPriceChange": 0.0215,
+  "oneMonthPriceChange": 0.0645,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-11-05T16:21:26.191376Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1762387208,
+   "p": 0.77
+  },
+  {
+   "t": 1762473612,
+   "p": 0.845
+  },
+  {
+   "t": 1762560009,
+   "p": 0.85
+  },
+  {
+   "t": 1762646424,
+   "p": 0.735
+  },
+  {
+   "t": 1762732809,
+   "p": 0.735
+  },
+  {
+   "t": 1762819213,
+   "p": 0.735
+  },
+  {
+   "t": 1762905612,
+   "p": 0.73
+  },
+  {
+   "t": 1762992012,
+   "p": 0.705
+  },
+  {
+   "t": 1763078412,
+   "p": 0.735
+  },
+  {
+   "t": 1763164813,
+   "p": 0.74
+  },
+  {
+   "t": 1763251210,
+   "p": 0.67
+  },
+  {
+   "t": 1763337612,
+   "p": 0.665
+  },
+  {
+   "t": 1763424010,
+   "p": 0.67
+  },
+  {
+   "t": 1763510414,
+   "p": 0.655
+  },
+  {
+   "t": 1763596810,
+   "p": 0.81
+  },
+  {
+   "t": 1763683215,
+   "p": 0.715
+  },
+  {
+   "t": 1763769611,
+   "p": 0.755
+  },
+  {
+   "t": 1763856011,
+   "p": 0.745
+  },
+  {
+   "t": 1763942412,
+   "p": 0.68
+  },
+  {
+   "t": 1764028813,
+   "p": 0.72
+  },
+  {
+   "t": 1764115211,
+   "p": 0.765
+  },
+  {
+   "t": 1764201614,
+   "p": 0.825
+  },
+  {
+   "t": 1764288013,
+   "p": 0.69
+  },
+  {
+   "t": 1764374417,
+   "p": 0.76
+  },
+  {
+   "t": 1764460813,
+   "p": 0.75
+  },
+  {
+   "t": 1764547214,
+   "p": 0.685
+  },
+  {
+   "t": 1764633611,
+   "p": 0.76
+  },
+  {
+   "t": 1764720015,
+   "p": 0.74
+  },
+  {
+   "t": 1764806411,
+   "p": 0.68
+  },
+  {
+   "t": 1764892812,
+   "p": 0.72
+  },
+  {
+   "t": 1764979213,
+   "p": 0.68
+  },
+  {
+   "t": 1765065625,
+   "p": 0.68
+  },
+  {
+   "t": 1765152025,
+   "p": 0.68
+  },
+  {
+   "t": 1765238423,
+   "p": 0.755
+  },
+  {
+   "t": 1765324811,
+   "p": 0.755
+  },
+  {
+   "t": 1765411212,
+   "p": 0.68
+  },
+  {
+   "t": 1765497612,
+   "p": 0.745
+  },
+  {
+   "t": 1765584014,
+   "p": 0.75
+  },
+  {
+   "t": 1765670414,
+   "p": 0.755
+  },
+  {
+   "t": 1765756814,
+   "p": 0.735
+  },
+  {
+   "t": 1765843212,
+   "p": 0.75
+  },
+  {
+   "t": 1765929609,
+   "p": 0.75
+  },
+  {
+   "t": 1765929633,
+   "p": 0.75
+  },
+  {
+   "t": 1766016022,
+   "p": 0.75
+  },
+  {
+   "t": 1766102412,
+   "p": 0.75
+  },
+  {
+   "t": 1766188812,
+   "p": 0.675
+  },
+  {
+   "t": 1766275212,
+   "p": 0.675
+  },
+  {
+   "t": 1766361612,
+   "p": 0.675
+  },
+  {
+   "t": 1766448013,
+   "p": 0.665
+  },
+  {
+   "t": 1766534413,
+   "p": 0.73
+  },
+  {
+   "t": 1766620823,
+   "p": 0.75
+  },
+  {
+   "t": 1766707210,
+   "p": 0.73
+  },
+  {
+   "t": 1766793614,
+   "p": 0.705
+  },
+  {
+   "t": 1766880014,
+   "p": 0.74
+  },
+  {
+   "t": 1766966430,
+   "p": 0.74
+  },
+  {
+   "t": 1767052817,
+   "p": 0.705
+  },
+  {
+   "t": 1767139213,
+   "p": 0.665
+  },
+  {
+   "t": 1767225613,
+   "p": 0.665
+  },
+  {
+   "t": 1767312013,
+   "p": 0.625
+  },
+  {
+   "t": 1767398412,
+   "p": 0.825
+  },
+  {
+   "t": 1767484814,
+   "p": 0.835
+  },
+  {
+   "t": 1767571215,
+   "p": 0.825
+  },
+  {
+   "t": 1767657617,
+   "p": 0.825
+  },
+  {
+   "t": 1767744015,
+   "p": 0.825
+  },
+  {
+   "t": 1767830430,
+   "p": 0.835
+  },
+  {
+   "t": 1767916815,
+   "p": 0.84
+  },
+  {
+   "t": 1768003215,
+   "p": 0.845
+  },
+  {
+   "t": 1768089614,
+   "p": 0.85
+  },
+  {
+   "t": 1768176016,
+   "p": 0.845
+  },
+  {
+   "t": 1768262416,
+   "p": 0.84
+  },
+  {
+   "t": 1768348816,
+   "p": 0.805
+  },
+  {
+   "t": 1768435217,
+   "p": 0.805
+  },
+  {
+   "t": 1768521620,
+   "p": 0.805
+  },
+  {
+   "t": 1768608018,
+   "p": 0.81
+  },
+  {
+   "t": 1768694424,
+   "p": 0.81
+  },
+  {
+   "t": 1768780815,
+   "p": 0.805
+  },
+  {
+   "t": 1768867217,
+   "p": 0.805
+  },
+  {
+   "t": 1768953618,
+   "p": 0.8
+  },
+  {
+   "t": 1769040023,
+   "p": 0.8
+  },
+  {
+   "t": 1769126433,
+   "p": 0.8
+  },
+  {
+   "t": 1769212826,
+   "p": 0.8
+  },
+  {
+   "t": 1769299236,
+   "p": 0.8
+  },
+  {
+   "t": 1769385634,
+   "p": 0.8
+  },
+  {
+   "t": 1769472030,
+   "p": 0.805
+  },
+  {
+   "t": 1769558420,
+   "p": 0.805
+  },
+  {
+   "t": 1769644835,
+   "p": 0.805
+  },
+  {
+   "t": 1769731223,
+   "p": 0.805
+  },
+  {
+   "t": 1769817622,
+   "p": 0.815
+  },
+  {
+   "t": 1769904027,
+   "p": 0.825
+  },
+  {
+   "t": 1769990422,
+   "p": 0.815
+  },
+  {
+   "t": 1770076823,
+   "p": 0.825
+  },
+  {
+   "t": 1770163234,
+   "p": 0.81
+  },
+  {
+   "t": 1770249621,
+   "p": 0.815
+  },
+  {
+   "t": 1770336026,
+   "p": 0.81
+  },
+  {
+   "t": 1770422431,
+   "p": 0.76
+  },
+  {
+   "t": 1770508828,
+   "p": 0.78
+  },
+  {
+   "t": 1770595227,
+   "p": 0.715
+  },
+  {
+   "t": 1770681627,
+   "p": 0.685
+  },
+  {
+   "t": 1770768029,
+   "p": 0.68
+  },
+  {
+   "t": 1770854440,
+   "p": 0.715
+  },
+  {
+   "t": 1770940828,
+   "p": 0.725
+  },
+  {
+   "t": 1771027232,
+   "p": 0.735
+  },
+  {
+   "t": 1771113630,
+   "p": 0.73
+  },
+  {
+   "t": 1771200041,
+   "p": 0.72
+  },
+  {
+   "t": 1771286431,
+   "p": 0.7
+  },
+  {
+   "t": 1771372833,
+   "p": 0.795
+  },
+  {
+   "t": 1771459235,
+   "p": 0.85
+  },
+  {
+   "t": 1771545633,
+   "p": 0.8
+  },
+  {
+   "t": 1771632025,
+   "p": 0.775
+  },
+  {
+   "t": 1771718425,
+   "p": 0.79
+  },
+  {
+   "t": 1771804828,
+   "p": 0.815
+  },
+  {
+   "t": 1771891228,
+   "p": 0.815
+  },
+  {
+   "t": 1771977631,
+   "p": 0.815
+  },
+  {
+   "t": 1772064029,
+   "p": 0.755
+  },
+  {
+   "t": 1772150433,
+   "p": 0.815
+  },
+  {
+   "t": 1772236835,
+   "p": 0.805
+  },
+  {
+   "t": 1772323241,
+   "p": 0.84
+  },
+  {
+   "t": 1772409645,
+   "p": 0.84
+  },
+  {
+   "t": 1772496036,
+   "p": 0.84
+  },
+  {
+   "t": 1772582438,
+   "p": 0.775
+  },
+  {
+   "t": 1772668835,
+   "p": 0.825
+  },
+  {
+   "t": 1772755234,
+   "p": 0.83
+  },
+  {
+   "t": 1772841638,
+   "p": 0.745
+  },
+  {
+   "t": 1772928032,
+   "p": 0.75
+  },
+  {
+   "t": 1773014428,
+   "p": 0.755
+  },
+  {
+   "t": 1773100833,
+   "p": 0.79
+  },
+  {
+   "t": 1773187236,
+   "p": 0.835
+  },
+  {
+   "t": 1773273636,
+   "p": 0.805
+  },
+  {
+   "t": 1773360053,
+   "p": 0.795
+  },
+  {
+   "t": 1773446453,
+   "p": 0.81
+  },
+  {
+   "t": 1773532857,
+   "p": 0.765
+  },
+  {
+   "t": 1773705643,
+   "p": 0.78
+  },
+  {
+   "t": 1773792045,
+   "p": 0.74
+  },
+  {
+   "t": 1773964849,
+   "p": 0.715
+  },
+  {
+   "t": 1774051248,
+   "p": 0.705
+  },
+  {
+   "t": 1774137646,
+   "p": 0.745
+  },
+  {
+   "t": 1774224039,
+   "p": 0.715
+  },
+  {
+   "t": 1774310435,
+   "p": 0.74
+  },
+  {
+   "t": 1774396834,
+   "p": 0.74
+  },
+  {
+   "t": 1774483238,
+   "p": 0.71
+  },
+  {
+   "t": 1774569649,
+   "p": 0.75
+  },
+  {
+   "t": 1774656052,
+   "p": 0.775
+  },
+  {
+   "t": 1774742458,
+   "p": 0.77
+  },
+  {
+   "t": 1775347200,
+   "p": 0.54
+  },
+  {
+   "t": 1775692832,
+   "p": 0.645
+  },
+  {
+   "t": 1776470427,
+   "p": 0.595
+  },
+  {
+   "t": 1776816017,
+   "p": 0.61
+  },
+  {
+   "t": 1776902421,
+   "p": 0.6
+  },
+  {
+   "t": 1776988834,
+   "p": 0.61
+  },
+  {
+   "t": 1777075216,
+   "p": 0.62
+  },
+  {
+   "t": 1777161610,
+   "p": 0.66
+  },
+  {
+   "t": 1777248013,
+   "p": 0.64
+  },
+  {
+   "t": 1777334414,
+   "p": 0.6
+  },
+  {
+   "t": 1777420811,
+   "p": 0.53
+  },
+  {
+   "t": 1777507217,
+   "p": 0.58
+  },
+  {
+   "t": 1777593620,
+   "p": 0.56
+  },
+  {
+   "t": 1777680013,
+   "p": 0.57
+  },
+  {
+   "t": 1777766407,
+   "p": 0.685
+  },
+  {
+   "t": 1777852806,
+   "p": 0.685
+  },
+  {
+   "t": 1777939220,
+   "p": 0.695
+  },
+  {
+   "t": 1778025611,
+   "p": 0.73
+  },
+  {
+   "t": 1778112010,
+   "p": 0.69
+  },
+  {
+   "t": 1778198409,
+   "p": 0.675
+  },
+  {
+   "t": 1778284825,
+   "p": 0.685
+  },
+  {
+   "t": 1778371211,
+   "p": 0.62
+  },
+  {
+   "t": 1778457612,
+   "p": 0.625
+  },
+  {
+   "t": 1778544017,
+   "p": 0.61
+  },
+  {
+   "t": 1778630415,
+   "p": 0.585
+  },
+  {
+   "t": 1778716821,
+   "p": 0.75
+  },
+  {
+   "t": 1778803212,
+   "p": 0.695
+  },
+  {
+   "t": 1778889619,
+   "p": 0.725
+  },
+  {
+   "t": 1778976030,
+   "p": 0.735
+  },
+  {
+   "t": 1779062414,
+   "p": 0.775
+  },
+  {
+   "t": 1779148810,
+   "p": 0.81
+  },
+  {
+   "t": 1779235215,
+   "p": 0.785
+  },
+  {
+   "t": 1779321616,
+   "p": 0.825
+  },
+  {
+   "t": 1779408024,
+   "p": 0.79
+  },
+  {
+   "t": 1779494414,
+   "p": 0.86
+  },
+  {
+   "t": 1779580809,
+   "p": 0.795
+  },
+  {
+   "t": 1779667208,
+   "p": 0.825
+  },
+  {
+   "t": 1779753608,
+   "p": 0.775
+  },
+  {
+   "t": 1779840010,
+   "p": 0.77
+  },
+  {
+   "t": 1779926413,
+   "p": 0.735
+  },
+  {
+   "t": 1780012814,
+   "p": 0.71
+  },
+  {
+   "t": 1780099222,
+   "p": 0.715
+  },
+  {
+   "t": 1780185612,
+   "p": 0.715
+  },
+  {
+   "t": 1780272008,
+   "p": 0.84
+  },
+  {
+   "t": 1780358410,
+   "p": 0.855
+  },
+  {
+   "t": 1780444810,
+   "p": 0.86
+  },
+  {
+   "t": 1780531206,
+   "p": 0.915
+  },
+  {
+   "t": 1780617619,
+   "p": 0.93
+  },
+  {
+   "t": 1780704005,
+   "p": 0.92
+  },
+  {
+   "t": 1780790416,
+   "p": 0.94
+  },
+  {
+   "t": 1780876806,
+   "p": 0.935
+  },
+  {
+   "t": 1780963208,
+   "p": 0.93
+  },
+  {
+   "t": 1781049608,
+   "p": 0.935
+  },
+  {
+   "t": 1781136012,
+   "p": 0.935
+  },
+  {
+   "t": 1781222408,
+   "p": 0.92
+  },
+  {
+   "t": 1781308808,
+   "p": 0.925
+  },
+  {
+   "t": 1781395212,
+   "p": 0.935
+  },
+  {
+   "t": 1781481608,
+   "p": 0.885
+  },
+  {
+   "t": 1781568012,
+   "p": 0.915
+  },
+  {
+   "t": 1781654411,
+   "p": 0.89
+  },
+  {
+   "t": 1781740828,
+   "p": 0.9645
+  },
+  {
+   "t": 1781827227,
+   "p": 0.9775
+  },
+  {
+   "t": 1781913608,
+   "p": 0.937
+  },
+  {
+   "t": 1782000012,
+   "p": 0.9335
+  },
+  {
+   "t": 1782086411,
+   "p": 0.9735
+  },
+  {
+   "t": 1782172812,
+   "p": 0.9635
+  },
+  {
+   "t": 1782259210,
+   "p": 0.9635
+  },
+  {
+   "t": 1782345618,
+   "p": 0.9635
+  },
+  {
+   "t": 1782432009,
+   "p": 0.963
+  },
+  {
+   "t": 1782518410,
+   "p": 0.9605
+  },
+  {
+   "t": 1782604809,
+   "p": 0.965
+  },
+  {
+   "t": 1782691209,
+   "p": 0.9705
+  },
+  {
+   "t": 1782777611,
+   "p": 0.9685
+  },
+  {
+   "t": 1782864014,
+   "p": 0.994
+  },
+  {
+   "t": 1782950413,
+   "p": 0.985
+  },
+  {
+   "t": 1783036810,
+   "p": 0.9865
+  },
+  {
+   "t": 1783123211,
+   "p": 0.986
+  },
+  {
+   "t": 1783209611,
+   "p": 0.9935
+  },
+  {
+   "t": 1783296005,
+   "p": 0.985
+  },
+  {
+   "t": 1783382411,
+   "p": 0.998
+  }
+ ]
+}

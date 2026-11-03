@@ -1,0 +1,259 @@
+{
+ "market": {
+  "id": "1237131",
+  "question": "Will \"Microsoft\" be said during the next episode of the All-In Podcast?",
+  "conditionId": "0xc7dee18fb2c02b56f45720e753d0e4483f441e04a40062d58227ce2d9bd5dd40",
+  "slug": "will-microsoft-be-said-during-the-next-episode-of-the-all-in-podcast-327",
+  "endDate": "2026-01-23T00:00:00Z",
+  "startDate": "2026-01-22T18:29:38.84128Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-be-said-on-the-next-all-in-podcast-5L3fNGuYWETb.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-be-said-on-the-next-all-in-podcast-5L3fNGuYWETb.png",
+  "description": "The All-In Podcast is scheduled to release episodes every Friday. (https://allin.com/episodes)\n\nThis market will resolve to \"Yes\" if the listed term is mentioned by anyone during the next released episode of the All-In Podcast. Otherwise, the market will resolve to \"No\".\n\nIf clips of old episodes or prerecorded clips are aired where people are speaking, those clips will count toward this market's resolution.\n\nAI-generated audio or video will count toward this market's resolution.\n\nAny usage of the term, regardless of context, will count toward the resolution of this market.\n\nPluralization/possessive of the term will count toward the resolution of this market; however, other forms will NOT count.\n\nInstances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for \"joy,\" however \"killjoy\" is a compounding of the words \"kill\" and \"joy\").\n\nIf this market requires a specified number of mentions of a person\u2019s first or last name, a full-name mention will count as one mention (e.g., if a market is about \u201cJoe / Biden 5+ times,\u201d a mention of \u201cJoe Biden\u201d will count once).\n\nOnly All-Podcast episodes posted on (https://allin.com/episodes) will count for this market. Other episodes or specials posted on the youtube channel will not count.\n\nIf no such episode of the All-In Podcast is aired by February 28, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source will be audio of the event.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "123290.426619",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-01-21T21:48:49.694811Z",
+  "updatedAt": "2026-02-18T08:26:08.693163Z",
+  "closedTime": "2026-02-17 04:36:57+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "Microsoft",
+  "groupItemThreshold": "9",
+  "questionID": "0x267a44ee37e1edd8ff114ce064d59def50f2dc6f4b3989c480720199a40d1659",
+  "umaEndDate": "2026-02-17T04:36:57Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 123290.426619,
+  "endDateIso": "2026-01-23",
+  "startDateIso": "2026-01-22",
+  "hasReviewedDates": true,
+  "volume1wk": 18136.06,
+  "volume1mo": 123290.426619,
+  "volume1yr": 123290.426619,
+  "clobTokenIds": "[\"65380067573943412471748362051869474689006449354042653969122965828807065568870\", \"58428306582346207094283598302301369073139886014920561863434113251550957742358\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 18136.06,
+  "volume1moClob": 123290.426619,
+  "volume1yrClob": 123290.426619,
+  "volumeClob": 123290.426619,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "179734",
+    "ticker": "what-will-be-said-on-the-next-all-in-podcast-january-23",
+    "slug": "what-will-be-said-on-the-next-all-in-podcast-january-23",
+    "title": "What will be said on the next All-In Podcast? (January 23)",
+    "description": "The All-In Podcast is scheduled to release episodes every Friday. (https://allin.com/episodes)\n\nThis market will resolve to \"Yes\" if the listed term is mentioned by anyone during the next released episode of the All-In Podcast. Otherwise, the market will resolve to \"No\".\n\nIf clips of old episodes or prerecorded clips are aired where people are speaking, those clips will count toward this market's resolution.\n\nAI-generated audio or video will count toward this market's resolution.\n\nAny usage of the term, regardless of context, will count toward the resolution of this market.\n\nPluralization/possessive of the term will count toward the resolution of this market; however, other forms will NOT count.\n\nInstances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for \"joy,\" however \"killjoy\" is a compounding of the words \"kill\" and \"joy\").\n\nIf this market requires a specified number of mentions of a person\u2019s first or last name, a full-name mention will count as one mention (e.g., if a market is about \u201cJoe / Biden 5+ times,\u201d a mention of \u201cJoe Biden\u201d will count once).\n\nOnly All-Podcast episodes posted on (https://allin.com/episodes) will count for this market. Other episodes or specials posted on the youtube channel will not count.\n\nIf no such episode of the All-In Podcast is aired by February 28, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nThe resolution source will be audio of the event.",
+    "resolutionSource": "",
+    "startDate": "2026-01-22T18:31:37.967133Z",
+    "creationDate": "2026-01-22T18:31:37.967123Z",
+    "endDate": "2026-01-23T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-be-said-on-the-next-all-in-podcast-5L3fNGuYWETb.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-will-be-said-on-the-next-all-in-podcast-5L3fNGuYWETb.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 415068.14971,
+    "openInterest": 0,
+    "createdAt": "2026-01-21T21:48:43.820927Z",
+    "updatedAt": "2026-03-09T16:56:19.904182Z",
+    "volume1wk": 60605.376738,
+    "volume1mo": 414653.07971,
+    "volume1yr": 414653.07971,
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11300",
+      "ticker": "all-in-podcast",
+      "slug": "all-in-podcast",
+      "title": "All-In Podcast",
+      "seriesType": "single",
+      "recurrence": "weekly",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-03-09T16:54:15.248409Z",
+      "updatedAt": "2026-10-18T05:17:39.012702Z",
+      "commentCount": 284
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-02-19T03:08:56Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "startTime": "2026-02-27T17:00:00Z",
+    "seriesSlug": "all-in-podcast",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-01-22T18:29:16Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 0,
+  "rewardsMaxSpread": 0,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.2405,
+  "oneHourPriceChange": 0.0045,
+  "oneWeekPriceChange": 0.095,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-01-22T18:28:39.845165Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1769126439,
+   "p": 0.625
+  },
+  {
+   "t": 1769212834,
+   "p": 0.52
+  },
+  {
+   "t": 1769299242,
+   "p": 0.315
+  },
+  {
+   "t": 1769385641,
+   "p": 0.82
+  },
+  {
+   "t": 1769472034,
+   "p": 0.71
+  },
+  {
+   "t": 1769558424,
+   "p": 0.7
+  },
+  {
+   "t": 1769644839,
+   "p": 0.575
+  },
+  {
+   "t": 1769731228,
+   "p": 0.825
+  },
+  {
+   "t": 1769817628,
+   "p": 0.84
+  },
+  {
+   "t": 1769904034,
+   "p": 0.9685
+  },
+  {
+   "t": 1769990427,
+   "p": 0.9725
+  },
+  {
+   "t": 1770076830,
+   "p": 0.9815
+  },
+  {
+   "t": 1770163240,
+   "p": 0.9495
+  },
+  {
+   "t": 1770249626,
+   "p": 0.9875
+  },
+  {
+   "t": 1770336033,
+   "p": 0.968
+  },
+  {
+   "t": 1770422440,
+   "p": 0.9195
+  },
+  {
+   "t": 1770508836,
+   "p": 0.915
+  },
+  {
+   "t": 1770595234,
+   "p": 0.912
+  },
+  {
+   "t": 1770681638,
+   "p": 0.9045
+  },
+  {
+   "t": 1770768039,
+   "p": 0.895
+  },
+  {
+   "t": 1770854447,
+   "p": 0.9005
+  },
+  {
+   "t": 1770940836,
+   "p": 0.891
+  },
+  {
+   "t": 1771027240,
+   "p": 0.911
+  },
+  {
+   "t": 1771113639,
+   "p": 0.7865
+  },
+  {
+   "t": 1771200051,
+   "p": 0.759
+  },
+  {
+   "t": 1771286441,
+   "p": 0.989
+  }
+ ]
+}

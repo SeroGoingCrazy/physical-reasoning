@@ -1,0 +1,27 @@
+{
+ "id": "2374236",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.2,
+ "reasoning": "The question's wording ('re-enter') implies that ISW currently shows Maliivka in Russian control after an earlier loss, so a Yes requires a Ukrainian reversal on this specific village. I don't have reliable knowledge of the front-line situation there as of late May 2026. Small contested villages do sometimes flip on ISW through reported Ukrainian gains or claimed counteroffensives, and the criteria accept any shaded part of the village, which lowers the bar. Still, the sustained Russian pressure in the Dnipropetrovsk and Donetsk border areas makes a durable Ukrainian reversal within about seven months less likely than not. I have not seen any resolution of this question.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1117,
+  "output_tokens": 670,
+  "output_tokens_details": {
+   "thinking_tokens": 425
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0004467
+}

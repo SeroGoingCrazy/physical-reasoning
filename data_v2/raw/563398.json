@@ -1,0 +1,431 @@
+{
+ "market": {
+  "id": "563398",
+  "question": "Will Eric Adams drop out?",
+  "conditionId": "0x91dbde104fee004a34f638f9a49d7fb8d4e8bc75e213aab92cd853cbbc4c9c90",
+  "slug": "will-eric-adams-drop-out",
+  "resolutionSource": "",
+  "endDate": "2025-11-03T00:00:00Z",
+  "startDate": "2025-07-15T00:06:29.316382Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eric-adams-drop-out-2gSGlZRGFgRa.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eric-adams-drop-out-2gSGlZRGFgRa.jpg",
+  "description": "This market will resolve to \"Yes\" if Eric Adams withdraws from or officially announces his withdrawal from the 2025 New York City Mayoral election, or announces the suspension of his 2025 NYC Mayoral campaign, by November 3, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from Eric Adams or his official/legal representatives, however a consensus of credible reporting will also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "2524518.113399",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "0x6a7505b6F139655B7D931997ceF39041D08205D8",
+  "createdAt": "2025-07-14T20:23:14.331353Z",
+  "updatedAt": "2025-09-30T00:46:48.700646Z",
+  "closedTime": "2025-09-28 19:47:11+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x157Ce2d672854c848c9b79C49a8Cc6cc89176a49",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x876286b27f04c776b9d1129da9440cead2a078624386e16da5121dfab53eec59",
+  "umaEndDate": "2025-09-28T19:47:11Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 2524518.113399,
+  "endDateIso": "2025-11-03",
+  "startDateIso": "2025-07-15",
+  "hasReviewedDates": true,
+  "volume1wk": 456691.42081700027,
+  "volume1mo": 2469806.2288450096,
+  "volume1yr": 2524518.1133990083,
+  "clobTokenIds": "[\"33343482353540012807543191641642548602660060974577257918922246457749611553555\", \"82425915819600526601847545212901694493445470034274953021934536393964363970218\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 456691.42081700027,
+  "volume1moClob": 2469806.2288450096,
+  "volume1yrClob": 2524518.1133990083,
+  "volumeClob": 2524518.113399,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "32434",
+    "ticker": "will-eric-adams-drop-out",
+    "slug": "will-eric-adams-drop-out",
+    "title": "Will Eric Adams drop out?",
+    "description": "This market will resolve to \"Yes\" if Eric Adams withdraws from or officially announces his withdrawal from the 2025 New York City Mayoral election, or announces the suspension of his 2025 NYC Mayoral campaign, by November 3, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be official information from Eric Adams or his official/legal representatives, however a consensus of credible reporting will also be used.",
+    "resolutionSource": "",
+    "startDate": "2025-07-15T00:07:28.172937Z",
+    "creationDate": "2025-07-15T00:07:28.172932Z",
+    "endDate": "2025-11-03T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eric-adams-drop-out-2gSGlZRGFgRa.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-eric-adams-drop-out-2gSGlZRGFgRa.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 2524518.113399,
+    "openInterest": 0,
+    "createdAt": "2025-07-14T20:23:13.474585Z",
+    "updatedAt": "2025-09-30T00:47:00.21528Z",
+    "volume1wk": 456691.42081700027,
+    "volume1mo": 2469806.2288450096,
+    "volume1yr": 2524518.1133990083,
+    "enableOrderBook": true,
+    "commentCount": 113,
+    "cyom": false,
+    "closedTime": "2025-09-28T19:47:11Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "featuredOrder": 8,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-07-15T00:06:09Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.4345,
+  "oneWeekPriceChange": 0.4395,
+  "oneMonthPriceChange": 0.7445,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-07-15T00:05:32.567198Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1752624008,
+   "p": 0.285
+  },
+  {
+   "t": 1752710408,
+   "p": 0.355
+  },
+  {
+   "t": 1752796808,
+   "p": 0.335
+  },
+  {
+   "t": 1752883209,
+   "p": 0.34
+  },
+  {
+   "t": 1752969608,
+   "p": 0.315
+  },
+  {
+   "t": 1753056007,
+   "p": 0.35
+  },
+  {
+   "t": 1753142409,
+   "p": 0.37
+  },
+  {
+   "t": 1753228809,
+   "p": 0.38
+  },
+  {
+   "t": 1753315209,
+   "p": 0.385
+  },
+  {
+   "t": 1753401609,
+   "p": 0.395
+  },
+  {
+   "t": 1753488009,
+   "p": 0.395
+  },
+  {
+   "t": 1753574410,
+   "p": 0.39
+  },
+  {
+   "t": 1753660809,
+   "p": 0.385
+  },
+  {
+   "t": 1753747210,
+   "p": 0.375
+  },
+  {
+   "t": 1753833610,
+   "p": 0.345
+  },
+  {
+   "t": 1753920008,
+   "p": 0.345
+  },
+  {
+   "t": 1754006409,
+   "p": 0.345
+  },
+  {
+   "t": 1754092809,
+   "p": 0.345
+  },
+  {
+   "t": 1754179208,
+   "p": 0.3
+  },
+  {
+   "t": 1754265607,
+   "p": 0.31
+  },
+  {
+   "t": 1754352008,
+   "p": 0.31
+  },
+  {
+   "t": 1754438409,
+   "p": 0.305
+  },
+  {
+   "t": 1754524806,
+   "p": 0.29
+  },
+  {
+   "t": 1754611205,
+   "p": 0.3
+  },
+  {
+   "t": 1754697602,
+   "p": 0.295
+  },
+  {
+   "t": 1754784010,
+   "p": 0.3
+  },
+  {
+   "t": 1754870412,
+   "p": 0.305
+  },
+  {
+   "t": 1754956806,
+   "p": 0.305
+  },
+  {
+   "t": 1755043211,
+   "p": 0.305
+  },
+  {
+   "t": 1755129604,
+   "p": 0.265
+  },
+  {
+   "t": 1755216011,
+   "p": 0.26
+  },
+  {
+   "t": 1755302404,
+   "p": 0.26
+  },
+  {
+   "t": 1755388809,
+   "p": 0.275
+  },
+  {
+   "t": 1755475206,
+   "p": 0.275
+  },
+  {
+   "t": 1755561612,
+   "p": 0.275
+  },
+  {
+   "t": 1755648007,
+   "p": 0.285
+  },
+  {
+   "t": 1755734402,
+   "p": 0.275
+  },
+  {
+   "t": 1755820809,
+   "p": 0.275
+  },
+  {
+   "t": 1755907213,
+   "p": 0.275
+  },
+  {
+   "t": 1755993602,
+   "p": 0.275
+  },
+  {
+   "t": 1756080010,
+   "p": 0.275
+  },
+  {
+   "t": 1756166409,
+   "p": 0.275
+  },
+  {
+   "t": 1756252815,
+   "p": 0.235
+  },
+  {
+   "t": 1756339208,
+   "p": 0.24
+  },
+  {
+   "t": 1756425617,
+   "p": 0.245
+  },
+  {
+   "t": 1756512003,
+   "p": 0.265
+  },
+  {
+   "t": 1756598419,
+   "p": 0.275
+  },
+  {
+   "t": 1756684812,
+   "p": 0.28
+  },
+  {
+   "t": 1756771209,
+   "p": 0.28
+  },
+  {
+   "t": 1756857608,
+   "p": 0.365
+  },
+  {
+   "t": 1756944013,
+   "p": 0.63
+  },
+  {
+   "t": 1757030410,
+   "p": 0.755
+  },
+  {
+   "t": 1757116821,
+   "p": 0.515
+  },
+  {
+   "t": 1757203208,
+   "p": 0.485
+  },
+  {
+   "t": 1757289606,
+   "p": 0.465
+  },
+  {
+   "t": 1757376005,
+   "p": 0.55
+  },
+  {
+   "t": 1757462405,
+   "p": 0.515
+  },
+  {
+   "t": 1757548809,
+   "p": 0.565
+  },
+  {
+   "t": 1757635203,
+   "p": 0.625
+  },
+  {
+   "t": 1757721608,
+   "p": 0.625
+  },
+  {
+   "t": 1757808012,
+   "p": 0.685
+  },
+  {
+   "t": 1757894413,
+   "p": 0.815
+  },
+  {
+   "t": 1757980816,
+   "p": 0.79
+  },
+  {
+   "t": 1758067217,
+   "p": 0.675
+  },
+  {
+   "t": 1758153614,
+   "p": 0.655
+  },
+  {
+   "t": 1758240009,
+   "p": 0.615
+  },
+  {
+   "t": 1758326418,
+   "p": 0.61
+  },
+  {
+   "t": 1758412810,
+   "p": 0.565
+  },
+  {
+   "t": 1758499218,
+   "p": 0.565
+  },
+  {
+   "t": 1758585605,
+   "p": 0.62
+  },
+  {
+   "t": 1758672013,
+   "p": 0.62
+  },
+  {
+   "t": 1758758404,
+   "p": 0.575
+  },
+  {
+   "t": 1758844808,
+   "p": 0.535
+  },
+  {
+   "t": 1758931211,
+   "p": 0.585
+  },
+  {
+   "t": 1759017616,
+   "p": 0.64
+  }
+ ]
+}

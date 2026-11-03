@@ -1,0 +1,839 @@
+{
+ "market": {
+  "id": "2100981",
+  "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+  "conditionId": "0xf77fa3e63014f1f76ea4433dac66b3860493ed7f1a9fee3dfbef9104d7f1eee3",
+  "slug": "will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election",
+  "resolutionSource": "https://www.gov.il/en/departments/central-elections-committee/govil-landing-page",
+  "endDate": "2026-10-28T03:59:00Z",
+  "startDate": "2026-05-01T22:00:06.317494Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election-g2ML70fSwzBP.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election-g2ML70fSwzBP.jpg",
+  "description": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Israeli Knesset.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Israel\u2019s Central Election Committee (Va'adet HaBehirot HaMerkazit) (https://www.gov.il/en/departments/central-elections-committee/govil-landing-page).\n\nThe following rules govern the merging, joint contention, and splitting of listed parties:\n\n- If Likud or Together (or any successor party created through a merger) merge with or contest the election jointly with any other party, the option corresponding to Likud or Together will represent the resultant candidate list or merged party. \n\nOtherwise:\n\n- If a listed party merges with, or contests the election as part of a joint candidate list with, one or more unlisted parties prior to the election, the option corresponding to the listed party will represent all seats won by the merged party or joint candidate list. If a listed party merges with, or contests the election as part of a joint candidate list with, one or more other listed parties prior to the election, the option corresponding to the party which held the most seats in the prior Knesset will represent all seats won by the merged party/joint candidate list. If these rules do not adequately determine which option represents a merged party or joint candidate list, the listed party whose name, as listed in this market, comes first in alphabetical order, will represent all seats won by the merged party or joint candidate list.\n\n- If a listed party splits into multiple parties prior to the election, the option corresponding to the listed party will represent the resulting party that holds the greatest number of seats in the Israeli Knesset as a result of the split. If these rules do not adequately determine which party represents a listed option after a split, the listed option will represent all seats won by the party resulting from the split whose primary English name comes first in alphabetical order.\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "10080625.799564999",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-04-28T00:38:33.408716Z",
+  "updatedAt": "2026-11-01T17:04:27.722726Z",
+  "closedTime": "2026-10-31 17:19:27+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Likud",
+  "groupItemThreshold": "0",
+  "questionID": "0x01835b89a8c3df04ab36e72fc58957274e48887d4706906c867b7083eba76100",
+  "umaEndDate": "2026-10-31 17:19:27+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 10080625.799564999,
+  "endDateIso": "2026-10-28",
+  "startDateIso": "2026-05-01",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"40530616708770133196461535468385029946615148250396571867031554779644977064648\", \"112833774316104951988690985316609270957261648365641646812446420693891587882096\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 10080625.799564999,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x01835b89a8c3df04ab36e72fc58957274e48887d4706906c867b7083eba76100",
+  "negRiskRequestID": "0x2d7f4631fa85bed3e5ff3b4aa0184b270b10e2b1195d3f3d3748532c36ff37cd",
+  "events": [
+   {
+    "id": "425728",
+    "ticker": "israeli-legislative-election-winner",
+    "slug": "israeli-legislative-election-winner",
+    "title": "Israeli Legislative Election Winner",
+    "description": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the political party or coalition that wins the greatest number of seats in the Israeli Knesset as a result of this election.\n\nIf the results of this election are not definitively known by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties or coalitions for the most seats won, this market will resolve in favor of the party or coalition whose candidate list received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed name appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition in the Israeli Knesset.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Israel\u2019s Central Election Committee (Va'adet HaBehirot HaMerkazit) (https://www.gov.il/en/departments/central-elections-committee/govil-landing-page).\n\nThe following rules govern the merging, joint contention, and splitting of listed parties:\n\n- If Likud or Together (or any successor party created through a merger) merge or contest the election jointly with any other party, the option corresponding to Likud or Together will represent the resultant candidate list or merged party. \n\nOtherwise:\n\n- If a listed party merges with, or contests the election as part of a joint candidate list with, one or more unlisted parties prior to the election, the option corresponding to the listed party will represent all seats won by the merged party or joint candidate list. If a listed party merges with, or contests the election as part of a joint candidate list with, one or more other listed parties prior to the election, the option corresponding to the party which held the most seats in the prior Knesset will represent all seats won by the merged party/joint candidate list. If these rules do not adequately determine which option represents a merged party or joint candidate list, the listed party whose name, as listed in this market, comes first in alphabetical order, will represent all seats won by the merged party or joint candidate list.\n\n- If a listed party splits into multiple parties prior to the election, the option corresponding to the listed party will represent the resulting party that holds the greatest number of seats in the Israeli Knesset as a result of the split. If these rules do not adequately determine which party represents a listed option after a split, the listed option will represent all seats won by the party resulting from the split whose primary English name comes first in alphabetical order.",
+    "resolutionSource": "",
+    "startDate": "2026-05-01T22:00:06.317494Z",
+    "creationDate": "2026-05-01T22:06:22.163691Z",
+    "endDate": "2026-10-28T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/event-update-JlG6pTiX-iGy.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israeli-legislative-election-winner-5d3iP5eOwAck.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 17048798.829529,
+    "openInterest": 3236705.730883,
+    "sortBy": "price",
+    "createdAt": "2026-04-28T00:38:32.982765Z",
+    "updatedAt": "2026-11-01T17:06:36.192191Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x01835b89a8c3df04ab36e72fc58957274e48887d4706906c867b7083eba76100",
+    "commentCount": 103,
+    "cyom": false,
+    "closedTime": "2026-10-31T19:31:52Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-10-27T20:08:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Israel",
+    "electionType": "Legislative",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-05-01T21:54:23.679325Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-05-01T21:58:46Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.006,
+  "oneHourPriceChange": 0.001,
+  "oneWeekPriceChange": 0.6845,
+  "oneMonthPriceChange": 0.5545,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "#1F5AA5",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-05-01T21:57:02.077869Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1777680013,
+   "p": 0.74
+  },
+  {
+   "t": 1777766407,
+   "p": 0.71
+  },
+  {
+   "t": 1777852806,
+   "p": 0.4
+  },
+  {
+   "t": 1777939220,
+   "p": 0.45
+  },
+  {
+   "t": 1778025611,
+   "p": 0.465
+  },
+  {
+   "t": 1778112010,
+   "p": 0.445
+  },
+  {
+   "t": 1778198409,
+   "p": 0.435
+  },
+  {
+   "t": 1778284825,
+   "p": 0.435
+  },
+  {
+   "t": 1778371211,
+   "p": 0.47
+  },
+  {
+   "t": 1778457612,
+   "p": 0.475
+  },
+  {
+   "t": 1778544017,
+   "p": 0.48
+  },
+  {
+   "t": 1778630415,
+   "p": 0.545
+  },
+  {
+   "t": 1778716821,
+   "p": 0.5
+  },
+  {
+   "t": 1778803212,
+   "p": 0.53
+  },
+  {
+   "t": 1778889619,
+   "p": 0.585
+  },
+  {
+   "t": 1778976030,
+   "p": 0.53
+  },
+  {
+   "t": 1779062414,
+   "p": 0.53
+  },
+  {
+   "t": 1779148810,
+   "p": 0.54
+  },
+  {
+   "t": 1779235215,
+   "p": 0.54
+  },
+  {
+   "t": 1779321616,
+   "p": 0.55
+  },
+  {
+   "t": 1779408026,
+   "p": 0.55
+  },
+  {
+   "t": 1779494414,
+   "p": 0.515
+  },
+  {
+   "t": 1779580809,
+   "p": 0.495
+  },
+  {
+   "t": 1779667209,
+   "p": 0.495
+  },
+  {
+   "t": 1779753609,
+   "p": 0.445
+  },
+  {
+   "t": 1779840010,
+   "p": 0.52
+  },
+  {
+   "t": 1779926413,
+   "p": 0.59
+  },
+  {
+   "t": 1780012814,
+   "p": 0.585
+  },
+  {
+   "t": 1780099222,
+   "p": 0.59
+  },
+  {
+   "t": 1780185612,
+   "p": 0.585
+  },
+  {
+   "t": 1780272008,
+   "p": 0.575
+  },
+  {
+   "t": 1780358410,
+   "p": 0.565
+  },
+  {
+   "t": 1780444810,
+   "p": 0.57
+  },
+  {
+   "t": 1780531206,
+   "p": 0.575
+  },
+  {
+   "t": 1780617619,
+   "p": 0.575
+  },
+  {
+   "t": 1780704005,
+   "p": 0.565
+  },
+  {
+   "t": 1780790416,
+   "p": 0.48
+  },
+  {
+   "t": 1780876806,
+   "p": 0.48
+  },
+  {
+   "t": 1780963208,
+   "p": 0.495
+  },
+  {
+   "t": 1781049608,
+   "p": 0.51
+  },
+  {
+   "t": 1781136012,
+   "p": 0.445
+  },
+  {
+   "t": 1781222408,
+   "p": 0.42
+  },
+  {
+   "t": 1781308808,
+   "p": 0.45
+  },
+  {
+   "t": 1781395213,
+   "p": 0.485
+  },
+  {
+   "t": 1781481608,
+   "p": 0.445
+  },
+  {
+   "t": 1781568012,
+   "p": 0.405
+  },
+  {
+   "t": 1781654411,
+   "p": 0.395
+  },
+  {
+   "t": 1781740828,
+   "p": 0.395
+  },
+  {
+   "t": 1781827227,
+   "p": 0.315
+  },
+  {
+   "t": 1781913608,
+   "p": 0.335
+  },
+  {
+   "t": 1782000012,
+   "p": 0.335
+  },
+  {
+   "t": 1782086411,
+   "p": 0.365
+  },
+  {
+   "t": 1782172812,
+   "p": 0.375
+  },
+  {
+   "t": 1782259211,
+   "p": 0.455
+  },
+  {
+   "t": 1782345618,
+   "p": 0.42
+  },
+  {
+   "t": 1782432009,
+   "p": 0.375
+  },
+  {
+   "t": 1782518410,
+   "p": 0.35
+  },
+  {
+   "t": 1782604809,
+   "p": 0.36
+  },
+  {
+   "t": 1782691209,
+   "p": 0.405
+  },
+  {
+   "t": 1782777611,
+   "p": 0.51
+  },
+  {
+   "t": 1782864014,
+   "p": 0.455
+  },
+  {
+   "t": 1782950414,
+   "p": 0.465
+  },
+  {
+   "t": 1783036813,
+   "p": 0.5
+  },
+  {
+   "t": 1783123211,
+   "p": 0.505
+  },
+  {
+   "t": 1783209611,
+   "p": 0.505
+  },
+  {
+   "t": 1783296005,
+   "p": 0.505
+  },
+  {
+   "t": 1783382411,
+   "p": 0.465
+  },
+  {
+   "t": 1783468807,
+   "p": 0.475
+  },
+  {
+   "t": 1783555214,
+   "p": 0.435
+  },
+  {
+   "t": 1783641611,
+   "p": 0.46
+  },
+  {
+   "t": 1783728010,
+   "p": 0.455
+  },
+  {
+   "t": 1783814423,
+   "p": 0.47
+  },
+  {
+   "t": 1783900812,
+   "p": 0.475
+  },
+  {
+   "t": 1783987210,
+   "p": 0.47
+  },
+  {
+   "t": 1784073615,
+   "p": 0.46
+  },
+  {
+   "t": 1784160015,
+   "p": 0.46
+  },
+  {
+   "t": 1784246415,
+   "p": 0.445
+  },
+  {
+   "t": 1784332811,
+   "p": 0.445
+  },
+  {
+   "t": 1784419218,
+   "p": 0.53
+  },
+  {
+   "t": 1784505628,
+   "p": 0.585
+  },
+  {
+   "t": 1784592015,
+   "p": 0.635
+  },
+  {
+   "t": 1784678412,
+   "p": 0.55
+  },
+  {
+   "t": 1784764820,
+   "p": 0.56
+  },
+  {
+   "t": 1784851228,
+   "p": 0.555
+  },
+  {
+   "t": 1784937645,
+   "p": 0.44
+  },
+  {
+   "t": 1785024040,
+   "p": 0.5
+  },
+  {
+   "t": 1785110453,
+   "p": 0.52
+  },
+  {
+   "t": 1785196849,
+   "p": 0.52
+  },
+  {
+   "t": 1785369626,
+   "p": 0.55
+  },
+  {
+   "t": 1785456023,
+   "p": 0.565
+  },
+  {
+   "t": 1785542414,
+   "p": 0.63
+  },
+  {
+   "t": 1785628815,
+   "p": 0.615
+  },
+  {
+   "t": 1785715212,
+   "p": 0.645
+  },
+  {
+   "t": 1785801615,
+   "p": 0.635
+  },
+  {
+   "t": 1785888015,
+   "p": 0.675
+  },
+  {
+   "t": 1785974414,
+   "p": 0.65
+  },
+  {
+   "t": 1786060814,
+   "p": 0.585
+  },
+  {
+   "t": 1786147218,
+   "p": 0.595
+  },
+  {
+   "t": 1786233628,
+   "p": 0.575
+  },
+  {
+   "t": 1786320020,
+   "p": 0.565
+  },
+  {
+   "t": 1786406425,
+   "p": 0.545
+  },
+  {
+   "t": 1786492816,
+   "p": 0.565
+  },
+  {
+   "t": 1786579222,
+   "p": 0.52
+  },
+  {
+   "t": 1786665622,
+   "p": 0.54
+  },
+  {
+   "t": 1786752020,
+   "p": 0.505
+  },
+  {
+   "t": 1786838423,
+   "p": 0.505
+  },
+  {
+   "t": 1786924825,
+   "p": 0.51
+  },
+  {
+   "t": 1787011234,
+   "p": 0.5
+  },
+  {
+   "t": 1787097623,
+   "p": 0.565
+  },
+  {
+   "t": 1787184028,
+   "p": 0.55
+  },
+  {
+   "t": 1787270425,
+   "p": 0.54
+  },
+  {
+   "t": 1787356824,
+   "p": 0.525
+  },
+  {
+   "t": 1787443222,
+   "p": 0.53
+  },
+  {
+   "t": 1787529626,
+   "p": 0.52
+  },
+  {
+   "t": 1787616024,
+   "p": 0.525
+  },
+  {
+   "t": 1787702426,
+   "p": 0.515
+  },
+  {
+   "t": 1787788826,
+   "p": 0.52
+  },
+  {
+   "t": 1787875226,
+   "p": 0.505
+  },
+  {
+   "t": 1787961627,
+   "p": 0.485
+  },
+  {
+   "t": 1788048026,
+   "p": 0.485
+  },
+  {
+   "t": 1788134424,
+   "p": 0.465
+  },
+  {
+   "t": 1788220837,
+   "p": 0.485
+  },
+  {
+   "t": 1788307224,
+   "p": 0.45
+  },
+  {
+   "t": 1788393629,
+   "p": 0.45
+  },
+  {
+   "t": 1788480021,
+   "p": 0.46
+  },
+  {
+   "t": 1788566421,
+   "p": 0.465
+  },
+  {
+   "t": 1788652827,
+   "p": 0.485
+  },
+  {
+   "t": 1788739235,
+   "p": 0.485
+  },
+  {
+   "t": 1788825618,
+   "p": 0.475
+  },
+  {
+   "t": 1788912027,
+   "p": 0.445
+  },
+  {
+   "t": 1788998421,
+   "p": 0.41
+  },
+  {
+   "t": 1789084824,
+   "p": 0.385
+  },
+  {
+   "t": 1789171224,
+   "p": 0.385
+  },
+  {
+   "t": 1789257623,
+   "p": 0.385
+  },
+  {
+   "t": 1789344019,
+   "p": 0.385
+  },
+  {
+   "t": 1789430418,
+   "p": 0.395
+  },
+  {
+   "t": 1789516819,
+   "p": 0.39
+  },
+  {
+   "t": 1789603222,
+   "p": 0.39
+  },
+  {
+   "t": 1789689625,
+   "p": 0.39
+  },
+  {
+   "t": 1789776027,
+   "p": 0.395
+  },
+  {
+   "t": 1789862425,
+   "p": 0.39
+  },
+  {
+   "t": 1789948822,
+   "p": 0.385
+  },
+  {
+   "t": 1790035222,
+   "p": 0.375
+  },
+  {
+   "t": 1790121624,
+   "p": 0.365
+  },
+  {
+   "t": 1790208035,
+   "p": 0.375
+  },
+  {
+   "t": 1790294428,
+   "p": 0.38
+  },
+  {
+   "t": 1790380822,
+   "p": 0.405
+  },
+  {
+   "t": 1790467222,
+   "p": 0.385
+  },
+  {
+   "t": 1790553636,
+   "p": 0.415
+  },
+  {
+   "t": 1790640023,
+   "p": 0.4
+  },
+  {
+   "t": 1790726424,
+   "p": 0.415
+  },
+  {
+   "t": 1790812827,
+   "p": 0.415
+  },
+  {
+   "t": 1790899225,
+   "p": 0.445
+  },
+  {
+   "t": 1790985628,
+   "p": 0.525
+  },
+  {
+   "t": 1791072024,
+   "p": 0.545
+  },
+  {
+   "t": 1791158429,
+   "p": 0.54
+  },
+  {
+   "t": 1791244827,
+   "p": 0.455
+  },
+  {
+   "t": 1791331232,
+   "p": 0.495
+  },
+  {
+   "t": 1791417656,
+   "p": 0.505
+  },
+  {
+   "t": 1791590433,
+   "p": 0.515
+  },
+  {
+   "t": 1791676841,
+   "p": 0.505
+  },
+  {
+   "t": 1791763251,
+   "p": 0.515
+  },
+  {
+   "t": 1791849645,
+   "p": 0.495
+  },
+  {
+   "t": 1791936044,
+   "p": 0.42
+  },
+  {
+   "t": 1792108847,
+   "p": 0.385
+  },
+  {
+   "t": 1792195254,
+   "p": 0.325
+  },
+  {
+   "t": 1792368046,
+   "p": 0.325
+  },
+  {
+   "t": 1792454446,
+   "p": 0.285
+  },
+  {
+   "t": 1792540851,
+   "p": 0.28
+  },
+  {
+   "t": 1792800059,
+   "p": 0.305
+  },
+  {
+   "t": 1792886408,
+   "p": 0.285
+  },
+  {
+   "t": 1793145649,
+   "p": 0.973
+  },
+  {
+   "t": 1793318452,
+   "p": 0.9935
+  }
+ ]
+}

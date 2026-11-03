@@ -1,0 +1,27 @@
+{
+ "id": "1280179",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.55,
+ "reasoning": "US strikes in Somalia were very frequent through 2025, with AFRICOM announcing many operations against ISIS-Somalia in Puntland and al-Shabaab. Each AFRICOM press release counts as one incident, and a single release often bundles several strikes, so the incident count is lower than the strike count. The January 2026 examples cited in the question (January 12 and January 25-26) hint at a monthly incident count in the low-to-mid single digits, though those examples may not be exhaustive. A threshold of 5 therefore sits near the median expected count, leaning slightly toward YES. I have no knowledge of how February 2026 actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1522,
+  "output_tokens": 941,
+  "output_tokens_details": {
+   "thinking_tokens": 710
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0006227
+}

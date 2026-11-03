@@ -1,0 +1,27 @@
+{
+ "id": 623602,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.1,
+ "reasoning": "The federal funding lapse began October 1, 2025, and as of today there is no enacted continuing resolution, with Senate cloture votes having repeatedly failed amid a dispute over ACA subsidies and spending. The question resolves YES only if the first non-shutdown OPM status falls on November 8-11, a four-day window roughly 5-8 weeks into the lapse. Historical shutdowns ranged from a few days to 35 days, so a lapse lasting until early November is plausible but far from certain. The window includes a weekend (Nov 8-9), a Monday (Nov 10), and the Veterans Day holiday (Nov 11), which slightly reduces the chance of reopening announcements on those days. Spreading probability across plausible end dates, I estimate roughly a 10% chance the reopening lands in this specific window. I do not know how this resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 684,
+  "output_tokens": 1045,
+  "output_tokens_details": {
+   "thinking_tokens": 746
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005909
+}

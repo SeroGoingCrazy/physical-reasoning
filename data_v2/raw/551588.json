@@ -1,0 +1,306 @@
+{
+ "market": {
+  "id": "551588",
+  "question": "Will annual inflation increase by 2.6% or more in June?",
+  "conditionId": "0xa9868cc96fc4f4a3754f1af1cd4210e7e43e8d3d8e75617dd1af1ca77b4e5e3b",
+  "slug": "will-annual-inflation-increase-by-2pt6-or-more-in-june",
+  "endDate": "2025-07-15T12:30:00Z",
+  "startDate": "2025-06-11T17:06:50.48801Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+  "description": "This is a market about inflation over the 12 month period ending June 2025 before seasonal adjustment as reported by the Bureau of Labor Statistics.\n\nThis market will resolve to the number the Consumer Price Index (CPI) increased by over the 12 month period ending in June 2025 according to the monthly Bureau of Labor Statistics (BLS) report.\n\nThe resolution source for this market will be the BLS Consumer Price Index report released for June 2025 (https://www.bls.gov/bls/news-release/cpi.htm), currently scheduled to be released on July 15, 2025, at 8:30 AM ET. Resolution of this market will take place upon release of the aforementioned data.\n\nNote: the resolution source for this market will be the official monthly BLS CPI news release which reports inflation over 12 month periods to only one decimal point (e.g. 2.9%). Thus, this is the level of precision that will be used when resolving the market.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "186674.380591",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-06-11T16:18:12.099491Z",
+  "updatedAt": "2025-07-16T16:39:11.359281Z",
+  "closedTime": "2025-07-15 15:38:28+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "\u22652.6%",
+  "groupItemThreshold": "4",
+  "questionID": "0xd12918000ebb23390a5276fc6d6811e0a129a90710e0a6e65eb45944e898e504",
+  "umaEndDate": "2025-07-15T15:38:28Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 186674.380591,
+  "endDateIso": "2025-07-15",
+  "startDateIso": "2025-06-11",
+  "hasReviewedDates": true,
+  "volume1wk": 88537.48340800001,
+  "volume1mo": 159427.49761199998,
+  "volume1yr": 186674.3805909999,
+  "clobTokenIds": "[\"62940919683733475732292023954147889661277384554946554488368575097448575462881\", \"82455164168805406200367964069945816177540983905745104339647506967860184019322\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 88537.48340800001,
+  "volume1moClob": 159427.49761199998,
+  "volume1yrClob": 186674.3805909999,
+  "volumeClob": 186674.380591,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xd12918000ebb23390a5276fc6d6811e0a129a90710e0a6e65eb45944e898e500",
+  "negRiskRequestID": "0x314c77e181326fd18f2707b9cf21fb2883b375e32d67af97cd0b37e9c7e62d84",
+  "events": [
+   {
+    "id": "26718",
+    "ticker": "june-inflation-annual",
+    "slug": "june-inflation-annual",
+    "title": "June Inflation - Annual",
+    "description": "This is a market about inflation over the 12 month period ending June 2025 before seasonal adjustment as reported by the Bureau of Labor Statistics.\n\nThis market will resolve to the number the Consumer Price Index (CPI) increased by over the 12 month period ending in June 2025 according to the monthly Bureau of Labor Statistics (BLS) report.\n\nThe resolution source for this market will be the BLS Consumer Price Index report released for June 2025 (https://www.bls.gov/bls/news-release/cpi.htm), currently scheduled to be released on July 15, 2025, at 8:30 AM ET. Resolution of this market will take place upon release of the aforementioned data.\n\nNote: the resolution source for this market will be the official monthly BLS CPI news release which reports inflation over 12 month periods to only one decimal point (e.g. 2.9%). Thus, this is the level of precision that will be used when resolving the market.",
+    "resolutionSource": "",
+    "startDate": "2025-06-11T17:08:50.847357Z",
+    "creationDate": "2025-06-11T17:08:50.847355Z",
+    "endDate": "2025-07-15T12:30:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 620938.654525,
+    "openInterest": 0,
+    "createdAt": "2025-06-11T16:18:08.015755Z",
+    "updatedAt": "2025-07-16T16:40:21.998255Z",
+    "volume1wk": 234188.84961300003,
+    "volume1mo": 505876.82758199994,
+    "volume1yr": 620938.6545249998,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xd12918000ebb23390a5276fc6d6811e0a129a90710e0a6e65eb45944e898e500",
+    "commentCount": 172,
+    "series": [
+     {
+      "id": "10007",
+      "ticker": "us-annual-inflation",
+      "slug": "us-annual-inflation",
+      "title": "US Annual Inflation ",
+      "seriesType": "single",
+      "recurrence": "monthly",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-01-21T17:06:35.709814Z",
+      "updatedAt": "2026-11-02T20:57:45.847243Z",
+      "volume24hr": 454.0501,
+      "volume": 46176.705572,
+      "liquidity": 88483.11614,
+      "commentCount": 208
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2025-07-15T15:40:30Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "seriesSlug": "us-annual-inflation",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-06-11T17:02:14.952823Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-06-11T17:06:22Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "26337",
+    "conditionId": "0xa9868cc96fc4f4a3754f1af1cd4210e7e43e8d3d8e75617dd1af1ca77b4e5e3b",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 5,
+    "startDate": "2025-06-11",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.2645,
+  "oneWeekPriceChange": 0.2545,
+  "oneMonthPriceChange": 0.2545,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-06-11T17:02:42.149379Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1749686407,
+   "p": 0.45
+  },
+  {
+   "t": 1749772807,
+   "p": 0.595
+  },
+  {
+   "t": 1749859208,
+   "p": 0.8
+  },
+  {
+   "t": 1749945608,
+   "p": 0.745
+  },
+  {
+   "t": 1750032007,
+   "p": 0.715
+  },
+  {
+   "t": 1750118408,
+   "p": 0.675
+  },
+  {
+   "t": 1750204808,
+   "p": 0.65
+  },
+  {
+   "t": 1750291207,
+   "p": 0.69
+  },
+  {
+   "t": 1750377608,
+   "p": 0.735
+  },
+  {
+   "t": 1750464008,
+   "p": 0.77
+  },
+  {
+   "t": 1750550406,
+   "p": 0.77
+  },
+  {
+   "t": 1750636807,
+   "p": 0.77
+  },
+  {
+   "t": 1750723207,
+   "p": 0.715
+  },
+  {
+   "t": 1750809607,
+   "p": 0.69
+  },
+  {
+   "t": 1750896008,
+   "p": 0.715
+  },
+  {
+   "t": 1750982407,
+   "p": 0.725
+  },
+  {
+   "t": 1751068807,
+   "p": 0.705
+  },
+  {
+   "t": 1751155208,
+   "p": 0.705
+  },
+  {
+   "t": 1751241607,
+   "p": 0.755
+  },
+  {
+   "t": 1751328008,
+   "p": 0.705
+  },
+  {
+   "t": 1751414407,
+   "p": 0.73
+  },
+  {
+   "t": 1751500808,
+   "p": 0.73
+  },
+  {
+   "t": 1751587208,
+   "p": 0.725
+  },
+  {
+   "t": 1751673608,
+   "p": 0.745
+  },
+  {
+   "t": 1751760007,
+   "p": 0.725
+  },
+  {
+   "t": 1751846407,
+   "p": 0.72
+  },
+  {
+   "t": 1751932808,
+   "p": 0.7
+  },
+  {
+   "t": 1752019207,
+   "p": 0.725
+  },
+  {
+   "t": 1752105608,
+   "p": 0.695
+  },
+  {
+   "t": 1752192008,
+   "p": 0.715
+  },
+  {
+   "t": 1752278409,
+   "p": 0.765
+  },
+  {
+   "t": 1752364808,
+   "p": 0.72
+  },
+  {
+   "t": 1752451207,
+   "p": 0.71
+  },
+  {
+   "t": 1752537608,
+   "p": 0.675
+  }
+ ]
+}

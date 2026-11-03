@@ -1,0 +1,27 @@
+{
+ "id": "1237131",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.82,
+ "reasoning": "The All-In Podcast covers big tech and AI heavily each week, and Microsoft comes up often through OpenAI partnership talk, Azure and cloud capex, Copilot, and Satya Nadella. Microsoft's fiscal Q2 earnings are typically reported in late January, which makes a mention in the Friday, January 23 episode more likely. Episodes run around two hours across many topics, so at least one passing reference is likely, though not certain. I don't know how the actual episode resolved, so this rests on base rates.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 982,
+  "output_tokens": 552,
+  "output_tokens_details": {
+   "thinking_tokens": 362
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003742
+}

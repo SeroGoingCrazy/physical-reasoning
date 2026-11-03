@@ -1,0 +1,27 @@
+{
+ "id": "578688",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.25,
+ "reasoning": "As of August 2025, polling averages had Labour near 27-28%, with SV, Centre, Red and MDG each around 4-6%, putting the combined red bloc near 46-49% of the vote. Under Norway's proportional system with a 4% threshold, that share converts to roughly 80-90 of 169 seats, which sits above the 78-seat threshold in this question. Polls also carry sizable error, and small parties like Red and MDG hover near the threshold, so a shortfall is plausible but not the central expectation. I do not know the actual result, so this rests on polling reasoning, which points to a below-78 outcome being less likely than not.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 862,
+  "output_tokens": 1757,
+  "output_tokens_details": {
+   "thinking_tokens": 1530
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0009647000000000001
+}

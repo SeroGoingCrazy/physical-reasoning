@@ -1,0 +1,196 @@
+{
+ "market": {
+  "id": "5139542",
+  "question": "Will the next GPT Sol model (6.1+) debut with a Humanity's Last Exam score of 40% or higher?",
+  "conditionId": "0x7c2b4de492d2632162caf805be8c6a79229863cbcf1201eff7cc4d4c1258b262",
+  "slug": "will-the-next-gpt-sol-model-6pt1-debut-with-a-humanitys-last-exam-score-of-40-or-higher",
+  "resolutionSource": "https://agi.safe.ai/",
+  "endDate": "2027-06-30T23:59:00Z",
+  "startDate": "2026-09-29T19:53:22Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+  "description": "This market will resolve to \"Yes\" if the next OpenAI GPT Sol model (6.1+) added to the Humanity's Last Exam results at https://agi.safe.ai/ has an HLE Accuracy of at least the specified percentage at 12:00 PM ET on the calendar date following the date on which it first appears on the site. Otherwise, this market will resolve to \"No\".\n\nA qualifying model must have a name or model identifier that includes \"GPT\" and \"Sol\" and be designated as version 6.1 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 6.1 or higher named in the same manner as GPT-5.6 Sol or GPT-6 Sol would qualify, including a new whole-number generation such as GPT-7 Sol or an Astra-branded release meeting these criteria, while models whose name does not include \"Sol\" or which retain a version designation below 6.1, such as GPT-6 Sol (released September 22, 2026), including any rollout, promotion, or snapshot of it, GPT-6 Luna, or GPT-6 Astra, will not qualify. Fine-tunes, modes, or restricted-access variants of an existing version, such as GPT-5.6-Cyber or GPT-6 Sol Ultrafast, will not qualify.\n\nThe percentage displayed as \"HLE Accuracy\" for the model in its result card on the \"AI Progress on Humanity's Last Exam\" chart at https://agi.safe.ai/ will be used to resolve this market. This market will resolve solely based on the displayed HLE Accuracy, regardless of the model's Calibration Error, chart position, other configuration scores, or any underlying granular or unrounded data presented elsewhere.\n\nIf multiple qualifying models are added to the Humanity's Last Exam results on the same calendar date (ET), the model with the highest HLE Accuracy will be used for resolution. Models added to the results on the calendar date following the initial qualifying model's first appearance will not be considered. If a model is first added to the Humanity's Last Exam results but is subsequently removed and not re-added, such that it is not displayed on the site at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Humanity's Last Exam results.\n\nA qualifying model must be newly added to the Humanity's Last Exam results at https://agi.safe.ai/. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the site is irrelevant for this market.\n\nThe resolution source for this market is the official Humanity's Last Exam website found at https://agi.safe.ai/. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the site, this market will resolve based on the first subsequent instance at which the model's HLE Accuracy becomes available on the site. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the site or if no qualifying model is added by June 30, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "21512.651618999997",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-09-29T19:53:08.272295Z",
+  "updatedAt": "2026-10-15T20:57:20.607869Z",
+  "closedTime": "2026-10-14 23:00:27+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "40%+",
+  "groupItemThreshold": "0",
+  "questionID": "0xf9178a01df691f0182871ebe94fb78a0de61466585c7b915727e5f57fabfbb18",
+  "umaEndDate": "2026-10-14T23:00:27Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 21512.651618999997,
+  "endDateIso": "2027-06-30",
+  "startDateIso": "2026-09-29",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"70516882881518573259726973558802055702704105572181598450038380403877721813515\", \"37833463534960722246864886120296694218304621873361414133604931714254166383632\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 21512.651618999997,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "1105076",
+    "ticker": "next-gpt-sol-model-6pt1-humanitys-last-exam-debut-20260929193259436",
+    "slug": "next-gpt-sol-model-6pt1-humanitys-last-exam-debut-20260929193259436",
+    "title": "Next GPT Sol Model (6.1+): Humanity's Last Exam Debut?",
+    "description": "This market will resolve to \"Yes\" if the next OpenAI GPT Sol model (6.1+) added to the Humanity's Last Exam results at https://agi.safe.ai/ has an HLE Accuracy of at least the specified percentage at 12:00 PM ET on the calendar date following the date on which it first appears on the site. Otherwise, this market will resolve to \"No\".\n\nA qualifying model must have a name or model identifier that includes \"GPT\" and \"Sol\" and be designated as version 6.1 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 6.1 or higher named in the same manner as GPT-5.6 Sol or GPT-6 Sol would qualify, including a new whole-number generation such as GPT-7 Sol or an Astra-branded release meeting these criteria, while models whose name does not include \"Sol\" or which retain a version designation below 6.1, such as GPT-6 Sol (released September 22, 2026), including any rollout, promotion, or snapshot of it, GPT-6 Luna, or GPT-6 Astra, will not qualify. Fine-tunes, modes, or restricted-access variants of an existing version, such as GPT-5.6-Cyber or GPT-6 Sol Ultrafast, will not qualify.\n\nThe percentage displayed as \"HLE Accuracy\" for the model in its result card on the \"AI Progress on Humanity's Last Exam\" chart at https://agi.safe.ai/ will be used to resolve this market. This market will resolve solely based on the displayed HLE Accuracy, regardless of the model's Calibration Error, chart position, other configuration scores, or any underlying granular or unrounded data presented elsewhere.\n\nIf multiple qualifying models are added to the Humanity's Last Exam results on the same calendar date (ET), the model with the highest HLE Accuracy will be used for resolution. Models added to the results on the calendar date following the initial qualifying model's first appearance will not be considered. If a model is first added to the Humanity's Last Exam results but is subsequently removed and not re-added, such that it is not displayed on the site at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Humanity's Last Exam results.\n\nA qualifying model must be newly added to the Humanity's Last Exam results at https://agi.safe.ai/. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the site is irrelevant for this market.\n\nThe resolution source for this market is the official Humanity's Last Exam website found at https://agi.safe.ai/. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the site, this market will resolve based on the first subsequent instance at which the model's HLE Accuracy becomes available on the site. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the site or if no qualifying model is added by June 30, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "resolutionSource": "https://agi.safe.ai/",
+    "startDate": "2026-09-29T19:53:22Z",
+    "creationDate": "2026-09-29T19:56:25.49377Z",
+    "endDate": "2027-06-30T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 64622.074712999995,
+    "openInterest": 25565.917845000004,
+    "sortBy": "ascending",
+    "createdAt": "2026-09-29T19:53:07.867655Z",
+    "updatedAt": "2026-10-15T20:59:30.899607Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 1,
+    "cyom": false,
+    "closedTime": "2026-10-14T23:01:27Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-09-29T19:53:22Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.059,
+  "oneWeekPriceChange": 0.0755,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-09-29T19:53:14.665538Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "tech_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1790726418,
+   "p": 0.963
+  },
+  {
+   "t": 1790812819,
+   "p": 0.9265
+  },
+  {
+   "t": 1790899218,
+   "p": 0.893
+  },
+  {
+   "t": 1790985621,
+   "p": 0.912
+  },
+  {
+   "t": 1791072017,
+   "p": 0.8865
+  },
+  {
+   "t": 1791158421,
+   "p": 0.908
+  },
+  {
+   "t": 1791244819,
+   "p": 0.9145
+  },
+  {
+   "t": 1791331222,
+   "p": 0.9025
+  },
+  {
+   "t": 1791417630,
+   "p": 0.924
+  },
+  {
+   "t": 1791504031,
+   "p": 0.9255
+  },
+  {
+   "t": 1791590423,
+   "p": 0.943
+  },
+  {
+   "t": 1791676828,
+   "p": 0.9435
+  },
+  {
+   "t": 1791763239,
+   "p": 0.8995
+  },
+  {
+   "t": 1791849631,
+   "p": 0.8025
+  },
+  {
+   "t": 1791936029,
+   "p": 0.9815
+  }
+ ]
+}

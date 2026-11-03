@@ -1,0 +1,59 @@
+pre  n=40  brier model=0.109  market=0.185  const0.5=0.250  model-market=-0.076  beats market 28/40  model<0.1|>0.9: 23/40  yes-rate=0.57  mean_horizon=60d
+     market near creation (n=40): brier model=0.109  market@open=0.310  model-market@open=-0.201
+post n=40  brier model=0.309  market=0.208  const0.5=0.250  model-market=+0.101  beats market 15/40  model<0.1|>0.9: 6/40  yes-rate=0.62  mean_horizon=133d
+     market near creation (n=38): brier model=0.302  market@open=0.230  model-market@open=+0.071
+
+diff-in-diff vs market at lead point (post gap - pre gap) = +0.177   95% bootstrap CI [+0.055, +0.300]   permutation p = 0.006700
+diff-in-diff vs market near creation           = +0.272   95% bootstrap CI [+0.156, +0.395]   permutation p = 0.000050
+  Positive contrast = a larger model-minus-market loss gap in post; no causal effect is identified.
+  A CI covering zero indicates imprecision, not evidence that the contrast is absent.
+
+split by automated later-information flag (data_v2/leak_claude-opus-5-5.csv):
+  pre  flagged   n=30  brier model=0.073  market=0.192  model-market=-0.118
+  pre  unflagged n=10  brier model=0.214  market=0.162  model-market=+0.052
+  post flagged   n= 0
+  post unflagged n=40  brier model=0.309  market=0.208  model-market=+0.101
+  diff-in-diff on unflagged questions only = +0.049   95% bootstrap CI [-0.079, +0.175]   permutation p = 0.666417
+
+Observed baseline timing (days; matched forecasts only):
+  pre  near-creation n=40 missing=0  timestamp-known=40  lag median=0.296d max=2.310d  >1d=10
+       lead-price date minus creation: mean=52.449d (n=40)
+       resolution minus lead-price date: mean=7.348d range=[7.009, 7.921]d (n=40)
+  post near-creation n=38 missing=2  timestamp-known=38  lag median=0.323d max=3.973d  >1d=11
+       lead-price date minus creation: mean=125.649d (n=40)
+       resolution minus lead-price date: mean=7.545d range=[7.005, 8.591]d (n=40)
+
+Lead baseline on opening-price-available questions:
+  pre  n=40  brier model=0.109  market=0.185  model-market=-0.076
+  post n=38  brier model=0.302  market=0.197  model-market=+0.104
+  post gap - pre gap = +0.180   95% bootstrap CI [+0.068, +0.300]   permutation p = 0.002950
+
+Near-creation baseline restricted to lag <=24h:
+  pre  n=30  brier model=0.045  market=0.318  model-market=-0.273
+  post n=27  brier model=0.343  market=0.264  model-market=+0.079
+  post gap - pre gap = +0.352   95% bootstrap CI [+0.215, +0.499]   permutation p = 0.000050
+
+Retained pilot questions (lead baseline):
+  pre  n=14  brier model=0.154  market=0.236  model-market=-0.082
+  post n=13  brier model=0.299  market=0.286  model-market=+0.013
+  post gap - pre gap = +0.096   95% bootstrap CI [-0.124, +0.312]   permutation p = 0.418679
+
+Newly added questions (lead baseline):
+  pre  n=26  brier model=0.084  market=0.157  model-market=-0.072
+  post n=27  brier model=0.313  market=0.170  model-market=+0.143
+  post gap - pre gap = +0.216   95% bootstrap CI [+0.075, +0.370]   permutation p = 0.007450
+
+Horizon <= 60d (lead baseline):
+  pre  n=27  brier model=0.120  market=0.207  model-market=-0.087
+  post n=19  brier model=0.327  market=0.203  model-market=+0.124
+  post gap - pre gap = +0.212   95% bootstrap CI [+0.059, +0.381]   permutation p = 0.007000
+
+Horizon > 60d (lead baseline):
+  pre  n=13  brier model=0.085  market=0.137  model-market=-0.052
+  post n=21  brier model=0.292  market=0.212  model-market=+0.080
+  post gap - pre gap = +0.132   95% bootstrap CI [-0.054, +0.318]   permutation p = 0.262237
+
+Methods: 5000 draws of paired question-level gaps, resampled separately within pre/post; percentile CI at sorted indices floor(.025*B), floor(.975*B); seed=0 per contrast.
+  20000 two-sided pooled-label permutations after bootstrap draws, plus-one p-value correction.
+  Conditional on this sample and one forecast per question; no event clustering or multiplicity correction.
+  Permutation inference assumes exchangeability across groups; all contrasts are exploratory.

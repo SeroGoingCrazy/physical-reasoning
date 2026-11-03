@@ -1,0 +1,315 @@
+{
+ "market": {
+  "id": "546066",
+  "question": "Will the next reconciliation bill be passed between July 1 and July 6?",
+  "conditionId": "0xf6614b7f1dc05afae436714c4fca3f0b9d6a8d90854d000c346ccdcb7d101a18",
+  "slug": "will-the-next-reconciliation-bill-be-passed-between-july-1-and-july-6",
+  "resolutionSource": "",
+  "endDate": "2025-08-31T12:00:00Z",
+  "startDate": "2025-05-20T18:10:33.432Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-reconciliation-bill-passed-y338OtafwQY1.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-reconciliation-bill-passed-y338OtafwQY1.png",
+  "description": "This market will resolve according to the date range (ET) within which the next reconciliation bill is passed by both chambers of the U.S. Congress.\n\nThe bill must be explicitly passed using the budget reconciliation process, which allows for expedited consideration in the Senate and requires only a simple majority.\n\nThe bill does not need to be signed into law by the President.\n\nThe primary resolution source is Congress.gov\u2019s legislation tracker and other official information from the government of the United States, however other credible reporting may be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "41803.136364",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-05-20T17:59:14.300492Z",
+  "updatedAt": "2025-07-05T00:26:34.949347Z",
+  "closedTime": "2025-07-03 22:05:51+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "July 1-6",
+  "groupItemThreshold": "1",
+  "questionID": "0x639e4288d5d69536e7b0bedf4606b372ecaaec61591cfe8bf40679dbfa53d401",
+  "umaEndDate": "2025-07-03T22:05:51Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 41803.136364,
+  "endDateIso": "2025-08-31",
+  "startDateIso": "2025-05-20",
+  "hasReviewedDates": true,
+  "volume1wk": 33846.44144200001,
+  "volume1mo": 40346.916959,
+  "volume1yr": 41803.136364000005,
+  "gameStartTime": "2025-06-30 16:10:00+00",
+  "clobTokenIds": "[\"98000264347538411364883858849446854176970155503829060277739221833940250044649\", \"69180201864200301760211210957946079231372725914437771034032916147265190298530\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 33846.44144200001,
+  "volume1moClob": 40346.916959,
+  "volume1yrClob": 41803.136364000005,
+  "volumeClob": 41803.136364,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x639e4288d5d69536e7b0bedf4606b372ecaaec61591cfe8bf40679dbfa53d400",
+  "negRiskRequestID": "0x4a2505405849c6a8721e31628c886466d50bb734d7250b5a7745fc88c7a760f0",
+  "events": [
+   {
+    "id": "24879",
+    "ticker": "when-will-the-reconciliation-bill-passe",
+    "slug": "when-will-the-reconciliation-bill-passe",
+    "title": "When will the reconciliation bill pass?",
+    "description": "This market will resolve according to the date range (ET) the next reconciliation bill is passed by both chambers of the U.S. Congress \n\nThe bill must be explicitly passed using the budget reconciliation process, which allows for expedited consideration in the Senate and requires only a simple majority.\n\nThe bill does not need to be signed into law by the President\n\nThe primary resolution source is Congress.gov\u2019s legislation tracker and other official information from the government of the United States, however other credible reporting may be used.",
+    "resolutionSource": "",
+    "startDate": "2025-05-20T18:12:20.916488Z",
+    "creationDate": "2025-05-20T18:12:20.916486Z",
+    "endDate": "2025-06-30T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-reconciliation-bill-passed-y338OtafwQY1.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-reconciliation-bill-passed-y338OtafwQY1.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 273876.877977,
+    "openInterest": 0,
+    "createdAt": "2025-05-20T17:59:13.057616Z",
+    "updatedAt": "2025-07-05T00:26:38.95525Z",
+    "volume1wk": 187882.770609,
+    "volume1mo": 251071.83656099997,
+    "volume1yr": 273876.877977,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x639e4288d5d69536e7b0bedf4606b372ecaaec61591cfe8bf40679dbfa53d400",
+    "commentCount": 9,
+    "cyom": false,
+    "closedTime": "2025-07-03T22:11:09Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-05-20T18:06:57.099484Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-05-20T18:10:04Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.003,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.2875,
+  "oneHourPriceChange": -0.001,
+  "oneWeekPriceChange": 0.6375,
+  "oneMonthPriceChange": 0.7905,
+  "lastTradePrice": 1,
+  "bestBid": 0.997,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-05-20T18:07:28.931763Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1747785606,
+   "p": 0.195
+  },
+  {
+   "t": 1747872007,
+   "p": 0.125
+  },
+  {
+   "t": 1747958407,
+   "p": 0.067
+  },
+  {
+   "t": 1748044807,
+   "p": 0.2335
+  },
+  {
+   "t": 1748131206,
+   "p": 0.2225
+  },
+  {
+   "t": 1748217607,
+   "p": 0.223
+  },
+  {
+   "t": 1748304006,
+   "p": 0.2245
+  },
+  {
+   "t": 1748390406,
+   "p": 0.222
+  },
+  {
+   "t": 1748476807,
+   "p": 0.2235
+  },
+  {
+   "t": 1748563207,
+   "p": 0.2235
+  },
+  {
+   "t": 1748649607,
+   "p": 0.2235
+  },
+  {
+   "t": 1748736007,
+   "p": 0.2165
+  },
+  {
+   "t": 1748822406,
+   "p": 0.122
+  },
+  {
+   "t": 1748908807,
+   "p": 0.1435
+  },
+  {
+   "t": 1748995206,
+   "p": 0.208
+  },
+  {
+   "t": 1749081606,
+   "p": 0.209
+  },
+  {
+   "t": 1749168006,
+   "p": 0.209
+  },
+  {
+   "t": 1749254407,
+   "p": 0.248
+  },
+  {
+   "t": 1749340807,
+   "p": 0.2065
+  },
+  {
+   "t": 1749427207,
+   "p": 0.2095
+  },
+  {
+   "t": 1749513606,
+   "p": 0.082
+  },
+  {
+   "t": 1749600007,
+   "p": 0.1195
+  },
+  {
+   "t": 1749686407,
+   "p": 0.216
+  },
+  {
+   "t": 1749772807,
+   "p": 0.186
+  },
+  {
+   "t": 1749859208,
+   "p": 0.2295
+  },
+  {
+   "t": 1749945608,
+   "p": 0.1835
+  },
+  {
+   "t": 1750032007,
+   "p": 0.186
+  },
+  {
+   "t": 1750118408,
+   "p": 0.1145
+  },
+  {
+   "t": 1750204808,
+   "p": 0.063
+  },
+  {
+   "t": 1750291207,
+   "p": 0.061
+  },
+  {
+   "t": 1750377608,
+   "p": 0.0615
+  },
+  {
+   "t": 1750464008,
+   "p": 0.0615
+  },
+  {
+   "t": 1750550406,
+   "p": 0.0615
+  },
+  {
+   "t": 1750636807,
+   "p": 0.0725
+  },
+  {
+   "t": 1750723207,
+   "p": 0.1295
+  },
+  {
+   "t": 1750809607,
+   "p": 0.3525
+  },
+  {
+   "t": 1750896008,
+   "p": 0.245
+  },
+  {
+   "t": 1750982407,
+   "p": 0.3615
+  },
+  {
+   "t": 1751068807,
+   "p": 0.3595
+  },
+  {
+   "t": 1751155208,
+   "p": 0.65
+  },
+  {
+   "t": 1751241607,
+   "p": 0.6075
+  },
+  {
+   "t": 1751328008,
+   "p": 0.5995
+  },
+  {
+   "t": 1751414407,
+   "p": 0.7375
+  },
+  {
+   "t": 1751500808,
+   "p": 0.746
+  }
+ ]
+}

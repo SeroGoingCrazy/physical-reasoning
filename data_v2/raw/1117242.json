@@ -1,0 +1,361 @@
+{
+ "market": {
+  "id": "1117242",
+  "question": "Nothing Ever Happens: Khamenei",
+  "conditionId": "0x569d909807a5d032aac3cbb3971c503f72552bb49378636fc2812820158c7a64",
+  "slug": "nothing-ever-happens-khamenei",
+  "resolutionSource": "",
+  "endDate": "2026-03-31T00:00:00Z",
+  "startDate": "2026-01-05T23:23:11.237742Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-khamenei-leave-iran-by-friday-ZHQbF7rffb2X.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-khamenei-leave-iran-by-friday-ZHQbF7rffb2X.jpg",
+  "description": "This market will resolve to \u201cNo\u201d if any of the following conditions are met between market creation and March 31, 2026, 11:59 ET:\n\n- Khamenei out as Supreme Leader of Iran\n- Khamenei leaves Iran\n\nOtherwise, this market will resolve to \u201cYes\u201d.\n\nKhamenei out as Supreme Leader of Iran:\nThis market will resolve to \"No\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time during this market\u2019s above-specified time frame. Khamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe. The primary resolution source for this market will be a consensus of credible reporting.\n\nKhamenei leaves Iran:\nThis market will resolve to \"No\" if it is confirmed that Ali Khamenei has left Iran for any length of time during this market\u2019s above-specified time frame. In cases where Ali Khamenei may have exited Iranian airspace on a plane, he must be confirmed to have exited the plane in a country other than Iran for this market to resolve to \"No\". If Ali Khamenei exits Iranian maritime territory on a boat to international waters, this market may resolve to \"No\". The resolution source for this market will be a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "1051609.115902",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-01-05T22:44:16.221026Z",
+  "updatedAt": "2026-03-02T08:25:22.367046Z",
+  "closedTime": "2026-03-01 03:05:37+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x1015da18d64955c5dfb23fdc688ba745e73f1506ea7e452198ad7c8257c9e429",
+  "umaEndDate": "2026-03-01T03:05:37Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 1051609.115902,
+  "endDateIso": "2026-03-31",
+  "startDateIso": "2026-01-05",
+  "hasReviewedDates": true,
+  "volume1wk": 384589.9299379997,
+  "volume1mo": 544322.5293530003,
+  "volume1yr": 1051609.1159020013,
+  "clobTokenIds": "[\"105172792593287085858606406234785306574242246071042157052532529020389839736280\", \"48235519421790695234133964412652504861896898363257026325653050512366541603070\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 384589.9299379997,
+  "volume1moClob": 544322.5293530003,
+  "volume1yrClob": 1051609.1159020013,
+  "volumeClob": 1051609.115902,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "145955",
+    "ticker": "nothing-ever-happens-khamenei",
+    "slug": "nothing-ever-happens-khamenei",
+    "title": "Nothing Ever Happens: Khamenei",
+    "description": "This market will resolve to \u201cNo\u201d if any of the following conditions are met between market creation and March 31, 2026, 11:59 ET:\n\n- Khamenei out as Supreme Leader of Iran\n- Khamenei leaves Iran\n\nOtherwise, this market will resolve to \u201cYes\u201d.\n\nKhamenei out as Supreme Leader of Iran:\nThis market will resolve to \"No\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time during this market\u2019s above-specified time frame. Khamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe. The primary resolution source for this market will be a consensus of credible reporting.\n\nKhamenei leaves Iran:\nThis market will resolve to \"No\" if it is confirmed that Ali Khamenei has left Iran for any length of time during this market\u2019s above-specified time frame. In cases where Ali Khamenei may have exited Iranian airspace on a plane, he must be confirmed to have exited the plane in a country other than Iran for this market to resolve to \"No\". If Ali Khamenei exits Iranian maritime territory on a boat to international waters, this market may resolve to \"No\". The resolution source for this market will be a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2026-01-05T23:28:09.621731Z",
+    "creationDate": "2026-01-05T23:28:09.621728Z",
+    "endDate": "2026-03-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-khamenei-leave-iran-by-friday-ZHQbF7rffb2X.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-khamenei-leave-iran-by-friday-ZHQbF7rffb2X.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 1051609.115902,
+    "openInterest": 0,
+    "createdAt": "2026-01-05T22:44:15.273831Z",
+    "updatedAt": "2026-03-02T08:25:31.747615Z",
+    "volume1wk": 384589.9299379997,
+    "volume1mo": 544322.5293530003,
+    "volume1yr": 1051609.1159020013,
+    "enableOrderBook": true,
+    "commentCount": 57,
+    "cyom": false,
+    "closedTime": "2026-03-01T03:05:37Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-01-05T23:22:49Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "89421",
+    "conditionId": "0x569d909807a5d032aac3cbb3971c503f72552bb49378636fc2812820158c7a64",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 0.001,
+    "startDate": "2026-03-01",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.015,
+  "oneWeekPriceChange": 0.035,
+  "oneMonthPriceChange": 0.075,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-01-05T23:22:20.681203Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1767657614,
+   "p": 0.7
+  },
+  {
+   "t": 1767744011,
+   "p": 0.715
+  },
+  {
+   "t": 1767830427,
+   "p": 0.655
+  },
+  {
+   "t": 1767916811,
+   "p": 0.62
+  },
+  {
+   "t": 1768003212,
+   "p": 0.625
+  },
+  {
+   "t": 1768089611,
+   "p": 0.55
+  },
+  {
+   "t": 1768176013,
+   "p": 0.58
+  },
+  {
+   "t": 1768262413,
+   "p": 0.595
+  },
+  {
+   "t": 1768348812,
+   "p": 0.56
+  },
+  {
+   "t": 1768435213,
+   "p": 0.545
+  },
+  {
+   "t": 1768521616,
+   "p": 0.705
+  },
+  {
+   "t": 1768608014,
+   "p": 0.72
+  },
+  {
+   "t": 1768694416,
+   "p": 0.69
+  },
+  {
+   "t": 1768780812,
+   "p": 0.68
+  },
+  {
+   "t": 1768867213,
+   "p": 0.695
+  },
+  {
+   "t": 1768953614,
+   "p": 0.715
+  },
+  {
+   "t": 1769040017,
+   "p": 0.74
+  },
+  {
+   "t": 1769126429,
+   "p": 0.71
+  },
+  {
+   "t": 1769212818,
+   "p": 0.69
+  },
+  {
+   "t": 1769299231,
+   "p": 0.685
+  },
+  {
+   "t": 1769385629,
+   "p": 0.735
+  },
+  {
+   "t": 1769472025,
+   "p": 0.715
+  },
+  {
+   "t": 1769558416,
+   "p": 0.735
+  },
+  {
+   "t": 1769644830,
+   "p": 0.725
+  },
+  {
+   "t": 1769731218,
+   "p": 0.695
+  },
+  {
+   "t": 1769817618,
+   "p": 0.685
+  },
+  {
+   "t": 1769904021,
+   "p": 0.68
+  },
+  {
+   "t": 1769990417,
+   "p": 0.79
+  },
+  {
+   "t": 1770076817,
+   "p": 0.81
+  },
+  {
+   "t": 1770163229,
+   "p": 0.85
+  },
+  {
+   "t": 1770249616,
+   "p": 0.835
+  },
+  {
+   "t": 1770336019,
+   "p": 0.835
+  },
+  {
+   "t": 1770422422,
+   "p": 0.835
+  },
+  {
+   "t": 1770508819,
+   "p": 0.845
+  },
+  {
+   "t": 1770595219,
+   "p": 0.84
+  },
+  {
+   "t": 1770681620,
+   "p": 0.825
+  },
+  {
+   "t": 1770768019,
+   "p": 0.825
+  },
+  {
+   "t": 1770854432,
+   "p": 0.835
+  },
+  {
+   "t": 1770940820,
+   "p": 0.845
+  },
+  {
+   "t": 1771027224,
+   "p": 0.84
+  },
+  {
+   "t": 1771113622,
+   "p": 0.845
+  },
+  {
+   "t": 1771200032,
+   "p": 0.845
+  },
+  {
+   "t": 1771286422,
+   "p": 0.84
+  },
+  {
+   "t": 1771372823,
+   "p": 0.825
+  },
+  {
+   "t": 1771459223,
+   "p": 0.78
+  },
+  {
+   "t": 1771545625,
+   "p": 0.765
+  },
+  {
+   "t": 1771632020,
+   "p": 0.755
+  },
+  {
+   "t": 1771718420,
+   "p": 0.77
+  },
+  {
+   "t": 1771804821,
+   "p": 0.78
+  },
+  {
+   "t": 1771891221,
+   "p": 0.775
+  },
+  {
+   "t": 1771977622,
+   "p": 0.775
+  },
+  {
+   "t": 1772064022,
+   "p": 0.805
+  },
+  {
+   "t": 1772150425,
+   "p": 0.82
+  },
+  {
+   "t": 1772236828,
+   "p": 0.72
+  },
+  {
+   "t": 1772323230,
+   "p": 0.0335
+  }
+ ]
+}

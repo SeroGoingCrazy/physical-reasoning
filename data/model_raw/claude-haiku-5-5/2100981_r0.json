@@ -1,0 +1,27 @@
+{
+ "id": "2100981",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.72,
+ "reasoning": "Likud has led or been tied for the largest party in Israeli polling for most of the period since 2022, typically around 25-28 seats. Its main challenger is the Bennett-led opposition, which polls in the high teens to low twenties on its own, though a merged opposition list (such as the 'Together' option named in the question) could approach Likud's numbers in some polls. The election is scheduled for late October 2026, and as of today I don't know its actual result. Likud's lead as the single largest party is the most likely outcome, but the margin is not large and a combined opposition list or a schedule change adds uncertainty.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1329,
+  "output_tokens": 869,
+  "output_tokens_details": {
+   "thinking_tokens": 657
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005674
+}

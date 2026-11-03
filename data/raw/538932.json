@@ -1,0 +1,928 @@
+{
+ "market": {
+  "id": "538932",
+  "question": "Will Zohran Mamdani win the 2025 NYC mayoral election?",
+  "conditionId": "0xebddfcf7b4401dade8b4031770a1ab942b01854f3bed453d5df9425cd9f211a9",
+  "slug": "will-zohran-mamdani-win-the-2025-nyc-mayoral-election",
+  "resolutionSource": "",
+  "endDate": "2025-11-04T12:00:00Z",
+  "startDate": "2025-04-22T16:10:05.987Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-zohran-mamdani-win-the-2025-nyc-mayoral-election-EscSJQTT6hWg.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-zohran-mamdani-win-the-2025-nyc-mayoral-election-EscSJQTT6hWg.jpg",
+  "description": "The 2025 New York City mayoral election will be held on November 4, 2025, to elect the mayor of New York City.\n\nThis market will resolve according to the candidate that wins the election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven\u2019t called the race for the same candidate, this market will resolve based on official certification.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "143254859.334333",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-04-22T15:32:27.448351Z",
+  "updatedAt": "2025-11-06T08:30:05.380919Z",
+  "closedTime": "2025-11-05 05:44:47+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Zohran Mamdani",
+  "groupItemThreshold": "4",
+  "questionID": "0x289dc66d9938b32cb340a630d13de0a91e3e04e0dc62a219a26a16e6f9cc2604",
+  "umaEndDate": "2025-11-05T05:44:47Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 143254859.334333,
+  "endDateIso": "2025-11-04",
+  "startDateIso": "2025-04-22",
+  "hasReviewedDates": true,
+  "volume1wk": 53853259.78044439,
+  "volume1mo": 115246837.54975222,
+  "volume1yr": 143254859.3343348,
+  "clobTokenIds": "[\"33945469250963963541781051637999677727672635213493648594066577298999471399137\", \"105832362350788616148612362642992403996714020918558917275151746177525518770551\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 53853259.78044439,
+  "volume1moClob": 115246837.54975222,
+  "volume1yrClob": 143254859.3343348,
+  "volumeClob": 143254859.334333,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x289dc66d9938b32cb340a630d13de0a91e3e04e0dc62a219a26a16e6f9cc2600",
+  "negRiskRequestID": "0x798388edfb94e3c427d039d47324d5b8abca0eec23dfe0f603f428853a381b24",
+  "events": [
+   {
+    "id": "23246",
+    "ticker": "new-york-city-mayoral-election",
+    "slug": "new-york-city-mayoral-election",
+    "title": "New York City Mayoral Election",
+    "description": "The 2025 New York City mayoral election will be held on November 4, 2025.\n\nThis market will resolve according to the candidate wins the election.\n\nThe primary resolution source for this market will be a consensus of credible reporting, however if there is any ambiguity in the results this market will resolve according to official information from New York City.\n\n\n",
+    "resolutionSource": "",
+    "startDate": "2025-04-22T16:14:22.792059Z",
+    "creationDate": "2025-04-22T16:14:22.792054Z",
+    "endDate": "2025-11-04T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/new-york-city-mayoral-election-al8KR4km2AQB.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/new-york-city-mayoral-election-al8KR4km2AQB.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 429614415.023426,
+    "openInterest": 0,
+    "sortBy": "price",
+    "createdAt": "2025-04-22T15:32:25.553591Z",
+    "updatedAt": "2025-11-06T08:30:37.05008Z",
+    "volume1wk": 96850310.76284839,
+    "volume1mo": 304055908.8795998,
+    "volume1yr": 429614415.023427,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x289dc66d9938b32cb340a630d13de0a91e3e04e0dc62a219a26a16e6f9cc2600",
+    "commentCount": 2983,
+    "cyom": false,
+    "closedTime": "2025-11-05T06:19:09Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2025-11-04T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "New York City",
+    "electionType": "Mayoral",
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-04-22T16:08:57Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.112,
+  "oneWeekPriceChange": 0.118,
+  "oneMonthPriceChange": 0.135,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "#FF6600",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1745366407,
+   "p": 0.095
+  },
+  {
+   "t": 1745452806,
+   "p": 0.085
+  },
+  {
+   "t": 1745539206,
+   "p": 0.09
+  },
+  {
+   "t": 1745625606,
+   "p": 0.09
+  },
+  {
+   "t": 1745712005,
+   "p": 0.08
+  },
+  {
+   "t": 1745798405,
+   "p": 0.08
+  },
+  {
+   "t": 1745884805,
+   "p": 0.08
+  },
+  {
+   "t": 1745971206,
+   "p": 0.08
+  },
+  {
+   "t": 1746057606,
+   "p": 0.08
+  },
+  {
+   "t": 1746144006,
+   "p": 0.08
+  },
+  {
+   "t": 1746230406,
+   "p": 0.08
+  },
+  {
+   "t": 1746316805,
+   "p": 0.08
+  },
+  {
+   "t": 1746403205,
+   "p": 0.08
+  },
+  {
+   "t": 1746489606,
+   "p": 0.08
+  },
+  {
+   "t": 1746576005,
+   "p": 0.08
+  },
+  {
+   "t": 1746662406,
+   "p": 0.07
+  },
+  {
+   "t": 1746748807,
+   "p": 0.07
+  },
+  {
+   "t": 1746835206,
+   "p": 0.07
+  },
+  {
+   "t": 1746921606,
+   "p": 0.07
+  },
+  {
+   "t": 1747008006,
+   "p": 0.07
+  },
+  {
+   "t": 1747094406,
+   "p": 0.07
+  },
+  {
+   "t": 1747180807,
+   "p": 0.07
+  },
+  {
+   "t": 1747267207,
+   "p": 0.07
+  },
+  {
+   "t": 1747353606,
+   "p": 0.07
+  },
+  {
+   "t": 1747440007,
+   "p": 0.07
+  },
+  {
+   "t": 1747526406,
+   "p": 0.065
+  },
+  {
+   "t": 1747612806,
+   "p": 0.06
+  },
+  {
+   "t": 1747699206,
+   "p": 0.055
+  },
+  {
+   "t": 1747785606,
+   "p": 0.045
+  },
+  {
+   "t": 1747872007,
+   "p": 0.045
+  },
+  {
+   "t": 1747958407,
+   "p": 0.045
+  },
+  {
+   "t": 1748044807,
+   "p": 0.0355
+  },
+  {
+   "t": 1748131206,
+   "p": 0.04
+  },
+  {
+   "t": 1748217607,
+   "p": 0.039
+  },
+  {
+   "t": 1748304006,
+   "p": 0.0455
+  },
+  {
+   "t": 1748390406,
+   "p": 0.0515
+  },
+  {
+   "t": 1748476807,
+   "p": 0.0625
+  },
+  {
+   "t": 1748563207,
+   "p": 0.084
+  },
+  {
+   "t": 1748649607,
+   "p": 0.101
+  },
+  {
+   "t": 1748736007,
+   "p": 0.095
+  },
+  {
+   "t": 1748822406,
+   "p": 0.0985
+  },
+  {
+   "t": 1748908807,
+   "p": 0.1215
+  },
+  {
+   "t": 1748995206,
+   "p": 0.1245
+  },
+  {
+   "t": 1749081606,
+   "p": 0.115
+  },
+  {
+   "t": 1749168006,
+   "p": 0.1345
+  },
+  {
+   "t": 1749254407,
+   "p": 0.161
+  },
+  {
+   "t": 1749340807,
+   "p": 0.186
+  },
+  {
+   "t": 1749427207,
+   "p": 0.184
+  },
+  {
+   "t": 1749513606,
+   "p": 0.2325
+  },
+  {
+   "t": 1749600007,
+   "p": 0.2315
+  },
+  {
+   "t": 1749686407,
+   "p": 0.2985
+  },
+  {
+   "t": 1749772807,
+   "p": 0.337
+  },
+  {
+   "t": 1749859208,
+   "p": 0.312
+  },
+  {
+   "t": 1749945608,
+   "p": 0.3115
+  },
+  {
+   "t": 1750032007,
+   "p": 0.2895
+  },
+  {
+   "t": 1750118408,
+   "p": 0.224
+  },
+  {
+   "t": 1750204808,
+   "p": 0.1295
+  },
+  {
+   "t": 1750291207,
+   "p": 0.1305
+  },
+  {
+   "t": 1750377608,
+   "p": 0.1395
+  },
+  {
+   "t": 1750464008,
+   "p": 0.1575
+  },
+  {
+   "t": 1750550406,
+   "p": 0.1865
+  },
+  {
+   "t": 1750636807,
+   "p": 0.1955
+  },
+  {
+   "t": 1750723207,
+   "p": 0.3685
+  },
+  {
+   "t": 1750809607,
+   "p": 0.378
+  },
+  {
+   "t": 1750896008,
+   "p": 0.7265
+  },
+  {
+   "t": 1750982407,
+   "p": 0.7405
+  },
+  {
+   "t": 1751068807,
+   "p": 0.6915
+  },
+  {
+   "t": 1751155208,
+   "p": 0.6965
+  },
+  {
+   "t": 1751241607,
+   "p": 0.6835
+  },
+  {
+   "t": 1751328008,
+   "p": 0.7025
+  },
+  {
+   "t": 1751414407,
+   "p": 0.7145
+  },
+  {
+   "t": 1751500808,
+   "p": 0.722
+  },
+  {
+   "t": 1751587208,
+   "p": 0.7025
+  },
+  {
+   "t": 1751673608,
+   "p": 0.697
+  },
+  {
+   "t": 1751760007,
+   "p": 0.695
+  },
+  {
+   "t": 1751846407,
+   "p": 0.693
+  },
+  {
+   "t": 1751932808,
+   "p": 0.681
+  },
+  {
+   "t": 1752019207,
+   "p": 0.6885
+  },
+  {
+   "t": 1752105608,
+   "p": 0.7285
+  },
+  {
+   "t": 1752192008,
+   "p": 0.735
+  },
+  {
+   "t": 1752278409,
+   "p": 0.729
+  },
+  {
+   "t": 1752364808,
+   "p": 0.7395
+  },
+  {
+   "t": 1752451207,
+   "p": 0.7315
+  },
+  {
+   "t": 1752537608,
+   "p": 0.7355
+  },
+  {
+   "t": 1752624008,
+   "p": 0.722
+  },
+  {
+   "t": 1752710408,
+   "p": 0.71
+  },
+  {
+   "t": 1752796808,
+   "p": 0.7125
+  },
+  {
+   "t": 1752883209,
+   "p": 0.7085
+  },
+  {
+   "t": 1752969608,
+   "p": 0.708
+  },
+  {
+   "t": 1753056007,
+   "p": 0.711
+  },
+  {
+   "t": 1753142409,
+   "p": 0.714
+  },
+  {
+   "t": 1753228809,
+   "p": 0.7165
+  },
+  {
+   "t": 1753315209,
+   "p": 0.7175
+  },
+  {
+   "t": 1753401609,
+   "p": 0.722
+  },
+  {
+   "t": 1753488009,
+   "p": 0.7275
+  },
+  {
+   "t": 1753574410,
+   "p": 0.7335
+  },
+  {
+   "t": 1753660809,
+   "p": 0.732
+  },
+  {
+   "t": 1753747210,
+   "p": 0.73
+  },
+  {
+   "t": 1753833610,
+   "p": 0.763
+  },
+  {
+   "t": 1753920008,
+   "p": 0.796
+  },
+  {
+   "t": 1754006409,
+   "p": 0.803
+  },
+  {
+   "t": 1754092809,
+   "p": 0.8185
+  },
+  {
+   "t": 1754179208,
+   "p": 0.8165
+  },
+  {
+   "t": 1754265607,
+   "p": 0.818
+  },
+  {
+   "t": 1754352008,
+   "p": 0.807
+  },
+  {
+   "t": 1754438409,
+   "p": 0.8175
+  },
+  {
+   "t": 1754524809,
+   "p": 0.8
+  },
+  {
+   "t": 1754611209,
+   "p": 0.8045
+  },
+  {
+   "t": 1754697608,
+   "p": 0.81
+  },
+  {
+   "t": 1754784009,
+   "p": 0.811
+  },
+  {
+   "t": 1754870407,
+   "p": 0.8035
+  },
+  {
+   "t": 1754956803,
+   "p": 0.806
+  },
+  {
+   "t": 1755043205,
+   "p": 0.82
+  },
+  {
+   "t": 1755129606,
+   "p": 0.823
+  },
+  {
+   "t": 1755216014,
+   "p": 0.8245
+  },
+  {
+   "t": 1755302403,
+   "p": 0.8285
+  },
+  {
+   "t": 1755388809,
+   "p": 0.8275
+  },
+  {
+   "t": 1755475205,
+   "p": 0.827
+  },
+  {
+   "t": 1755561606,
+   "p": 0.827
+  },
+  {
+   "t": 1755648008,
+   "p": 0.8325
+  },
+  {
+   "t": 1755734409,
+   "p": 0.8375
+  },
+  {
+   "t": 1755820802,
+   "p": 0.8415
+  },
+  {
+   "t": 1755907216,
+   "p": 0.8445
+  },
+  {
+   "t": 1755993605,
+   "p": 0.8445
+  },
+  {
+   "t": 1756080011,
+   "p": 0.8495
+  },
+  {
+   "t": 1756166402,
+   "p": 0.8525
+  },
+  {
+   "t": 1756252803,
+   "p": 0.8575
+  },
+  {
+   "t": 1756339204,
+   "p": 0.8465
+  },
+  {
+   "t": 1756425615,
+   "p": 0.8455
+  },
+  {
+   "t": 1756512010,
+   "p": 0.845
+  },
+  {
+   "t": 1756598402,
+   "p": 0.8455
+  },
+  {
+   "t": 1756684811,
+   "p": 0.853
+  },
+  {
+   "t": 1756771211,
+   "p": 0.855
+  },
+  {
+   "t": 1756857611,
+   "p": 0.852
+  },
+  {
+   "t": 1756944016,
+   "p": 0.8125
+  },
+  {
+   "t": 1757030408,
+   "p": 0.7935
+  },
+  {
+   "t": 1757116821,
+   "p": 0.8315
+  },
+  {
+   "t": 1757203210,
+   "p": 0.8095
+  },
+  {
+   "t": 1757289611,
+   "p": 0.811
+  },
+  {
+   "t": 1757376010,
+   "p": 0.8065
+  },
+  {
+   "t": 1757462408,
+   "p": 0.806
+  },
+  {
+   "t": 1757548806,
+   "p": 0.81
+  },
+  {
+   "t": 1757635214,
+   "p": 0.808
+  },
+  {
+   "t": 1757721606,
+   "p": 0.8095
+  },
+  {
+   "t": 1757808003,
+   "p": 0.809
+  },
+  {
+   "t": 1757894412,
+   "p": 0.815
+  },
+  {
+   "t": 1757980823,
+   "p": 0.816
+  },
+  {
+   "t": 1758067216,
+   "p": 0.8415
+  },
+  {
+   "t": 1758153614,
+   "p": 0.8405
+  },
+  {
+   "t": 1758240010,
+   "p": 0.8545
+  },
+  {
+   "t": 1758326419,
+   "p": 0.864
+  },
+  {
+   "t": 1758412802,
+   "p": 0.866
+  },
+  {
+   "t": 1758499209,
+   "p": 0.8725
+  },
+  {
+   "t": 1758585608,
+   "p": 0.8815
+  },
+  {
+   "t": 1758672012,
+   "p": 0.8795
+  },
+  {
+   "t": 1758758407,
+   "p": 0.878
+  },
+  {
+   "t": 1758844809,
+   "p": 0.8735
+  },
+  {
+   "t": 1758931209,
+   "p": 0.8715
+  },
+  {
+   "t": 1759017608,
+   "p": 0.873
+  },
+  {
+   "t": 1759104008,
+   "p": 0.8475
+  },
+  {
+   "t": 1759190407,
+   "p": 0.8605
+  },
+  {
+   "t": 1759276803,
+   "p": 0.8625
+  },
+  {
+   "t": 1759363203,
+   "p": 0.8705
+  },
+  {
+   "t": 1759449606,
+   "p": 0.8955
+  },
+  {
+   "t": 1759536009,
+   "p": 0.8945
+  },
+  {
+   "t": 1759622406,
+   "p": 0.914
+  },
+  {
+   "t": 1759708807,
+   "p": 0.862
+  },
+  {
+   "t": 1759795208,
+   "p": 0.8685
+  },
+  {
+   "t": 1759881608,
+   "p": 0.8835
+  },
+  {
+   "t": 1759968008,
+   "p": 0.8695
+  },
+  {
+   "t": 1760054409,
+   "p": 0.8685
+  },
+  {
+   "t": 1760140804,
+   "p": 0.8825
+  },
+  {
+   "t": 1760227215,
+   "p": 0.8795
+  },
+  {
+   "t": 1760313615,
+   "p": 0.8765
+  },
+  {
+   "t": 1760400010,
+   "p": 0.89
+  },
+  {
+   "t": 1760486413,
+   "p": 0.882
+  },
+  {
+   "t": 1760572819,
+   "p": 0.8805
+  },
+  {
+   "t": 1760659205,
+   "p": 0.8795
+  },
+  {
+   "t": 1760745614,
+   "p": 0.9105
+  },
+  {
+   "t": 1760832019,
+   "p": 0.916
+  },
+  {
+   "t": 1760918405,
+   "p": 0.9235
+  },
+  {
+   "t": 1761004816,
+   "p": 0.929
+  },
+  {
+   "t": 1761091219,
+   "p": 0.923
+  },
+  {
+   "t": 1761177610,
+   "p": 0.93
+  },
+  {
+   "t": 1761264016,
+   "p": 0.9265
+  },
+  {
+   "t": 1761350415,
+   "p": 0.9355
+  },
+  {
+   "t": 1761436818,
+   "p": 0.9445
+  },
+  {
+   "t": 1761523216,
+   "p": 0.9535
+  },
+  {
+   "t": 1761609619,
+   "p": 0.9215
+  },
+  {
+   "t": 1761696018,
+   "p": 0.8825
+  },
+  {
+   "t": 1761782418,
+   "p": 0.894
+  },
+  {
+   "t": 1761868812,
+   "p": 0.9415
+  },
+  {
+   "t": 1761955217,
+   "p": 0.9405
+  },
+  {
+   "t": 1762041614,
+   "p": 0.9345
+  },
+  {
+   "t": 1762128016,
+   "p": 0.9375
+  },
+  {
+   "t": 1762214417,
+   "p": 0.9095
+  },
+  {
+   "t": 1762300818,
+   "p": 0.9575
+  }
+ ]
+}

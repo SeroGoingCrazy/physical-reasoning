@@ -1,0 +1,27 @@
+{
+ "id": "1167607",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.7,
+ "reasoning": "As of January 12, 2026, Iran is in turmoil after mass protests that began in late December and a severe crackdown with many reported deaths. Trump has openly threatened military action if protesters are killed and has reportedly been briefed on strike options, so the risk of a US strike in January is substantial. Against that, the window is under three weeks. A large strike would likely need more force posture in the region, and Iran has signaled openness to talks. Trump has also often used threats as leverage rather than acting quickly. I do not know of any confirmed US strike on Iranian soil in January 2026. Prediction markets at the time priced a strike by January 31 at roughly 30-40%. Weighing these, I put the chance of no strike by January 31 at roughly 70%.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 975,
+  "output_tokens": 627,
+  "output_tokens_details": {
+   "thinking_tokens": 367
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.01644
+}

@@ -1,0 +1,27 @@
+{
+ "id": "907604",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.33,
+ "reasoning": "Megan Degenfelder, the Wyoming Superintendent of Public Instruction, is a declared or likely Republican candidate for governor in 2026, since Gordon is term-limited. The primary will probably be a multi-candidate field, with Secretary of State Chuck Gray and other conservative figures as the main rivals. Wyoming's Republican primaries are dominated by the Freedom Caucus-aligned hard-right faction, which has been hostile to establishment-leaning candidates, and Degenfelder's standing with that bloc is uncertain. Trump endorsement and fundraising would be decisive, and I don't know of a clear frontrunner status for her. A plausible but far from certain outcome, so I put her chances at roughly one in three.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 684,
+  "output_tokens": 693,
+  "output_tokens_details": {
+   "thinking_tokens": 429
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.00041490000000000006
+}

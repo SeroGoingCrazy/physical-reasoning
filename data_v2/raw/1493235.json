@@ -1,0 +1,795 @@
+{
+ "market": {
+  "id": "1493235",
+  "question": "Will Stephen Lynch be the Democratic nominee for MA-08?",
+  "conditionId": "0xf56efa5879b1ac0496b649b97793e321e65bed2aff9cfed42d9efa87a0cd7680",
+  "slug": "will-stephen-lynch-be-the-democratic-nominee-for-ma-08",
+  "resolutionSource": "https://democrats.org/",
+  "endDate": "2026-09-01T00:00:00Z",
+  "startDate": "2026-03-03T23:24:56.558Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stephen-lynch-be-the-democratic-nominee-for-ma-08-eVnmK4pi2d2f.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stephen-lynch-be-the-democratic-nominee-for-ma-08-eVnmK4pi2d2f.jpg",
+  "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the MA-08 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on September 1, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "135786.52382200002",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-03-03T17:18:01.727916Z",
+  "updatedAt": "2026-10-07T20:08:25.176666Z",
+  "closedTime": "2026-09-02 05:42:30+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Stephen Lynch",
+  "groupItemThreshold": "0",
+  "questionID": "0x095ad96344b43371a215a80e4ede7fd1e599dfc9fd73c78c6d78b8b10e181300",
+  "umaEndDate": "2026-09-02T05:42:30Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 135786.52382200002,
+  "endDateIso": "2026-09-01",
+  "startDateIso": "2026-03-03",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"46688554141591134907151368754264218732364130881653514219834373823719885024053\", \"30763135880765767714915424809927017029690489225123793413196619783027580637320\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 135786.52382200002,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x095ad96344b43371a215a80e4ede7fd1e599dfc9fd73c78c6d78b8b10e181300",
+  "negRiskRequestID": "0xf8597f4896c5473d0ff60ea5ec368ae3b5e20df2ce16b7c8a030198287d0ebc9",
+  "events": [
+   {
+    "id": "243954",
+    "ticker": "ma-08-democratic-primary-winner",
+    "slug": "ma-08-democratic-primary-winner",
+    "title": "MA-08 Democratic Primary Winner",
+    "description": "This market will resolve according to the candidate who wins the nomination for the Democratic Party to contest the MA-08 congressional district seat in the U.S. House of Representatives in the 2026 midterm elections. The Democratic primary will take place on September 1, 2026.\n\nIf no nominee is announced by November 3, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of official Democrat sources, including https://democrats.org/.\n\nAny replacement of the nominee before election day will not change the resolution of the market.",
+    "resolutionSource": "",
+    "startDate": "2026-03-03T23:24:56.558Z",
+    "creationDate": "2026-03-03T23:25:40.142989Z",
+    "endDate": "2026-09-01T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/MA.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/state_flags/MA.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 0,
+    "volume": 238948.20571600003,
+    "openInterest": 109463.055675,
+    "sortBy": "price",
+    "createdAt": "2026-03-03T17:18:00.337151Z",
+    "updatedAt": "2026-09-28T20:09:21.052933Z",
+    "competitive": 0,
+    "enableOrderBook": true,
+    "liquidityAmm": 0,
+    "liquidityClob": 0,
+    "negRisk": true,
+    "negRiskMarketID": "0x095ad96344b43371a215a80e4ede7fd1e599dfc9fd73c78c6d78b8b10e181300",
+    "commentCount": 2,
+    "cyom": false,
+    "closedTime": "2026-09-28T20:08:18Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-09-01T23:59:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Massachusetts",
+    "electionType": "Democratic Primary",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-03-03T23:20:56.724977Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-03-03T23:23:35Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.2045,
+  "oneHourPriceChange": 0.029,
+  "oneWeekPriceChange": 0.3695,
+  "oneMonthPriceChange": 0.5245,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-03-03T23:22:22.432319Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1772582436,
+   "p": 0.575
+  },
+  {
+   "t": 1772668832,
+   "p": 0.505
+  },
+  {
+   "t": 1772755232,
+   "p": 0.525
+  },
+  {
+   "t": 1772841636,
+   "p": 0.525
+  },
+  {
+   "t": 1772928030,
+   "p": 0.75
+  },
+  {
+   "t": 1773014425,
+   "p": 0.745
+  },
+  {
+   "t": 1773100831,
+   "p": 0.74
+  },
+  {
+   "t": 1773187234,
+   "p": 0.745
+  },
+  {
+   "t": 1773273634,
+   "p": 0.735
+  },
+  {
+   "t": 1773360050,
+   "p": 0.725
+  },
+  {
+   "t": 1773446431,
+   "p": 0.725
+  },
+  {
+   "t": 1773532830,
+   "p": 0.76
+  },
+  {
+   "t": 1773619245,
+   "p": 0.515
+  },
+  {
+   "t": 1773705630,
+   "p": 0.51
+  },
+  {
+   "t": 1773792031,
+   "p": 0.51
+  },
+  {
+   "t": 1773878435,
+   "p": 0.51
+  },
+  {
+   "t": 1773964836,
+   "p": 0.51
+  },
+  {
+   "t": 1774051233,
+   "p": 0.495
+  },
+  {
+   "t": 1774137631,
+   "p": 0.49
+  },
+  {
+   "t": 1774224025,
+   "p": 0.54
+  },
+  {
+   "t": 1774310423,
+   "p": 0.505
+  },
+  {
+   "t": 1774396826,
+   "p": 0.505
+  },
+  {
+   "t": 1774483229,
+   "p": 0.51
+  },
+  {
+   "t": 1774569645,
+   "p": 0.51
+  },
+  {
+   "t": 1774656048,
+   "p": 0.51
+  },
+  {
+   "t": 1774742453,
+   "p": 0.51
+  },
+  {
+   "t": 1775692828,
+   "p": 0.495
+  },
+  {
+   "t": 1776816009,
+   "p": 0.51
+  },
+  {
+   "t": 1776902410,
+   "p": 0.615
+  },
+  {
+   "t": 1776988823,
+   "p": 0.59
+  },
+  {
+   "t": 1777075213,
+   "p": 0.54
+  },
+  {
+   "t": 1777161604,
+   "p": 0.5
+  },
+  {
+   "t": 1777248004,
+   "p": 0.53
+  },
+  {
+   "t": 1777334409,
+   "p": 0.51
+  },
+  {
+   "t": 1777420807,
+   "p": 0.5
+  },
+  {
+   "t": 1777507210,
+   "p": 0.4
+  },
+  {
+   "t": 1777593608,
+   "p": 0.485
+  },
+  {
+   "t": 1777680006,
+   "p": 0.535
+  },
+  {
+   "t": 1777766406,
+   "p": 0.42
+  },
+  {
+   "t": 1777852804,
+   "p": 0.58
+  },
+  {
+   "t": 1777939217,
+   "p": 0.465
+  },
+  {
+   "t": 1778025606,
+   "p": 0.51
+  },
+  {
+   "t": 1778112005,
+   "p": 0.825
+  },
+  {
+   "t": 1778198403,
+   "p": 0.51
+  },
+  {
+   "t": 1778284823,
+   "p": 0.515
+  },
+  {
+   "t": 1778371207,
+   "p": 0.615
+  },
+  {
+   "t": 1778457610,
+   "p": 0.515
+  },
+  {
+   "t": 1778544009,
+   "p": 0.44
+  },
+  {
+   "t": 1778630411,
+   "p": 0.59
+  },
+  {
+   "t": 1778716816,
+   "p": 0.5
+  },
+  {
+   "t": 1778803209,
+   "p": 0.52
+  },
+  {
+   "t": 1778889616,
+   "p": 0.5
+  },
+  {
+   "t": 1778976026,
+   "p": 0.5
+  },
+  {
+   "t": 1779062407,
+   "p": 0.46
+  },
+  {
+   "t": 1779148805,
+   "p": 0.445
+  },
+  {
+   "t": 1779235211,
+   "p": 0.83
+  },
+  {
+   "t": 1779321610,
+   "p": 0.55
+  },
+  {
+   "t": 1779408014,
+   "p": 0.52
+  },
+  {
+   "t": 1779494409,
+   "p": 0.555
+  },
+  {
+   "t": 1779580804,
+   "p": 0.535
+  },
+  {
+   "t": 1779667204,
+   "p": 0.485
+  },
+  {
+   "t": 1779753604,
+   "p": 0.53
+  },
+  {
+   "t": 1779840005,
+   "p": 0.505
+  },
+  {
+   "t": 1779926405,
+   "p": 0.52
+  },
+  {
+   "t": 1780012807,
+   "p": 0.52
+  },
+  {
+   "t": 1780099218,
+   "p": 0.52
+  },
+  {
+   "t": 1780185607,
+   "p": 0.58
+  },
+  {
+   "t": 1780272003,
+   "p": 0.59
+  },
+  {
+   "t": 1780358405,
+   "p": 0.565
+  },
+  {
+   "t": 1780444805,
+   "p": 0.52
+  },
+  {
+   "t": 1780531203,
+   "p": 0.505
+  },
+  {
+   "t": 1780617618,
+   "p": 0.5
+  },
+  {
+   "t": 1780704003,
+   "p": 0.695
+  },
+  {
+   "t": 1780790413,
+   "p": 0.45
+  },
+  {
+   "t": 1780876803,
+   "p": 0.605
+  },
+  {
+   "t": 1780963203,
+   "p": 0.54
+  },
+  {
+   "t": 1781049604,
+   "p": 0.615
+  },
+  {
+   "t": 1781136005,
+   "p": 0.52
+  },
+  {
+   "t": 1781222404,
+   "p": 0.595
+  },
+  {
+   "t": 1781308804,
+   "p": 0.495
+  },
+  {
+   "t": 1781395207,
+   "p": 0.47
+  },
+  {
+   "t": 1781481603,
+   "p": 0.58
+  },
+  {
+   "t": 1781568006,
+   "p": 0.59
+  },
+  {
+   "t": 1781654405,
+   "p": 0.57
+  },
+  {
+   "t": 1781740816,
+   "p": 0.58
+  },
+  {
+   "t": 1781827221,
+   "p": 0.575
+  },
+  {
+   "t": 1781913604,
+   "p": 0.52
+  },
+  {
+   "t": 1782000006,
+   "p": 0.46
+  },
+  {
+   "t": 1782086405,
+   "p": 0.52
+  },
+  {
+   "t": 1782172804,
+   "p": 0.585
+  },
+  {
+   "t": 1782259204,
+   "p": 0.5
+  },
+  {
+   "t": 1782345604,
+   "p": 0.7
+  },
+  {
+   "t": 1782432003,
+   "p": 0.6
+  },
+  {
+   "t": 1782518404,
+   "p": 0.65
+  },
+  {
+   "t": 1782604804,
+   "p": 0.62
+  },
+  {
+   "t": 1782691203,
+   "p": 0.635
+  },
+  {
+   "t": 1782777604,
+   "p": 0.62
+  },
+  {
+   "t": 1782864003,
+   "p": 0.495
+  },
+  {
+   "t": 1782950404,
+   "p": 0.535
+  },
+  {
+   "t": 1783036804,
+   "p": 0.465
+  },
+  {
+   "t": 1783123203,
+   "p": 0.36
+  },
+  {
+   "t": 1783209603,
+   "p": 0.375
+  },
+  {
+   "t": 1783296004,
+   "p": 0.37
+  },
+  {
+   "t": 1783382409,
+   "p": 0.365
+  },
+  {
+   "t": 1783468805,
+   "p": 0.415
+  },
+  {
+   "t": 1783555212,
+   "p": 0.41
+  },
+  {
+   "t": 1783641608,
+   "p": 0.375
+  },
+  {
+   "t": 1783728008,
+   "p": 0.38
+  },
+  {
+   "t": 1783814420,
+   "p": 0.595
+  },
+  {
+   "t": 1783900808,
+   "p": 0.63
+  },
+  {
+   "t": 1783987208,
+   "p": 0.54
+  },
+  {
+   "t": 1784073609,
+   "p": 0.525
+  },
+  {
+   "t": 1784160011,
+   "p": 0.535
+  },
+  {
+   "t": 1784246409,
+   "p": 0.535
+  },
+  {
+   "t": 1784332807,
+   "p": 0.54
+  },
+  {
+   "t": 1784419208,
+   "p": 0.575
+  },
+  {
+   "t": 1784505622,
+   "p": 0.545
+  },
+  {
+   "t": 1784592009,
+   "p": 0.54
+  },
+  {
+   "t": 1784678408,
+   "p": 0.595
+  },
+  {
+   "t": 1784764814,
+   "p": 0.55
+  },
+  {
+   "t": 1784851210,
+   "p": 0.49
+  },
+  {
+   "t": 1784937610,
+   "p": 0.495
+  },
+  {
+   "t": 1785024011,
+   "p": 0.525
+  },
+  {
+   "t": 1785110413,
+   "p": 0.525
+  },
+  {
+   "t": 1785196816,
+   "p": 0.515
+  },
+  {
+   "t": 1785283249,
+   "p": 0.5
+  },
+  {
+   "t": 1785369623,
+   "p": 0.48
+  },
+  {
+   "t": 1785456021,
+   "p": 0.495
+  },
+  {
+   "t": 1785542412,
+   "p": 0.5
+  },
+  {
+   "t": 1785628812,
+   "p": 0.455
+  },
+  {
+   "t": 1785715210,
+   "p": 0.465
+  },
+  {
+   "t": 1785801611,
+   "p": 0.47
+  },
+  {
+   "t": 1785888012,
+   "p": 0.47
+  },
+  {
+   "t": 1785974410,
+   "p": 0.475
+  },
+  {
+   "t": 1786060812,
+   "p": 0.48
+  },
+  {
+   "t": 1786147214,
+   "p": 0.475
+  },
+  {
+   "t": 1786233625,
+   "p": 0.475
+  },
+  {
+   "t": 1786320016,
+   "p": 0.475
+  },
+  {
+   "t": 1786406421,
+   "p": 0.485
+  },
+  {
+   "t": 1786492813,
+   "p": 0.485
+  },
+  {
+   "t": 1786579217,
+   "p": 0.485
+  },
+  {
+   "t": 1786665617,
+   "p": 0.485
+  },
+  {
+   "t": 1786752015,
+   "p": 0.485
+  },
+  {
+   "t": 1786838417,
+   "p": 0.405
+  },
+  {
+   "t": 1786924818,
+   "p": 0.435
+  },
+  {
+   "t": 1787011228,
+   "p": 0.45
+  },
+  {
+   "t": 1787097618,
+   "p": 0.46
+  },
+  {
+   "t": 1787184021,
+   "p": 0.455
+  },
+  {
+   "t": 1787270418,
+   "p": 0.495
+  },
+  {
+   "t": 1787356817,
+   "p": 0.535
+  },
+  {
+   "t": 1787443216,
+   "p": 0.56
+  },
+  {
+   "t": 1787529619,
+   "p": 0.49
+  },
+  {
+   "t": 1787616017,
+   "p": 0.525
+  },
+  {
+   "t": 1787702418,
+   "p": 0.585
+  },
+  {
+   "t": 1787788819,
+   "p": 0.755
+  },
+  {
+   "t": 1787875218,
+   "p": 0.8
+  },
+  {
+   "t": 1787961619,
+   "p": 0.805
+  },
+  {
+   "t": 1788048018,
+   "p": 0.82
+  },
+  {
+   "t": 1788134419,
+   "p": 0.815
+  },
+  {
+   "t": 1788220829,
+   "p": 0.79
+  },
+  {
+   "t": 1788307217,
+   "p": 0.735
+  }
+ ]
+}

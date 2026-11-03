@@ -1,0 +1,335 @@
+{
+ "market": {
+  "id": "2479865",
+  "question": "Will SpaceX Starship Flight Test 13 Superheavy explode?",
+  "conditionId": "0x143cc115011576666f7104939ff59cf0638ac4bca64d1c6b3b5dbed16c282e95",
+  "slug": "will-spacex-starship-flight-test-13-superheavy-pop",
+  "resolutionSource": "",
+  "endDate": "2026-12-31T00:00:00Z",
+  "startDate": "2026-06-10T15:10:43.939104Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spacex-starship-flight-test-10-KJ2wEPdcMh5k.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spacex-starship-flight-test-10-KJ2wEPdcMh5k.jpg",
+  "description": "This market will resolve to \"Yes\" if the booster for the 13th Starship-SuperHeavy test explodes at any point during the test from the start of fueling operations to 60 minutes after it makes contact with Earth upon landing. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn explosion is defined as a violent and catastrophic event resulting in the destruction of all or part of the vehicle, regardless of intent or context (e.g., a planned termination event would also count).\n\nIf the 13th launch has not occurred by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nNote: The sixth Starship-SuperHeavy test flight which exploded after executing controlled splashdown in the Gulf of Mexico would qualify for a \"Yes\" resolution.\n\nThe resolution source for this market will be official video provided by SpaceX (https://www.youtube.com/c/SpaceX), as well as secondary video feeds and/or written reports if necessary.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "226822.4403459999",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-09T16:34:40.821368Z",
+  "updatedAt": "2026-07-26T06:16:54.666878Z",
+  "closedTime": "2026-07-25 06:14:43+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "Super Heavy booster explodes?",
+  "groupItemThreshold": "7",
+  "questionID": "0xfbfa63b56d9f2a157afab8faddcac1a93f8d2de11c159c01602ff425f4194e3f",
+  "umaEndDate": "2026-07-25T06:14:43Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 226822.4403459999,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2026-06-10",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"24815439213700826059294795764292218059023720923117873770678169709153952032691\", \"19192686867581700056428286940013433747069314930323507120944693590508188557862\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 226822.4403459999,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "576916",
+    "ticker": "spacex-starship-flight-test-13",
+    "slug": "spacex-starship-flight-test-13",
+    "title": "SpaceX Starship Flight Test 13",
+    "description": "This is a market on the outcome of the SpaceX Starship Flight Test 13.",
+    "resolutionSource": "https://www.youtube.com/watch?v=lC3RDO7tdLc",
+    "startDate": "2026-06-10T15:10:39.121205Z",
+    "creationDate": "2026-06-10T15:28:07.700003Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spacex-starship-flight-test-10-KJ2wEPdcMh5k.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spacex-starship-flight-test-10-KJ2wEPdcMh5k.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 887159.9572720001,
+    "openInterest": 137586.42117200003,
+    "sortBy": "ascending",
+    "createdAt": "2026-06-09T16:34:39.006736Z",
+    "updatedAt": "2026-07-26T06:19:22.745265Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11900",
+      "ticker": "spacex-starship-flight-test",
+      "slug": "spacex-starship-flight-test",
+      "title": "SpaceX Starship Flight Test",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-06-09T16:28:15.02066Z",
+      "updatedAt": "2026-11-02T20:55:45.776471Z",
+      "volume24hr": 1253.75376,
+      "volume": 56157.958515,
+      "liquidity": 4821.658,
+      "commentCount": 738
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-07-25T06:14:43Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "spacex-starship-flight-test",
+    "ended": false,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "featuredOrder": 7,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-10T15:09:55Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.01,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.19,
+  "oneHourPriceChange": -0.0015,
+  "oneWeekPriceChange": 0.185,
+  "oneMonthPriceChange": 0.295,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.99,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-10T15:08:51.241609Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1781136005,
+   "p": 0.55
+  },
+  {
+   "t": 1781222404,
+   "p": 0.78
+  },
+  {
+   "t": 1781308804,
+   "p": 0.76
+  },
+  {
+   "t": 1781395207,
+   "p": 0.845
+  },
+  {
+   "t": 1781481603,
+   "p": 0.77
+  },
+  {
+   "t": 1781568006,
+   "p": 0.76
+  },
+  {
+   "t": 1781654405,
+   "p": 0.715
+  },
+  {
+   "t": 1781740816,
+   "p": 0.74
+  },
+  {
+   "t": 1781827221,
+   "p": 0.735
+  },
+  {
+   "t": 1781913604,
+   "p": 0.735
+  },
+  {
+   "t": 1782000006,
+   "p": 0.73
+  },
+  {
+   "t": 1782086405,
+   "p": 0.73
+  },
+  {
+   "t": 1782172804,
+   "p": 0.72
+  },
+  {
+   "t": 1782259204,
+   "p": 0.7
+  },
+  {
+   "t": 1782345604,
+   "p": 0.7
+  },
+  {
+   "t": 1782432003,
+   "p": 0.7
+  },
+  {
+   "t": 1782518404,
+   "p": 0.795
+  },
+  {
+   "t": 1782604804,
+   "p": 0.795
+  },
+  {
+   "t": 1782691203,
+   "p": 0.72
+  },
+  {
+   "t": 1782777604,
+   "p": 0.695
+  },
+  {
+   "t": 1782864003,
+   "p": 0.74
+  },
+  {
+   "t": 1782950404,
+   "p": 0.765
+  },
+  {
+   "t": 1783036804,
+   "p": 0.78
+  },
+  {
+   "t": 1783123203,
+   "p": 0.765
+  },
+  {
+   "t": 1783209603,
+   "p": 0.765
+  },
+  {
+   "t": 1783296004,
+   "p": 0.765
+  },
+  {
+   "t": 1783382408,
+   "p": 0.76
+  },
+  {
+   "t": 1783468804,
+   "p": 0.76
+  },
+  {
+   "t": 1783555208,
+   "p": 0.77
+  },
+  {
+   "t": 1783641605,
+   "p": 0.78
+  },
+  {
+   "t": 1783728006,
+   "p": 0.775
+  },
+  {
+   "t": 1783814418,
+   "p": 0.89
+  },
+  {
+   "t": 1783900805,
+   "p": 0.93
+  },
+  {
+   "t": 1783987207,
+   "p": 0.905
+  },
+  {
+   "t": 1784073609,
+   "p": 0.9
+  },
+  {
+   "t": 1784160008,
+   "p": 0.895
+  },
+  {
+   "t": 1784246409,
+   "p": 0.81
+  },
+  {
+   "t": 1784332807,
+   "p": 0.77
+  },
+  {
+   "t": 1784419208,
+   "p": 0.86
+  },
+  {
+   "t": 1784505622,
+   "p": 0.82
+  },
+  {
+   "t": 1784592009,
+   "p": 0.85
+  },
+  {
+   "t": 1784678408,
+   "p": 0.825
+  },
+  {
+   "t": 1784764814,
+   "p": 0.83
+  },
+  {
+   "t": 1784851210,
+   "p": 0.805
+  },
+  {
+   "t": 1784937610,
+   "p": 0.962
+  }
+ ]
+}

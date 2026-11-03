@@ -1,0 +1,27 @@
+{
+ "id": "1237131",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.8,
+ "reasoning": "Microsoft comes up often on All-In because the hosts regularly discuss AI, OpenAI, hyperscaler capex, Azure, Copilot and big-tech market caps. The next episode, around Jan 23, 2026, will likely cover Davos-related AI discussion, where Satya Nadella made widely reported comments about AI. It may also touch on the AI capex and bubble debate ahead of big-tech earnings. Even a Davos interview posted as an episode would plausibly mention Microsoft. My base rate for a Microsoft mention in a typical recent episode is roughly 75-85%. A focus on politics or other topics could produce a miss.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 982,
+  "output_tokens": 495,
+  "output_tokens_details": {
+   "thinking_tokens": 263
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.013828
+}

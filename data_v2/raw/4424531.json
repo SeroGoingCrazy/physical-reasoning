@@ -1,0 +1,325 @@
+{
+ "market": {
+  "id": "4424531",
+  "question": "Will Reservists \u2013 New Economic Party win less than 2.75% of the vote in the 2026 Knesset elections?",
+  "conditionId": "0xe0f049a6321da8e5a5dc0f45e4f9326e8c7a2c6196459a8bf053da6319987601",
+  "slug": "will-reservists-new-economic-party-win-less-than-2pt75-percent-of-the-vote-in-the-2026-knesset-elections",
+  "resolutionSource": "https://www.bechirot.gov.il/",
+  "endDate": "2026-11-30T23:59:00Z",
+  "startDate": "2026-09-09T21:21:15Z",
+  "description": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the percentage of the national vote won by Reservists \u2013 New Economic Party party list in the Israeli Knesset elections.\n\nThe percentage will be measured as the number of valid votes received by Reservists \u2013 New Economic Party's party list divided by the total number of valid votes cast in the election. Votes will be counted regardless of whether Reservists \u2013 New Economic Party passes the electoral threshold and wins seats in the Knesset.\n\nIf Reservists \u2013 New Economic Party contests this election as part of a joint candidate list with one or more parties, all votes won by the joint candidate list will be counted. If Reservists \u2013 New Economic Party merges with another party prior to the election, all votes won by the resultant merged party, or any joint candidate list through which it contests the election, will be counted.\n\nIf the reported value falls exactly on a bracket boundary, this market will resolve to the higher range bracket.\n\nIf the results of this election are not definitively known by October 31, 2027, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results published by the Central Elections Committee of Israel (https://www.bechirot.gov.il/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "38231.735287999996",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-09-09T21:20:52.624116Z",
+  "updatedAt": "2026-11-02T20:51:31.85092Z",
+  "closedTime": "2026-11-02 14:11:29.862727+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "<2.75%",
+  "groupItemThreshold": "0",
+  "questionID": "0xceaf94aec6e9e2e9e07efacdeab309aa7fa72068517b6601dc260503ba2b8c00",
+  "umaEndDate": "2026-11-02 14:11:29.862727+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 38231.735287999996,
+  "endDateIso": "2026-11-30",
+  "startDateIso": "2026-09-09",
+  "hasReviewedDates": true,
+  "volume24hr": 5301.223739,
+  "volume1wk": 31104.240759,
+  "volume1mo": 37954.085095,
+  "volume1yr": 38231.735287999996,
+  "clobTokenIds": "[\"15380479308052023924538017522008304451778071993128514683155414186998787527255\", \"103767335292808967157558676886556410656289440631878170617966741479072287050241\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume24hrClob": 5301.223739,
+  "volume1wkClob": 31104.240759,
+  "volume1moClob": 37954.085095,
+  "volume1yrClob": 38231.735287999996,
+  "volumeClob": 38231.735287999996,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xceaf94aec6e9e2e9e07efacdeab309aa7fa72068517b6601dc260503ba2b8c00",
+  "negRiskRequestID": "0x9cb63c07098f3a6ffb806a050fc3079ead443e857dbe76df6b039220f61661f1",
+  "events": [
+   {
+    "id": "995995",
+    "ticker": "israel-election-reservistsnew-economic-party-vote-share",
+    "slug": "israel-election-reservistsnew-economic-party-vote-share",
+    "title": "Israel Election: Reservists\u2013New Economic Party vote share?",
+    "description": "Legislative elections are expected to be held in Israel on October 27, 2026.\n\nThis market will resolve according to the percentage of the national vote won by Reservists \u2013 New Economic Party party list in the Israeli Knesset elections.\n\nThe percentage will be measured as the number of valid votes received by Reservists \u2013 New Economic Party's party list divided by the total number of valid votes cast in the election. Votes will be counted regardless of whether Reservists \u2013 New Economic Party passes the electoral threshold and wins seats in the Knesset.\n\nIf Reservists \u2013 New Economic Party contests this election as part of a joint candidate list with one or more parties, all votes won by the joint candidate list will be counted. If Reservists \u2013 New Economic Party merges with another party prior to the election, all votes won by the resultant merged party, or any joint candidate list through which it contests the election, will be counted.\n\nIf the reported value falls exactly on a bracket boundary, this market will resolve to the higher range bracket.\n\nIf the results of this election are not definitively known by October 31, 2027, 11:59 PM ET, this market will resolve to the lowest range bracket.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results published by the Central Elections Committee of Israel (https://www.bechirot.gov.il/).",
+    "resolutionSource": "https://www.bechirot.gov.il/",
+    "startDate": "2026-09-09T21:21:15Z",
+    "creationDate": "2026-09-09T21:22:33.951143Z",
+    "endDate": "2026-10-27T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+israel.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 97791.308351,
+    "openInterest": 4535.747973,
+    "sortBy": "ascending",
+    "createdAt": "2026-09-09T21:20:51.901994Z",
+    "updatedAt": "2026-11-02T20:53:41.892849Z",
+    "volume24hr": 10145.399739,
+    "volume1wk": 56479.220266,
+    "volume1mo": 65185.587432,
+    "volume1yr": 65616.213504,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xceaf94aec6e9e2e9e07efacdeab309aa7fa72068517b6601dc260503ba2b8c00",
+    "commentCount": 1,
+    "cyom": false,
+    "closedTime": "2026-11-02T16:13:48Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "countryName": "Israel",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-09-09T21:21:03.095524Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-09-09T21:21:15Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 60,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0335,
+  "oneHourPriceChange": 0.009,
+  "oneWeekPriceChange": 0.6745,
+  "oneMonthPriceChange": 0.5345,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-09-09T21:21:03.11422Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1788998422,
+   "p": 0.25
+  },
+  {
+   "t": 1789084825,
+   "p": 0.385
+  },
+  {
+   "t": 1789171225,
+   "p": 0.38
+  },
+  {
+   "t": 1789257624,
+   "p": 0.425
+  },
+  {
+   "t": 1789344020,
+   "p": 0.465
+  },
+  {
+   "t": 1789430419,
+   "p": 0.525
+  },
+  {
+   "t": 1789516820,
+   "p": 0.505
+  },
+  {
+   "t": 1789603223,
+   "p": 0.505
+  },
+  {
+   "t": 1789689626,
+   "p": 0.465
+  },
+  {
+   "t": 1789776028,
+   "p": 0.455
+  },
+  {
+   "t": 1789862427,
+   "p": 0.475
+  },
+  {
+   "t": 1789948823,
+   "p": 0.44
+  },
+  {
+   "t": 1790035223,
+   "p": 0.5
+  },
+  {
+   "t": 1790121626,
+   "p": 0.455
+  },
+  {
+   "t": 1790208036,
+   "p": 0.425
+  },
+  {
+   "t": 1790294429,
+   "p": 0.435
+  },
+  {
+   "t": 1790380823,
+   "p": 0.405
+  },
+  {
+   "t": 1790467223,
+   "p": 0.425
+  },
+  {
+   "t": 1790553637,
+   "p": 0.47
+  },
+  {
+   "t": 1790640024,
+   "p": 0.5
+  },
+  {
+   "t": 1790726426,
+   "p": 0.565
+  },
+  {
+   "t": 1790812828,
+   "p": 0.495
+  },
+  {
+   "t": 1790899226,
+   "p": 0.445
+  },
+  {
+   "t": 1790985630,
+   "p": 0.485
+  },
+  {
+   "t": 1791072025,
+   "p": 0.465
+  },
+  {
+   "t": 1791158431,
+   "p": 0.535
+  },
+  {
+   "t": 1791244829,
+   "p": 0.535
+  },
+  {
+   "t": 1791331234,
+   "p": 0.53
+  },
+  {
+   "t": 1791590435,
+   "p": 0.56
+  },
+  {
+   "t": 1791676843,
+   "p": 0.555
+  },
+  {
+   "t": 1791763252,
+   "p": 0.54
+  },
+  {
+   "t": 1791849647,
+   "p": 0.555
+  },
+  {
+   "t": 1791936046,
+   "p": 0.555
+  },
+  {
+   "t": 1792108850,
+   "p": 0.505
+  },
+  {
+   "t": 1792195257,
+   "p": 0.495
+  },
+  {
+   "t": 1792368049,
+   "p": 0.11
+  },
+  {
+   "t": 1792454449,
+   "p": 0.245
+  },
+  {
+   "t": 1792540855,
+   "p": 0.305
+  },
+  {
+   "t": 1792886411,
+   "p": 0.32
+  },
+  {
+   "t": 1793145653,
+   "p": 0.455
+  },
+  {
+   "t": 1793232004,
+   "p": 0.485
+  },
+  {
+   "t": 1793318457,
+   "p": 0.956
+  },
+  {
+   "t": 1793577652,
+   "p": 0.94
+  }
+ ]
+}

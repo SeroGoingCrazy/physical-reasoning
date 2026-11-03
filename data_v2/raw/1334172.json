@@ -1,0 +1,228 @@
+{
+ "market": {
+  "id": "1334172",
+  "question": "Will USD reach 1.7M Iranian rials by February 28?",
+  "conditionId": "0xc3c8a84db9fb4e3f2c67fe688e8b5b67e9c7f45cd8de844c26833658199761c3",
+  "slug": "will-usd-reach-1pt7m-iranian-rials-by-february-28",
+  "resolutionSource": "",
+  "endDate": "2026-02-28T00:00:00Z",
+  "startDate": "2026-02-04T18:09:07.779791Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-usd-reach-1pt5m-iranian-rials-by-january-31-Hp5QSWwrZbSM.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-usd-reach-1pt5m-iranian-rials-by-january-31-Hp5QSWwrZbSM.jpg",
+  "description": "This market will resolve to \u201cYes\u201d if the finalized USD exchange rate on Bonbast reaches or exceeds 170,000 Iranian toman (equivalent to 1,700,000 Iranian rials) at any point between market creation and February 28, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve according to the daily finalized free-market USD exchange rate as displayed on Bonbast (https://www.bonbast.com/graph/usd), which publishes prices in Iranian toman, where 1 Iranian toman equals 10 Iranian rials (IRR).\n\nA daily figure will be considered finalized once the following day\u2019s figure is released.\n\nRevisions or corrections to daily figures indicating a qualifying exchange rate will be considered only if they occur before all relevant figures for this market have been finalized.\n\nThe resolution source for this market will be Bonbast (https://www.bonbast.com/graph/usd). Resolution will occur once the February 28, 2026, exchange rate data is finalized. If the resolution source becomes permanently unavailable, another resolution source will be chosen.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "624926.097343",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-02-04T16:38:47.39414Z",
+  "updatedAt": "2026-03-03T08:27:18.723544Z",
+  "closedTime": "2026-03-02 02:17:55+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0xd52393dac18d19d78b0cfd1f384678e9416e91200c277a3f7b1c41cb33791adf",
+  "umaEndDate": "2026-03-02T02:17:55Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 624926.097343,
+  "endDateIso": "2026-02-28",
+  "startDateIso": "2026-02-04",
+  "hasReviewedDates": true,
+  "volume1wk": 484596.173525,
+  "volume1mo": 624926.0973430005,
+  "volume1yr": 624926.0973430005,
+  "clobTokenIds": "[\"67818413884572116768153710468097395090463302967111462648422058350433222538133\", \"88050688190404037519584452138314769049536731280445862651362723829250439886984\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 484596.173525,
+  "volume1moClob": 624926.0973430005,
+  "volume1yrClob": 624926.0973430005,
+  "volumeClob": 624926.097343,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "198545",
+    "ticker": "will-usd-reach-1pt7m-iranian-rials-by-february-28",
+    "slug": "will-usd-reach-1pt7m-iranian-rials-by-february-28",
+    "title": "Will USD reach 1.7M Iranian rials by February 28?",
+    "description": "This market will resolve to \u201cYes\u201d if the finalized USD exchange rate on Bonbast reaches or exceeds 170,000 Iranian toman (equivalent to 1,700,000 Iranian rials) at any point between market creation and February 28, 2026. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis market will resolve according to the daily finalized free-market USD exchange rate as displayed on Bonbast (https://www.bonbast.com/graph/usd), which publishes prices in Iranian toman, where 1 Iranian toman equals 10 Iranian rials (IRR).\n\nA daily figure will be considered finalized once the following day\u2019s figure is released.\n\nRevisions or corrections to daily figures indicating a qualifying exchange rate will be considered only if they occur before all relevant figures for this market have been finalized.\n\nThe resolution source for this market will be Bonbast (https://www.bonbast.com/graph/usd). Resolution will occur once the February 28, 2026, exchange rate data is finalized. If the resolution source becomes permanently unavailable, another resolution source will be chosen.",
+    "resolutionSource": "",
+    "startDate": "2026-02-04T18:09:37.00066Z",
+    "creationDate": "2026-02-04T18:09:37.000655Z",
+    "endDate": "2026-02-28T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-usd-reach-1pt5m-iranian-rials-by-january-31-Hp5QSWwrZbSM.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-usd-reach-1pt5m-iranian-rials-by-january-31-Hp5QSWwrZbSM.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 624926.097343,
+    "openInterest": 0,
+    "createdAt": "2026-02-04T16:38:45.465363Z",
+    "updatedAt": "2026-03-03T08:27:31.176057Z",
+    "volume1wk": 484596.173525,
+    "volume1mo": 624926.0973430005,
+    "volume1yr": 624926.0973430005,
+    "enableOrderBook": true,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11111",
+      "ticker": "bonbast",
+      "slug": "bonbast",
+      "title": "Bonbast ",
+      "seriesType": "single",
+      "recurrence": "monthly",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-02-04T16:38:38.317356Z",
+      "updatedAt": "2026-11-02T20:59:44.21297Z",
+      "volume24hr": 2514.470901,
+      "volume": 146057.027495,
+      "liquidity": 48555.58618,
+      "commentCount": 223
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-03-02T02:17:55Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "bonbast",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-02-04T18:08:01Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.14,
+  "oneHourPriceChange": 0.0245,
+  "oneWeekPriceChange": -0.41,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-02-04T18:06:48.020411Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1770249633,
+   "p": 0.72
+  },
+  {
+   "t": 1770336044,
+   "p": 0.83
+  },
+  {
+   "t": 1770422453,
+   "p": 0.8
+  },
+  {
+   "t": 1770508848,
+   "p": 0.655
+  },
+  {
+   "t": 1770595246,
+   "p": 0.3
+  },
+  {
+   "t": 1770681650,
+   "p": 0.665
+  },
+  {
+   "t": 1770854458,
+   "p": 0.745
+  },
+  {
+   "t": 1770940849,
+   "p": 0.685
+  },
+  {
+   "t": 1771027255,
+   "p": 0.38
+  },
+  {
+   "t": 1771113656,
+   "p": 0.525
+  },
+  {
+   "t": 1771286459,
+   "p": 0.475
+  },
+  {
+   "t": 1771632040,
+   "p": 0.465
+  },
+  {
+   "t": 1771718440,
+   "p": 0.525
+  },
+  {
+   "t": 1771804848,
+   "p": 0.43
+  },
+  {
+   "t": 1771891249,
+   "p": 0.29
+  },
+  {
+   "t": 1771977657,
+   "p": 0.195
+  },
+  {
+   "t": 1772064050,
+   "p": 0.235
+  },
+  {
+   "t": 1772150456,
+   "p": 0.0705
+  },
+  {
+   "t": 1772236852,
+   "p": 0.134
+  }
+ ]
+}

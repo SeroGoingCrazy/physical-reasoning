@@ -1,0 +1,273 @@
+{
+ "market": {
+  "id": "618557",
+  "question": "Will Russia capture Yampil' by October 31?",
+  "conditionId": "0xa213729f8d884142499847f751e097828142fddb406c7d35f0d2ab193c09f79a",
+  "slug": "will-russia-capture-yampil-by-october-31",
+  "resolutionSource": "",
+  "endDate": "2025-10-31T00:00:00Z",
+  "startDate": "2025-09-30T22:33:07.794Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-yampil-by-october-31-uzstY59JP9ub.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-yampil-by-october-31-uzstY59JP9ub.jpg",
+  "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the intersection Slavy Ploshcha Volytsia x Pryozerna Volytsia in Yampil', Donetsk Oblast province, by October 31, 2025, at 11:59 PM ET.\n\nThe intersection will be considered captured if any part of the intersection is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by October 31, 2025, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the intersection, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIntersection Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'1.png\n\nIntersection Location in Yampil': https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'2.png\n\nYampil' Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'3.png\n\nLocation on Google Maps: https://maps.app.goo.gl/xU3HDneXX384ce4w6\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "90385.261102",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-09-30T21:22:32.27304Z",
+  "updatedAt": "2025-11-02T08:32:40.13827Z",
+  "closedTime": "2025-11-01 06:29:12+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "October 31",
+  "groupItemThreshold": "0",
+  "questionID": "0xc5210994517bacb9a52b9ded9e33136f4757f7b03391fa2f7272b1af0a10cf72",
+  "umaEndDate": "2025-11-01T06:29:12Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 90385.261102,
+  "endDateIso": "2025-10-31",
+  "startDateIso": "2025-09-30",
+  "hasReviewedDates": true,
+  "volume1wk": 13943.201365999998,
+  "volume1mo": 81662.42488000004,
+  "volume1yr": 90385.26110200006,
+  "clobTokenIds": "[\"48293273504131281445898389546937838244014078314584751913937850033228957871292\", \"47208826965546653566860449321939278717993414909412240455781413088191719873984\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 13943.201365999998,
+  "volume1moClob": 81662.42488000004,
+  "volume1yrClob": 90385.26110200006,
+  "volumeClob": 90385.261102,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "52196",
+    "ticker": "will-russia-capture-yampil-by-october-31",
+    "slug": "will-russia-capture-yampil-by-october-31",
+    "title": "Will Russia capture Yampil' by...?",
+    "description": "This market will resolve to \u201cYes\u201d if, according to the ISW map, Russia captures the intersection Slavy Ploshcha Volytsia x Pryozerna Volytsia in Yampil', Donetsk Oblast province, by October 31, 2025, at 11:59 PM ET.\n\nThe intersection will be considered captured if any part of the intersection is shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by October 31, 2025, 11:59 PM ET, the market will resolve to \u201cNo\u201d.\n\nIf Russia comes into control of this territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. An announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established.\n\nOnce Russia captures the intersection, any subsequent loss of control will not be considered towards the resolution of this market.\n\nIntersection Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'1.png\n\nIntersection Location in Yampil': https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'2.png\n\nYampil' Location: https://polymarket-upload.s3.us-east-2.amazonaws.com/Yampil'3.png\n\nLocation on Google Maps: https://maps.app.goo.gl/xU3HDneXX384ce4w6\n\nThe primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.\n\nNote: Any temporary glitches or errors in the map which will not be considered.",
+    "resolutionSource": "",
+    "startDate": "2025-09-30T22:36:36.864191Z",
+    "creationDate": "2025-09-30T22:36:36.864189Z",
+    "endDate": "2025-11-30T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/r-2f779d21fe.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/r-2f779d21fe.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 312453.513362,
+    "openInterest": 0,
+    "createdAt": "2025-09-30T21:22:31.242722Z",
+    "updatedAt": "2025-11-30T08:31:23.482888Z",
+    "volume1wk": 161482.432298,
+    "volume1mo": 294482.62195400015,
+    "volume1yr": 312453.5133620002,
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 77,
+    "cyom": false,
+    "closedTime": "2025-11-29T02:01:23Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-09-30T22:32:47Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "36787",
+    "conditionId": "0xa213729f8d884142499847f751e097828142fddb406c7d35f0d2ab193c09f79a",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 5,
+    "startDate": "2025-10-01",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.06,
+  "oneWeekPriceChange": -0.17,
+  "oneMonthPriceChange": -0.14,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-09-30T22:32:18.466905Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1759276802,
+   "p": 0.3
+  },
+  {
+   "t": 1759363205,
+   "p": 0.17
+  },
+  {
+   "t": 1759449610,
+   "p": 0.14
+  },
+  {
+   "t": 1759536007,
+   "p": 0.11
+  },
+  {
+   "t": 1759622407,
+   "p": 0.105
+  },
+  {
+   "t": 1759708806,
+   "p": 0.125
+  },
+  {
+   "t": 1759795211,
+   "p": 0.11
+  },
+  {
+   "t": 1759881606,
+   "p": 0.115
+  },
+  {
+   "t": 1759968008,
+   "p": 0.16
+  },
+  {
+   "t": 1760054409,
+   "p": 0.155
+  },
+  {
+   "t": 1760140815,
+   "p": 0.225
+  },
+  {
+   "t": 1760227208,
+   "p": 0.22
+  },
+  {
+   "t": 1760313607,
+   "p": 0.22
+  },
+  {
+   "t": 1760400016,
+   "p": 0.31
+  },
+  {
+   "t": 1760486413,
+   "p": 0.31
+  },
+  {
+   "t": 1760572814,
+   "p": 0.245
+  },
+  {
+   "t": 1760659206,
+   "p": 0.21
+  },
+  {
+   "t": 1760745617,
+   "p": 0.17
+  },
+  {
+   "t": 1760832019,
+   "p": 0.2
+  },
+  {
+   "t": 1760918412,
+   "p": 0.175
+  },
+  {
+   "t": 1761004820,
+   "p": 0.16
+  },
+  {
+   "t": 1761091221,
+   "p": 0.125
+  },
+  {
+   "t": 1761177610,
+   "p": 0.07
+  },
+  {
+   "t": 1761264017,
+   "p": 0.095
+  },
+  {
+   "t": 1761350416,
+   "p": 0.19
+  },
+  {
+   "t": 1761436818,
+   "p": 0.13
+  },
+  {
+   "t": 1761523217,
+   "p": 0.075
+  },
+  {
+   "t": 1761609620,
+   "p": 0.085
+  },
+  {
+   "t": 1761696019,
+   "p": 0.195
+  },
+  {
+   "t": 1761782419,
+   "p": 0.115
+  },
+  {
+   "t": 1761868813,
+   "p": 0.075
+  },
+  {
+   "t": 1761955218,
+   "p": 0.006
+  }
+ ]
+}

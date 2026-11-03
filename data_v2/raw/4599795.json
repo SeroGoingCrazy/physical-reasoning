@@ -1,0 +1,307 @@
+{
+ "market": {
+  "id": "4599795",
+  "question": "Israeli airspace closed by October 31, 2026?",
+  "conditionId": "0x837c29e540247f039d6ba40d8b0ce8b9dfd5722167141ee4da4133faf529f681",
+  "slug": "israeli-airspace-closed-by-october-31-2026",
+  "resolutionSource": "",
+  "endDate": "2026-11-01T03:59:00Z",
+  "startDate": "2026-09-15T21:29:38Z",
+  "description": "This market will resolve to \u201cYes\u201d if Israeli Airspace (The Tel Aviv Flight Information Region (FIR)/LLLL) is closed between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying closure occurs when the aviation or governmental authority responsible for overseeing the specified airspace region issues a Notice to Airmen (NOTAM), or other official order under the regulations of the jurisdiction responsible for that airspace region, which generally cancels or suspends commercial aviation across the specified airspace region, and such closure is not excluded under the exclusions provision below. A qualifying closure must apply generally to commercial flights transiting, arriving in, and departing from the specified airspace region. A closure is not disqualified because the order permits limited exceptions, including humanitarian, medical, repatriation, or emergency flights, or select flights authorized by the responsible authority, provided that commercial flights are prohibited by default, rather than permitted subject to conditions or restrictions.\n\nThe following are not qualifying closures: (i) closures due to weather, including volcanic and seismic activity; (ii) closures for holidays or religious observances; (iii) closures planned or announced before Contract Issuance; (iv) closures occurring on a regular cadence whose occurrence was determined before Contract Issuance, even if not announced; (v) closures resulting from the failure or malfunction of air traffic control, navigation, communications, power, or other technical systems; (vi) restrictions applying to aircraft by nationality, state of registry, operator, or ownership rather than to commercial traffic generally; (vii) closures of a subset of the specified airspace region, including geographic sectors and altitude bands; (viii) ground stops, flow restrictions, capacity reductions, or other air traffic management measures that delay or restrict traffic without closing the specified airspace region to commercial aviation; and (ix) warnings, no-fly zones, flight suspensions, or other restrictions imposed by any party other than the aviation or governmental authorities responsible for overseeing the specified airspace region.\n\nA qualifying closure is deemed to occur at the time the closure takes effect, regardless of when the closure is announced or the order is issued. Where no effective time is included in the order, the closure is deemed to take effect at the time the order is issued.\n\nThe resolution sources for this market will be official information from the Israeli government, including the Ministry of Transport, the Civil Aviation Authority, and the Israel Airports Authority, and a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "426753.813381",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-09-15T21:29:21.125887Z",
+  "updatedAt": "2026-11-02T05:52:19.653656Z",
+  "closedTime": "2026-11-01 06:20:56.501656+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "October 31",
+  "groupItemThreshold": "1",
+  "questionID": "0x920bc8b39790098537185e51ca3653946d7066f53eee4e57bb2accc5445a4de8",
+  "umaEndDate": "2026-11-01 06:20:56.501656+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 426753.813381,
+  "endDateIso": "2026-11-01",
+  "startDateIso": "2026-09-15",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"91219278813071406717237930212216851605529418582858781059341004513963937847269\", \"30882215376605050003546724181517717752023153768871214822738929729850075089038\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 426753.813381,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "1030155",
+    "ticker": "israeli-airspace-closed-by",
+    "slug": "israeli-airspace-closed-by",
+    "title": "Israeli airspace closed by...? (Excluding Holiday Closures)",
+    "description": "This market will resolve to \u201cYes\u201d if Israeli Airspace (The Tel Aviv Flight Information Region (FIR)/LLLL) is closed between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA qualifying closure occurs when the aviation or governmental authority responsible for overseeing the specified airspace region issues a Notice to Airmen (NOTAM), or other official order under the regulations of the jurisdiction responsible for that airspace region, which generally cancels or suspends commercial aviation across the specified airspace region, and such closure is not excluded under the exclusions provision below. A qualifying closure must apply generally to commercial flights transiting, arriving in, and departing from the specified airspace region. A closure is not disqualified because the order permits limited exceptions, including humanitarian, medical, repatriation, or emergency flights, or select flights authorized by the responsible authority, provided that commercial flights are prohibited by default, rather than permitted subject to conditions or restrictions.\n\nThe following are not qualifying closures: (i) closures due to weather, including volcanic and seismic activity; (ii) closures for holidays or religious observances; (iii) closures planned or announced before Contract Issuance; (iv) closures occurring on a regular cadence whose occurrence was determined before Contract Issuance, even if not announced; (v) closures resulting from the failure or malfunction of air traffic control, navigation, communications, power, or other technical systems; (vi) restrictions applying to aircraft by nationality, state of registry, operator, or ownership rather than to commercial traffic generally; (vii) closures of a subset of the specified airspace region, including geographic sectors and altitude bands; (viii) ground stops, flow restrictions, capacity reductions, or other air traffic management measures that delay or restrict traffic without closing the specified airspace region to commercial aviation; and (ix) warnings, no-fly zones, flight suspensions, or other restrictions imposed by any party other than the aviation or governmental authorities responsible for overseeing the specified airspace region.\n\nA qualifying closure is deemed to occur at the time the closure takes effect, regardless of when the closure is announced or the order is issued. Where no effective time is included in the order, the closure is deemed to take effect at the time the order is issued.\n\nThe resolution sources for this market will be official information from the Israeli government, including the Ministry of Transport, the Civil Aviation Authority, and the Israel Airports Authority, and a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2026-09-15T21:29:38Z",
+    "creationDate": "2026-09-15T21:31:33.667334Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-closes-its-airspace-by-F65UW1ZQCDQ_.jpg",
+    "active": true,
+    "closed": false,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 43048.1563,
+    "volume": 687598.828905,
+    "openInterest": 30825.725808000003,
+    "sortBy": "ascending",
+    "createdAt": "2026-09-15T21:29:20.005427Z",
+    "updatedAt": "2026-11-02T20:55:30.970907Z",
+    "competitive": 0.9765386587241522,
+    "volume24hr": 4260.091254,
+    "volume1wk": 27911.252915,
+    "volume1mo": 171289.445913,
+    "volume1yr": 217409.37776000003,
+    "enableOrderBook": true,
+    "liquidityClob": 43048.1563,
+    "negRisk": false,
+    "commentCount": 17,
+    "cyom": false,
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-09-15T21:29:38Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.011,
+  "oneWeekPriceChange": -0.0695,
+  "oneMonthPriceChange": -0.1045,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-09-15T21:29:28.247172Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1789516813,
+   "p": 0.105
+  },
+  {
+   "t": 1789603212,
+   "p": 0.125
+  },
+  {
+   "t": 1789689615,
+   "p": 0.125
+  },
+  {
+   "t": 1789776015,
+   "p": 0.115
+  },
+  {
+   "t": 1789862415,
+   "p": 0.115
+  },
+  {
+   "t": 1789948812,
+   "p": 0.115
+  },
+  {
+   "t": 1790035213,
+   "p": 0.115
+  },
+  {
+   "t": 1790121613,
+   "p": 0.095
+  },
+  {
+   "t": 1790208025,
+   "p": 0.095
+  },
+  {
+   "t": 1790294416,
+   "p": 0.095
+  },
+  {
+   "t": 1790380815,
+   "p": 0.095
+  },
+  {
+   "t": 1790467214,
+   "p": 0.085
+  },
+  {
+   "t": 1790553628,
+   "p": 0.085
+  },
+  {
+   "t": 1790640015,
+   "p": 0.085
+  },
+  {
+   "t": 1790726416,
+   "p": 0.125
+  },
+  {
+   "t": 1790812817,
+   "p": 0.125
+  },
+  {
+   "t": 1790899215,
+   "p": 0.105
+  },
+  {
+   "t": 1790985619,
+   "p": 0.085
+  },
+  {
+   "t": 1791072016,
+   "p": 0.085
+  },
+  {
+   "t": 1791158418,
+   "p": 0.055
+  },
+  {
+   "t": 1791244817,
+   "p": 0.045
+  },
+  {
+   "t": 1791331219,
+   "p": 0.055
+  },
+  {
+   "t": 1791417621,
+   "p": 0.07
+  },
+  {
+   "t": 1791504020,
+   "p": 0.075
+  },
+  {
+   "t": 1791590419,
+   "p": 0.075
+  },
+  {
+   "t": 1791676822,
+   "p": 0.075
+  },
+  {
+   "t": 1791763233,
+   "p": 0.075
+  },
+  {
+   "t": 1791849624,
+   "p": 0.075
+  },
+  {
+   "t": 1791936021,
+   "p": 0.075
+  },
+  {
+   "t": 1792022436,
+   "p": 0.09
+  },
+  {
+   "t": 1792108821,
+   "p": 0.1
+  },
+  {
+   "t": 1792195226,
+   "p": 0.11
+  },
+  {
+   "t": 1792281647,
+   "p": 0.075
+  },
+  {
+   "t": 1792368019,
+   "p": 0.065
+  },
+  {
+   "t": 1792454419,
+   "p": 0.075
+  },
+  {
+   "t": 1792540820,
+   "p": 0.085
+  },
+  {
+   "t": 1792713636,
+   "p": 0.09
+  },
+  {
+   "t": 1792800036,
+   "p": 0.08
+  },
+  {
+   "t": 1792972855,
+   "p": 0.095
+  },
+  {
+   "t": 1793059241,
+   "p": 0.045
+  },
+  {
+   "t": 1793145620,
+   "p": 0.036
+  },
+  {
+   "t": 1793318419,
+   "p": 0.0185
+  },
+  {
+   "t": 1793404836,
+   "p": 0.0115
+  },
+  {
+   "t": 1793491229,
+   "p": 0.007
+  }
+ ]
+}

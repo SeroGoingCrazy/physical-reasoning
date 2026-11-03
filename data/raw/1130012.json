@@ -1,0 +1,1129 @@
+{
+ "market": {
+  "id": "1130012",
+  "question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+  "conditionId": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+  "slug": "will-united-russia-er-gain-the-most-seats-in-the-next-russian-parliamentary-election",
+  "endDate": "2026-09-30T00:00:00Z",
+  "startDate": "2026-01-07T21:34:52.537984Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-united-russia-win-in-the-next-russian-legislative-election-nLLocGcIAe-G.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-united-russia-win-in-the-next-russian-legislative-election-nLLocGcIAe-G.png",
+  "description": "Parliamentary elections are to be scheduled to be held in Russia in September 2026.\n\nThis market will resolve according to the political party that gains the greatest number of seats in the next Russian State Duma election, compared to before the election.\n\nIf the results are not known definitively by September 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats gained, this market will resolve in favor of the party that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats gained by the named party in the State Duma of the Federal Assembly of the Russian Federation.\n\nThis market will resolve based on the results of this election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by Russian government sources such as the Central Election Commission of the Russian Federation.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "24490194.082594994",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-01-07T18:00:57.604709Z",
+  "updatedAt": "2026-09-22T12:43:40.250959Z",
+  "closedTime": "2026-09-21 12:43:47+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "United Russia (ER)",
+  "groupItemThreshold": "0",
+  "questionID": "0xc194d621e2ef9468b86ed0db1328fd8d56ae8fba1e21b94c5c515e96ecbfc400",
+  "umaEndDate": "2026-09-21T12:43:47Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 24490194.082594994,
+  "endDateIso": "2026-09-30",
+  "startDateIso": "2026-01-07",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"20915769520649892253891152116814645067070024223185517956799957803974344024878\", \"115351075585746600277716377744935410125916932950844626289798775482755919708780\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 24490194.082594994,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xc194d621e2ef9468b86ed0db1328fd8d56ae8fba1e21b94c5c515e96ecbfc400",
+  "negRiskRequestID": "0x847fd3eedd827f575adea2f6d71faf9dfb11ca3a9598596b02399b05ce93b2f9",
+  "events": [
+   {
+    "id": "149589",
+    "ticker": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "slug": "which-party-will-gain-most-seats-in-russian-parliamentary-election",
+    "title": "Which party will gain most seats in Russian Parliamentary Election?",
+    "description": "Parliamentary elections are to be scheduled to be held in Russia in September 2026.\n\nThis market will resolve according to the political party that gains the greatest number of seats in the next Russian State Duma election, compared to before the election.\n\nIf the results are not known definitively by September 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nIn the event of a tie between multiple parties for the most seats gained, this market will resolve in favor of the party that received a greater number of valid votes. In the event that results in a tie, this market will resolve in favor of the party whose listed abbreviation appears first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats gained by the named party in the State Duma of the Federal Assembly of the Russian Federation.\n\nThis market will resolve based on the results of this election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by Russian government sources such as the Central Election Commission of the Russian Federation.",
+    "resolutionSource": "",
+    "startDate": "2026-01-07T21:34:51.774902Z",
+    "creationDate": "2026-01-07T21:35:17.019647Z",
+    "endDate": "2026-09-20T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-parliamentary-election-winner-MnZ1Lsh2uVMq.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-parliamentary-election-winner-MnZ1Lsh2uVMq.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 52078963.73641599,
+    "openInterest": 8732885.62941,
+    "sortBy": "price",
+    "createdAt": "2026-01-07T18:00:56.719451Z",
+    "updatedAt": "2026-09-22T12:45:55.043878Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xc194d621e2ef9468b86ed0db1328fd8d56ae8fba1e21b94c5c515e96ecbfc400",
+    "commentCount": 1542,
+    "cyom": false,
+    "closedTime": "2026-09-21T12:47:12Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-09-20T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Russia",
+    "electionType": "Parliamentary",
+    "featuredOrder": 12,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-01-07T21:21:12.586179Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-01-07T21:34:29Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.1345,
+  "oneWeekPriceChange": 0.2145,
+  "oneMonthPriceChange": 0.3045,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-01-07T21:27:45.213044Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1767830430,
+   "p": 0.77
+  },
+  {
+   "t": 1767916815,
+   "p": 0.915
+  },
+  {
+   "t": 1768003216,
+   "p": 0.885
+  },
+  {
+   "t": 1768089614,
+   "p": 0.785
+  },
+  {
+   "t": 1768176016,
+   "p": 0.805
+  },
+  {
+   "t": 1768262416,
+   "p": 0.795
+  },
+  {
+   "t": 1768348816,
+   "p": 0.815
+  },
+  {
+   "t": 1768435217,
+   "p": 0.82
+  },
+  {
+   "t": 1768521620,
+   "p": 0.815
+  },
+  {
+   "t": 1768608018,
+   "p": 0.78
+  },
+  {
+   "t": 1768694425,
+   "p": 0.785
+  },
+  {
+   "t": 1768780815,
+   "p": 0.79
+  },
+  {
+   "t": 1768867217,
+   "p": 0.785
+  },
+  {
+   "t": 1768953618,
+   "p": 0.785
+  },
+  {
+   "t": 1769040024,
+   "p": 0.79
+  },
+  {
+   "t": 1769126434,
+   "p": 0.78
+  },
+  {
+   "t": 1769212826,
+   "p": 0.74
+  },
+  {
+   "t": 1769299236,
+   "p": 0.745
+  },
+  {
+   "t": 1769385635,
+   "p": 0.75
+  },
+  {
+   "t": 1769472030,
+   "p": 0.72
+  },
+  {
+   "t": 1769558420,
+   "p": 0.72
+  },
+  {
+   "t": 1769644835,
+   "p": 0.735
+  },
+  {
+   "t": 1769731223,
+   "p": 0.735
+  },
+  {
+   "t": 1769817623,
+   "p": 0.725
+  },
+  {
+   "t": 1769904027,
+   "p": 0.7
+  },
+  {
+   "t": 1769990422,
+   "p": 0.745
+  },
+  {
+   "t": 1770076823,
+   "p": 0.71
+  },
+  {
+   "t": 1770163235,
+   "p": 0.69
+  },
+  {
+   "t": 1770249621,
+   "p": 0.725
+  },
+  {
+   "t": 1770336026,
+   "p": 0.695
+  },
+  {
+   "t": 1770422431,
+   "p": 0.695
+  },
+  {
+   "t": 1770508828,
+   "p": 0.695
+  },
+  {
+   "t": 1770595227,
+   "p": 0.755
+  },
+  {
+   "t": 1770681628,
+   "p": 0.73
+  },
+  {
+   "t": 1770768029,
+   "p": 0.745
+  },
+  {
+   "t": 1770854440,
+   "p": 0.705
+  },
+  {
+   "t": 1770940828,
+   "p": 0.71
+  },
+  {
+   "t": 1771027232,
+   "p": 0.715
+  },
+  {
+   "t": 1771113630,
+   "p": 0.715
+  },
+  {
+   "t": 1771200042,
+   "p": 0.725
+  },
+  {
+   "t": 1771286432,
+   "p": 0.735
+  },
+  {
+   "t": 1771372834,
+   "p": 0.73
+  },
+  {
+   "t": 1771459236,
+   "p": 0.73
+  },
+  {
+   "t": 1771545634,
+   "p": 0.755
+  },
+  {
+   "t": 1771632025,
+   "p": 0.745
+  },
+  {
+   "t": 1771718425,
+   "p": 0.74
+  },
+  {
+   "t": 1771804828,
+   "p": 0.735
+  },
+  {
+   "t": 1771891228,
+   "p": 0.74
+  },
+  {
+   "t": 1771977631,
+   "p": 0.745
+  },
+  {
+   "t": 1772064030,
+   "p": 0.74
+  },
+  {
+   "t": 1772150433,
+   "p": 0.75
+  },
+  {
+   "t": 1772236835,
+   "p": 0.755
+  },
+  {
+   "t": 1772323243,
+   "p": 0.755
+  },
+  {
+   "t": 1772409645,
+   "p": 0.765
+  },
+  {
+   "t": 1772496037,
+   "p": 0.765
+  },
+  {
+   "t": 1772582439,
+   "p": 0.775
+  },
+  {
+   "t": 1772668835,
+   "p": 0.775
+  },
+  {
+   "t": 1772755234,
+   "p": 0.785
+  },
+  {
+   "t": 1772841639,
+   "p": 0.78
+  },
+  {
+   "t": 1772928033,
+   "p": 0.785
+  },
+  {
+   "t": 1773014428,
+   "p": 0.795
+  },
+  {
+   "t": 1773100834,
+   "p": 0.795
+  },
+  {
+   "t": 1773187237,
+   "p": 0.795
+  },
+  {
+   "t": 1773273637,
+   "p": 0.755
+  },
+  {
+   "t": 1773360053,
+   "p": 0.735
+  },
+  {
+   "t": 1773446453,
+   "p": 0.735
+  },
+  {
+   "t": 1773532857,
+   "p": 0.74
+  },
+  {
+   "t": 1773705643,
+   "p": 0.755
+  },
+  {
+   "t": 1773792045,
+   "p": 0.735
+  },
+  {
+   "t": 1773964849,
+   "p": 0.715
+  },
+  {
+   "t": 1774051248,
+   "p": 0.715
+  },
+  {
+   "t": 1774137646,
+   "p": 0.715
+  },
+  {
+   "t": 1774224039,
+   "p": 0.725
+  },
+  {
+   "t": 1774310435,
+   "p": 0.705
+  },
+  {
+   "t": 1774396834,
+   "p": 0.705
+  },
+  {
+   "t": 1774483238,
+   "p": 0.705
+  },
+  {
+   "t": 1774569634,
+   "p": 0.705
+  },
+  {
+   "t": 1774656036,
+   "p": 0.695
+  },
+  {
+   "t": 1774742439,
+   "p": 0.705
+  },
+  {
+   "t": 1774828851,
+   "p": 0.675
+  },
+  {
+   "t": 1774915247,
+   "p": 0.695
+  },
+  {
+   "t": 1775001655,
+   "p": 0.685
+  },
+  {
+   "t": 1775088049,
+   "p": 0.685
+  },
+  {
+   "t": 1775174457,
+   "p": 0.695
+  },
+  {
+   "t": 1775260856,
+   "p": 0.735
+  },
+  {
+   "t": 1775433658,
+   "p": 0.685
+  },
+  {
+   "t": 1775520053,
+   "p": 0.67
+  },
+  {
+   "t": 1775692814,
+   "p": 0.685
+  },
+  {
+   "t": 1776038453,
+   "p": 0.685
+  },
+  {
+   "t": 1776211256,
+   "p": 0.665
+  },
+  {
+   "t": 1776297659,
+   "p": 0.655
+  },
+  {
+   "t": 1776384057,
+   "p": 0.645
+  },
+  {
+   "t": 1776556847,
+   "p": 0.65
+  },
+  {
+   "t": 1776643249,
+   "p": 0.655
+  },
+  {
+   "t": 1776729653,
+   "p": 0.655
+  },
+  {
+   "t": 1776816005,
+   "p": 0.655
+  },
+  {
+   "t": 1776902405,
+   "p": 0.665
+  },
+  {
+   "t": 1776988818,
+   "p": 0.665
+  },
+  {
+   "t": 1777075210,
+   "p": 0.65
+  },
+  {
+   "t": 1777161604,
+   "p": 0.645
+  },
+  {
+   "t": 1777248004,
+   "p": 0.645
+  },
+  {
+   "t": 1777334404,
+   "p": 0.65
+  },
+  {
+   "t": 1777420803,
+   "p": 0.62
+  },
+  {
+   "t": 1777507205,
+   "p": 0.635
+  },
+  {
+   "t": 1777593604,
+   "p": 0.635
+  },
+  {
+   "t": 1777680003,
+   "p": 0.635
+  },
+  {
+   "t": 1777766406,
+   "p": 0.65
+  },
+  {
+   "t": 1777852804,
+   "p": 0.655
+  },
+  {
+   "t": 1777939217,
+   "p": 0.655
+  },
+  {
+   "t": 1778025606,
+   "p": 0.655
+  },
+  {
+   "t": 1778112005,
+   "p": 0.655
+  },
+  {
+   "t": 1778198403,
+   "p": 0.655
+  },
+  {
+   "t": 1778284822,
+   "p": 0.655
+  },
+  {
+   "t": 1778371204,
+   "p": 0.645
+  },
+  {
+   "t": 1778457608,
+   "p": 0.645
+  },
+  {
+   "t": 1778544004,
+   "p": 0.625
+  },
+  {
+   "t": 1778630408,
+   "p": 0.615
+  },
+  {
+   "t": 1778716808,
+   "p": 0.605
+  },
+  {
+   "t": 1778803206,
+   "p": 0.615
+  },
+  {
+   "t": 1778889612,
+   "p": 0.625
+  },
+  {
+   "t": 1778976023,
+   "p": 0.625
+  },
+  {
+   "t": 1779062407,
+   "p": 0.605
+  },
+  {
+   "t": 1779148805,
+   "p": 0.605
+  },
+  {
+   "t": 1779235208,
+   "p": 0.585
+  },
+  {
+   "t": 1779321605,
+   "p": 0.565
+  },
+  {
+   "t": 1779408009,
+   "p": 0.575
+  },
+  {
+   "t": 1779494406,
+   "p": 0.575
+  },
+  {
+   "t": 1779580804,
+   "p": 0.565
+  },
+  {
+   "t": 1779667204,
+   "p": 0.585
+  },
+  {
+   "t": 1779753604,
+   "p": 0.585
+  },
+  {
+   "t": 1779840005,
+   "p": 0.575
+  },
+  {
+   "t": 1779926405,
+   "p": 0.585
+  },
+  {
+   "t": 1780012807,
+   "p": 0.565
+  },
+  {
+   "t": 1780099218,
+   "p": 0.555
+  },
+  {
+   "t": 1780185607,
+   "p": 0.555
+  },
+  {
+   "t": 1780272003,
+   "p": 0.555
+  },
+  {
+   "t": 1780358405,
+   "p": 0.555
+  },
+  {
+   "t": 1780444805,
+   "p": 0.555
+  },
+  {
+   "t": 1780531203,
+   "p": 0.55
+  },
+  {
+   "t": 1780617618,
+   "p": 0.545
+  },
+  {
+   "t": 1780704003,
+   "p": 0.535
+  },
+  {
+   "t": 1780790413,
+   "p": 0.545
+  },
+  {
+   "t": 1780876803,
+   "p": 0.545
+  },
+  {
+   "t": 1780963203,
+   "p": 0.545
+  },
+  {
+   "t": 1781049604,
+   "p": 0.55
+  },
+  {
+   "t": 1781136005,
+   "p": 0.555
+  },
+  {
+   "t": 1781222404,
+   "p": 0.565
+  },
+  {
+   "t": 1781308804,
+   "p": 0.575
+  },
+  {
+   "t": 1781395207,
+   "p": 0.58
+  },
+  {
+   "t": 1781481603,
+   "p": 0.595
+  },
+  {
+   "t": 1781568006,
+   "p": 0.58
+  },
+  {
+   "t": 1781654405,
+   "p": 0.58
+  },
+  {
+   "t": 1781740816,
+   "p": 0.555
+  },
+  {
+   "t": 1781827221,
+   "p": 0.565
+  },
+  {
+   "t": 1781913604,
+   "p": 0.575
+  },
+  {
+   "t": 1782000006,
+   "p": 0.575
+  },
+  {
+   "t": 1782086405,
+   "p": 0.585
+  },
+  {
+   "t": 1782172804,
+   "p": 0.605
+  },
+  {
+   "t": 1782259204,
+   "p": 0.625
+  },
+  {
+   "t": 1782345604,
+   "p": 0.645
+  },
+  {
+   "t": 1782432003,
+   "p": 0.595
+  },
+  {
+   "t": 1782518404,
+   "p": 0.585
+  },
+  {
+   "t": 1782604804,
+   "p": 0.585
+  },
+  {
+   "t": 1782691203,
+   "p": 0.585
+  },
+  {
+   "t": 1782777604,
+   "p": 0.575
+  },
+  {
+   "t": 1782864003,
+   "p": 0.565
+  },
+  {
+   "t": 1782950404,
+   "p": 0.565
+  },
+  {
+   "t": 1783036804,
+   "p": 0.565
+  },
+  {
+   "t": 1783123203,
+   "p": 0.56
+  },
+  {
+   "t": 1783209603,
+   "p": 0.555
+  },
+  {
+   "t": 1783296004,
+   "p": 0.565
+  },
+  {
+   "t": 1783382408,
+   "p": 0.555
+  },
+  {
+   "t": 1783468804,
+   "p": 0.535
+  },
+  {
+   "t": 1783555208,
+   "p": 0.545
+  },
+  {
+   "t": 1783641605,
+   "p": 0.545
+  },
+  {
+   "t": 1783728006,
+   "p": 0.545
+  },
+  {
+   "t": 1783814418,
+   "p": 0.535
+  },
+  {
+   "t": 1783900806,
+   "p": 0.535
+  },
+  {
+   "t": 1783987205,
+   "p": 0.545
+  },
+  {
+   "t": 1784073605,
+   "p": 0.545
+  },
+  {
+   "t": 1784160004,
+   "p": 0.555
+  },
+  {
+   "t": 1784246406,
+   "p": 0.555
+  },
+  {
+   "t": 1784332804,
+   "p": 0.565
+  },
+  {
+   "t": 1784419205,
+   "p": 0.555
+  },
+  {
+   "t": 1784505618,
+   "p": 0.565
+  },
+  {
+   "t": 1784592006,
+   "p": 0.565
+  },
+  {
+   "t": 1784678405,
+   "p": 0.565
+  },
+  {
+   "t": 1784764807,
+   "p": 0.565
+  },
+  {
+   "t": 1784851205,
+   "p": 0.565
+  },
+  {
+   "t": 1784937606,
+   "p": 0.565
+  },
+  {
+   "t": 1785024006,
+   "p": 0.565
+  },
+  {
+   "t": 1785110405,
+   "p": 0.565
+  },
+  {
+   "t": 1785196807,
+   "p": 0.575
+  },
+  {
+   "t": 1785283217,
+   "p": 0.575
+  },
+  {
+   "t": 1785369620,
+   "p": 0.585
+  },
+  {
+   "t": 1785456019,
+   "p": 0.595
+  },
+  {
+   "t": 1785542410,
+   "p": 0.615
+  },
+  {
+   "t": 1785628810,
+   "p": 0.645
+  },
+  {
+   "t": 1785715209,
+   "p": 0.635
+  },
+  {
+   "t": 1785801609,
+   "p": 0.635
+  },
+  {
+   "t": 1785888010,
+   "p": 0.645
+  },
+  {
+   "t": 1785974407,
+   "p": 0.665
+  },
+  {
+   "t": 1786060809,
+   "p": 0.705
+  },
+  {
+   "t": 1786147210,
+   "p": 0.665
+  },
+  {
+   "t": 1786233622,
+   "p": 0.695
+  },
+  {
+   "t": 1786320012,
+   "p": 0.675
+  },
+  {
+   "t": 1786406418,
+   "p": 0.655
+  },
+  {
+   "t": 1786492812,
+   "p": 0.675
+  },
+  {
+   "t": 1786579215,
+   "p": 0.665
+  },
+  {
+   "t": 1786665614,
+   "p": 0.695
+  },
+  {
+   "t": 1786752013,
+   "p": 0.705
+  },
+  {
+   "t": 1786838414,
+   "p": 0.735
+  },
+  {
+   "t": 1786924815,
+   "p": 0.725
+  },
+  {
+   "t": 1787011225,
+   "p": 0.725
+  },
+  {
+   "t": 1787097615,
+   "p": 0.725
+  },
+  {
+   "t": 1787184017,
+   "p": 0.705
+  },
+  {
+   "t": 1787270415,
+   "p": 0.695
+  },
+  {
+   "t": 1787356814,
+   "p": 0.685
+  },
+  {
+   "t": 1787443213,
+   "p": 0.695
+  },
+  {
+   "t": 1787529616,
+   "p": 0.705
+  },
+  {
+   "t": 1787616014,
+   "p": 0.715
+  },
+  {
+   "t": 1787702415,
+   "p": 0.715
+  },
+  {
+   "t": 1787788817,
+   "p": 0.735
+  },
+  {
+   "t": 1787875216,
+   "p": 0.735
+  },
+  {
+   "t": 1787961617,
+   "p": 0.735
+  },
+  {
+   "t": 1788048015,
+   "p": 0.745
+  },
+  {
+   "t": 1788134416,
+   "p": 0.715
+  },
+  {
+   "t": 1788220826,
+   "p": 0.695
+  },
+  {
+   "t": 1788307215,
+   "p": 0.715
+  },
+  {
+   "t": 1788393618,
+   "p": 0.705
+  },
+  {
+   "t": 1788480016,
+   "p": 0.695
+  },
+  {
+   "t": 1788566416,
+   "p": 0.685
+  },
+  {
+   "t": 1788652822,
+   "p": 0.695
+  },
+  {
+   "t": 1788739229,
+   "p": 0.695
+  },
+  {
+   "t": 1788825614,
+   "p": 0.685
+  },
+  {
+   "t": 1788912021,
+   "p": 0.735
+  },
+  {
+   "t": 1788998416,
+   "p": 0.745
+  },
+  {
+   "t": 1789084817,
+   "p": 0.765
+  },
+  {
+   "t": 1789171217,
+   "p": 0.77
+  },
+  {
+   "t": 1789257616,
+   "p": 0.795
+  },
+  {
+   "t": 1789344014,
+   "p": 0.795
+  },
+  {
+   "t": 1789430413,
+   "p": 0.775
+  },
+  {
+   "t": 1789516815,
+   "p": 0.755
+  },
+  {
+   "t": 1789603214,
+   "p": 0.735
+  },
+  {
+   "t": 1789689618,
+   "p": 0.765
+  },
+  {
+   "t": 1789776018,
+   "p": 0.825
+  },
+  {
+   "t": 1789862418,
+   "p": 0.805
+  },
+  {
+   "t": 1789948814,
+   "p": 0.9845
+  }
+ ]
+}

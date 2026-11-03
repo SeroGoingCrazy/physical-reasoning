@@ -1,0 +1,276 @@
+{
+ "market": {
+  "id": "3758836",
+  "question": "Will Xi Jinping visit US by October 31?",
+  "conditionId": "0x9c7b2500bf511842e49dbf24b04c246773da24296c292c3c4c5d29b7569f62c6",
+  "slug": "will-xi-jinping-visit-us-by-october-31",
+  "resolutionSource": "",
+  "endDate": "2026-10-31T23:59:00Z",
+  "startDate": "2026-08-21T07:35:49.522Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-xi-jinping-visit-us-before-2027-dkXEAPjV7Qwy.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-xi-jinping-visit-us-before-2027-dkXEAPjV7Qwy.jpg",
+  "description": "If Xi Jinping visits the United States between market creation and October 31, 2026, 11:59 PM ET, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Xi Jinping physically entering the terrestrial or maritime territory of the United States. Whether or not Xi Jinping enters US airspace during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this information will be official information from the US or China, however a consensus of credible reporting will also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "171843.253013",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-08-21T07:33:35.376494Z",
+  "updatedAt": "2026-09-24T16:28:44.919871Z",
+  "closedTime": "2026-09-24 00:07:47+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "October 31",
+  "groupItemThreshold": "4",
+  "questionID": "0xe4f6b3f58c77d1189b252935b404a92cb50eadcba86cb62fb756beb589d314e9",
+  "umaEndDate": "2026-09-24T00:07:47Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 171843.253013,
+  "endDateIso": "2026-10-31",
+  "startDateIso": "2026-08-21",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"62273953983654906486172611991568790858540765125518800314870798540149705034395\", \"74144289544406399801877808694355057427763058772088913724974356271186429056194\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 171843.253013,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "208023",
+    "ticker": "will-xi-jinping-visit-us-before-2027",
+    "slug": "will-xi-jinping-visit-us-before-2027",
+    "title": "Will Xi Jinping visit US by...?",
+    "description": "If Xi Jinping visits the United States between market creation and December 31, 2026, 11:59 PM ET, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Xi Jinping physically entering the terrestrial or maritime territory of the United States. Whether or not Xi Jinping enters US airspace during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this information will be official information from the US or China, however a consensus of credible reporting will also be used.",
+    "resolutionSource": "",
+    "startDate": "2026-02-13T21:43:49.306Z",
+    "creationDate": "2026-02-13T21:47:28.109043Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-xi-jinping-visit-us-before-2027-dkXEAPjV7Qwy.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-xi-jinping-visit-us-before-2027-dkXEAPjV7Qwy.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 3158674.7262359997,
+    "openInterest": 1230694.6147780002,
+    "sortBy": "ascending",
+    "createdAt": "2026-02-13T18:27:36.085838Z",
+    "updatedAt": "2026-09-24T21:37:04.375607Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 206,
+    "cyom": false,
+    "closedTime": "2026-09-24T00:07:49Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-08-21T07:35:01Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.002,
+  "oneWeekPriceChange": 0.0505,
+  "oneMonthPriceChange": 0.0445,
+  "lastTradePrice": 0.998,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-08-21T07:34:02.992961Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1787356825,
+   "p": 0.94
+  },
+  {
+   "t": 1787443222,
+   "p": 0.945
+  },
+  {
+   "t": 1787529627,
+   "p": 0.95
+  },
+  {
+   "t": 1787616024,
+   "p": 0.955
+  },
+  {
+   "t": 1787702427,
+   "p": 0.96
+  },
+  {
+   "t": 1787788826,
+   "p": 0.96
+  },
+  {
+   "t": 1787875227,
+   "p": 0.9605
+  },
+  {
+   "t": 1787961627,
+   "p": 0.9525
+  },
+  {
+   "t": 1788048027,
+   "p": 0.931
+  },
+  {
+   "t": 1788134424,
+   "p": 0.9445
+  },
+  {
+   "t": 1788220838,
+   "p": 0.905
+  },
+  {
+   "t": 1788307225,
+   "p": 0.963
+  },
+  {
+   "t": 1788393630,
+   "p": 0.9615
+  },
+  {
+   "t": 1788480021,
+   "p": 0.936
+  },
+  {
+   "t": 1788566422,
+   "p": 0.935
+  },
+  {
+   "t": 1788652828,
+   "p": 0.938
+  },
+  {
+   "t": 1788739236,
+   "p": 0.956
+  },
+  {
+   "t": 1788825618,
+   "p": 0.9655
+  },
+  {
+   "t": 1788912027,
+   "p": 0.977
+  },
+  {
+   "t": 1788998421,
+   "p": 0.9775
+  },
+  {
+   "t": 1789084824,
+   "p": 0.9585
+  },
+  {
+   "t": 1789171225,
+   "p": 0.965
+  },
+  {
+   "t": 1789257623,
+   "p": 0.9655
+  },
+  {
+   "t": 1789344020,
+   "p": 0.9345
+  },
+  {
+   "t": 1789430419,
+   "p": 0.935
+  },
+  {
+   "t": 1789516819,
+   "p": 0.939
+  },
+  {
+   "t": 1789603222,
+   "p": 0.949
+  },
+  {
+   "t": 1789689625,
+   "p": 0.9665
+  },
+  {
+   "t": 1789776027,
+   "p": 0.972
+  },
+  {
+   "t": 1789862426,
+   "p": 0.973
+  },
+  {
+   "t": 1789948822,
+   "p": 0.9635
+  },
+  {
+   "t": 1790035223,
+   "p": 0.9955
+  },
+  {
+   "t": 1790121625,
+   "p": 0.9985
+  },
+  {
+   "t": 1790208036,
+   "p": 0.9995
+  }
+ ]
+}

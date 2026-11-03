@@ -1,0 +1,27 @@
+{
+ "id": 1130012,
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.85,
+ "reasoning": "United Russia holds 324 of 450 Duma seats and has dominated every election since 2003, with the 2021 vote giving it a comfortable majority despite a drop of about 19 seats. Under the most natural reading of the question, which is winning the most seats, it is very likely to finish first again in September 2026. The resolution wording says 'gains the greatest number of seats compared to before the election,' which could instead mean the largest seat change. Under that reading UR, already near its ceiling, could easily lose seats while a party like KPRF, LDPR, or New People gains more, so the probability would be much lower. I weight the plurality reading more heavily because it matches the question title, and I allow some chance the election is delayed or the resolver uses the change metric.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 837,
+  "output_tokens": 1067,
+  "output_tokens_details": {
+   "thinking_tokens": 809
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0006172
+}

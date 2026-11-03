@@ -1,0 +1,314 @@
+{
+ "market": {
+  "id": "623602",
+  "question": "Will the Government shutdown end November 8-11?",
+  "conditionId": "0xec21462ef58f792b5c1ff07bfdc66401b631c6fb42562ccceb2de279f0e73788",
+  "slug": "will-the-government-shutdown-end-november-8-11",
+  "resolutionSource": "",
+  "endDate": "2025-11-15T00:00:00Z",
+  "startDate": "2025-10-06T17:18:19.165Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-government-shutdown-end-kCiQ5ftNpjc-.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-government-shutdown-end-kCiQ5ftNpjc-.jpg",
+  "description": "This market will resolve to the calendar date range (ET) of the first day after September 30, 2025 which the U.S. The Office of Personnel Management (OPM) announces that the U.S. federal government is not shut down due to a lapse in appropriations. \n\nPartial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown. \n\nThe resolution source for this market will be OPM\u2019s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "11773855.877798",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-10-06T17:08:46.955128Z",
+  "updatedAt": "2025-11-13T08:30:34.426682Z",
+  "closedTime": "2025-11-12 08:06:57+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "November 8-11",
+  "groupItemThreshold": "7",
+  "questionID": "0x425fcdb7c350c6e04e84a5b8c200a3959f81517d17028c0ca5c041c073c75407",
+  "umaEndDate": "2025-11-12T08:06:57Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 11773855.877798,
+  "endDateIso": "2025-11-15",
+  "startDateIso": "2025-10-06",
+  "hasReviewedDates": true,
+  "volume1wk": 11301343.025672052,
+  "volume1mo": 11768276.89873806,
+  "volume1yr": 11773855.877798062,
+  "gameStartTime": "2025-11-13 06:18:00+00",
+  "clobTokenIds": "[\"34124572068052077909406302056995239675264911172488920973407960367842984448300\", \"3716974226423390700790210212492901860018609875730142906816012571157208058298\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 11301343.025672052,
+  "volume1moClob": 11768276.89873806,
+  "volume1yrClob": 11773855.877798062,
+  "volumeClob": 11773855.877798,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x425fcdb7c350c6e04e84a5b8c200a3959f81517d17028c0ca5c041c073c75400",
+  "negRiskRequestID": "0x9f2fc9581047256178a4542ca3d9f017b066d26114134ce092f68afea6ee02b8",
+  "events": [
+   {
+    "id": "55056",
+    "ticker": "when-will-the-government-shutdown-end-545",
+    "slug": "when-will-the-government-shutdown-end-545",
+    "title": "When will the Government shutdown end? ",
+    "description": "This market will resolve to the calendar date range (ET) of the first day after September 30, 2025 which the U.S. The Office of Personnel Management (OPM) announces that the U.S. federal government is not shut down due to a lapse in appropriations. \n\nPartial shutdowns count as shutdowns; announcements of office closures due to holidays or inclement weather do not qualify as a shutdown. \n\nThe resolution source for this market will be OPM\u2019s Operating Status page (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/).",
+    "resolutionSource": "",
+    "startDate": "2025-10-06T17:22:33.868256Z",
+    "creationDate": "2025-10-06T17:22:33.86825Z",
+    "endDate": "2025-11-15T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-government-shutdown-end-kCiQ5ftNpjc-.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-the-government-shutdown-end-kCiQ5ftNpjc-.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 40223767.36621,
+    "openInterest": 0,
+    "createdAt": "2025-10-06T17:08:42.45894Z",
+    "updatedAt": "2026-03-24T13:54:53.437114Z",
+    "volume1wk": 36662047.87764105,
+    "volume1mo": 40166505.64083103,
+    "volume1yr": 40223767.366210036,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x425fcdb7c350c6e04e84a5b8c200a3959f81517d17028c0ca5c041c073c75400",
+    "commentCount": 506,
+    "series": [
+     {
+      "id": "10348",
+      "ticker": "shutdown-ends-neg",
+      "slug": "shutdown-ends-neg",
+      "title": "Shutdown ends (neg)",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-10-06T17:09:47.664852Z",
+      "updatedAt": "2026-09-30T13:44:40.617933Z",
+      "commentCount": 2257
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2025-11-13T14:43:28Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2025-11-13T06:18:00Z",
+    "seriesSlug": "shutdown-ends-neg",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": true,
+    "cantEstimate": false,
+    "estimatedValue": "3.001000500250125",
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-10-06T17:15:43.66655Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-10-06T17:17:56Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.008,
+  "oneWeekPriceChange": -0.3295,
+  "oneMonthPriceChange": -0.1045,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "groupItemRange": "[\"-2\", \"1\"]",
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-10-06T17:16:10.615907Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1759795212,
+   "p": 0.055
+  },
+  {
+   "t": 1759881605,
+   "p": 0.045
+  },
+  {
+   "t": 1759968003,
+   "p": 0.065
+  },
+  {
+   "t": 1760054406,
+   "p": 0.06
+  },
+  {
+   "t": 1760140804,
+   "p": 0.06
+  },
+  {
+   "t": 1760227213,
+   "p": 0.155
+  },
+  {
+   "t": 1760313605,
+   "p": 0.13
+  },
+  {
+   "t": 1760400017,
+   "p": 0.055
+  },
+  {
+   "t": 1760486415,
+   "p": 0.07
+  },
+  {
+   "t": 1760572815,
+   "p": 0.05
+  },
+  {
+   "t": 1760659214,
+   "p": 0.06
+  },
+  {
+   "t": 1760745605,
+   "p": 0.06
+  },
+  {
+   "t": 1760832015,
+   "p": 0.085
+  },
+  {
+   "t": 1760918410,
+   "p": 0.1
+  },
+  {
+   "t": 1761004819,
+   "p": 0.065
+  },
+  {
+   "t": 1761091203,
+   "p": 0.07
+  },
+  {
+   "t": 1761177605,
+   "p": 0.08
+  },
+  {
+   "t": 1761264004,
+   "p": 0.08
+  },
+  {
+   "t": 1761350406,
+   "p": 0.075
+  },
+  {
+   "t": 1761436804,
+   "p": 0.075
+  },
+  {
+   "t": 1761523204,
+   "p": 0.075
+  },
+  {
+   "t": 1761609604,
+   "p": 0.09
+  },
+  {
+   "t": 1761696004,
+   "p": 0.125
+  },
+  {
+   "t": 1761782406,
+   "p": 0.14
+  },
+  {
+   "t": 1761868805,
+   "p": 0.15
+  },
+  {
+   "t": 1761955206,
+   "p": 0.17
+  },
+  {
+   "t": 1762041605,
+   "p": 0.18
+  },
+  {
+   "t": 1762128004,
+   "p": 0.17
+  },
+  {
+   "t": 1762214405,
+   "p": 0.185
+  },
+  {
+   "t": 1762300805,
+   "p": 0.32
+  },
+  {
+   "t": 1762387204,
+   "p": 0.17
+  },
+  {
+   "t": 1762473605,
+   "p": 0.26
+  },
+  {
+   "t": 1762560005,
+   "p": 0.17
+  },
+  {
+   "t": 1762646418,
+   "p": 0.075
+  },
+  {
+   "t": 1762732805,
+   "p": 0.33
+  },
+  {
+   "t": 1762819207,
+   "p": 0.0235
+  },
+  {
+   "t": 1762905608,
+   "p": 0.0005
+  }
+ ]
+}

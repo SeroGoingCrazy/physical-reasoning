@@ -1,0 +1,354 @@
+{
+ "market": {
+  "id": "2596200",
+  "question": "Will \"Spider-Man: Brand New Day\" Opening Weekend Box Office be between 240m and 260m?",
+  "conditionId": "0xbb04518ed7253d503fe3ede528f19c023bf6c3190f63da4039fe96a8c61ee263",
+  "slug": "will-spider-man-brand-new-day-opening-weekend-box-office-be-between-240m-and-260m-20260618144049375",
+  "resolutionSource": "https://www.the-numbers.com/",
+  "endDate": "2026-08-02T23:59:00Z",
+  "startDate": "2026-06-18T15:37:41.457195Z",
+  "description": "This market will resolve according to how much \"Spider-Man: Brand New Day\" Opening Weekend Box Office will gross domestically on its opening weekend. The \"Daily Box Office Performance\" figures found on the \u201cBox Office\u201d tab on this movie's The Numbers (https://www.the-numbers.com/) page will be used to resolve this market once the values for the 3-day opening weekend (July 31 - August 2) are final (i.e., not studio estimates).\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nPlease note, this market will resolve according to the The Numbers figures provided under Weekend Box Office Performance for the 3-day weekend (which typically includes Thursday's previews), regardless of whether domestic refers to only the USA, or to USA and Canada, etc.\n\nIf there is ambiguity as to whether the resolution source's figures are final, this market will remain open until both https://www.boxofficemojo.com/ and https://www.the-numbers.com/ have confirmed their finalized figures.\n\nIf there is no final data available by August 9, 2026, 11:59 PM ET, another credible resolution source will be chosen.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "71104.16453499997",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-18T15:34:07.944343Z",
+  "updatedAt": "2026-08-04T09:21:11.083902Z",
+  "closedTime": "2026-08-04 03:13:12+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "240-260m",
+  "groupItemThreshold": "3",
+  "questionID": "0x0b42afaf0d48e8187a6fa84cf86ac983d658b0b5bd5a43a9323ff25ff9995303",
+  "umaEndDate": "2026-08-04T03:13:12Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 71104.16453499997,
+  "endDateIso": "2026-08-02",
+  "startDateIso": "2026-07-31",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"42199888149935400900339969680608960899362276309401063658150976278005014170560\", \"90615014007266475358173216621817511042303197624224113120026175204354139659866\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 71104.16453499997,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x0b42afaf0d48e8187a6fa84cf86ac983d658b0b5bd5a43a9323ff25ff9995300",
+  "negRiskRequestID": "0xe153ab4c3f3aa303760cc0943be49f9b220b407d55dae81da2effe1c2c5b0937",
+  "events": [
+   {
+    "id": "608709",
+    "ticker": "spider-man-brand-new-day-opening-weekend-box-office-20260618144048824",
+    "slug": "spider-man-brand-new-day-opening-weekend-box-office-20260618144048824",
+    "title": "\"Spider-Man: Brand New Day\" Opening Weekend Box Office",
+    "description": "This market will resolve according to how much \"Spider-Man: Brand New Day\" Opening Weekend Box Office will gross domestically on its opening weekend. The \"Daily Box Office Performance\" figures found on the \u201cBox Office\u201d tab on this movie's The Numbers (https://www.the-numbers.com/) page will be used to resolve this market once the values for the 3-day opening weekend (July 31 - August 2) are final (i.e., not studio estimates).\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nPlease note, this market will resolve according to the The Numbers figures provided under Weekend Box Office Performance for the 3-day weekend (which typically includes Thursday's previews), regardless of whether domestic refers to only the USA, or to USA and Canada, etc.\n\nIf there is ambiguity as to whether the resolution source's figures are final, this market will remain open until both https://www.boxofficemojo.com/ and https://www.the-numbers.com/ have confirmed their finalized figures.\n\nIf there is no final data available by August 9, 2026, 11:59 PM ET, another credible resolution source will be chosen.",
+    "resolutionSource": "https://www.the-numbers.com/",
+    "startDate": "2026-06-18T15:37:37.276961Z",
+    "creationDate": "2026-06-18T15:42:04.931448Z",
+    "endDate": "2026-08-02T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spider-man-brand-new-day-opening-weekend-box-office-20260618144048824-8zjvXwRLMdzN.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/spider-man-brand-new-day-opening-weekend-box-office-20260618144048824-8zjvXwRLMdzN.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 517576.9308,
+    "openInterest": 137513.49858699998,
+    "sortBy": "ascending",
+    "createdAt": "2026-06-18T15:34:06.895025Z",
+    "updatedAt": "2026-08-13T19:53:06.89453Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x0b42afaf0d48e8187a6fa84cf86ac983d658b0b5bd5a43a9323ff25ff9995300",
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "46",
+      "ticker": "box-office-openings",
+      "slug": "box-office-openings",
+      "title": "Box Office Openings",
+      "seriesType": "single",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/box+office+open.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/box+office+open.png",
+      "layout": "default",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "new": false,
+      "featured": false,
+      "restricted": true,
+      "publishedAt": "2023-06-12 16:25:11.607+00",
+      "createdBy": "15",
+      "updatedBy": "9",
+      "createdAt": "2023-06-12T16:25:03.836Z",
+      "updatedAt": "2026-11-02T20:53:48.10601Z",
+      "commentsEnabled": false,
+      "competitive": "0",
+      "volume24hr": 84088.006059,
+      "volume": 309949.104399,
+      "liquidity": 82521.69381,
+      "startDate": "2023-06-07T16:00:00Z",
+      "commentCount": 5994
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-08-04T03:14:44Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-07-31T22:37:00Z",
+    "seriesSlug": "box-office-openings",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-06-18T15:34:17.302108Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-18T15:36:41Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneWeekPriceChange": -0.034,
+  "oneMonthPriceChange": -0.488,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-18T15:35:20.811332Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "culture_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.05,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1781827225,
+   "p": 0.285
+  },
+  {
+   "t": 1781913607,
+   "p": 0.34
+  },
+  {
+   "t": 1782000010,
+   "p": 0.28
+  },
+  {
+   "t": 1782086409,
+   "p": 0.295
+  },
+  {
+   "t": 1782172808,
+   "p": 0.29
+  },
+  {
+   "t": 1782259209,
+   "p": 0.295
+  },
+  {
+   "t": 1782345612,
+   "p": 0.29
+  },
+  {
+   "t": 1782432007,
+   "p": 0.29
+  },
+  {
+   "t": 1782518409,
+   "p": 0.295
+  },
+  {
+   "t": 1782604808,
+   "p": 0.2285
+  },
+  {
+   "t": 1782691208,
+   "p": 0.284
+  },
+  {
+   "t": 1782777609,
+   "p": 0.3065
+  },
+  {
+   "t": 1782864009,
+   "p": 0.3635
+  },
+  {
+   "t": 1782950411,
+   "p": 0.4935
+  },
+  {
+   "t": 1783036810,
+   "p": 0.4905
+  },
+  {
+   "t": 1783123209,
+   "p": 0.494
+  },
+  {
+   "t": 1783209609,
+   "p": 0.4885
+  },
+  {
+   "t": 1783296004,
+   "p": 0.4865
+  },
+  {
+   "t": 1783382410,
+   "p": 0.469
+  },
+  {
+   "t": 1783468806,
+   "p": 0.4675
+  },
+  {
+   "t": 1783555213,
+   "p": 0.4675
+  },
+  {
+   "t": 1783641609,
+   "p": 0.2335
+  },
+  {
+   "t": 1783728009,
+   "p": 0.2555
+  },
+  {
+   "t": 1783814422,
+   "p": 0.2625
+  },
+  {
+   "t": 1783900810,
+   "p": 0.2625
+  },
+  {
+   "t": 1783987209,
+   "p": 0.258
+  },
+  {
+   "t": 1784073612,
+   "p": 0.258
+  },
+  {
+   "t": 1784160013,
+   "p": 0.2235
+  },
+  {
+   "t": 1784246413,
+   "p": 0.1835
+  },
+  {
+   "t": 1784332809,
+   "p": 0.21
+  },
+  {
+   "t": 1784419212,
+   "p": 0.2115
+  },
+  {
+   "t": 1784505626,
+   "p": 0.208
+  },
+  {
+   "t": 1784592013,
+   "p": 0.1855
+  },
+  {
+   "t": 1784678410,
+   "p": 0.1885
+  },
+  {
+   "t": 1784764818,
+   "p": 0.191
+  },
+  {
+   "t": 1784851220,
+   "p": 0.113
+  },
+  {
+   "t": 1784937635,
+   "p": 0.1185
+  },
+  {
+   "t": 1785024026,
+   "p": 0.08
+  },
+  {
+   "t": 1785110432,
+   "p": 0.1225
+  },
+  {
+   "t": 1785196835,
+   "p": 0.043
+  },
+  {
+   "t": 1785369625,
+   "p": 0.0395
+  },
+  {
+   "t": 1785456022,
+   "p": 0.0085
+  },
+  {
+   "t": 1785542413,
+   "p": 0.0015
+  },
+  {
+   "t": 1785628814,
+   "p": 0.0005
+  },
+  {
+   "t": 1785715211,
+   "p": 0.0005
+  },
+  {
+   "t": 1785801613,
+   "p": 0.0005
+  }
+ ]
+}

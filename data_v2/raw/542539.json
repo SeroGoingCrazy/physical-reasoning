@@ -1,0 +1,701 @@
+{
+ "market": {
+  "id": "542539",
+  "question": "No change in Fed interest rates after September 2025 meeting?",
+  "conditionId": "0x02dc46f4354c1cc447577db82ba62cca1bda737bd67b73fe966ce1bfe580868f",
+  "slug": "no-change-in-fed-interest-rates-after-september-2025-meeting",
+  "endDate": "2025-09-17T12:00:00Z",
+  "startDate": "2025-05-07T23:11:08.758515Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+  "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's September 2025 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)\n\nThe resolution source for this market is the FOMC\u2019s statement after its meeting scheduled for September 16 - 17, 2025 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.\n\nThe level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.\n\nThis market may resolve as soon as the FOMC\u2019s statement for their September meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the \"No change\" bracket.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "67368762.49652",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-05-07T21:42:51.193297Z",
+  "updatedAt": "2025-09-19T00:51:36.181929Z",
+  "closedTime": "2025-09-17 21:27:42+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "No change",
+  "groupItemThreshold": "2",
+  "questionID": "0x85d7c9f6da343d5a539c59944f98ba6876fb01c699e4c788ab8c7454f51d1c02",
+  "umaEndDate": "2025-09-17T21:27:42Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 67368762.49652,
+  "endDateIso": "2025-09-17",
+  "startDateIso": "2025-05-07",
+  "hasReviewedDates": true,
+  "volume1wk": 37896608.48453767,
+  "volume1mo": 60605450.35700408,
+  "volume1yr": 67368762.4965211,
+  "clobTokenIds": "[\"20687552179259492015264396642668768958132112743605647653821858729131283300433\", \"112366758121468199816335075341769488016411976085810291047672574777931003289565\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 37896608.48453767,
+  "volume1moClob": 60605450.35700408,
+  "volume1yrClob": 67368762.4965211,
+  "volumeClob": 67368762.49652,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x85d7c9f6da343d5a539c59944f98ba6876fb01c699e4c788ab8c7454f51d1c00",
+  "negRiskRequestID": "0x6605ef59d6763efcfb3f871fda05c6ad30bbd5514cc2d9c32f703b02606d5e02",
+  "events": [
+   {
+    "id": "24087",
+    "ticker": "fed-decision-in-september",
+    "slug": "fed-decision-in-september",
+    "title": "Fed decision in September?",
+    "description": "The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's September 2025 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (e.g. if there's a cut/increase of 12.5 bps it will be considered to be 25 bps)\n\nThe resolution source for this market is the FOMC\u2019s statement after its meeting scheduled for September 16 - 17, 2025 according to the official calendar: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.\n\nThe level and change of the target federal funds rate is also published at the official website of the Federal Reserve at https://www.federalreserve.gov/monetarypolicy/openmarket.htm.\n\nThis market may resolve as soon as the FOMC\u2019s statement for their September meeting with relevant data is issued. If no statement is released by the end date of the next scheduled meeting, this market will resolve to the \"No change\" bracket.\n",
+    "resolutionSource": "",
+    "startDate": "2025-05-07T23:12:28.392984Z",
+    "creationDate": "2025-05-07T23:12:28.392982Z",
+    "endDate": "2025-09-17T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 220591460.745363,
+    "openInterest": 0,
+    "createdAt": "2025-05-07T21:42:48.141972Z",
+    "updatedAt": "2026-04-07T15:09:49.678688Z",
+    "volume1wk": 114695403.99955167,
+    "volume1mo": 193945581.10833484,
+    "volume1yr": 220591460.74536416,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x85d7c9f6da343d5a539c59944f98ba6876fb01c699e4c788ab8c7454f51d1c00",
+    "commentCount": 6518,
+    "series": [
+     {
+      "id": "35",
+      "ticker": "fomc",
+      "slug": "fomc",
+      "title": "FOMC",
+      "seriesType": "single",
+      "recurrence": "monthly",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powel+stern.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powel+stern.png",
+      "layout": "default",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "new": false,
+      "featured": false,
+      "restricted": true,
+      "publishedAt": "2023-03-22 19:17:35.835+00",
+      "createdBy": "15",
+      "updatedBy": "15",
+      "createdAt": "2023-02-03T22:02:38.864Z",
+      "updatedAt": "2026-11-02T20:57:45.847243Z",
+      "commentsEnabled": false,
+      "competitive": "0",
+      "volume24hr": 681630.6570550001,
+      "volume": 12107183.975310998,
+      "liquidity": 2909252.02625,
+      "startDate": "2021-01-01T17:00:00Z",
+      "commentCount": 9726
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2025-09-17T21:27:42Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "seriesSlug": "fed-interest-rates",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-05-07T22:49:42.229281Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-05-07T23:10:42Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0165,
+  "oneWeekPriceChange": -0.025,
+  "oneMonthPriceChange": -0.2645,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-05-07T23:01:19.721302Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1746662406,
+   "p": 0.425
+  },
+  {
+   "t": 1746748807,
+   "p": 0.385
+  },
+  {
+   "t": 1746835206,
+   "p": 0.39
+  },
+  {
+   "t": 1746921606,
+   "p": 0.4
+  },
+  {
+   "t": 1747008006,
+   "p": 0.435
+  },
+  {
+   "t": 1747094406,
+   "p": 0.52
+  },
+  {
+   "t": 1747180807,
+   "p": 0.515
+  },
+  {
+   "t": 1747267207,
+   "p": 0.54
+  },
+  {
+   "t": 1747353606,
+   "p": 0.535
+  },
+  {
+   "t": 1747440007,
+   "p": 0.545
+  },
+  {
+   "t": 1747526406,
+   "p": 0.535
+  },
+  {
+   "t": 1747612806,
+   "p": 0.555
+  },
+  {
+   "t": 1747699206,
+   "p": 0.595
+  },
+  {
+   "t": 1747785606,
+   "p": 0.595
+  },
+  {
+   "t": 1747872007,
+   "p": 0.6
+  },
+  {
+   "t": 1747958407,
+   "p": 0.575
+  },
+  {
+   "t": 1748044807,
+   "p": 0.595
+  },
+  {
+   "t": 1748131206,
+   "p": 0.595
+  },
+  {
+   "t": 1748217607,
+   "p": 0.665
+  },
+  {
+   "t": 1748304006,
+   "p": 0.685
+  },
+  {
+   "t": 1748390406,
+   "p": 0.685
+  },
+  {
+   "t": 1748476807,
+   "p": 0.68
+  },
+  {
+   "t": 1748563207,
+   "p": 0.665
+  },
+  {
+   "t": 1748649607,
+   "p": 0.605
+  },
+  {
+   "t": 1748736007,
+   "p": 0.605
+  },
+  {
+   "t": 1748822406,
+   "p": 0.6
+  },
+  {
+   "t": 1748908807,
+   "p": 0.595
+  },
+  {
+   "t": 1748995206,
+   "p": 0.585
+  },
+  {
+   "t": 1749081606,
+   "p": 0.575
+  },
+  {
+   "t": 1749168006,
+   "p": 0.465
+  },
+  {
+   "t": 1749254407,
+   "p": 0.575
+  },
+  {
+   "t": 1749340807,
+   "p": 0.61
+  },
+  {
+   "t": 1749427207,
+   "p": 0.605
+  },
+  {
+   "t": 1749513606,
+   "p": 0.595
+  },
+  {
+   "t": 1749600007,
+   "p": 0.595
+  },
+  {
+   "t": 1749686407,
+   "p": 0.545
+  },
+  {
+   "t": 1749772807,
+   "p": 0.525
+  },
+  {
+   "t": 1749859208,
+   "p": 0.52
+  },
+  {
+   "t": 1749945608,
+   "p": 0.52
+  },
+  {
+   "t": 1750032007,
+   "p": 0.53
+  },
+  {
+   "t": 1750118408,
+   "p": 0.55
+  },
+  {
+   "t": 1750204808,
+   "p": 0.56
+  },
+  {
+   "t": 1750291207,
+   "p": 0.51
+  },
+  {
+   "t": 1750377608,
+   "p": 0.535
+  },
+  {
+   "t": 1750464008,
+   "p": 0.555
+  },
+  {
+   "t": 1750550406,
+   "p": 0.55
+  },
+  {
+   "t": 1750636807,
+   "p": 0.53
+  },
+  {
+   "t": 1750723207,
+   "p": 0.495
+  },
+  {
+   "t": 1750809607,
+   "p": 0.455
+  },
+  {
+   "t": 1750896008,
+   "p": 0.315
+  },
+  {
+   "t": 1750982407,
+   "p": 0.375
+  },
+  {
+   "t": 1751068807,
+   "p": 0.345
+  },
+  {
+   "t": 1751155208,
+   "p": 0.335
+  },
+  {
+   "t": 1751241607,
+   "p": 0.34
+  },
+  {
+   "t": 1751328008,
+   "p": 0.34
+  },
+  {
+   "t": 1751414407,
+   "p": 0.325
+  },
+  {
+   "t": 1751500808,
+   "p": 0.31
+  },
+  {
+   "t": 1751587208,
+   "p": 0.475
+  },
+  {
+   "t": 1751673608,
+   "p": 0.43
+  },
+  {
+   "t": 1751760007,
+   "p": 0.43
+  },
+  {
+   "t": 1751846407,
+   "p": 0.43
+  },
+  {
+   "t": 1751932808,
+   "p": 0.435
+  },
+  {
+   "t": 1752019207,
+   "p": 0.435
+  },
+  {
+   "t": 1752105608,
+   "p": 0.465
+  },
+  {
+   "t": 1752192008,
+   "p": 0.45
+  },
+  {
+   "t": 1752278409,
+   "p": 0.465
+  },
+  {
+   "t": 1752364808,
+   "p": 0.46
+  },
+  {
+   "t": 1752451207,
+   "p": 0.435
+  },
+  {
+   "t": 1752537608,
+   "p": 0.475
+  },
+  {
+   "t": 1752624008,
+   "p": 0.545
+  },
+  {
+   "t": 1752710408,
+   "p": 0.54
+  },
+  {
+   "t": 1752796808,
+   "p": 0.515
+  },
+  {
+   "t": 1752883209,
+   "p": 0.485
+  },
+  {
+   "t": 1752969608,
+   "p": 0.495
+  },
+  {
+   "t": 1753056007,
+   "p": 0.51
+  },
+  {
+   "t": 1753142409,
+   "p": 0.485
+  },
+  {
+   "t": 1753228809,
+   "p": 0.435
+  },
+  {
+   "t": 1753315209,
+   "p": 0.42
+  },
+  {
+   "t": 1753401609,
+   "p": 0.435
+  },
+  {
+   "t": 1753488009,
+   "p": 0.425
+  },
+  {
+   "t": 1753574410,
+   "p": 0.43
+  },
+  {
+   "t": 1753660809,
+   "p": 0.355
+  },
+  {
+   "t": 1753747210,
+   "p": 0.405
+  },
+  {
+   "t": 1753833610,
+   "p": 0.375
+  },
+  {
+   "t": 1753920008,
+   "p": 0.555
+  },
+  {
+   "t": 1754006409,
+   "p": 0.625
+  },
+  {
+   "t": 1754092809,
+   "p": 0.195
+  },
+  {
+   "t": 1754179208,
+   "p": 0.205
+  },
+  {
+   "t": 1754265607,
+   "p": 0.205
+  },
+  {
+   "t": 1754352008,
+   "p": 0.165
+  },
+  {
+   "t": 1754438409,
+   "p": 0.185
+  },
+  {
+   "t": 1754524806,
+   "p": 0.145
+  },
+  {
+   "t": 1754611204,
+   "p": 0.175
+  },
+  {
+   "t": 1754697608,
+   "p": 0.175
+  },
+  {
+   "t": 1754784010,
+   "p": 0.175
+  },
+  {
+   "t": 1754870406,
+   "p": 0.175
+  },
+  {
+   "t": 1754956808,
+   "p": 0.21
+  },
+  {
+   "t": 1755043213,
+   "p": 0.125
+  },
+  {
+   "t": 1755129608,
+   "p": 0.125
+  },
+  {
+   "t": 1755216011,
+   "p": 0.235
+  },
+  {
+   "t": 1755302406,
+   "p": 0.295
+  },
+  {
+   "t": 1755388802,
+   "p": 0.265
+  },
+  {
+   "t": 1755475204,
+   "p": 0.245
+  },
+  {
+   "t": 1755561616,
+   "p": 0.265
+  },
+  {
+   "t": 1755648007,
+   "p": 0.285
+  },
+  {
+   "t": 1755734403,
+   "p": 0.295
+  },
+  {
+   "t": 1755820808,
+   "p": 0.365
+  },
+  {
+   "t": 1755907205,
+   "p": 0.185
+  },
+  {
+   "t": 1755993611,
+   "p": 0.185
+  },
+  {
+   "t": 1756080013,
+   "p": 0.145
+  },
+  {
+   "t": 1756166403,
+   "p": 0.205
+  },
+  {
+   "t": 1756252811,
+   "p": 0.175
+  },
+  {
+   "t": 1756339204,
+   "p": 0.165
+  },
+  {
+   "t": 1756425615,
+   "p": 0.175
+  },
+  {
+   "t": 1756512010,
+   "p": 0.145
+  },
+  {
+   "t": 1756598416,
+   "p": 0.145
+  },
+  {
+   "t": 1756684812,
+   "p": 0.145
+  },
+  {
+   "t": 1756771211,
+   "p": 0.135
+  },
+  {
+   "t": 1756857611,
+   "p": 0.125
+  },
+  {
+   "t": 1756944010,
+   "p": 0.085
+  },
+  {
+   "t": 1757030404,
+   "p": 0.065
+  },
+  {
+   "t": 1757116821,
+   "p": 0.019
+  },
+  {
+   "t": 1757203214,
+   "p": 0.029
+  },
+  {
+   "t": 1757289615,
+   "p": 0.037
+  },
+  {
+   "t": 1757376016,
+   "p": 0.0315
+  },
+  {
+   "t": 1757462414,
+   "p": 0.0395
+  },
+  {
+   "t": 1757548814,
+   "p": 0.0265
+  },
+  {
+   "t": 1757635214,
+   "p": 0.0245
+  },
+  {
+   "t": 1757721607,
+   "p": 0.023
+  },
+  {
+   "t": 1757808013,
+   "p": 0.021
+  },
+  {
+   "t": 1757894410,
+   "p": 0.0275
+  },
+  {
+   "t": 1757980820,
+   "p": 0.024
+  },
+  {
+   "t": 1758067207,
+   "p": 0.0155
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "market": {
+  "id": "524599",
+  "question": "Will Kanye launch a token on Solana?",
+  "conditionId": "0xec5904493c172291e94f0d889bc4edb3b48b5cf54f7d45d2259f275ab01ddfdf",
+  "slug": "will-kanye-launch-a-token-on-solana",
+  "resolutionSource": "",
+  "endDate": "2025-03-31T12:00:00Z",
+  "startDate": "2025-02-23T14:45:38.057662Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-chain-will-kanye-launch-his-token-on-1Bm_wXTKz3fe.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-chain-will-kanye-launch-his-token-on-1Bm_wXTKz3fe.jpg",
+  "description": "This market will resolve according to the chain of the first token Kanye West is confirmed to have launched between February 22, and March 31, 2025, 11:59 PM ET.\n\nOnly tokens which are confirmed to have been launched by Kanye West, either through posts from official social media channels, or otherwise confirmed by public statements will qualify. \n\nThe token must be actively transferrable and/or tradable, announcements alone will not qualify. \n\nIf Kanye does not launch a token by March 31, 2025, 11:59 PM ET this market will resolve to \u201cNo token before April\u201d. \n\nIf Kanye launches a token on multiple chains simultaneously (within 60 minutes of the first launch), this market will resolve to \u201cMultiple\u201d. \n\nThe resolution source will be a consensus of credible reporting.   ",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "243894.562625",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-02-23T03:58:48.002702Z",
+  "updatedAt": "2025-04-02T06:00:44.717484Z",
+  "closedTime": "2025-04-01 07:59:32+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Solana (SOL)",
+  "groupItemThreshold": "0",
+  "questionID": "0xe0ed19a565d1cb5c583128cdb23d72869af4a85c50358de4de88cce20e68b000",
+  "umaEndDate": "2025-04-01T07:59:32Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 243894.562625,
+  "endDateIso": "2025-03-31",
+  "startDateIso": "2025-02-23",
+  "hasReviewedDates": true,
+  "volume1wk": 0,
+  "volume1mo": 0,
+  "volume1yr": 0,
+  "clobTokenIds": "[\"59809487404728176497609993885574425707003427429763540831370989999660506080007\", \"60866622464607684896040616635160441484873911874036936927134335482451505577853\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkAmm": 0,
+  "volume1moAmm": 0,
+  "volume1yrAmm": 0,
+  "volume1wkClob": 0,
+  "volume1moClob": 0,
+  "volume1yrClob": 0,
+  "volumeClob": 243894.562625,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xe0ed19a565d1cb5c583128cdb23d72869af4a85c50358de4de88cce20e68b000",
+  "negRiskRequestID": "0x39982f736450f6e89d5e7c8aef9940bdb18f2a7ded09fcbe68738441eda27b87",
+  "events": [
+   {
+    "id": "19280",
+    "ticker": "what-chain-will-kanye-launch-his-token-on",
+    "slug": "what-chain-will-kanye-launch-his-token-on",
+    "title": "What chain will Kanye launch his token on?",
+    "description": "This market will resolve according to the chain of the first token Kanye West is confirmed to have launched between February 22, and March 31, 2025, 11:59 PM ET.\n\nOnly tokens which are confirmed to have been launched by Kanye West, either through posts from official social media channels, or otherwise confirmed by public statements will qualify.\n\nThe token must be actively transferrable and/or tradable, announcements alone will not qualify. \n\nIf Kanye does not launch a token by March 31, 2025, 11:59 PM ET this market will resolve to \u201cNo token before April\u201d.\n\nIf Kanye launches a token on multiple chains simultaneously (within 60 minutes of the first launch), this market will resolve to \u201cMultiple\u201d.",
+    "resolutionSource": "",
+    "startDate": "2025-02-23T14:52:38.181503Z",
+    "creationDate": "2025-02-23T14:52:38.1815Z",
+    "endDate": "2025-03-31T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-chain-will-kanye-launch-his-token-on-1Bm_wXTKz3fe.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-chain-will-kanye-launch-his-token-on-1Bm_wXTKz3fe.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 1082960.732562,
+    "openInterest": 0,
+    "createdAt": "2025-02-23T03:58:47.455983Z",
+    "updatedAt": "2025-04-02T06:00:56.752285Z",
+    "volume1wk": 0,
+    "volume1mo": 0,
+    "volume1yr": 0,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xe0ed19a565d1cb5c583128cdb23d72869af4a85c50358de4de88cce20e68b000",
+    "commentCount": 11,
+    "cyom": false,
+    "closedTime": "2025-04-01T10:38:23Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-02-23T14:44:29Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0055,
+  "oneHourPriceChange": 0,
+  "oneWeekPriceChange": 0,
+  "oneMonthPriceChange": 0,
+  "oneYearPriceChange": 0,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1740355204,
+   "p": 0.605
+  },
+  {
+   "t": 1740441604,
+   "p": 0.635
+  },
+  {
+   "t": 1740528005,
+   "p": 0.36
+  },
+  {
+   "t": 1740614405,
+   "p": 0.265
+  },
+  {
+   "t": 1740700805,
+   "p": 0.325
+  },
+  {
+   "t": 1740787205,
+   "p": 0.25
+  },
+  {
+   "t": 1740873605,
+   "p": 0.225
+  },
+  {
+   "t": 1740960005,
+   "p": 0.28
+  },
+  {
+   "t": 1741046405,
+   "p": 0.295
+  },
+  {
+   "t": 1741132804,
+   "p": 0.24
+  },
+  {
+   "t": 1741219205,
+   "p": 0.355
+  },
+  {
+   "t": 1741305605,
+   "p": 0.275
+  },
+  {
+   "t": 1741392005,
+   "p": 0.27
+  },
+  {
+   "t": 1741478405,
+   "p": 0.285
+  },
+  {
+   "t": 1741564804,
+   "p": 0.355
+  },
+  {
+   "t": 1741651205,
+   "p": 0.22
+  },
+  {
+   "t": 1741737605,
+   "p": 0.17
+  },
+  {
+   "t": 1741824006,
+   "p": 0.165
+  },
+  {
+   "t": 1741910405,
+   "p": 0.14
+  },
+  {
+   "t": 1741996804,
+   "p": 0.195
+  },
+  {
+   "t": 1742083204,
+   "p": 0.195
+  },
+  {
+   "t": 1742169604,
+   "p": 0.165
+  },
+  {
+   "t": 1742256005,
+   "p": 0.065
+  },
+  {
+   "t": 1742342405,
+   "p": 0.0675
+  },
+  {
+   "t": 1742428805,
+   "p": 0.0775
+  },
+  {
+   "t": 1742515205,
+   "p": 0.0745
+  },
+  {
+   "t": 1742601606,
+   "p": 0.068
+  },
+  {
+   "t": 1742688006,
+   "p": 0.0605
+  },
+  {
+   "t": 1742774405,
+   "p": 0.0565
+  },
+  {
+   "t": 1742860806,
+   "p": 0.0545
+  },
+  {
+   "t": 1742947205,
+   "p": 0.0445
+  },
+  {
+   "t": 1743033606,
+   "p": 0.0365
+  },
+  {
+   "t": 1743120006,
+   "p": 0.0315
+  },
+  {
+   "t": 1743206406,
+   "p": 0.034
+  },
+  {
+   "t": 1743292806,
+   "p": 0.0125
+  },
+  {
+   "t": 1743379205,
+   "p": 0.0265
+  },
+  {
+   "t": 1743465605,
+   "p": 0.0085
+  }
+ ]
+}

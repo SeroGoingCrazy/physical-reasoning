@@ -1,0 +1,223 @@
+{
+ "market": {
+  "id": "546435",
+  "question": "Will \"Oh, Mary!\" win the Tony for Best Play 2025?",
+  "conditionId": "0xe76f1452a91c19a6816f3fa1523f4eeb61f6dd1f4326cd5090eebbcdd09db09e",
+  "slug": "will-oh-mary-win-the-tony-for-best-play-2025",
+  "resolutionSource": "",
+  "endDate": "2025-06-08T12:00:00Z",
+  "startDate": "2025-05-21T20:40:33.686118Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tony-awards-best-play-1ACODSML7kK6.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tony-awards-best-play-1ACODSML7kK6.jpg",
+  "description": "The 78th Tony Awards are scheduled to be held on June 8, 2025, to recognize outstanding achievements in Broadway productions during the 2024\u201325 season. You can read more about that here: https://www.tonyawards.com/nominees/\n\nThis market will resolve according to the Play which wins the Tony for Best Play.\n\nIf for any reason no winner is declared by July 31, 2025, 11:59 PM ET, or in case of a tie for winner, this market will resolve in favor of the nominated film which comes first in alphabetical order, including any articles (e.g. \"The\" will be considered\").\n\nThe primary resolution source for this market will be official information from the Tony Awards, including data from their website (e.g. https://www.tonyawards.com/nominees/) and the live broadcast of the award ceremony, however a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "106965.671816",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-05-21T17:50:13.476001Z",
+  "updatedAt": "2025-06-10T08:24:34.433596Z",
+  "closedTime": "2025-06-09 04:45:18+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Oh, Mary!",
+  "groupItemThreshold": "3",
+  "questionID": "0x8a5b7faf20e4641c06337cc57327abc3ce5f519c95ac1e0f8cb901e75de2b003",
+  "umaEndDate": "2025-06-09T04:45:18Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 106965.671816,
+  "endDateIso": "2025-06-08",
+  "startDateIso": "2025-05-21",
+  "hasReviewedDates": true,
+  "volume1wk": 3587.9875740000007,
+  "volume1mo": 106965.671816,
+  "volume1yr": 106965.671816,
+  "clobTokenIds": "[\"110061611453197870929615248612659649024902321755230718607110254776934920287582\", \"57560686513292847270281557523309491534410299855917891924673453250114094165847\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 3587.9875740000007,
+  "volume1moClob": 106965.671816,
+  "volume1yrClob": 106965.671816,
+  "volumeClob": 106965.671816,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x8a5b7faf20e4641c06337cc57327abc3ce5f519c95ac1e0f8cb901e75de2b000",
+  "negRiskRequestID": "0x126737b8aa5c16ed6c739f9d8e92c9f691ad908f60901364abae27d15094885f",
+  "events": [
+   {
+    "id": "24952",
+    "ticker": "tony-awards-best-play",
+    "slug": "tony-awards-best-play",
+    "title": "Tony Awards: Best Play",
+    "description": "The 78th Tony Awards are scheduled to be held on June 8, 2025, to recognize outstanding achievements in Broadway productions during the 2024\u201325 season. You can read more about that here: https://www.tonyawards.com/nominees/\n\nThis market will resolve according to the Play which wins the Tony for Best Play.\n\nIf for any reason no winner is declared by July 31, 2025, 11:59 PM ET, or in case of a tie for winner, this market will resolve in favor of the nominated film which comes first in alphabetical order, including any articles (e.g. \"The\" will be considered\").\n\nThe primary resolution source for this market will be official information from the Tony Awards, including data from their website (e.g. https://www.tonyawards.com/nominees/) and the live broadcast of the award ceremony, however a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2025-05-21T20:42:26.326358Z",
+    "creationDate": "2025-05-21T20:42:26.326355Z",
+    "endDate": "2025-06-08T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tony-awards-best-play-1ACODSML7kK6.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tony-awards-best-play-1ACODSML7kK6.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 117119.417256,
+    "openInterest": 0,
+    "sortBy": "price",
+    "createdAt": "2025-05-21T17:50:08.769091Z",
+    "updatedAt": "2025-06-10T08:24:37.248268Z",
+    "volume1wk": 8923.095779000001,
+    "volume1mo": 117049.417256,
+    "volume1yr": 117049.417256,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x8a5b7faf20e4641c06337cc57327abc3ce5f519c95ac1e0f8cb901e75de2b000",
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2025-06-09T04:45:18Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-05-21T20:31:11.051298Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-05-21T20:40:03Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "24527",
+    "conditionId": "0xe76f1452a91c19a6816f3fa1523f4eeb61f6dd1f4326cd5090eebbcdd09db09e",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 5,
+    "startDate": "2025-05-22",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.5695,
+  "oneWeekPriceChange": -0.5195,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-05-21T20:31:49.216781Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1747872007,
+   "p": 0.75
+  },
+  {
+   "t": 1747958407,
+   "p": 0.775
+  },
+  {
+   "t": 1748044807,
+   "p": 0.68
+  },
+  {
+   "t": 1748131206,
+   "p": 0.72
+  },
+  {
+   "t": 1748217607,
+   "p": 0.735
+  },
+  {
+   "t": 1748304006,
+   "p": 0.725
+  },
+  {
+   "t": 1748390406,
+   "p": 0.64
+  },
+  {
+   "t": 1748476807,
+   "p": 0.725
+  },
+  {
+   "t": 1748563207,
+   "p": 0.7
+  },
+  {
+   "t": 1748649607,
+   "p": 0.695
+  },
+  {
+   "t": 1748736007,
+   "p": 0.62
+  },
+  {
+   "t": 1748822406,
+   "p": 0.515
+  },
+  {
+   "t": 1748908807,
+   "p": 0.58
+  },
+  {
+   "t": 1748995206,
+   "p": 0.495
+  },
+  {
+   "t": 1749081606,
+   "p": 0.575
+  },
+  {
+   "t": 1749168006,
+   "p": 0.58
+  },
+  {
+   "t": 1749254407,
+   "p": 0.55
+  },
+  {
+   "t": 1749340807,
+   "p": 0.57
+  },
+  {
+   "t": 1749427207,
+   "p": 0.685
+  }
+ ]
+}

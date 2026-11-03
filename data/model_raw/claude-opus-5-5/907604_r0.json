@@ -1,0 +1,27 @@
+{
+ "id": "907604",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.45,
+ "reasoning": "Governor Mark Gordon is term-limited, which leaves an open Republican primary decided by plurality with no runoff. Megan Degenfelder, the statewide-elected Superintendent of Public Instruction, is one of the most prominent declared candidates. She has statewide name recognition, fundraising capacity and credible conservative credentials. Her rivals include Brent Bien, a Freedom Caucus-aligned candidate who took about 30% against Gordon in 2022, and Eric Barlow, the more moderate former House Speaker. Others, such as Chuck Gray, could still enter. A split field could favor her, but a high-profile entrant (such as Hageman, depending on the Senate situation) or a Trump endorsement of a rival could change the race. I'd treat her as a modest favorite.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 684,
+  "output_tokens": 867,
+  "output_tokens_details": {
+   "thinking_tokens": 586
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.020076
+}

@@ -1,0 +1,317 @@
+{
+ "market": {
+  "id": "2470848",
+  "question": "Will Trump be in the WC Champions Photo?",
+  "conditionId": "0xc0b7319f73f248310b059c231fb069e64dbd68ca81dd9933728ca192b54c3cc4",
+  "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021",
+  "resolutionSource": "",
+  "endDate": "2026-07-20T03:59:00Z",
+  "startDate": "2026-06-08T15:30:27.90057Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-be-in-the-wc-champions-photo-20260608152527021-eJaeDFLpXz06.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-be-in-the-wc-champions-photo-20260608152527021-eJaeDFLpXz06.jpg",
+  "description": "This market will resolve to \u201cYes\u201d if Donald Trump is visibly in the frame for the winning team's official team photo following the 2026 FIFA World Cup Final. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf Trump does not attend the 2026 FIFA World Cup Final, this market will resolve to \u201cNo\u201d.\n\nIf the 2026 FIFA World Cup Final is cancelled or postponed beyond August 2, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "26990137.74792806",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-08T15:28:21.880145Z",
+  "updatedAt": "2026-07-25T00:35:13.22032Z",
+  "closedTime": "2026-07-24 00:32:15+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "questionID": "0xa8a5137a993fdbd86b3b06871046dd4307bf3518c58db68fcc5479103da3d260",
+  "umaEndDate": "2026-07-24T00:32:15Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 26990137.74792806,
+  "endDateIso": "2026-07-20",
+  "startDateIso": "2026-06-08",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"64778757908501179476331390591326653229579537200061619395979045269181713848562\", \"69222761152567422456550754954182616722608546823277879350969354961713727175064\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 26990137.74792806,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "572993",
+    "ticker": "will-trump-be-in-the-wc-champions-photo-20260608152527021",
+    "slug": "will-trump-be-in-the-wc-champions-photo-20260608152527021",
+    "title": "Will Trump be in the WC Champions Photo?",
+    "description": "This market will resolve to \u201cYes\u201d if Donald Trump is visibly in the frame for the winning team's official team photo following the 2026 FIFA World Cup Final. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf Trump does not attend the 2026 FIFA World Cup Final, this market will resolve to \u201cNo\u201d.\n\nIf the 2026 FIFA World Cup Final is cancelled or postponed beyond August 2, 2026, 11:59 PM ET, this market will resolve to \u201cNo\u201d.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2026-06-08T15:30:27.90057Z",
+    "creationDate": "2026-06-08T15:44:12.067885Z",
+    "endDate": "2026-07-20T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-be-in-the-wc-champions-photo-20260608152527021-eJaeDFLpXz06.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-be-in-the-wc-champions-photo-20260608152527021-eJaeDFLpXz06.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 26990137.74792806,
+    "openInterest": 21651200.609973,
+    "sortBy": "ascending",
+    "createdAt": "2026-06-08T15:28:21.395961Z",
+    "updatedAt": "2026-08-13T19:34:06.242172Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 1338,
+    "cyom": false,
+    "closedTime": "2026-07-24T00:32:15Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-08T15:29:39Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneWeekPriceChange": 0.2945,
+  "oneMonthPriceChange": 0.2995,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\", \"disputed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-08T15:28:39.860098Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "sports_fees_v2",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.03,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1780963203,
+   "p": 0.23
+  },
+  {
+   "t": 1781049604,
+   "p": 0.3
+  },
+  {
+   "t": 1781136005,
+   "p": 0.35
+  },
+  {
+   "t": 1781222404,
+   "p": 0.27
+  },
+  {
+   "t": 1781308804,
+   "p": 0.21
+  },
+  {
+   "t": 1781395207,
+   "p": 0.21
+  },
+  {
+   "t": 1781481603,
+   "p": 0.205
+  },
+  {
+   "t": 1781568006,
+   "p": 0.515
+  },
+  {
+   "t": 1781654405,
+   "p": 0.505
+  },
+  {
+   "t": 1781740816,
+   "p": 0.545
+  },
+  {
+   "t": 1781827221,
+   "p": 0.505
+  },
+  {
+   "t": 1781913604,
+   "p": 0.54
+  },
+  {
+   "t": 1782000006,
+   "p": 0.505
+  },
+  {
+   "t": 1782086405,
+   "p": 0.56
+  },
+  {
+   "t": 1782172804,
+   "p": 0.565
+  },
+  {
+   "t": 1782259204,
+   "p": 0.635
+  },
+  {
+   "t": 1782345604,
+   "p": 0.615
+  },
+  {
+   "t": 1782432003,
+   "p": 0.545
+  },
+  {
+   "t": 1782518404,
+   "p": 0.45
+  },
+  {
+   "t": 1782604804,
+   "p": 0.5
+  },
+  {
+   "t": 1782691203,
+   "p": 0.53
+  },
+  {
+   "t": 1782777604,
+   "p": 0.53
+  },
+  {
+   "t": 1782864003,
+   "p": 0.52
+  },
+  {
+   "t": 1782950404,
+   "p": 0.54
+  },
+  {
+   "t": 1783036804,
+   "p": 0.51
+  },
+  {
+   "t": 1783123203,
+   "p": 0.455
+  },
+  {
+   "t": 1783209603,
+   "p": 0.545
+  },
+  {
+   "t": 1783296004,
+   "p": 0.58
+  },
+  {
+   "t": 1783382408,
+   "p": 0.635
+  },
+  {
+   "t": 1783468804,
+   "p": 0.67
+  },
+  {
+   "t": 1783555208,
+   "p": 0.645
+  },
+  {
+   "t": 1783641605,
+   "p": 0.615
+  },
+  {
+   "t": 1783728006,
+   "p": 0.59
+  },
+  {
+   "t": 1783814418,
+   "p": 0.635
+  },
+  {
+   "t": 1783900806,
+   "p": 0.705
+  },
+  {
+   "t": 1783987205,
+   "p": 0.695
+  },
+  {
+   "t": 1784073605,
+   "p": 0.695
+  },
+  {
+   "t": 1784160004,
+   "p": 0.665
+  },
+  {
+   "t": 1784246406,
+   "p": 0.705
+  },
+  {
+   "t": 1784332804,
+   "p": 0.705
+  },
+  {
+   "t": 1784419205,
+   "p": 0.625
+  },
+  {
+   "t": 1784505618,
+   "p": 0.9745
+  },
+  {
+   "t": 1784592006,
+   "p": 0.996
+  },
+  {
+   "t": 1784678405,
+   "p": 0.9985
+  },
+  {
+   "t": 1784764807,
+   "p": 0.9985
+  },
+  {
+   "t": 1784851205,
+   "p": 0.9995
+  }
+ ]
+}

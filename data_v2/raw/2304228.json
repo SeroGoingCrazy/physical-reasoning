@@ -1,0 +1,629 @@
+{
+ "market": {
+  "id": "2304228",
+  "question": "Will the Sweden Democrats (SD) win the second most seats in the 2026 Swedish parliamentary election?",
+  "conditionId": "0x9e2966ab58d8cd6efaccfd92b2d7c518ff6c4318e8bcd3032fef68c8254d102a",
+  "slug": "will-the-sweden-democrats-sd-win-the-second-most-seats-in-the-2026-swedish-parliamentary-election",
+  "resolutionSource": "https://www.val.se/",
+  "endDate": "2026-09-13T00:00:00Z",
+  "startDate": "2026-05-19T20:47:59.832844Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-sd-12ce448e0c.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/se-sd-12ce448e0c.png",
+  "description": "Parliamentary elections are scheduled to be held in Sweden on September 13, 2026.\n\nThis market will resolve according to the political party that wins the second-greatest number of seats in the Swedish Parliament (Riksdag) in this election.\n\nIf voting in the Swedish parliamentary election does not occur by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe named parties or coalitions will be primarily ranked by the number of seats won in the specified election. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party abbreviations. This market will resolve to the party that occupies the second finishing position after applying this ranking.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Swedish government, specifically the Swedish Election Authority (Valmyndigheten) (https://www.val.se/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "308770.27770599985",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-05-19T18:02:32.432802Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-09-17 11:17:22+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Sweden Democrats (SD)",
+  "groupItemThreshold": "1",
+  "questionID": "0x37df24e875870e89a6ecae7a1a19323c48c738ab44997219a4149cf4d4a31501",
+  "umaEndDate": "2026-09-17T11:17:22Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 308770.27770599985,
+  "endDateIso": "2026-09-13",
+  "startDateIso": "2026-05-19",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"49208719549935438660034858287759012465900558517159395254556531239968960380856\", \"95399383497358388248317453494851248345032800460278500312760007407055588997168\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 308770.27770599985,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x37df24e875870e89a6ecae7a1a19323c48c738ab44997219a4149cf4d4a31500",
+  "negRiskRequestID": "0xdfd7f85eaded5b4348d55b36e5c2739df05bc65fd4c86992c5844ab7831fc2b8",
+  "events": [
+   {
+    "id": "502873",
+    "ticker": "sweden-parliamentary-election-2nd-place",
+    "slug": "sweden-parliamentary-election-2nd-place",
+    "title": "Sweden Parliamentary Election: 2nd Place",
+    "description": "Parliamentary elections are scheduled to be held in Sweden on September 13, 2026.\n\nThis market will resolve according to the political party that wins the second-greatest number of seats in the Swedish Parliament (Riksdag) in this election.\n\nIf voting in the Swedish parliamentary election does not occur by December 31, 2026, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe named parties or coalitions will be primarily ranked by the number of seats won in the specified election. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party abbreviations. This market will resolve to the party that occupies the second finishing position after applying this ranking.\n\nThis market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Swedish government, specifically the Swedish Election Authority (Valmyndigheten) (https://www.val.se/).",
+    "resolutionSource": "",
+    "startDate": "2026-05-19T20:47:58.84756Z",
+    "creationDate": "2026-05-19T20:52:15.769367Z",
+    "endDate": "2026-09-13T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sweden-parliamentary-election-winner-IocfiwWAt86R.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/sweden-parliamentary-election-winner-IocfiwWAt86R.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 0,
+    "volume": 574059.805967,
+    "openInterest": 172700.929935,
+    "createdAt": "2026-05-19T18:02:31.707503Z",
+    "updatedAt": "2026-09-28T20:09:19.773657Z",
+    "competitive": 0,
+    "enableOrderBook": true,
+    "liquidityAmm": 0,
+    "liquidityClob": 0,
+    "negRisk": true,
+    "negRiskMarketID": "0x37df24e875870e89a6ecae7a1a19323c48c738ab44997219a4149cf4d4a31500",
+    "commentCount": 1,
+    "cyom": false,
+    "closedTime": "2026-09-28T20:08:18Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-09-13T17:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-05-19T20:44:19.509817Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-05-19T20:46:50Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 5.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0015,
+  "oneWeekPriceChange": -0.8145,
+  "oneMonthPriceChange": -0.7445,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-05-19T20:45:34.206184Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1779235208,
+   "p": 0.68
+  },
+  {
+   "t": 1779321605,
+   "p": 0.685
+  },
+  {
+   "t": 1779408009,
+   "p": 0.69
+  },
+  {
+   "t": 1779494406,
+   "p": 0.695
+  },
+  {
+   "t": 1779580804,
+   "p": 0.695
+  },
+  {
+   "t": 1779667204,
+   "p": 0.72
+  },
+  {
+   "t": 1779753604,
+   "p": 0.695
+  },
+  {
+   "t": 1779840005,
+   "p": 0.695
+  },
+  {
+   "t": 1779926405,
+   "p": 0.485
+  },
+  {
+   "t": 1780012807,
+   "p": 0.5
+  },
+  {
+   "t": 1780099218,
+   "p": 0.465
+  },
+  {
+   "t": 1780185607,
+   "p": 0.5
+  },
+  {
+   "t": 1780272003,
+   "p": 0.5
+  },
+  {
+   "t": 1780358405,
+   "p": 0.51
+  },
+  {
+   "t": 1780444805,
+   "p": 0.51
+  },
+  {
+   "t": 1780531203,
+   "p": 0.52
+  },
+  {
+   "t": 1780617618,
+   "p": 0.515
+  },
+  {
+   "t": 1780704003,
+   "p": 0.55
+  },
+  {
+   "t": 1780790413,
+   "p": 0.54
+  },
+  {
+   "t": 1780876803,
+   "p": 0.545
+  },
+  {
+   "t": 1780963203,
+   "p": 0.595
+  },
+  {
+   "t": 1781049604,
+   "p": 0.595
+  },
+  {
+   "t": 1781136005,
+   "p": 0.62
+  },
+  {
+   "t": 1781222404,
+   "p": 0.47
+  },
+  {
+   "t": 1781308804,
+   "p": 0.51
+  },
+  {
+   "t": 1781395207,
+   "p": 0.525
+  },
+  {
+   "t": 1781481603,
+   "p": 0.555
+  },
+  {
+   "t": 1781568006,
+   "p": 0.625
+  },
+  {
+   "t": 1781654405,
+   "p": 0.635
+  },
+  {
+   "t": 1781740816,
+   "p": 0.635
+  },
+  {
+   "t": 1781827221,
+   "p": 0.645
+  },
+  {
+   "t": 1781913604,
+   "p": 0.67
+  },
+  {
+   "t": 1782000006,
+   "p": 0.67
+  },
+  {
+   "t": 1782086405,
+   "p": 0.675
+  },
+  {
+   "t": 1782172804,
+   "p": 0.68
+  },
+  {
+   "t": 1782259204,
+   "p": 0.68
+  },
+  {
+   "t": 1782345604,
+   "p": 0.685
+  },
+  {
+   "t": 1782432003,
+   "p": 0.7
+  },
+  {
+   "t": 1782518404,
+   "p": 0.71
+  },
+  {
+   "t": 1782604804,
+   "p": 0.705
+  },
+  {
+   "t": 1782691203,
+   "p": 0.705
+  },
+  {
+   "t": 1782777604,
+   "p": 0.715
+  },
+  {
+   "t": 1782864003,
+   "p": 0.765
+  },
+  {
+   "t": 1782950404,
+   "p": 0.78
+  },
+  {
+   "t": 1783036804,
+   "p": 0.79
+  },
+  {
+   "t": 1783123203,
+   "p": 0.81
+  },
+  {
+   "t": 1783209603,
+   "p": 0.805
+  },
+  {
+   "t": 1783296004,
+   "p": 0.805
+  },
+  {
+   "t": 1783382408,
+   "p": 0.795
+  },
+  {
+   "t": 1783468804,
+   "p": 0.8
+  },
+  {
+   "t": 1783555208,
+   "p": 0.805
+  },
+  {
+   "t": 1783641605,
+   "p": 0.805
+  },
+  {
+   "t": 1783728006,
+   "p": 0.805
+  },
+  {
+   "t": 1783814418,
+   "p": 0.805
+  },
+  {
+   "t": 1783900805,
+   "p": 0.805
+  },
+  {
+   "t": 1783987205,
+   "p": 0.805
+  },
+  {
+   "t": 1784073605,
+   "p": 0.8
+  },
+  {
+   "t": 1784160004,
+   "p": 0.8
+  },
+  {
+   "t": 1784246406,
+   "p": 0.805
+  },
+  {
+   "t": 1784332804,
+   "p": 0.805
+  },
+  {
+   "t": 1784419205,
+   "p": 0.805
+  },
+  {
+   "t": 1784505622,
+   "p": 0.805
+  },
+  {
+   "t": 1784592009,
+   "p": 0.805
+  },
+  {
+   "t": 1784678407,
+   "p": 0.805
+  },
+  {
+   "t": 1784764812,
+   "p": 0.805
+  },
+  {
+   "t": 1784851210,
+   "p": 0.805
+  },
+  {
+   "t": 1784937610,
+   "p": 0.805
+  },
+  {
+   "t": 1785024011,
+   "p": 0.805
+  },
+  {
+   "t": 1785110413,
+   "p": 0.805
+  },
+  {
+   "t": 1785196816,
+   "p": 0.805
+  },
+  {
+   "t": 1785283236,
+   "p": 0.805
+  },
+  {
+   "t": 1785369623,
+   "p": 0.805
+  },
+  {
+   "t": 1785456020,
+   "p": 0.81
+  },
+  {
+   "t": 1785542412,
+   "p": 0.82
+  },
+  {
+   "t": 1785628812,
+   "p": 0.82
+  },
+  {
+   "t": 1785715210,
+   "p": 0.825
+  },
+  {
+   "t": 1785801611,
+   "p": 0.845
+  },
+  {
+   "t": 1785888012,
+   "p": 0.845
+  },
+  {
+   "t": 1785974410,
+   "p": 0.85
+  },
+  {
+   "t": 1786060811,
+   "p": 0.845
+  },
+  {
+   "t": 1786147214,
+   "p": 0.845
+  },
+  {
+   "t": 1786233624,
+   "p": 0.845
+  },
+  {
+   "t": 1786320016,
+   "p": 0.845
+  },
+  {
+   "t": 1786406420,
+   "p": 0.845
+  },
+  {
+   "t": 1786492813,
+   "p": 0.845
+  },
+  {
+   "t": 1786579217,
+   "p": 0.845
+  },
+  {
+   "t": 1786665616,
+   "p": 0.84
+  },
+  {
+   "t": 1786752015,
+   "p": 0.835
+  },
+  {
+   "t": 1786838416,
+   "p": 0.805
+  },
+  {
+   "t": 1786924817,
+   "p": 0.835
+  },
+  {
+   "t": 1787011227,
+   "p": 0.745
+  },
+  {
+   "t": 1787097617,
+   "p": 0.775
+  },
+  {
+   "t": 1787184020,
+   "p": 0.72
+  },
+  {
+   "t": 1787270417,
+   "p": 0.72
+  },
+  {
+   "t": 1787356816,
+   "p": 0.73
+  },
+  {
+   "t": 1787443215,
+   "p": 0.705
+  },
+  {
+   "t": 1787529618,
+   "p": 0.705
+  },
+  {
+   "t": 1787616016,
+   "p": 0.74
+  },
+  {
+   "t": 1787702417,
+   "p": 0.74
+  },
+  {
+   "t": 1787788818,
+   "p": 0.68
+  },
+  {
+   "t": 1787875217,
+   "p": 0.665
+  },
+  {
+   "t": 1787961618,
+   "p": 0.675
+  },
+  {
+   "t": 1788048017,
+   "p": 0.675
+  },
+  {
+   "t": 1788134418,
+   "p": 0.675
+  },
+  {
+   "t": 1788220828,
+   "p": 0.68
+  },
+  {
+   "t": 1788307216,
+   "p": 0.67
+  },
+  {
+   "t": 1788393620,
+   "p": 0.75
+  },
+  {
+   "t": 1788480017,
+   "p": 0.775
+  },
+  {
+   "t": 1788566416,
+   "p": 0.815
+  },
+  {
+   "t": 1788652822,
+   "p": 0.815
+  },
+  {
+   "t": 1788739231,
+   "p": 0.805
+  },
+  {
+   "t": 1788825615,
+   "p": 0.775
+  },
+  {
+   "t": 1788912022,
+   "p": 0.795
+  },
+  {
+   "t": 1788998417,
+   "p": 0.835
+  },
+  {
+   "t": 1789084818,
+   "p": 0.805
+  },
+  {
+   "t": 1789171218,
+   "p": 0.755
+  },
+  {
+   "t": 1789257617,
+   "p": 0.765
+  },
+  {
+   "t": 1789344015,
+   "p": 0.0045
+  },
+  {
+   "t": 1789430414,
+   "p": 0.0005
+  },
+  {
+   "t": 1789516815,
+   "p": 0.0005
+  },
+  {
+   "t": 1789603216,
+   "p": 0.0005
+  }
+ ]
+}

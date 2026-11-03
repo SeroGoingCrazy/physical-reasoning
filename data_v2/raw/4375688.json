@@ -1,0 +1,316 @@
+{
+ "market": {
+  "id": "4375688",
+  "question": "Will Fatima Ezzahra El Mansouri be the next Prime Minister of Morocco?",
+  "conditionId": "0x11130ce28b201adc5b7dba300e07a491a820fefc905efec0f37d6d5ef0407cf8",
+  "slug": "will-fatima-ezzahra-el-mansouri-be-the-next-prime-minister-of-morocco",
+  "resolutionSource": "",
+  "endDate": "2027-07-31T23:59:00Z",
+  "startDate": "2026-09-08T18:43:09Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ma26-fatima-ezzahra-el-mansouri-bc3ded736d.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ma26-fatima-ezzahra-el-mansouri-bc3ded736d.jpg",
+  "description": "Legislative elections to elect the House of Representatives of Morocco are scheduled to take place on September 23, 2026.\n\nThis market will resolve to the next individual who assumes the office of Prime Minister (Head of Government) of Morocco, and whose government wins investiture from the House of Representatives in a vote of confidence, following the 2026 Moroccan legislative elections.\n\nTo count for resolution, the government led by the individual must win investiture from the House of Representatives in a vote of confidence. Any interim, caretaker, or non-invested Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by July 31, 2027, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the Government of Morocco; however, a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "26122.273187",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-09-08T18:42:17.930695Z",
+  "updatedAt": "2026-10-23T20:50:54.3748Z",
+  "closedTime": "2026-10-22 22:49:21+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Fatima Ezzahra El Mansouri",
+  "groupItemThreshold": "2",
+  "questionID": "0x5f3fe45b313ca5673dddae2ad777a240b8675c53bedfc387198883b70541f502",
+  "umaEndDate": "2026-10-22 22:49:21+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 26122.273187,
+  "endDateIso": "2027-07-31",
+  "startDateIso": "2026-09-08",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"55038538208063380152514410200190118938220490612291185572611039346832662670642\", \"107419817813198768342630433892893243757451043337313690303633287968136575583024\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "3.5",
+  "volumeClob": 26122.273187,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x5f3fe45b313ca5673dddae2ad777a240b8675c53bedfc387198883b70541f500",
+  "negRiskRequestID": "0x8caf8cb2992ed71dc6b47eadccca7e4fe99e00e191499ce7cec779f8f4ca8d85",
+  "events": [
+   {
+    "id": "989726",
+    "ticker": "next-prime-minister-of-morocco-invested",
+    "slug": "next-prime-minister-of-morocco-invested",
+    "title": "Next Prime Minister of Morocco? (Invested)",
+    "description": "Legislative elections to elect the House of Representatives of Morocco are scheduled to take place on September 23, 2026.\n\nThis market will resolve to the next individual who assumes the office of Prime Minister (Head of Government) of Morocco, and whose government wins investiture from the House of Representatives in a vote of confidence, following the 2026 Moroccan legislative elections.\n\nTo count for resolution, the government led by the individual must win investiture from the House of Representatives in a vote of confidence. Any interim, caretaker, or non-invested Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by July 31, 2027, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the Government of Morocco; however, a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2026-09-08T18:43:09Z",
+    "creationDate": "2026-09-08T18:44:32.153383Z",
+    "endDate": "2027-07-31T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/morocco-legislative-elections-party-winner-20260728174826232-uBt3Fbi3YvNK.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/morocco-legislative-elections-party-winner-20260728174826232-uBt3Fbi3YvNK.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 45975.083897000004,
+    "openInterest": 11285.886947,
+    "sortBy": "price",
+    "createdAt": "2026-09-08T18:42:16.560835Z",
+    "updatedAt": "2026-10-23T20:53:06.845551Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x5f3fe45b313ca5673dddae2ad777a240b8675c53bedfc387198883b70541f500",
+    "commentCount": 6,
+    "cyom": false,
+    "closedTime": "2026-10-22T22:53:18Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": false,
+    "startTime": "2026-09-23T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Morocco",
+    "electionType": "Prime Minister",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-09-08T18:42:40.427515Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-09-08T18:43:09Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 8.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0345,
+  "oneWeekPriceChange": 0.045,
+  "oneMonthPriceChange": 0.448,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-09-08T18:42:40.467696Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1788912018,
+   "p": 0.245
+  },
+  {
+   "t": 1788998414,
+   "p": 0.05
+  },
+  {
+   "t": 1789084814,
+   "p": 0.08
+  },
+  {
+   "t": 1789171214,
+   "p": 0.0335
+  },
+  {
+   "t": 1789257613,
+   "p": 0.0235
+  },
+  {
+   "t": 1789344012,
+   "p": 0.0485
+  },
+  {
+   "t": 1789430412,
+   "p": 0.0405
+  },
+  {
+   "t": 1789516813,
+   "p": 0.275
+  },
+  {
+   "t": 1789603212,
+   "p": 0.275
+  },
+  {
+   "t": 1789689615,
+   "p": 0.275
+  },
+  {
+   "t": 1789776015,
+   "p": 0.275
+  },
+  {
+   "t": 1789862415,
+   "p": 0.275
+  },
+  {
+   "t": 1789948812,
+   "p": 0.544
+  },
+  {
+   "t": 1790035213,
+   "p": 0.6115
+  },
+  {
+   "t": 1790121613,
+   "p": 0.5515
+  },
+  {
+   "t": 1790208025,
+   "p": 0.392
+  },
+  {
+   "t": 1790294416,
+   "p": 0.722
+  },
+  {
+   "t": 1790380815,
+   "p": 0.769
+  },
+  {
+   "t": 1790467214,
+   "p": 0.7805
+  },
+  {
+   "t": 1790553628,
+   "p": 0.7815
+  },
+  {
+   "t": 1790640015,
+   "p": 0.671
+  },
+  {
+   "t": 1790726416,
+   "p": 0.9595
+  },
+  {
+   "t": 1790812817,
+   "p": 0.94
+  },
+  {
+   "t": 1790899215,
+   "p": 0.9405
+  },
+  {
+   "t": 1790985619,
+   "p": 0.951
+  },
+  {
+   "t": 1791072016,
+   "p": 0.955
+  },
+  {
+   "t": 1791158418,
+   "p": 0.9455
+  },
+  {
+   "t": 1791244817,
+   "p": 0.9445
+  },
+  {
+   "t": 1791331219,
+   "p": 0.9475
+  },
+  {
+   "t": 1791417621,
+   "p": 0.9515
+  },
+  {
+   "t": 1791504020,
+   "p": 0.945
+  },
+  {
+   "t": 1791590419,
+   "p": 0.9435
+  },
+  {
+   "t": 1791676822,
+   "p": 0.936
+  },
+  {
+   "t": 1791763233,
+   "p": 0.946
+  },
+  {
+   "t": 1791849624,
+   "p": 0.945
+  },
+  {
+   "t": 1791936021,
+   "p": 0.9445
+  },
+  {
+   "t": 1792022436,
+   "p": 0.9465
+  },
+  {
+   "t": 1792108821,
+   "p": 0.9545
+  },
+  {
+   "t": 1792195226,
+   "p": 0.9605
+  },
+  {
+   "t": 1792281647,
+   "p": 0.955
+  },
+  {
+   "t": 1792368019,
+   "p": 0.964
+  },
+  {
+   "t": 1792454419,
+   "p": 0.9645
+  },
+  {
+   "t": 1792540820,
+   "p": 0.9595
+  }
+ ]
+}

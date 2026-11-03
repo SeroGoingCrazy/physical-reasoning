@@ -1,0 +1,27 @@
+{
+ "id": "5167103",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.3,
+ "reasoning": "Anthropic's Haiku cadence has been slow: Haiku 3 in March 2024, 3.5 in October 2024, and 4.5 in October 2025. A new Haiku (4.6 or later) by June 2027 is plausible but not certain; I estimate about 60\u201365%. Arena scores drift upward over time, and a 2027 Haiku would likely land well above Haiku 4.5. However, Claude models tend to score lower on the no-style-control board, and small models typically sit roughly 60\u2013100 points below the frontier. My recollection of specific Arena scores is uncertain, but with frontier models around the high 1400s to 1500s by mid-2027, 1440 for a Haiku looks roughly a coin flip given a release. Combining the two gives about 0.3.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1479,
+  "output_tokens": 894,
+  "output_tokens_details": {
+   "thinking_tokens": 620
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.023796
+}

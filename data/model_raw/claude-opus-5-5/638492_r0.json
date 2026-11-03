@@ -1,0 +1,27 @@
+{
+ "id": 638492,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.3,
+ "reasoning": "edgeX, the Amber Group-incubated perp DEX, has run a points program and has hinted at a token, while competitors (Aster, Lighter) pushed perp DEX token launches in late 2025. But as of mid-October 2025 I know of no firm public TGE date for edgeX, and many points-program projects slip their launches into the following year. I have a vague recollection that edgeX's TGE was pointed toward 2026, though I'm not confident. With only about 2.5 months left and no confirmed date, a launch in 2025 is possible but less likely than not.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 636,
+  "output_tokens": 537,
+  "output_tokens_details": {
+   "thinking_tokens": 337
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.013284
+}

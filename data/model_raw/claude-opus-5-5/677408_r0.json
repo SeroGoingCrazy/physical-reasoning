@@ -1,0 +1,27 @@
+{
+ "id": 677408,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.15,
+ "reasoning": "Most China\u2013Philippines confrontations involve the China Coast Guard and maritime militia against the Philippine Coast Guard or BFAR vessels. The Philippine Coast Guard does not count as military under these criteria, so many incidents would not qualify. The clearest qualifying precedent is the June 2024 Second Thomas Shoal incident, where the CCG boarded Philippine Navy boats with bladed weapons and a sailor was injured. Since the July 2024 provisional resupply arrangement, Ayungin resupply missions have been calmer. As far as I know, no qualifying incident occurred in 2025, and similar markets for 2025 appeared headed to No. Tensions at Scarborough Shoal (China's 2025 'nature reserve' declaration) and possible Philippine Navy involvement create some risk over roughly 14 months. Resolution ambiguity, such as how water cannon use against Navy ships is treated, adds some upside. I estimate around 15%.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 852,
+  "output_tokens": 916,
+  "output_tokens_details": {
+   "thinking_tokens": 577
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.021728
+}

@@ -1,0 +1,515 @@
+{
+ "market": {
+  "id": "2646914",
+  "question": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?",
+  "conditionId": "0xc4ebab9f2830f6df67ab1b98615d5a9be8eebd106fd0f37e9a25e4a4edcc427c",
+  "slug": "will-no-qualifying-diplomatic-us-iran-meeting-occur-by-september-30-2026-20260622185050763",
+  "resolutionSource": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks",
+  "endDate": "2026-10-01T03:59:00Z",
+  "startDate": "2026-06-23T02:49:53.408743Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+  "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "1641762.3411069992",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-23T02:46:22.152126Z",
+  "updatedAt": "2026-10-07T20:08:36.798727Z",
+  "closedTime": "2026-09-22 21:22:15+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "No Meeting by September 30",
+  "groupItemThreshold": "0",
+  "questionID": "0x447f0bc59f46826a48dcf0cc15bf0c68b7ee8bb104d08e2d5a3cfd7ce7427b00",
+  "umaEndDate": "2026-09-22T21:22:15Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 1641762.3411069992,
+  "endDateIso": "2026-10-01",
+  "startDateIso": "2026-06-23",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"10618696958805388450273982806566275602086720395274264354492776873006123003601\", \"101196087194368016189458797815389873667514776317865121691440084473605225222305\"]",
+  "positionIds": [
+   "1229605091726356262646368136065220827498134399561709832566472829768453586944",
+   "1229605091726356262646368136065220827498134399561709832566472829768453586945"
+  ],
+  "comboStatus": "pending",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 1641762.3411069992,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x447f0bc59f46826a48dcf0cc15bf0c68b7ee8bb104d08e2d5a3cfd7ce7427b00",
+  "negRiskRequestID": "0x81eadc2a654165b918129ba51ba2c33c2f1a44f60192079a8836a392923f2e62",
+  "events": [
+   {
+    "id": "624242",
+    "ticker": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+    "slug": "where-will-the-next-next-round-of-us-iran-peace-talks-beptptpt-20260623023740663",
+    "title": "Where will the next next round of US-Iran peace talks be...?",
+    "description": "On June 22, the first round of U.S.-Iran diplomatic talks in Switzerland concluded, with mediators reporting progress toward a roadmap for a final deal and follow-on technical talks expected to continue (see: https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks).\n\nThis market will resolve according to the country in which the next formal senior-level round of peace talks between representatives of the United States and Iran begins by September 30, 2026, 11:59 PM ET.\n\nA qualifying round must be a deliberate in-person diplomatic meeting or negotiating round concerning US-Iran relations, involving senior representatives of both the United States and Iran who are acting in an official capacity and are authorized to conduct or materially direct diplomacy on behalf of their governments.\n\nIndirect in-person diplomacy through designated mediators, facilitators, or interlocutors will qualify, provided senior representatives of both the United States and Iran are participating in the same formal diplomatic process with the knowledge and authorization of their respective governments. The representatives need not be in the same room at the same time.\n\nFollow-on technical talks from the June 22 Switzerland round will not qualify by themselves. Technical, staff-level, working-group, implementation, monitoring, preparatory, or deconfliction meetings will not qualify unless they occur as part of a new formally convened senior-level U.S.-Iran peace-talks round.\n\nBrief greetings, chance encounters, photo opportunities, ceremonial appearances, or talks not deliberately aimed at diplomacy or negotiation will not count.\n\nThe meeting must be in-person (including indirect in-person meetings) and must be publicly acknowledged by either government or reported by a consensus of credible media. Remote meetings, phone calls, or other meetings where the relevant parties are not present will not count.\n\nIf a qualifying round occurs in more than one country, resolution will be based on the country where the first qualifying senior-level diplomatic session begins.\n\nIf the next qualifying round begins in any country in the Middle East or North Africa other than the listed options, this market will resolve to \u201cOther - Middle East/North Africa.\u201d\n\nIf the next qualifying round begins in any country in Europe other than the listed options, this market will resolve to \u201cOther - Europe.\u201d\n\nFor purposes of this market, countries\u2019 regions will be determined based on the U.S. State Department\u2019s regional classifications in the \u201cCountries and Areas List\u201d (https://www.state.gov/countries-and-areas-list). Any country classified as part of \u201cEurope and Eurasia\u201d will be considered to be in Europe. Any country classified as part of \u201cNear East (Middle East and North Africa)\u201d will be considered to be in the Middle East/North Africa.\n\nIf the next qualifying round begins in any unlisted country that is not classified in either specified region, this market will resolve to \u201cOther.\u201d\n\nIf no qualifying round begins by September 30, 2026, 11:59 PM ET, this market will resolve to \u201cNo Meeting by September 30.\u201d\n\nThe resolution sources for this market will be official information from the governments of the United States and Iran, and a consensus of credible reporting.\n",
+    "resolutionSource": "",
+    "startDate": "2026-06-23T02:49:53.408743Z",
+    "creationDate": "2026-06-23T02:52:22.424531Z",
+    "endDate": "2026-10-01T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-iran-meeting-by-9btZGbUg-ikA.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 6915518.983661999,
+    "openInterest": 21812.621474000003,
+    "sortBy": "price",
+    "createdAt": "2026-06-23T02:46:21.202664Z",
+    "updatedAt": "2026-09-23T23:49:01.646259Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x447f0bc59f46826a48dcf0cc15bf0c68b7ee8bb104d08e2d5a3cfd7ce7427b00",
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11523",
+      "ticker": "where-us-iran-meeting",
+      "slug": "where-us-iran-meeting",
+      "title": "where US-Iran meeting",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-04-12T18:57:52.177967Z",
+      "updatedAt": "2026-10-30T02:55:19.142047Z",
+      "volume24hr": 7565.787846,
+      "volume": 198673.31435200002,
+      "liquidity": 266118.53099,
+      "commentCount": 463
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-09-23T00:51:11Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "seriesSlug": "where-us-iran-meeting",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-06-23T02:46:51.474723Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-23T02:48:52Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.8435,
+  "oneHourPriceChange": -0.002,
+  "oneWeekPriceChange": -0.925,
+  "oneMonthPriceChange": -0.7475,
+  "lastTradePrice": 0.002,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-23T02:47:55.666727Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1782259212,
+   "p": 0.0355
+  },
+  {
+   "t": 1782345620,
+   "p": 0.0565
+  },
+  {
+   "t": 1782432011,
+   "p": 0.034
+  },
+  {
+   "t": 1782518413,
+   "p": 0.061
+  },
+  {
+   "t": 1782604810,
+   "p": 0.0915
+  },
+  {
+   "t": 1782691210,
+   "p": 0.098
+  },
+  {
+   "t": 1782777611,
+   "p": 0.049
+  },
+  {
+   "t": 1782864016,
+   "p": 0.0755
+  },
+  {
+   "t": 1782950415,
+   "p": 0.133
+  },
+  {
+   "t": 1783036814,
+   "p": 0.115
+  },
+  {
+   "t": 1783123212,
+   "p": 0.0875
+  },
+  {
+   "t": 1783209612,
+   "p": 0.0995
+  },
+  {
+   "t": 1783296005,
+   "p": 0.066
+  },
+  {
+   "t": 1783382411,
+   "p": 0.0635
+  },
+  {
+   "t": 1783468807,
+   "p": 0.113
+  },
+  {
+   "t": 1783555214,
+   "p": 0.1105
+  },
+  {
+   "t": 1783641611,
+   "p": 0.134
+  },
+  {
+   "t": 1783728010,
+   "p": 0.1135
+  },
+  {
+   "t": 1783814423,
+   "p": 0.1885
+  },
+  {
+   "t": 1783900813,
+   "p": 0.1845
+  },
+  {
+   "t": 1783987210,
+   "p": 0.3195
+  },
+  {
+   "t": 1784073617,
+   "p": 0.306
+  },
+  {
+   "t": 1784160015,
+   "p": 0.25
+  },
+  {
+   "t": 1784246416,
+   "p": 0.205
+  },
+  {
+   "t": 1784332812,
+   "p": 0.275
+  },
+  {
+   "t": 1784419223,
+   "p": 0.3245
+  },
+  {
+   "t": 1784505628,
+   "p": 0.227
+  },
+  {
+   "t": 1784592017,
+   "p": 0.2175
+  },
+  {
+   "t": 1784678412,
+   "p": 0.2425
+  },
+  {
+   "t": 1784764821,
+   "p": 0.2455
+  },
+  {
+   "t": 1784851232,
+   "p": 0.2655
+  },
+  {
+   "t": 1784937653,
+   "p": 0.336
+  },
+  {
+   "t": 1785024046,
+   "p": 0.276
+  },
+  {
+   "t": 1785196854,
+   "p": 0.1825
+  },
+  {
+   "t": 1785369626,
+   "p": 0.3735
+  },
+  {
+   "t": 1785456024,
+   "p": 0.3935
+  },
+  {
+   "t": 1785542415,
+   "p": 0.418
+  },
+  {
+   "t": 1785628816,
+   "p": 0.3715
+  },
+  {
+   "t": 1785715212,
+   "p": 0.267
+  },
+  {
+   "t": 1785801615,
+   "p": 0.3615
+  },
+  {
+   "t": 1785888016,
+   "p": 0.2905
+  },
+  {
+   "t": 1785974415,
+   "p": 0.2335
+  },
+  {
+   "t": 1786060815,
+   "p": 0.289
+  },
+  {
+   "t": 1786147219,
+   "p": 0.282
+  },
+  {
+   "t": 1786233629,
+   "p": 0.341
+  },
+  {
+   "t": 1786320021,
+   "p": 0.488
+  },
+  {
+   "t": 1786406425,
+   "p": 0.4835
+  },
+  {
+   "t": 1786492816,
+   "p": 0.5655
+  },
+  {
+   "t": 1786579223,
+   "p": 0.5535
+  },
+  {
+   "t": 1786665623,
+   "p": 0.6195
+  },
+  {
+   "t": 1786752021,
+   "p": 0.6925
+  },
+  {
+   "t": 1786838424,
+   "p": 0.6715
+  },
+  {
+   "t": 1786924826,
+   "p": 0.6835
+  },
+  {
+   "t": 1787011235,
+   "p": 0.6915
+  },
+  {
+   "t": 1787097624,
+   "p": 0.735
+  },
+  {
+   "t": 1787184029,
+   "p": 0.756
+  },
+  {
+   "t": 1787270426,
+   "p": 0.7735
+  },
+  {
+   "t": 1787356826,
+   "p": 0.808
+  },
+  {
+   "t": 1787443223,
+   "p": 0.7745
+  },
+  {
+   "t": 1787529628,
+   "p": 0.747
+  },
+  {
+   "t": 1787616025,
+   "p": 0.7765
+  },
+  {
+   "t": 1787702427,
+   "p": 0.7435
+  },
+  {
+   "t": 1787788827,
+   "p": 0.7775
+  },
+  {
+   "t": 1787875228,
+   "p": 0.8145
+  },
+  {
+   "t": 1787961628,
+   "p": 0.8335
+  },
+  {
+   "t": 1788048027,
+   "p": 0.8435
+  },
+  {
+   "t": 1788134425,
+   "p": 0.8595
+  },
+  {
+   "t": 1788220838,
+   "p": 0.8655
+  },
+  {
+   "t": 1788307226,
+   "p": 0.8915
+  },
+  {
+   "t": 1788393631,
+   "p": 0.8935
+  },
+  {
+   "t": 1788480022,
+   "p": 0.906
+  },
+  {
+   "t": 1788566422,
+   "p": 0.9175
+  },
+  {
+   "t": 1788652828,
+   "p": 0.9155
+  },
+  {
+   "t": 1788739236,
+   "p": 0.915
+  },
+  {
+   "t": 1788825618,
+   "p": 0.9145
+  },
+  {
+   "t": 1788912027,
+   "p": 0.9145
+  },
+  {
+   "t": 1788998422,
+   "p": 0.9245
+  },
+  {
+   "t": 1789084825,
+   "p": 0.934
+  },
+  {
+   "t": 1789171225,
+   "p": 0.9145
+  },
+  {
+   "t": 1789257624,
+   "p": 0.908
+  },
+  {
+   "t": 1789344020,
+   "p": 0.9145
+  },
+  {
+   "t": 1789430419,
+   "p": 0.902
+  },
+  {
+   "t": 1789516820,
+   "p": 0.925
+  },
+  {
+   "t": 1789603223,
+   "p": 0.9325
+  },
+  {
+   "t": 1789689626,
+   "p": 0.9235
+  },
+  {
+   "t": 1789776028,
+   "p": 0.8785
+  },
+  {
+   "t": 1789862426,
+   "p": 0.855
+  },
+  {
+   "t": 1789948823,
+   "p": 0.814
+  },
+  {
+   "t": 1790035223,
+   "p": 0.8505
+  }
+ ]
+}

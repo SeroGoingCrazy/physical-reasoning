@@ -1,0 +1,1050 @@
+{
+ "market": {
+  "id": "907604",
+  "question": "Will Megan Degenfelder win the 2026 Wyoming Governor Republican primary election?",
+  "conditionId": "0xa875e0b4802818c2ed51fa4a44eeb303d2a11b1df946de66c0444d80468e78b6",
+  "slug": "will-megan-degenfelder-win-the-2026-wyoming-governor-republican-primary-election",
+  "resolutionSource": "",
+  "endDate": "2026-08-18T00:00:00Z",
+  "startDate": "2025-12-11T17:51:14.647Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-megan-degenfelder-win-the-2026-wyoming-governor-republican-primary-election-juKi75A4qeFC.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-megan-degenfelder-win-the-2026-wyoming-governor-republican-primary-election-juKi75A4qeFC.jpg",
+  "description": "This market will resolve according to the winner of the Republican Primary for Governor of Wyoming, scheduled to take place on August 18, 2026. Resolution will be based on the overall winner of the primary, including any potential second round or run-off.\n\nIf no 2026 Wyoming Gubernatorial Republican Primary takes place, this market will resolve to \u201cOther.\u201d\n\nThe resolution source for this market will be the first official announcement of the results from the Wyoming Republican Party; however, an overwhelming consensus of credible reporting may suffice.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "118618.74452599997",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-12-10T17:56:07.946272Z",
+  "updatedAt": "2026-08-20T02:58:05.740375Z",
+  "closedTime": "2026-08-19 05:58:31+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Megan Degenfelder",
+  "groupItemThreshold": "5",
+  "questionID": "0x0f039bbd936ede11c071acd64be8f50a568d2526ef6130a845f7594e83957005",
+  "umaEndDate": "2026-08-19T05:58:31Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 118618.74452599997,
+  "endDateIso": "2026-08-18",
+  "startDateIso": "2025-12-11",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"19570193114177350530397416390187705587772274398027030234329556129425646346554\", \"100268596602941774686897328445143323252864675868637226260206096004180596377901\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 118618.74452599997,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x0f039bbd936ede11c071acd64be8f50a568d2526ef6130a845f7594e83957000",
+  "negRiskRequestID": "0x940cc15e37a79cdb8e11ee1ecace198ebf671a6f09b6f987ad1d06359f648e88",
+  "events": [
+   {
+    "id": "101831",
+    "ticker": "wyoming-governor-republican-primary-winner",
+    "slug": "wyoming-governor-republican-primary-winner",
+    "title": "Wyoming Governor Republican Primary Winner",
+    "description": "This market will resolve according to the winner of the Republican Primary for Governor of Wyoming, scheduled to take place on August 18, 2026. Resolution will be based on the overall winner of the primary, including any potential second round or run-off.\n\nIf no 2026 Wyoming Gubernatorial Republican Primary takes place, this market will resolve to \u201cOther.\u201d\n\nThe resolution source for this market will be the first official announcement of the results from the Wyoming Republican Party; however, an overwhelming consensus of credible reporting may suffice.",
+    "resolutionSource": "",
+    "startDate": "2025-12-11T17:51:12.869688Z",
+    "creationDate": "2025-12-11T18:00:11.14939Z",
+    "endDate": "2026-08-18T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wyoming-governor-republican-primary-winner-kXfsKV7O-rpl.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/wyoming-governor-republican-primary-winner-kXfsKV7O-rpl.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 0,
+    "volume": 419530.26875099994,
+    "openInterest": 647.4725530000001,
+    "sortBy": "price",
+    "createdAt": "2025-12-10T17:56:04.804118Z",
+    "updatedAt": "2026-08-28T17:59:39.942946Z",
+    "competitive": 0,
+    "enableOrderBook": true,
+    "liquidityAmm": 0,
+    "liquidityClob": 0,
+    "negRisk": true,
+    "negRiskMarketID": "0x0f039bbd936ede11c071acd64be8f50a568d2526ef6130a845f7594e83957000",
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2026-08-28T17:32:00Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-12-11T15:36:15.574067Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-12-11T17:50:35Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.168,
+  "oneWeekPriceChange": -0.2935,
+  "oneMonthPriceChange": -0.7405,
+  "lastTradePrice": 0.006,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-12-11T15:40:31.120801Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1765497617,
+   "p": 0.095
+  },
+  {
+   "t": 1765584020,
+   "p": 0.033
+  },
+  {
+   "t": 1765670420,
+   "p": 0.033
+  },
+  {
+   "t": 1765756822,
+   "p": 0.033
+  },
+  {
+   "t": 1765843218,
+   "p": 0.0315
+  },
+  {
+   "t": 1765929615,
+   "p": 0.0315
+  },
+  {
+   "t": 1765929636,
+   "p": 0.0315
+  },
+  {
+   "t": 1766016026,
+   "p": 0.0315
+  },
+  {
+   "t": 1766102417,
+   "p": 0.032
+  },
+  {
+   "t": 1766188817,
+   "p": 0.032
+  },
+  {
+   "t": 1766275218,
+   "p": 0.033
+  },
+  {
+   "t": 1766361617,
+   "p": 0.0335
+  },
+  {
+   "t": 1766448020,
+   "p": 0.0335
+  },
+  {
+   "t": 1766534420,
+   "p": 0.0315
+  },
+  {
+   "t": 1766620829,
+   "p": 0.0315
+  },
+  {
+   "t": 1766707214,
+   "p": 0.032
+  },
+  {
+   "t": 1766793618,
+   "p": 0.0315
+  },
+  {
+   "t": 1766880019,
+   "p": 0.0325
+  },
+  {
+   "t": 1766966436,
+   "p": 0.0325
+  },
+  {
+   "t": 1767052822,
+   "p": 0.0325
+  },
+  {
+   "t": 1767139220,
+   "p": 0.0325
+  },
+  {
+   "t": 1767225620,
+   "p": 0.0315
+  },
+  {
+   "t": 1767312019,
+   "p": 0.0315
+  },
+  {
+   "t": 1767398417,
+   "p": 0.031
+  },
+  {
+   "t": 1767484819,
+   "p": 0.031
+  },
+  {
+   "t": 1767571222,
+   "p": 0.1665
+  },
+  {
+   "t": 1767657623,
+   "p": 0.417
+  },
+  {
+   "t": 1767744021,
+   "p": 0.447
+  },
+  {
+   "t": 1767830437,
+   "p": 0.395
+  },
+  {
+   "t": 1767916822,
+   "p": 0.458
+  },
+  {
+   "t": 1768003222,
+   "p": 0.438
+  },
+  {
+   "t": 1768089619,
+   "p": 0.4445
+  },
+  {
+   "t": 1768176022,
+   "p": 0.3925
+  },
+  {
+   "t": 1768262423,
+   "p": 0.3885
+  },
+  {
+   "t": 1768348824,
+   "p": 0.419
+  },
+  {
+   "t": 1768435225,
+   "p": 0.62
+  },
+  {
+   "t": 1768521628,
+   "p": 0.6225
+  },
+  {
+   "t": 1768608025,
+   "p": 0.7045
+  },
+  {
+   "t": 1768694439,
+   "p": 0.3555
+  },
+  {
+   "t": 1768780821,
+   "p": 0.3925
+  },
+  {
+   "t": 1768867223,
+   "p": 0.424
+  },
+  {
+   "t": 1768953624,
+   "p": 0.449
+  },
+  {
+   "t": 1769040036,
+   "p": 0.475
+  },
+  {
+   "t": 1769126442,
+   "p": 0.49
+  },
+  {
+   "t": 1769212839,
+   "p": 0.4555
+  },
+  {
+   "t": 1769299245,
+   "p": 0.4675
+  },
+  {
+   "t": 1769385644,
+   "p": 0.4695
+  },
+  {
+   "t": 1769472037,
+   "p": 0.4685
+  },
+  {
+   "t": 1769558427,
+   "p": 0.4875
+  },
+  {
+   "t": 1769644842,
+   "p": 0.5015
+  },
+  {
+   "t": 1769731231,
+   "p": 0.4885
+  },
+  {
+   "t": 1769817631,
+   "p": 0.4865
+  },
+  {
+   "t": 1769904038,
+   "p": 0.4865
+  },
+  {
+   "t": 1769990430,
+   "p": 0.486
+  },
+  {
+   "t": 1770076833,
+   "p": 0.5145
+  },
+  {
+   "t": 1770163243,
+   "p": 0.512
+  },
+  {
+   "t": 1770249629,
+   "p": 0.521
+  },
+  {
+   "t": 1770336037,
+   "p": 0.7955
+  },
+  {
+   "t": 1770422445,
+   "p": 0.747
+  },
+  {
+   "t": 1770508840,
+   "p": 0.722
+  },
+  {
+   "t": 1770595239,
+   "p": 0.523
+  },
+  {
+   "t": 1770681642,
+   "p": 0.519
+  },
+  {
+   "t": 1770768047,
+   "p": 0.727
+  },
+  {
+   "t": 1770854451,
+   "p": 0.5595
+  },
+  {
+   "t": 1770940842,
+   "p": 0.535
+  },
+  {
+   "t": 1771027247,
+   "p": 0.7445
+  },
+  {
+   "t": 1771113645,
+   "p": 0.696
+  },
+  {
+   "t": 1771200056,
+   "p": 0.72
+  },
+  {
+   "t": 1771286448,
+   "p": 0.784
+  },
+  {
+   "t": 1771372852,
+   "p": 0.7615
+  },
+  {
+   "t": 1771459255,
+   "p": 0.7655
+  },
+  {
+   "t": 1771545650,
+   "p": 0.769
+  },
+  {
+   "t": 1771632034,
+   "p": 0.769
+  },
+  {
+   "t": 1771718434,
+   "p": 0.7775
+  },
+  {
+   "t": 1771804840,
+   "p": 0.778
+  },
+  {
+   "t": 1771891241,
+   "p": 0.7265
+  },
+  {
+   "t": 1771977647,
+   "p": 0.6945
+  },
+  {
+   "t": 1772064041,
+   "p": 0.6905
+  },
+  {
+   "t": 1772150447,
+   "p": 0.6855
+  },
+  {
+   "t": 1772236845,
+   "p": 0.68
+  },
+  {
+   "t": 1772409656,
+   "p": 0.704
+  },
+  {
+   "t": 1772496051,
+   "p": 0.703
+  },
+  {
+   "t": 1772582451,
+   "p": 0.7595
+  },
+  {
+   "t": 1772668848,
+   "p": 0.7515
+  },
+  {
+   "t": 1772755247,
+   "p": 0.7225
+  },
+  {
+   "t": 1772841651,
+   "p": 0.7525
+  },
+  {
+   "t": 1772928042,
+   "p": 0.7575
+  },
+  {
+   "t": 1773014438,
+   "p": 0.7525
+  },
+  {
+   "t": 1773100846,
+   "p": 0.7485
+  },
+  {
+   "t": 1773187249,
+   "p": 0.7345
+  },
+  {
+   "t": 1773273651,
+   "p": 0.737
+  },
+  {
+   "t": 1773446458,
+   "p": 0.735
+  },
+  {
+   "t": 1773705647,
+   "p": 0.7365
+  },
+  {
+   "t": 1773792049,
+   "p": 0.747
+  },
+  {
+   "t": 1773964853,
+   "p": 0.7565
+  },
+  {
+   "t": 1774051253,
+   "p": 0.7585
+  },
+  {
+   "t": 1774137651,
+   "p": 0.758
+  },
+  {
+   "t": 1774224044,
+   "p": 0.755
+  },
+  {
+   "t": 1774310439,
+   "p": 0.755
+  },
+  {
+   "t": 1774396837,
+   "p": 0.7555
+  },
+  {
+   "t": 1774483240,
+   "p": 0.757
+  },
+  {
+   "t": 1774569650,
+   "p": 0.7555
+  },
+  {
+   "t": 1774656053,
+   "p": 0.7575
+  },
+  {
+   "t": 1774742459,
+   "p": 0.7545
+  },
+  {
+   "t": 1775347207,
+   "p": 0.7505
+  },
+  {
+   "t": 1775692833,
+   "p": 0.742
+  },
+  {
+   "t": 1775952000,
+   "p": 0.749
+  },
+  {
+   "t": 1776816009,
+   "p": 0.6405
+  },
+  {
+   "t": 1776902413,
+   "p": 0.7055
+  },
+  {
+   "t": 1776988823,
+   "p": 0.7205
+  },
+  {
+   "t": 1777075213,
+   "p": 0.717
+  },
+  {
+   "t": 1777161607,
+   "p": 0.719
+  },
+  {
+   "t": 1777248008,
+   "p": 0.72
+  },
+  {
+   "t": 1777334409,
+   "p": 0.7195
+  },
+  {
+   "t": 1777420807,
+   "p": 0.7605
+  },
+  {
+   "t": 1777507213,
+   "p": 0.7525
+  },
+  {
+   "t": 1777593608,
+   "p": 0.7135
+  },
+  {
+   "t": 1777680006,
+   "p": 0.706
+  },
+  {
+   "t": 1777766406,
+   "p": 0.7025
+  },
+  {
+   "t": 1777852805,
+   "p": 0.7065
+  },
+  {
+   "t": 1777939219,
+   "p": 0.7065
+  },
+  {
+   "t": 1778025609,
+   "p": 0.706
+  },
+  {
+   "t": 1778112009,
+   "p": 0.7055
+  },
+  {
+   "t": 1778198405,
+   "p": 0.7065
+  },
+  {
+   "t": 1778284823,
+   "p": 0.704
+  },
+  {
+   "t": 1778371207,
+   "p": 0.713
+  },
+  {
+   "t": 1778457610,
+   "p": 0.714
+  },
+  {
+   "t": 1778544009,
+   "p": 0.7155
+  },
+  {
+   "t": 1778630412,
+   "p": 0.716
+  },
+  {
+   "t": 1778716816,
+   "p": 0.703
+  },
+  {
+   "t": 1778803209,
+   "p": 0.7145
+  },
+  {
+   "t": 1778889616,
+   "p": 0.704
+  },
+  {
+   "t": 1778976026,
+   "p": 0.7055
+  },
+  {
+   "t": 1779062410,
+   "p": 0.715
+  },
+  {
+   "t": 1779148808,
+   "p": 0.706
+  },
+  {
+   "t": 1779235211,
+   "p": 0.711
+  },
+  {
+   "t": 1779321613,
+   "p": 0.711
+  },
+  {
+   "t": 1779408014,
+   "p": 0.7005
+  },
+  {
+   "t": 1779494410,
+   "p": 0.745
+  },
+  {
+   "t": 1779580806,
+   "p": 0.795
+  },
+  {
+   "t": 1779667207,
+   "p": 0.8195
+  },
+  {
+   "t": 1779753607,
+   "p": 0.8215
+  },
+  {
+   "t": 1779840008,
+   "p": 0.8265
+  },
+  {
+   "t": 1779926411,
+   "p": 0.8095
+  },
+  {
+   "t": 1780012811,
+   "p": 0.8005
+  },
+  {
+   "t": 1780099221,
+   "p": 0.784
+  },
+  {
+   "t": 1780185610,
+   "p": 0.7835
+  },
+  {
+   "t": 1780272006,
+   "p": 0.783
+  },
+  {
+   "t": 1780358408,
+   "p": 0.779
+  },
+  {
+   "t": 1780444808,
+   "p": 0.7765
+  },
+  {
+   "t": 1780531205,
+   "p": 0.7765
+  },
+  {
+   "t": 1780617619,
+   "p": 0.7765
+  },
+  {
+   "t": 1780704004,
+   "p": 0.7765
+  },
+  {
+   "t": 1780790415,
+   "p": 0.7815
+  },
+  {
+   "t": 1780876805,
+   "p": 0.7835
+  },
+  {
+   "t": 1780963206,
+   "p": 0.781
+  },
+  {
+   "t": 1781049607,
+   "p": 0.7805
+  },
+  {
+   "t": 1781136011,
+   "p": 0.807
+  },
+  {
+   "t": 1781222407,
+   "p": 0.8115
+  },
+  {
+   "t": 1781308807,
+   "p": 0.7455
+  },
+  {
+   "t": 1781395210,
+   "p": 0.715
+  },
+  {
+   "t": 1781481606,
+   "p": 0.733
+  },
+  {
+   "t": 1781568010,
+   "p": 0.75
+  },
+  {
+   "t": 1781654408,
+   "p": 0.758
+  },
+  {
+   "t": 1781740821,
+   "p": 0.758
+  },
+  {
+   "t": 1781827224,
+   "p": 0.7805
+  },
+  {
+   "t": 1781913607,
+   "p": 0.815
+  },
+  {
+   "t": 1782000010,
+   "p": 0.809
+  },
+  {
+   "t": 1782086409,
+   "p": 0.7725
+  },
+  {
+   "t": 1782172807,
+   "p": 0.778
+  },
+  {
+   "t": 1782259207,
+   "p": 0.7615
+  },
+  {
+   "t": 1782345612,
+   "p": 0.777
+  },
+  {
+   "t": 1782432006,
+   "p": 0.7765
+  },
+  {
+   "t": 1782518407,
+   "p": 0.771
+  },
+  {
+   "t": 1782604807,
+   "p": 0.7705
+  },
+  {
+   "t": 1782691206,
+   "p": 0.7415
+  },
+  {
+   "t": 1782777607,
+   "p": 0.691
+  },
+  {
+   "t": 1782864007,
+   "p": 0.6895
+  },
+  {
+   "t": 1782950411,
+   "p": 0.704
+  },
+  {
+   "t": 1783036808,
+   "p": 0.667
+  },
+  {
+   "t": 1783123207,
+   "p": 0.633
+  },
+  {
+   "t": 1783209607,
+   "p": 0.65
+  },
+  {
+   "t": 1783296004,
+   "p": 0.715
+  },
+  {
+   "t": 1783382409,
+   "p": 0.712
+  },
+  {
+   "t": 1783468806,
+   "p": 0.7485
+  },
+  {
+   "t": 1783555213,
+   "p": 0.75
+  },
+  {
+   "t": 1783641608,
+   "p": 0.7575
+  },
+  {
+   "t": 1783728008,
+   "p": 0.7585
+  },
+  {
+   "t": 1783814420,
+   "p": 0.7625
+  },
+  {
+   "t": 1783900808,
+   "p": 0.767
+  },
+  {
+   "t": 1783987208,
+   "p": 0.773
+  },
+  {
+   "t": 1784073609,
+   "p": 0.7745
+  },
+  {
+   "t": 1784160011,
+   "p": 0.775
+  },
+  {
+   "t": 1784246410,
+   "p": 0.776
+  },
+  {
+   "t": 1784332807,
+   "p": 0.7715
+  },
+  {
+   "t": 1784419208,
+   "p": 0.749
+  },
+  {
+   "t": 1784505622,
+   "p": 0.741
+  },
+  {
+   "t": 1784592009,
+   "p": 0.7385
+  },
+  {
+   "t": 1784678408,
+   "p": 0.741
+  },
+  {
+   "t": 1784764815,
+   "p": 0.658
+  },
+  {
+   "t": 1784851215,
+   "p": 0.643
+  },
+  {
+   "t": 1784937615,
+   "p": 0.6525
+  },
+  {
+   "t": 1785024015,
+   "p": 0.648
+  },
+  {
+   "t": 1785110420,
+   "p": 0.5835
+  },
+  {
+   "t": 1785196823,
+   "p": 0.58
+  },
+  {
+   "t": 1785369624,
+   "p": 0.4815
+  },
+  {
+   "t": 1785456021,
+   "p": 0.4265
+  },
+  {
+   "t": 1785542412,
+   "p": 0.517
+  },
+  {
+   "t": 1785628813,
+   "p": 0.434
+  },
+  {
+   "t": 1785715210,
+   "p": 0.449
+  },
+  {
+   "t": 1785801612,
+   "p": 0.413
+  },
+  {
+   "t": 1785888013,
+   "p": 0.5045
+  },
+  {
+   "t": 1785974411,
+   "p": 0.3435
+  },
+  {
+   "t": 1786060812,
+   "p": 0.3585
+  },
+  {
+   "t": 1786147215,
+   "p": 0.3045
+  },
+  {
+   "t": 1786233625,
+   "p": 0.2985
+  },
+  {
+   "t": 1786320017,
+   "p": 0.296
+  },
+  {
+   "t": 1786406421,
+   "p": 0.295
+  },
+  {
+   "t": 1786492813,
+   "p": 0.297
+  },
+  {
+   "t": 1786579218,
+   "p": 0.2775
+  },
+  {
+   "t": 1786665617,
+   "p": 0.212
+  },
+  {
+   "t": 1786752016,
+   "p": 0.2225
+  },
+  {
+   "t": 1786838418,
+   "p": 0.2125
+  },
+  {
+   "t": 1786924819,
+   "p": 0.1505
+  },
+  {
+   "t": 1787011229,
+   "p": 0.1695
+  },
+  {
+   "t": 1787097619,
+   "p": 0.178
+  }
+ ]
+}

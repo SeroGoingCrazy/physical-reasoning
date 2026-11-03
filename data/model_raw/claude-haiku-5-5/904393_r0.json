@@ -1,0 +1,27 @@
+{
+ "id": "904393",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.3,
+ "reasoning": "As of December 2025, Ty Masterson, the Kansas Senate President, is one of several Republicans seeking the 2026 gubernatorial nomination. The field also includes figures like former Governor Jeff Colyer and Insurance Commissioner Vicki Schmidt, and possibly others, so the primary is likely crowded. Masterson has a strong base among conservative activists, which is valuable in a Republican primary, but Colyer's name recognition and statewide experience make him a serious rival. Without a clear frontrunner or polling I can verify, I estimate Masterson's chance of winning at roughly one in three. I do not know how the primary actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 678,
+  "output_tokens": 566,
+  "output_tokens_details": {
+   "thinking_tokens": 331
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003508
+}

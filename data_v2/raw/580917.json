@@ -1,0 +1,294 @@
+{
+ "market": {
+  "id": "580917",
+  "question": "Starostov\u00e9 (STAN) wins 10% or more of vote in Czech election?",
+  "conditionId": "0x1aad86735cb77de1c5e48a1a77f69599c2872b27bdf984856f9775dbaeb5963f",
+  "slug": "starostov-stan-wins-10-or-more-of-vote-in-czech-election",
+  "resolutionSource": "",
+  "endDate": "2025-10-03T00:00:00Z",
+  "startDate": "2025-08-25T17:06:12.135114Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stan-win-the-most-seats-in-the-next-czech-parliamentary-election-DVmnp1UVTl8a.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stan-win-the-most-seats-in-the-next-czech-parliamentary-election-DVmnp1UVTl8a.png",
+  "description": "Parliamentary elections are scheduled to be held in the Czech Republic on October 3, 2025.\n\nThis market will resolve to \"Yes\" if STAN wins 10% or more of all valid votes in the election. Otherwise, this market will resolve to \"No\".\n\nIf voting in the next Czech parliamentary election does not occur by August 31, 2026, this market will resolve to \"No\".\n\nThis market will resolve based off the official vote count as reported by Czech Republic\u2019s government (e.g. via https://www.volby.cz/index_en.htm).\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "47923.979557",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "0x270D77088bfAc555D8a30F66B48C674f132F98cd",
+  "createdAt": "2025-08-25T15:52:22.663672Z",
+  "updatedAt": "2025-10-06T16:36:07.474163Z",
+  "closedTime": "2025-10-05 11:48:57+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x157Ce2d672854c848c9b79C49a8Cc6cc89176a49",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x5d065a05cf98b830e816332c0226635c306119482f6512efe746124f6fc1ed00",
+  "umaEndDate": "2025-10-05T11:48:57Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 47923.979557,
+  "endDateIso": "2025-10-03",
+  "startDateIso": "2025-08-25",
+  "hasReviewedDates": true,
+  "volume1wk": 25531.478668000003,
+  "volume1mo": 46720.97183899998,
+  "volume1yr": 47923.979557000006,
+  "clobTokenIds": "[\"103552888769405830888382704456271954686938151846548008995446807037162903294467\", \"24145730978180131349648723606218137789460456245982566255623052177570071815871\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 25531.478668000003,
+  "volume1moClob": 46720.97183899998,
+  "volume1yrClob": 47923.979557000006,
+  "volumeClob": 47923.979557,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "39634",
+    "ticker": "starostov-stan-wins-10-or-more-of-vote-in-czech-election",
+    "slug": "starostov-stan-wins-10-or-more-of-vote-in-czech-election",
+    "title": "Starostov\u00e9 (STAN) wins 10% or more of vote in Czech election?",
+    "description": "Parliamentary elections are scheduled to be held in the Czech Republic on October 3, 2025.\n\nThis market will resolve to \"Yes\" if STAN wins 10% or more of all valid votes in the election. Otherwise, this market will resolve to \"No\".\n\nIf voting in the next Czech parliamentary election does not occur by August 31, 2026, this market will resolve to \"No\".\n\nThis market will resolve based off the official vote count as reported by Czech Republic\u2019s government (e.g. via https://www.volby.cz/index_en.htm).\n",
+    "resolutionSource": "",
+    "startDate": "2025-08-25T17:27:45.079518Z",
+    "creationDate": "2025-08-25T17:27:45.079513Z",
+    "endDate": "2025-10-03T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stan-win-the-most-seats-in-the-next-czech-parliamentary-election-DVmnp1UVTl8a.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stan-win-the-most-seats-in-the-next-czech-parliamentary-election-DVmnp1UVTl8a.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 47923.979557,
+    "openInterest": 0,
+    "createdAt": "2025-08-25T15:52:21.968333Z",
+    "updatedAt": "2025-10-06T16:36:13.066174Z",
+    "volume1wk": 25531.478668000003,
+    "volume1mo": 46720.97183899998,
+    "volume1yr": 47923.979557000006,
+    "enableOrderBook": true,
+    "commentCount": 1,
+    "cyom": false,
+    "closedTime": "2025-10-05T11:48:57Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-08-25T17:05:49Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.3945,
+  "oneWeekPriceChange": 0.4145,
+  "oneMonthPriceChange": 0.4295,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-08-25T17:05:19.923154Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1756166405,
+   "p": 0.555
+  },
+  {
+   "t": 1756252808,
+   "p": 0.6
+  },
+  {
+   "t": 1756339209,
+   "p": 0.58
+  },
+  {
+   "t": 1756425612,
+   "p": 0.605
+  },
+  {
+   "t": 1756512006,
+   "p": 0.55
+  },
+  {
+   "t": 1756598415,
+   "p": 0.56
+  },
+  {
+   "t": 1756684804,
+   "p": 0.605
+  },
+  {
+   "t": 1756771203,
+   "p": 0.55
+  },
+  {
+   "t": 1756857616,
+   "p": 0.55
+  },
+  {
+   "t": 1756944003,
+   "p": 0.55
+  },
+  {
+   "t": 1757030412,
+   "p": 0.58
+  },
+  {
+   "t": 1757116802,
+   "p": 0.55
+  },
+  {
+   "t": 1757203214,
+   "p": 0.55
+  },
+  {
+   "t": 1757289609,
+   "p": 0.53
+  },
+  {
+   "t": 1757376012,
+   "p": 0.48
+  },
+  {
+   "t": 1757462403,
+   "p": 0.5
+  },
+  {
+   "t": 1757548808,
+   "p": 0.49
+  },
+  {
+   "t": 1757635221,
+   "p": 0.53
+  },
+  {
+   "t": 1757721607,
+   "p": 0.495
+  },
+  {
+   "t": 1757808012,
+   "p": 0.465
+  },
+  {
+   "t": 1757894409,
+   "p": 0.5
+  },
+  {
+   "t": 1757980814,
+   "p": 0.495
+  },
+  {
+   "t": 1758067211,
+   "p": 0.515
+  },
+  {
+   "t": 1758153609,
+   "p": 0.515
+  },
+  {
+   "t": 1758240015,
+   "p": 0.52
+  },
+  {
+   "t": 1758326415,
+   "p": 0.515
+  },
+  {
+   "t": 1758412808,
+   "p": 0.52
+  },
+  {
+   "t": 1758499209,
+   "p": 0.595
+  },
+  {
+   "t": 1758585609,
+   "p": 0.475
+  },
+  {
+   "t": 1758672011,
+   "p": 0.565
+  },
+  {
+   "t": 1758758406,
+   "p": 0.515
+  },
+  {
+   "t": 1758844814,
+   "p": 0.57
+  },
+  {
+   "t": 1758931204,
+   "p": 0.565
+  },
+  {
+   "t": 1759017612,
+   "p": 0.585
+  },
+  {
+   "t": 1759104007,
+   "p": 0.6
+  },
+  {
+   "t": 1759190407,
+   "p": 0.585
+  },
+  {
+   "t": 1759276807,
+   "p": 0.575
+  },
+  {
+   "t": 1759363209,
+   "p": 0.615
+  },
+  {
+   "t": 1759449606,
+   "p": 0.58
+  },
+  {
+   "t": 1759536011,
+   "p": 0.58
+  },
+  {
+   "t": 1759622405,
+   "p": 0.9895
+  }
+ ]
+}

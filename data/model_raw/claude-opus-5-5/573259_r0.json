@@ -1,0 +1,27 @@
+{
+ "id": "573259",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.9,
+ "reasoning": "On August 6, 2025, Trump signed an executive order adding a 25% tariff on Indian imports as a penalty for India's purchases of Russian oil. It takes effect 21 days later, at 12:01 AM EDT on August 27. Stacked on the 25% reciprocal tariff that starts August 7, this makes a 50% India-specific tariff with some product exemptions, which fits the resolution criteria. The main risks are a last-minute trade deal, India cutting its Russian oil purchases, or a delay tied to US-Russia diplomacy. Talks with India look stalled, however, and the administration has framed the measure as firm. The start date also sits inside the window, ending August 27 at 11:59 PM ET. I believe this did take effect on schedule, with CBP issuing implementing guidance shortly before.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 760,
+  "output_tokens": 587,
+  "output_tokens_details": {
+   "thinking_tokens": 302
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.014779999999999998
+}

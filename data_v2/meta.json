@@ -1,0 +1,22 @@
+{
+ "generated_at": "2026-11-02T21:07:21.362578+00:00",
+ "source": "polymarket",
+ "model_cutoff_label": "2026-06 training data cutoff (Anthropic docs)",
+ "post_start_boundary": "2026-07-01",
+ "pre_window": [
+  "2025-03-03",
+  "2026-03-03"
+ ],
+ "lead_days": 7,
+ "min_volume_usd": 20000,
+ "min_horizon_days": 14,
+ "seed": 0,
+ "cp_min": 0.03,
+ "max_per_topic": 2,
+ "slice_days": 7,
+ "max_pages": 11,
+ "extends_sample": "data/questions.csv",
+ "n_post": 40,
+ "n_pre": 40,
+ "trim_note": "pulled 44 per group (seed 0), reviewed titles by hand, dropped 556167 (Ryder Cup, sports) and took the first 40 per group in shuffle order; 27 of the 30 markets of the first sample (data/) are included"
+}

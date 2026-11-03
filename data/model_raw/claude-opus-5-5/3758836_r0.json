@@ -1,0 +1,27 @@
+{
+ "id": "3758836",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.42,
+ "reasoning": "Trump's Beijing visit in spring 2026 was framed as the first leg of reciprocal visits, with Xi invited to the US later in the year. I have a vague, unconfirmed recollection that a White House visit around late September was floated. The default venues, though, fall outside the window: APEC 2026 is in Shenzhen in November and the US-hosted G20 is at Doral in December, so a reciprocal visit could easily slip to the G20. Xi rarely attends UNGA and tends to schedule state visits cautiously. Given the possibility of a fall date but substantial risk of delay or of folding it into the December G20, I put this somewhat below even.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 687,
+  "output_tokens": 691,
+  "output_tokens_details": {
+   "thinking_tokens": 459
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.016568
+}

@@ -1,0 +1,195 @@
+{
+ "market": {
+  "id": "546083",
+  "question": "Will Lee Jae-myung win by less than 5%?",
+  "conditionId": "0x7eaab73269f6a83d6ec6dea02464b844b7c79d3a518265b8aa669842342ab3f6",
+  "slug": "will-lee-jae-myung-win-by-less-than-5",
+  "resolutionSource": "",
+  "endDate": "2025-06-03T12:00:00Z",
+  "startDate": "2025-05-20T19:41:01.728431Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-presidential-election-margin-of-victory-yzjdxMSTJOGw.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-presidential-election-margin-of-victory-yzjdxMSTJOGw.jpg",
+  "description": "South Korean presidential elections are scheduled to occur on June 3, 2025, following the impeachment of Yoon Suk Yeol.\n\nThis market will resolve according to the margin of victory between the top two candidates in the 2025 South Korean Presidential Election.\n\nFor the purpose of this market, the 'margin of victory' is defined as the absolute difference between the percentages of votes received by the first and second-place candidate. Percentages of the votes received by each candidate will be determined by dividing the total number of votes each of the top two candidates receives by the sum of all votes cast in South Korean Presidential Election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the results of the election aren\u2019t known by December 31, 2025 ET, this market will resolve to \u201cOther\u201d.  \n\nThis market will resolve based on the official results of the election, as reported by a consensus of credible reporting. If there is ambiguity, this market resolves based on the official vote count published by the National Election Commission of South Korea (https://www.nec.go.kr/engvote/main.jsp).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "608584.861392",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-05-20T18:23:47.929801Z",
+  "updatedAt": "2025-06-05T00:26:36.968443Z",
+  "closedTime": "2025-06-04 03:26:06+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Jae-myung by <5%",
+  "groupItemThreshold": "7",
+  "questionID": "0x0a82fa94fc953ed195a78f240005b3e48cdb2648f9d622608693c629ac1c1607",
+  "umaEndDate": "2025-06-04T03:26:06Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 608584.861392,
+  "endDateIso": "2025-06-03",
+  "startDateIso": "2025-05-20",
+  "hasReviewedDates": true,
+  "volume1wk": 543411.0356200002,
+  "volume1mo": 608584.8613920002,
+  "volume1yr": 608584.8613920002,
+  "clobTokenIds": "[\"2209028483868710553343750384258010332724480694945891317861254913968505441735\", \"59638821905979780674228589398304964315203354768269086646266596374216222053027\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 543411.0356200002,
+  "volume1moClob": 608584.8613920002,
+  "volume1yrClob": 608584.8613920002,
+  "volumeClob": 608584.861392,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x0a82fa94fc953ed195a78f240005b3e48cdb2648f9d622608693c629ac1c1600",
+  "negRiskRequestID": "0xae2bb65d77d432d04d3f5598cc687414960b03d39a623dfc34d5df707cc1bd2a",
+  "events": [
+   {
+    "id": "24880",
+    "ticker": "south-korea-presidential-election-margin-of-victory",
+    "slug": "south-korea-presidential-election-margin-of-victory",
+    "title": "South Korea Presidential Election Margin of Victory",
+    "description": "South Korean presidential elections are scheduled to occur on June 3, 2025, following the impeachment of Yoon Suk Yeol.\n\nThis market will resolve according to the margin of victory between the top two candidates in the 2025 South Korean Presidential Election.\n\nFor the purpose of this market, the 'margin of victory' is defined as the absolute difference between the percentages of votes received by the first and second-place candidate. Percentages of the votes received by each candidate will be determined by dividing the total number of votes each of the top two candidates receives by the sum of all votes cast in South Korean Presidential Election.\n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThis market will resolve based on the official vote count once the vote count has been made official.\n\nIf a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.\n\nIf the results of the election aren\u2019t known by December 31, 2025 ET, this market will resolve to \u201cOther\u201d.  \n\nThis market will resolve based on the official results of the election, as reported by a consensus of credible reporting. If there is ambiguity, this market resolves based on the official vote count published by the National Election Commission of South Korea (https://www.nec.go.kr/engvote/main.jsp).",
+    "resolutionSource": "",
+    "startDate": "2025-05-20T19:42:20.292936Z",
+    "creationDate": "2025-05-20T19:42:20.292934Z",
+    "endDate": "2025-06-03T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-presidential-election-margin-of-victory-yzjdxMSTJOGw.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/south-korea-presidential-election-margin-of-victory-yzjdxMSTJOGw.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 3817287.349003,
+    "openInterest": 0,
+    "createdAt": "2025-05-20T18:23:40.417712Z",
+    "updatedAt": "2025-06-05T08:22:42.258229Z",
+    "volume1wk": 3339440.213973001,
+    "volume1mo": 3817287.3490030007,
+    "volume1yr": 3817287.3490030007,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x0a82fa94fc953ed195a78f240005b3e48cdb2648f9d622608693c629ac1c1600",
+    "commentCount": 74,
+    "cyom": false,
+    "closedTime": "2025-06-04T03:40:47Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-05-20T19:38:02.217879Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-05-20T19:40:33Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0355,
+  "oneWeekPriceChange": -0.0845,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-05-20T19:38:32.208003Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1747785606,
+   "p": 0.04
+  },
+  {
+   "t": 1747872007,
+   "p": 0.075
+  },
+  {
+   "t": 1747958407,
+   "p": 0.06
+  },
+  {
+   "t": 1748044807,
+   "p": 0.075
+  },
+  {
+   "t": 1748131206,
+   "p": 0.065
+  },
+  {
+   "t": 1748217607,
+   "p": 0.085
+  },
+  {
+   "t": 1748304006,
+   "p": 0.095
+  },
+  {
+   "t": 1748390406,
+   "p": 0.105
+  },
+  {
+   "t": 1748476807,
+   "p": 0.115
+  },
+  {
+   "t": 1748563207,
+   "p": 0.075
+  },
+  {
+   "t": 1748649607,
+   "p": 0.065
+  },
+  {
+   "t": 1748736007,
+   "p": 0.055
+  },
+  {
+   "t": 1748822406,
+   "p": 0.0355
+  },
+  {
+   "t": 1748908807,
+   "p": 0.053
+  },
+  {
+   "t": 1748995206,
+   "p": 0.0005
+  }
+ ]
+}

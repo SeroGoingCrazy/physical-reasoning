@@ -1,0 +1,27 @@
+{
+ "id": 514670,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.25,
+ "reasoning": "As of December 4, 2024, Yoon declared martial law on December 3 and lifted it within hours after the National Assembly voted to block it. The opposition Democratic Party was moving to impeach him, with a vote expected around December 7. Removal requires two-thirds of the Assembly (200 of 300 votes), so it depends on some People Power Party defections, which I'd put at roughly even odds. The Constitutional Court then needs six of nine justices to uphold, and it has up to 180 days to decide. Park Geun-hye's case took about three months from impeachment to ruling, so a decision by March 31 is possible but not assured, and upholding is likely but not certain. Yoon has also said he will not resign, which makes a voluntary exit unlikely. Combining these steps gives roughly a one-in-four chance of YES.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 738,
+  "output_tokens": 1249,
+  "output_tokens_details": {
+   "thinking_tokens": 962
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0006983
+}

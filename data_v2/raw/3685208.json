@@ -1,0 +1,387 @@
+{
+ "market": {
+  "id": "3685208",
+  "question": "Will the next Claude Opus model debut with a Humanity\u2019s Last Exam score of 45% or higher?",
+  "conditionId": "0xfac2f1d9c7e1535125f03635469a4b27316172246a015120baae71604a29e578",
+  "slug": "will-the-next-claude-opus-model-debut-with-a-humanitys-last-exam-score-of-45-or-higher-20261231",
+  "resolutionSource": "https://agi.safe.ai/",
+  "endDate": "2026-12-31T23:59:00Z",
+  "startDate": "2026-08-17T23:25:39Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+  "description": "This market will resolve to \"Yes\" if the next Anthropic Claude Opus model added to the Humanity\u2019s Last Exam results at https://agi.safe.ai/ has an HLE Accuracy of at least the specified percentage at 12:00 PM ET on the calendar date following the date on which it first appears on the site. Otherwise, this market will resolve to \"No\".\n\nAny Anthropic Claude model newly added to the Humanity\u2019s Last Exam results and labeled as \"Opus\" may qualify (e.g., claude-opus-5.1, claude-opus-5.5-thinking, claude-opus-6-preview, or similar). Claude models labeled only as Sonnet, Haiku, Fable, Mythos, or another non-Opus variant will not qualify.\n\nThe percentage displayed as \"HLE Accuracy\" for the model in its result card on the \"AI Progress on Humanity\u2019s Last Exam\" chart at https://agi.safe.ai/ will be used to resolve this market. This market will resolve solely based on the displayed HLE Accuracy, regardless of the model\u2019s Calibration Error, chart position, other configuration scores, or any underlying granular or unrounded data presented elsewhere.\n\nIf multiple qualifying models are added to the Humanity\u2019s Last Exam results on the same calendar date (ET), the model with the highest HLE Accuracy will be used for resolution. Models added to the results on the calendar date following the initial qualifying model\u2019s first appearance will not be considered. If a model is first added to the Humanity\u2019s Last Exam results but is subsequently removed and not re-added, such that it is not displayed on the site at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Humanity\u2019s Last Exam results.\n\nA qualifying model must be newly added to the Humanity\u2019s Last Exam results at https://agi.safe.ai/. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the site is irrelevant for this market.\n\nThe resolution source for this market is the official Humanity\u2019s Last Exam website found at https://agi.safe.ai/. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the site, this market will resolve based on the first subsequent instance at which the model\u2019s HLE Accuracy becomes available on the site. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the site or if no qualifying model is added by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "51614.05824100001",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-08-17T23:25:21.068023Z",
+  "updatedAt": "2026-10-15T20:55:21.435244Z",
+  "closedTime": "2026-10-14 23:00:27+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "45%+",
+  "groupItemThreshold": "0",
+  "questionID": "0xab2b468a9b2ae0a346fa62b0a49b4233bdf9f76fe1beaebc00943562cfadea22",
+  "umaEndDate": "2026-10-14T23:00:27Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 51614.05824100001,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2026-08-17",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"49092486360884485544216309987054260819680549885548907428432641008157025434557\", \"58392829624392763388989394747424893167357031689633475484005456258962147752651\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 51614.05824100001,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "868066",
+    "ticker": "next-claude-opus-model-humanitys-last-exam-debut-20261231",
+    "slug": "next-claude-opus-model-humanitys-last-exam-debut-20261231",
+    "title": "Next Claude Opus Model: Humanity\u2019s Last Exam Debut?",
+    "description": "This market will resolve to \"Yes\" if the next Anthropic Claude Opus model added to the Humanity\u2019s Last Exam results at https://agi.safe.ai/ has an HLE Accuracy of at least the specified percentage at 12:00 PM ET on the calendar date following the date on which it first appears on the site. Otherwise, this market will resolve to \"No\".\n\nAny Anthropic Claude model newly added to the Humanity\u2019s Last Exam results and labeled as \"Opus\" may qualify (e.g., claude-opus-5.1, claude-opus-5.5-thinking, claude-opus-6-preview, or similar). Claude models labeled only as Sonnet, Haiku, Fable, Mythos, or another non-Opus variant will not qualify.\n\nThe percentage displayed as \"HLE Accuracy\" for the model in its result card on the \"AI Progress on Humanity\u2019s Last Exam\" chart at https://agi.safe.ai/ will be used to resolve this market. This market will resolve solely based on the displayed HLE Accuracy, regardless of the model\u2019s Calibration Error, chart position, other configuration scores, or any underlying granular or unrounded data presented elsewhere.\n\nIf multiple qualifying models are added to the Humanity\u2019s Last Exam results on the same calendar date (ET), the model with the highest HLE Accuracy will be used for resolution. Models added to the results on the calendar date following the initial qualifying model\u2019s first appearance will not be considered. If a model is first added to the Humanity\u2019s Last Exam results but is subsequently removed and not re-added, such that it is not displayed on the site at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Humanity\u2019s Last Exam results.\n\nA qualifying model must be newly added to the Humanity\u2019s Last Exam results at https://agi.safe.ai/. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the site is irrelevant for this market.\n\nThe resolution source for this market is the official Humanity\u2019s Last Exam website found at https://agi.safe.ai/. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the site, this market will resolve based on the first subsequent instance at which the model\u2019s HLE Accuracy becomes available on the site. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the site or if no qualifying model is added by December 31, 2026, 11:59 PM ET, this market will resolve to \"No\".",
+    "resolutionSource": "https://agi.safe.ai/",
+    "startDate": "2026-08-17T23:25:37Z",
+    "creationDate": "2026-08-17T23:26:30.109601Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 152563.056182,
+    "openInterest": 77750.079249,
+    "sortBy": "ascending",
+    "createdAt": "2026-08-17T23:25:20.466731Z",
+    "updatedAt": "2026-10-15T21:03:32.035726Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "12682",
+      "ticker": "claude-opus-hle-debut",
+      "slug": "claude-opus-hle-debut",
+      "title": "Claude Opus HLE Debut",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-08-18T09:58:03.451959Z",
+      "updatedAt": "2026-11-02T20:55:45.776471Z",
+      "volume24hr": 1638.97,
+      "volume": 52569.675696,
+      "liquidity": 7266.55191,
+      "commentCount": 0
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-10-14T23:01:27Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "claude-opus-hle-debut",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-08-17T23:25:39Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0075,
+  "oneWeekPriceChange": 0.0735,
+  "oneMonthPriceChange": 0.0415,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-08-17T23:25:28.385517Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "tech_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1787011231,
+   "p": 0.795
+  },
+  {
+   "t": 1787097620,
+   "p": 0.895
+  },
+  {
+   "t": 1787184024,
+   "p": 0.585
+  },
+  {
+   "t": 1787270421,
+   "p": 0.785
+  },
+  {
+   "t": 1787356820,
+   "p": 0.75
+  },
+  {
+   "t": 1787443218,
+   "p": 0.875
+  },
+  {
+   "t": 1787529622,
+   "p": 0.875
+  },
+  {
+   "t": 1787616020,
+   "p": 0.925
+  },
+  {
+   "t": 1787702422,
+   "p": 0.885
+  },
+  {
+   "t": 1787788822,
+   "p": 0.88
+  },
+  {
+   "t": 1787875222,
+   "p": 0.855
+  },
+  {
+   "t": 1787961622,
+   "p": 0.875
+  },
+  {
+   "t": 1788048021,
+   "p": 0.86
+  },
+  {
+   "t": 1788134421,
+   "p": 0.875
+  },
+  {
+   "t": 1788220832,
+   "p": 0.895
+  },
+  {
+   "t": 1788307220,
+   "p": 0.895
+  },
+  {
+   "t": 1788393624,
+   "p": 0.91
+  },
+  {
+   "t": 1788480019,
+   "p": 0.925
+  },
+  {
+   "t": 1788566419,
+   "p": 0.925
+  },
+  {
+   "t": 1788652825,
+   "p": 0.909
+  },
+  {
+   "t": 1788739233,
+   "p": 0.969
+  },
+  {
+   "t": 1788825616,
+   "p": 0.954
+  },
+  {
+   "t": 1788912024,
+   "p": 0.9625
+  },
+  {
+   "t": 1788998419,
+   "p": 0.9585
+  },
+  {
+   "t": 1789084821,
+   "p": 0.963
+  },
+  {
+   "t": 1789171221,
+   "p": 0.962
+  },
+  {
+   "t": 1789257620,
+   "p": 0.9645
+  },
+  {
+   "t": 1789344017,
+   "p": 0.9625
+  },
+  {
+   "t": 1789430416,
+   "p": 0.958
+  },
+  {
+   "t": 1789516817,
+   "p": 0.964
+  },
+  {
+   "t": 1789603219,
+   "p": 0.9585
+  },
+  {
+   "t": 1789689622,
+   "p": 0.9575
+  },
+  {
+   "t": 1789776023,
+   "p": 0.9575
+  },
+  {
+   "t": 1789862422,
+   "p": 0.9585
+  },
+  {
+   "t": 1789948819,
+   "p": 0.964
+  },
+  {
+   "t": 1790035219,
+   "p": 0.9625
+  },
+  {
+   "t": 1790121621,
+   "p": 0.958
+  },
+  {
+   "t": 1790208032,
+   "p": 0.9605
+  },
+  {
+   "t": 1790294424,
+   "p": 0.959
+  },
+  {
+   "t": 1790380819,
+   "p": 0.9405
+  },
+  {
+   "t": 1790467219,
+   "p": 0.8995
+  },
+  {
+   "t": 1790553633,
+   "p": 0.9415
+  },
+  {
+   "t": 1790640020,
+   "p": 0.939
+  },
+  {
+   "t": 1790726421,
+   "p": 0.9415
+  },
+  {
+   "t": 1790812823,
+   "p": 0.9525
+  },
+  {
+   "t": 1790899221,
+   "p": 0.936
+  },
+  {
+   "t": 1790985624,
+   "p": 0.9335
+  },
+  {
+   "t": 1791072020,
+   "p": 0.9415
+  },
+  {
+   "t": 1791158425,
+   "p": 0.9435
+  },
+  {
+   "t": 1791244823,
+   "p": 0.9055
+  },
+  {
+   "t": 1791331227,
+   "p": 0.907
+  },
+  {
+   "t": 1791417644,
+   "p": 0.926
+  },
+  {
+   "t": 1791504046,
+   "p": 0.926
+  },
+  {
+   "t": 1791590429,
+   "p": 0.927
+  },
+  {
+   "t": 1791676835,
+   "p": 0.8915
+  },
+  {
+   "t": 1791763245,
+   "p": 0.887
+  },
+  {
+   "t": 1791849638,
+   "p": 0.9135
+  },
+  {
+   "t": 1791936037,
+   "p": 0.9935
+  }
+ ]
+}

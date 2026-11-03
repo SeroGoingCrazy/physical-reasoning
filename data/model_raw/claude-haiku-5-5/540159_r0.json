@@ -1,0 +1,27 @@
+{
+ "id": "540159",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.12,
+ "reasoning": "Canada held its federal election on April 28, 2025, and Mark Carney's Liberals won a minority, short of the 172-seat majority. A new Parliament must first be summoned and organized, including electing a Speaker, before a Speech from the Throne and the confidence vote on it can occur. Historically, the gap between an election and the first confidence vote in a new Parliament has been several weeks, and the throne speech debate typically runs for days before the vote. Even if Parliament reconvenes in late May, a confidence vote passing by May 31 is tight and uncertain, and I am not certain of the exact sitting schedule. I do not know how this resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 713,
+  "output_tokens": 1148,
+  "output_tokens_details": {
+   "thinking_tokens": 919
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0006452999999999999
+}

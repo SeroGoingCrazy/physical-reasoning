@@ -1,0 +1,1242 @@
+{
+ "market": {
+  "id": "789953",
+  "question": "Will AfD win the most seats in the 2026 Berlin state elections?",
+  "conditionId": "0x8aaaca6ea5c037d3cdfe85272ab9029b7165694dcae8af0de5071f01a1a944f0",
+  "slug": "will-afd-win-the-most-seats-in-the-2026-berlin-state-elections",
+  "resolutionSource": "https://www.berlin.de/wahlen/",
+  "endDate": "2026-09-20T00:00:00Z",
+  "startDate": "2025-12-02T11:38:43.603Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-afd-8e824114cb.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-afd-8e824114cb.png",
+  "description": "Parliamentary elections to elect the Abgeordnetehaus of Berlin are scheduled to take place in Berlin on September 20, 2026.\n\nThis market will resolve to the political party that wins the greatest number of seats in the formal deliberative assembly of Berlin (Abgeordnetenhaus) as a result of this election.\n\nIf voting in the Berlin election for the Abgeordnetenhaus does not occur by December 31, 2026, this market will resolve to \"Other\".\n\nIn the case of a tie between this party or coalition and any other for the most seats won, this market will resolve in favor of the party or coalition whose listed abbreviation comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Election Office of Berlin (Landeswahlleiter Berlin https://www.berlin.de/wahlen/)\n",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "2611971.229775",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-12-01T20:47:15.715362Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-09-21 04:36:10+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "AfD",
+  "groupItemThreshold": "1",
+  "questionID": "0xb45c8ecc624e90bc1921f82042c443136c168e950129a8309d1926e4bbf51d01",
+  "umaEndDate": "2026-09-21T04:36:10Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 2611971.229775,
+  "endDateIso": "2026-09-20",
+  "startDateIso": "2025-12-02",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"67784084156063245454459357229936847964117127235086701895468125487885758601780\", \"88095392088380018988811128905056685420681684247700244221273733002608971216833\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 2611971.229775,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xb45c8ecc624e90bc1921f82042c443136c168e950129a8309d1926e4bbf51d00",
+  "negRiskRequestID": "0xb64c11c25458ad17fa9cc9b6dd35e1e2b32a9a6300237fc825e9c587911171b5",
+  "events": [
+   {
+    "id": "95248",
+    "ticker": "berlin-state-election-winner",
+    "slug": "berlin-state-election-winner",
+    "title": "Berlin State Election Winner",
+    "description": "Parliamentary elections to elect the Abgeordnetehaus of Berlin are scheduled to take place in Berlin on September 20, 2026.\n\nThis market will resolve to the political party that wins the greatest number of seats in the formal deliberative assembly of Berlin (Abgeordnetenhaus) as a result of this election.\n\nIf voting in the Berlin election for the Abgeordnetenhaus does not occur by December 31, 2026, this market will resolve to \"Other\".\n\nIn the case of a tie between this party or coalition and any other for the most seats won, this market will resolve in favor of the party or coalition whose listed abbreviation comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by the named party or coalition.\n\nThis market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Election Office of Berlin (Landeswahlleiter Berlin https://www.berlin.de/wahlen/).",
+    "resolutionSource": "",
+    "startDate": "2025-12-02T11:38:43.603Z",
+    "creationDate": "2025-12-02T11:48:44.072123Z",
+    "endDate": "2026-09-20T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/berlin-state-election-winner-1CAHVXlT8kYr.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/berlin-state-election-winner-1CAHVXlT8kYr.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 4493545.094666,
+    "openInterest": 301209.31749499997,
+    "sortBy": "price",
+    "createdAt": "2025-12-01T20:47:14.241752Z",
+    "updatedAt": "2026-09-22T06:12:17.37631Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xb45c8ecc624e90bc1921f82042c443136c168e950129a8309d1926e4bbf51d00",
+    "commentCount": 80,
+    "cyom": false,
+    "closedTime": "2026-09-21T06:12:07Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-09-20T17:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Berlin",
+    "electionType": "Parliament",
+    "featuredOrder": 14,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-12-02T11:33:44.575413Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-12-02T11:38:16Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 120,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.048,
+  "oneWeekPriceChange": -0.096,
+  "oneMonthPriceChange": -0.141,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\", \"disputed\", \"disputed\", \"proposed\", \"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-12-02T11:34:10.890101Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1764720025,
+   "p": 0.0455
+  },
+  {
+   "t": 1764806416,
+   "p": 0.0515
+  },
+  {
+   "t": 1764892818,
+   "p": 0.0135
+  },
+  {
+   "t": 1764979219,
+   "p": 0.017
+  },
+  {
+   "t": 1765065632,
+   "p": 0.044
+  },
+  {
+   "t": 1765152031,
+   "p": 0.0435
+  },
+  {
+   "t": 1765238428,
+   "p": 0.0525
+  },
+  {
+   "t": 1765324816,
+   "p": 0.0575
+  },
+  {
+   "t": 1765411216,
+   "p": 0.0525
+  },
+  {
+   "t": 1765497617,
+   "p": 0.0585
+  },
+  {
+   "t": 1765584020,
+   "p": 0.06
+  },
+  {
+   "t": 1765670421,
+   "p": 0.0595
+  },
+  {
+   "t": 1765756823,
+   "p": 0.059
+  },
+  {
+   "t": 1765843219,
+   "p": 0.0595
+  },
+  {
+   "t": 1765929615,
+   "p": 0.066
+  },
+  {
+   "t": 1765929636,
+   "p": 0.066
+  },
+  {
+   "t": 1766016026,
+   "p": 0.066
+  },
+  {
+   "t": 1766102418,
+   "p": 0.066
+  },
+  {
+   "t": 1766188818,
+   "p": 0.071
+  },
+  {
+   "t": 1766275218,
+   "p": 0.076
+  },
+  {
+   "t": 1766361618,
+   "p": 0.076
+  },
+  {
+   "t": 1766448020,
+   "p": 0.0595
+  },
+  {
+   "t": 1766534420,
+   "p": 0.0595
+  },
+  {
+   "t": 1766620829,
+   "p": 0.0595
+  },
+  {
+   "t": 1766707214,
+   "p": 0.066
+  },
+  {
+   "t": 1766793619,
+   "p": 0.0675
+  },
+  {
+   "t": 1766880019,
+   "p": 0.0675
+  },
+  {
+   "t": 1766966436,
+   "p": 0.083
+  },
+  {
+   "t": 1767052823,
+   "p": 0.101
+  },
+  {
+   "t": 1767139220,
+   "p": 0.0875
+  },
+  {
+   "t": 1767225620,
+   "p": 0.0875
+  },
+  {
+   "t": 1767312019,
+   "p": 0.0655
+  },
+  {
+   "t": 1767398417,
+   "p": 0.069
+  },
+  {
+   "t": 1767484819,
+   "p": 0.064
+  },
+  {
+   "t": 1767571222,
+   "p": 0.064
+  },
+  {
+   "t": 1767657624,
+   "p": 0.064
+  },
+  {
+   "t": 1767744021,
+   "p": 0.067
+  },
+  {
+   "t": 1767830437,
+   "p": 0.066
+  },
+  {
+   "t": 1767916822,
+   "p": 0.0655
+  },
+  {
+   "t": 1768003223,
+   "p": 0.0655
+  },
+  {
+   "t": 1768089620,
+   "p": 0.0985
+  },
+  {
+   "t": 1768176022,
+   "p": 0.093
+  },
+  {
+   "t": 1768262423,
+   "p": 0.0725
+  },
+  {
+   "t": 1768348824,
+   "p": 0.0665
+  },
+  {
+   "t": 1768435226,
+   "p": 0.0415
+  },
+  {
+   "t": 1768521629,
+   "p": 0.05
+  },
+  {
+   "t": 1768608025,
+   "p": 0.061
+  },
+  {
+   "t": 1768694439,
+   "p": 0.0635
+  },
+  {
+   "t": 1768780821,
+   "p": 0.0535
+  },
+  {
+   "t": 1768867223,
+   "p": 0.055
+  },
+  {
+   "t": 1768953625,
+   "p": 0.0605
+  },
+  {
+   "t": 1769040036,
+   "p": 0.061
+  },
+  {
+   "t": 1769126442,
+   "p": 0.06
+  },
+  {
+   "t": 1769212839,
+   "p": 0.0725
+  },
+  {
+   "t": 1769299245,
+   "p": 0.068
+  },
+  {
+   "t": 1769385645,
+   "p": 0.0635
+  },
+  {
+   "t": 1769472038,
+   "p": 0.0645
+  },
+  {
+   "t": 1769558427,
+   "p": 0.0635
+  },
+  {
+   "t": 1769644842,
+   "p": 0.0625
+  },
+  {
+   "t": 1769731231,
+   "p": 0.0495
+  },
+  {
+   "t": 1769817631,
+   "p": 0.054
+  },
+  {
+   "t": 1769904038,
+   "p": 0.058
+  },
+  {
+   "t": 1769990430,
+   "p": 0.066
+  },
+  {
+   "t": 1770076834,
+   "p": 0.066
+  },
+  {
+   "t": 1770163243,
+   "p": 0.0665
+  },
+  {
+   "t": 1770249629,
+   "p": 0.066
+  },
+  {
+   "t": 1770336037,
+   "p": 0.09
+  },
+  {
+   "t": 1770422445,
+   "p": 0.0895
+  },
+  {
+   "t": 1770508840,
+   "p": 0.0775
+  },
+  {
+   "t": 1770595239,
+   "p": 0.066
+  },
+  {
+   "t": 1770681642,
+   "p": 0.0725
+  },
+  {
+   "t": 1770768048,
+   "p": 0.071
+  },
+  {
+   "t": 1770854452,
+   "p": 0.0735
+  },
+  {
+   "t": 1770940843,
+   "p": 0.0705
+  },
+  {
+   "t": 1771027247,
+   "p": 0.102
+  },
+  {
+   "t": 1771113646,
+   "p": 0.1095
+  },
+  {
+   "t": 1771200057,
+   "p": 0.116
+  },
+  {
+   "t": 1771286449,
+   "p": 0.1225
+  },
+  {
+   "t": 1771372853,
+   "p": 0.1205
+  },
+  {
+   "t": 1771459255,
+   "p": 0.109
+  },
+  {
+   "t": 1771545650,
+   "p": 0.11
+  },
+  {
+   "t": 1771632034,
+   "p": 0.115
+  },
+  {
+   "t": 1771718434,
+   "p": 0.1155
+  },
+  {
+   "t": 1771804840,
+   "p": 0.1035
+  },
+  {
+   "t": 1771891242,
+   "p": 0.103
+  },
+  {
+   "t": 1771977647,
+   "p": 0.1025
+  },
+  {
+   "t": 1772064042,
+   "p": 0.0995
+  },
+  {
+   "t": 1772150447,
+   "p": 0.1055
+  },
+  {
+   "t": 1772236846,
+   "p": 0.1075
+  },
+  {
+   "t": 1772409656,
+   "p": 0.153
+  },
+  {
+   "t": 1772496051,
+   "p": 0.154
+  },
+  {
+   "t": 1772582452,
+   "p": 0.173
+  },
+  {
+   "t": 1772668849,
+   "p": 0.139
+  },
+  {
+   "t": 1772755247,
+   "p": 0.1335
+  },
+  {
+   "t": 1772841652,
+   "p": 0.1305
+  },
+  {
+   "t": 1772928042,
+   "p": 0.097
+  },
+  {
+   "t": 1773014438,
+   "p": 0.1035
+  },
+  {
+   "t": 1773100846,
+   "p": 0.1265
+  },
+  {
+   "t": 1773187249,
+   "p": 0.128
+  },
+  {
+   "t": 1773273651,
+   "p": 0.1295
+  },
+  {
+   "t": 1773446442,
+   "p": 0.132
+  },
+  {
+   "t": 1773532844,
+   "p": 0.114
+  },
+  {
+   "t": 1773619255,
+   "p": 0.1155
+  },
+  {
+   "t": 1773705636,
+   "p": 0.1185
+  },
+  {
+   "t": 1773792037,
+   "p": 0.117
+  },
+  {
+   "t": 1773878448,
+   "p": 0.1255
+  },
+  {
+   "t": 1773964842,
+   "p": 0.1255
+  },
+  {
+   "t": 1774051240,
+   "p": 0.124
+  },
+  {
+   "t": 1774137637,
+   "p": 0.1405
+  },
+  {
+   "t": 1774224031,
+   "p": 0.1275
+  },
+  {
+   "t": 1774310428,
+   "p": 0.0955
+  },
+  {
+   "t": 1774396843,
+   "p": 0.112
+  },
+  {
+   "t": 1774483246,
+   "p": 0.102
+  },
+  {
+   "t": 1774569639,
+   "p": 0.099
+  },
+  {
+   "t": 1774656042,
+   "p": 0.1215
+  },
+  {
+   "t": 1774742446,
+   "p": 0.107
+  },
+  {
+   "t": 1774915255,
+   "p": 0.097
+  },
+  {
+   "t": 1775001659,
+   "p": 0.1275
+  },
+  {
+   "t": 1775088056,
+   "p": 0.11
+  },
+  {
+   "t": 1775692821,
+   "p": 0.112
+  },
+  {
+   "t": 1776556856,
+   "p": 0.099
+  },
+  {
+   "t": 1776816005,
+   "p": 0.1085
+  },
+  {
+   "t": 1776902405,
+   "p": 0.1175
+  },
+  {
+   "t": 1776988818,
+   "p": 0.1195
+  },
+  {
+   "t": 1777075210,
+   "p": 0.0985
+  },
+  {
+   "t": 1777161604,
+   "p": 0.0965
+  },
+  {
+   "t": 1777248004,
+   "p": 0.093
+  },
+  {
+   "t": 1777334404,
+   "p": 0.1115
+  },
+  {
+   "t": 1777420803,
+   "p": 0.123
+  },
+  {
+   "t": 1777507205,
+   "p": 0.155
+  },
+  {
+   "t": 1777593604,
+   "p": 0.1665
+  },
+  {
+   "t": 1777680004,
+   "p": 0.173
+  },
+  {
+   "t": 1777766406,
+   "p": 0.1795
+  },
+  {
+   "t": 1777852804,
+   "p": 0.169
+  },
+  {
+   "t": 1777939217,
+   "p": 0.17
+  },
+  {
+   "t": 1778025606,
+   "p": 0.182
+  },
+  {
+   "t": 1778112005,
+   "p": 0.19
+  },
+  {
+   "t": 1778198403,
+   "p": 0.1895
+  },
+  {
+   "t": 1778284822,
+   "p": 0.192
+  },
+  {
+   "t": 1778371204,
+   "p": 0.1915
+  },
+  {
+   "t": 1778457608,
+   "p": 0.191
+  },
+  {
+   "t": 1778544004,
+   "p": 0.1895
+  },
+  {
+   "t": 1778630408,
+   "p": 0.189
+  },
+  {
+   "t": 1778716808,
+   "p": 0.177
+  },
+  {
+   "t": 1778803206,
+   "p": 0.1845
+  },
+  {
+   "t": 1778889612,
+   "p": 0.205
+  },
+  {
+   "t": 1778976023,
+   "p": 0.201
+  },
+  {
+   "t": 1779062407,
+   "p": 0.195
+  },
+  {
+   "t": 1779148805,
+   "p": 0.2625
+  },
+  {
+   "t": 1779235208,
+   "p": 0.2585
+  },
+  {
+   "t": 1779321605,
+   "p": 0.2495
+  },
+  {
+   "t": 1779408009,
+   "p": 0.2565
+  },
+  {
+   "t": 1779494406,
+   "p": 0.257
+  },
+  {
+   "t": 1779580804,
+   "p": 0.2565
+  },
+  {
+   "t": 1779667204,
+   "p": 0.2575
+  },
+  {
+   "t": 1779753604,
+   "p": 0.2505
+  },
+  {
+   "t": 1779840005,
+   "p": 0.2565
+  },
+  {
+   "t": 1779926405,
+   "p": 0.28
+  },
+  {
+   "t": 1780012807,
+   "p": 0.2405
+  },
+  {
+   "t": 1780099218,
+   "p": 0.2415
+  },
+  {
+   "t": 1780185607,
+   "p": 0.2345
+  },
+  {
+   "t": 1780272003,
+   "p": 0.2505
+  },
+  {
+   "t": 1780358405,
+   "p": 0.241
+  },
+  {
+   "t": 1780444805,
+   "p": 0.2585
+  },
+  {
+   "t": 1780531203,
+   "p": 0.249
+  },
+  {
+   "t": 1780617618,
+   "p": 0.2485
+  },
+  {
+   "t": 1780704003,
+   "p": 0.2485
+  },
+  {
+   "t": 1780790413,
+   "p": 0.2535
+  },
+  {
+   "t": 1780876803,
+   "p": 0.251
+  },
+  {
+   "t": 1780963203,
+   "p": 0.2485
+  },
+  {
+   "t": 1781049604,
+   "p": 0.2415
+  },
+  {
+   "t": 1781136005,
+   "p": 0.2125
+  },
+  {
+   "t": 1781222404,
+   "p": 0.1635
+  },
+  {
+   "t": 1781308804,
+   "p": 0.1595
+  },
+  {
+   "t": 1781395207,
+   "p": 0.1555
+  },
+  {
+   "t": 1781481603,
+   "p": 0.16
+  },
+  {
+   "t": 1781568006,
+   "p": 0.1825
+  },
+  {
+   "t": 1781654405,
+   "p": 0.1675
+  },
+  {
+   "t": 1781740816,
+   "p": 0.1635
+  },
+  {
+   "t": 1781827221,
+   "p": 0.163
+  },
+  {
+   "t": 1781913604,
+   "p": 0.167
+  },
+  {
+   "t": 1782000006,
+   "p": 0.166
+  },
+  {
+   "t": 1782086405,
+   "p": 0.1655
+  },
+  {
+   "t": 1782172804,
+   "p": 0.1615
+  },
+  {
+   "t": 1782259204,
+   "p": 0.167
+  },
+  {
+   "t": 1782345604,
+   "p": 0.163
+  },
+  {
+   "t": 1782432003,
+   "p": 0.165
+  },
+  {
+   "t": 1782518404,
+   "p": 0.1645
+  },
+  {
+   "t": 1782604804,
+   "p": 0.1645
+  },
+  {
+   "t": 1782691203,
+   "p": 0.156
+  },
+  {
+   "t": 1782777604,
+   "p": 0.1515
+  },
+  {
+   "t": 1782864003,
+   "p": 0.1525
+  },
+  {
+   "t": 1782950404,
+   "p": 0.151
+  },
+  {
+   "t": 1783036804,
+   "p": 0.127
+  },
+  {
+   "t": 1783123203,
+   "p": 0.1235
+  },
+  {
+   "t": 1783209603,
+   "p": 0.1295
+  },
+  {
+   "t": 1783296004,
+   "p": 0.1425
+  },
+  {
+   "t": 1783382408,
+   "p": 0.1535
+  },
+  {
+   "t": 1783468804,
+   "p": 0.2
+  },
+  {
+   "t": 1783555208,
+   "p": 0.2135
+  },
+  {
+   "t": 1783641605,
+   "p": 0.218
+  },
+  {
+   "t": 1783728006,
+   "p": 0.2255
+  },
+  {
+   "t": 1783814418,
+   "p": 0.2155
+  },
+  {
+   "t": 1783900806,
+   "p": 0.209
+  },
+  {
+   "t": 1783987205,
+   "p": 0.2055
+  },
+  {
+   "t": 1784073605,
+   "p": 0.1985
+  },
+  {
+   "t": 1784160004,
+   "p": 0.1855
+  },
+  {
+   "t": 1784246406,
+   "p": 0.1155
+  },
+  {
+   "t": 1784332804,
+   "p": 0.1265
+  },
+  {
+   "t": 1784419205,
+   "p": 0.1265
+  },
+  {
+   "t": 1784505618,
+   "p": 0.1285
+  },
+  {
+   "t": 1784592006,
+   "p": 0.1315
+  },
+  {
+   "t": 1784678405,
+   "p": 0.1305
+  },
+  {
+   "t": 1784764812,
+   "p": 0.133
+  },
+  {
+   "t": 1784851210,
+   "p": 0.2205
+  },
+  {
+   "t": 1784937610,
+   "p": 0.2135
+  },
+  {
+   "t": 1785024011,
+   "p": 0.214
+  },
+  {
+   "t": 1785110413,
+   "p": 0.226
+  },
+  {
+   "t": 1785196816,
+   "p": 0.223
+  },
+  {
+   "t": 1785283236,
+   "p": 0.2235
+  },
+  {
+   "t": 1785369623,
+   "p": 0.1775
+  },
+  {
+   "t": 1785456020,
+   "p": 0.177
+  },
+  {
+   "t": 1785542412,
+   "p": 0.1775
+  },
+  {
+   "t": 1785628812,
+   "p": 0.1645
+  },
+  {
+   "t": 1785715210,
+   "p": 0.1495
+  },
+  {
+   "t": 1785801611,
+   "p": 0.174
+  },
+  {
+   "t": 1785888012,
+   "p": 0.1735
+  },
+  {
+   "t": 1785974409,
+   "p": 0.1755
+  },
+  {
+   "t": 1786060811,
+   "p": 0.1715
+  },
+  {
+   "t": 1786147214,
+   "p": 0.1735
+  },
+  {
+   "t": 1786233624,
+   "p": 0.1695
+  },
+  {
+   "t": 1786320015,
+   "p": 0.1725
+  },
+  {
+   "t": 1786406420,
+   "p": 0.173
+  },
+  {
+   "t": 1786492812,
+   "p": 0.1775
+  },
+  {
+   "t": 1786579216,
+   "p": 0.167
+  },
+  {
+   "t": 1786665615,
+   "p": 0.1665
+  },
+  {
+   "t": 1786752014,
+   "p": 0.1735
+  },
+  {
+   "t": 1786838415,
+   "p": 0.1415
+  },
+  {
+   "t": 1786924816,
+   "p": 0.1515
+  },
+  {
+   "t": 1787011227,
+   "p": 0.1515
+  },
+  {
+   "t": 1787097617,
+   "p": 0.156
+  },
+  {
+   "t": 1787184019,
+   "p": 0.165
+  },
+  {
+   "t": 1787270417,
+   "p": 0.1715
+  },
+  {
+   "t": 1787356816,
+   "p": 0.1495
+  },
+  {
+   "t": 1787443215,
+   "p": 0.1075
+  },
+  {
+   "t": 1787529618,
+   "p": 0.0975
+  },
+  {
+   "t": 1787616016,
+   "p": 0.0945
+  },
+  {
+   "t": 1787702417,
+   "p": 0.106
+  },
+  {
+   "t": 1787788818,
+   "p": 0.107
+  },
+  {
+   "t": 1787875217,
+   "p": 0.102
+  },
+  {
+   "t": 1787961618,
+   "p": 0.094
+  },
+  {
+   "t": 1788048017,
+   "p": 0.0855
+  },
+  {
+   "t": 1788134418,
+   "p": 0.085
+  },
+  {
+   "t": 1788220828,
+   "p": 0.0865
+  },
+  {
+   "t": 1788307216,
+   "p": 0.114
+  },
+  {
+   "t": 1788393620,
+   "p": 0.098
+  },
+  {
+   "t": 1788480017,
+   "p": 0.094
+  },
+  {
+   "t": 1788566416,
+   "p": 0.11
+  },
+  {
+   "t": 1788652822,
+   "p": 0.1105
+  },
+  {
+   "t": 1788739231,
+   "p": 0.174
+  },
+  {
+   "t": 1788825615,
+   "p": 0.166
+  },
+  {
+   "t": 1788912022,
+   "p": 0.122
+  },
+  {
+   "t": 1788998417,
+   "p": 0.131
+  },
+  {
+   "t": 1789084818,
+   "p": 0.1405
+  },
+  {
+   "t": 1789171218,
+   "p": 0.0875
+  },
+  {
+   "t": 1789257617,
+   "p": 0.077
+  },
+  {
+   "t": 1789344015,
+   "p": 0.0985
+  },
+  {
+   "t": 1789430414,
+   "p": 0.0885
+  },
+  {
+   "t": 1789516815,
+   "p": 0.0775
+  },
+  {
+   "t": 1789603216,
+   "p": 0.0535
+  },
+  {
+   "t": 1789689619,
+   "p": 0.0625
+  },
+  {
+   "t": 1789776019,
+   "p": 0.0415
+  },
+  {
+   "t": 1789862419,
+   "p": 0.0545
+  },
+  {
+   "t": 1789948815,
+   "p": 0.0005
+  }
+ ]
+}

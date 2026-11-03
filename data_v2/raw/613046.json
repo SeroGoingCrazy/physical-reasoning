@@ -1,0 +1,283 @@
+{
+ "market": {
+  "id": "613046",
+  "question": "Will Exxon Mobil (XOM) beat quarterly earnings?",
+  "conditionId": "0x8b7ffa2267c76412d7eff4b0382e8ad411ec128ad6d09cebbe10ca02d25d67bc",
+  "slug": "xom-quarterly-earnings-nongaap-eps-2025-10-31-1pt75",
+  "resolutionSource": "",
+  "endDate": "2025-10-31T00:00:00Z",
+  "startDate": "2025-09-26T14:11:38.585Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-exxon-mobil-xom-beat-quarterly-earnings-nongaap-Sa6B5ea5GgMQ.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-exxon-mobil-xom-beat-quarterly-earnings-nongaap-Sa6B5ea5GgMQ.png",
+  "description": "Exxon Mobil is estimated to release earnings on October 6, 2025. The Street consensus estimate for Exxon Mobil\u2019s non-GAAP EPS for the relevant quarter is $1.75. This market will resolve to \"Yes\" if Exxon Mobil reports non-GAAP EPS greater than $1.75 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to \"No.\" The resolution source will be the non-GAAP EPS listed in the company\u2019s official earnings documents.\n\nIf Exxon Mobil releases earnings without non-GAAP EPS, then the market will resolve according to the non-GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve according to the GAAP EPS listed in the company\u2019s official earnings documents; or, if not published there, according to the GAAP EPS provided by SeekingAlpha. If no GAAP EPS number is available from either source at that time, the market will resolve to \u201cNo.\u201d (For the purposes of this market, GAAP EPS refers to diluted GAAP EPS, unless it is not published, in which case it refers to basic GAAP EPS.)\n\nIf the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to \u201cNo.\u201d\n\nNote: Subsequent restatements, corrections, or revisions made to the initially announced non-GAAP EPS figure will not qualify for resolution.\nNote: The strike prices used in these markets are derived from SeekingAlpha estimates, and reflect the consensus of sell-side analyst estimates for non-GAAP EPS.\nNote: All figures will be rounded to the nearest cent using standard rounding.\nNote: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.\nNote: If multiple versions of non-GAAP EPS are published, the market will resolve according to the primary headline non-GAAP EPS number, which is typically presented on a diluted basis. If diluted is not published, then basic non-GAAP EPS will qualify.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "74422.781346",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-09-25T23:12:28.973317Z",
+  "updatedAt": "2026-02-03T03:05:26.62434Z",
+  "closedTime": "2025-10-31 14:35:32+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0x8245d84d9f9a2fc765380236fb1faefdf124c511cf67775fa898a8b35e218d23",
+  "umaEndDate": "2025-10-31T14:35:32Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 74422.781346,
+  "endDateIso": "2025-10-31",
+  "startDateIso": "2025-09-26",
+  "hasReviewedDates": true,
+  "volume1wk": 32089.157181000006,
+  "volume1mo": 65295.727546,
+  "volume1yr": 74422.781346,
+  "clobTokenIds": "[\"16909312493286796991004921152045887015304649758245227075460494815415481094653\", \"80704965075011098851649145472612346439987472535253757475270587766261451418770\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 32089.157181000006,
+  "volume1moClob": 65295.727546,
+  "volume1yrClob": 74422.781346,
+  "volumeClob": 74422.781346,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "49940",
+    "ticker": "xom-quarterly-earnings-nongaap-eps-2025-10-31-1pt75",
+    "slug": "xom-quarterly-earnings-nongaap-eps-2025-10-31-1pt75",
+    "title": "Will Exxon Mobil (XOM) beat quarterly earnings?",
+    "description": "Exxon Mobil is estimated to release earnings on October 6, 2025. The Street consensus estimate for Exxon Mobil\u2019s non-GAAP EPS for the relevant quarter is $1.75. This market will resolve to \"Yes\" if Exxon Mobil reports non-GAAP EPS greater than $1.75 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to \"No.\" The resolution source will be the non-GAAP EPS listed in the company\u2019s official earnings documents.\n\nIf Exxon Mobil releases earnings without non-GAAP EPS, then the market will resolve according to the non-GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve according to the GAAP EPS listed in the company\u2019s official earnings documents; or, if not published there, according to the GAAP EPS provided by SeekingAlpha. If no GAAP EPS number is available from either source at that time, the market will resolve to \u201cNo.\u201d (For the purposes of this market, GAAP EPS refers to diluted GAAP EPS, unless it is not published, in which case it refers to basic GAAP EPS.)\n\nIf the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to \u201cNo.\u201d\n\nNote: Subsequent restatements, corrections, or revisions made to the initially announced non-GAAP EPS figure will not qualify for resolution.\nNote: The strike prices used in these markets are derived from SeekingAlpha estimates, and reflect the consensus of sell-side analyst estimates for non-GAAP EPS.\nNote: All figures will be rounded to the nearest cent using standard rounding.\nNote: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.\nNote: If multiple versions of non-GAAP EPS are published, the market will resolve according to the primary headline non-GAAP EPS number, which is typically presented on a diluted basis. If diluted is not published, then basic non-GAAP EPS will qualify.",
+    "resolutionSource": "",
+    "startDate": "2025-09-26T14:12:36.060567Z",
+    "creationDate": "2025-09-26T14:12:36.060564Z",
+    "endDate": "2025-10-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-exxon-mobil-xom-beat-quarterly-earnings-nongaap-Sa6B5ea5GgMQ.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-exxon-mobil-xom-beat-quarterly-earnings-nongaap-Sa6B5ea5GgMQ.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 74422.781346,
+    "openInterest": 0,
+    "createdAt": "2025-09-25T23:12:28.173279Z",
+    "updatedAt": "2026-02-03T03:05:25.844574Z",
+    "volume1wk": 32089.157181000006,
+    "volume1mo": 65295.727546,
+    "volume1yr": 74422.781346,
+    "enableOrderBook": true,
+    "commentCount": 8,
+    "cyom": false,
+    "closedTime": "2025-10-31T14:35:32Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "startTime": "2025-10-31T10:55:00Z",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-09-26T14:11:17Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "35909",
+    "conditionId": "0x8b7ffa2267c76412d7eff4b0382e8ad411ec128ad6d09cebbe10ca02d25d67bc",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 3,
+    "startDate": "2025-09-26",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.154,
+  "oneWeekPriceChange": 0.209,
+  "oneMonthPriceChange": 0.2045,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-09-26T14:08:38.799507Z",
+  "rfqEnabled": false,
+  "eventStartTime": "2025-10-31T10:55:00Z",
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1758931208,
+   "p": 0.77
+  },
+  {
+   "t": 1759017614,
+   "p": 0.77
+  },
+  {
+   "t": 1759104008,
+   "p": 0.755
+  },
+  {
+   "t": 1759190408,
+   "p": 0.76
+  },
+  {
+   "t": 1759276809,
+   "p": 0.79
+  },
+  {
+   "t": 1759363210,
+   "p": 0.84
+  },
+  {
+   "t": 1759449611,
+   "p": 0.865
+  },
+  {
+   "t": 1759536005,
+   "p": 0.8
+  },
+  {
+   "t": 1759622405,
+   "p": 0.835
+  },
+  {
+   "t": 1759708805,
+   "p": 0.85
+  },
+  {
+   "t": 1759795209,
+   "p": 0.84
+  },
+  {
+   "t": 1759881602,
+   "p": 0.83
+  },
+  {
+   "t": 1759968008,
+   "p": 0.895
+  },
+  {
+   "t": 1760054417,
+   "p": 0.865
+  },
+  {
+   "t": 1760140813,
+   "p": 0.989
+  },
+  {
+   "t": 1760227214,
+   "p": 0.9625
+  },
+  {
+   "t": 1760313609,
+   "p": 0.95
+  },
+  {
+   "t": 1760400009,
+   "p": 0.9555
+  },
+  {
+   "t": 1760486414,
+   "p": 0.8725
+  },
+  {
+   "t": 1760572818,
+   "p": 0.8675
+  },
+  {
+   "t": 1760659214,
+   "p": 0.8415
+  },
+  {
+   "t": 1760745618,
+   "p": 0.8485
+  },
+  {
+   "t": 1760832005,
+   "p": 0.7865
+  },
+  {
+   "t": 1760918414,
+   "p": 0.795
+  },
+  {
+   "t": 1761004803,
+   "p": 0.784
+  },
+  {
+   "t": 1761091224,
+   "p": 0.829
+  },
+  {
+   "t": 1761177612,
+   "p": 0.777
+  },
+  {
+   "t": 1761264021,
+   "p": 0.7845
+  },
+  {
+   "t": 1761350418,
+   "p": 0.783
+  },
+  {
+   "t": 1761436823,
+   "p": 0.774
+  },
+  {
+   "t": 1761523219,
+   "p": 0.77
+  },
+  {
+   "t": 1761609624,
+   "p": 0.772
+  },
+  {
+   "t": 1761696022,
+   "p": 0.7805
+  },
+  {
+   "t": 1761782423,
+   "p": 0.8805
+  },
+  {
+   "t": 1761868815,
+   "p": 0.8475
+  }
+ ]
+}

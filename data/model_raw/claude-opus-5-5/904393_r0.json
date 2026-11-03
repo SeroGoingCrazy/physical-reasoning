@@ -1,0 +1,27 @@
+{
+ "id": "904393",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.22,
+ "reasoning": "The 2026 Kansas GOP gubernatorial primary field is crowded. It includes former Gov. Jeff Colyer, Secretary of State Scott Schwab, Senate President Ty Masterson, Insurance Commissioner Vicki Schmidt, and several lesser-known candidates. Masterson is a strong movement-conservative candidate with legislative backing and solid fundraising. Early polling I recall, however, generally showed Colyer and Schwab ahead on name recognition, with Masterson in the low teens and many voters undecided. A Trump endorsement could reshape the race, and Masterson is a plausible recipient, but I am not aware of one as of now. Given a plurality-wins primary with three or four viable candidates, I estimate Masterson's chances at roughly one in five.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 678,
+  "output_tokens": 550,
+  "output_tokens_details": {
+   "thinking_tokens": 269
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.013712000000000002
+}

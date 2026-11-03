@@ -1,0 +1,216 @@
+{
+ "market": {
+  "id": "5167103",
+  "question": "Will the next Claude Haiku model (4.6+) debut at a score of at least 1440 by June 30, 2027?",
+  "conditionId": "0x3a2e70ca0e2ef6e81ea24c749affe96f7cc2218f665e4feab8b5208453cb6a47",
+  "slug": "will-the-next-claude-haiku-model-4pt6-debut-at-a-score-of-at-least-1440-by-june-30-2027",
+  "resolutionSource": "https://arena.ai/leaderboard/text/overall-no-style-control",
+  "endDate": "2027-07-01T03:59:00Z",
+  "startDate": "2026-10-01T00:11:51Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+  "description": "This market will resolve to \"Yes\" if the next Anthropic Claude Haiku model (4.6+) added to the Arena.AI Leaderboard (https://arena.ai/leaderboard/text/overall-no-style-control) has at least the specified score at 12:00 PM ET on the calendar date following the date on which it first appears on the leaderboard. Otherwise, this market will resolve to \"No\".\n\nA qualifying model must have a name or model identifier that includes \"Haiku\" and be designated as version 4.6 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 4.6 or higher named in the same manner as Claude Haiku 4.5 would qualify, including a new whole-number generation such as Claude Haiku 5, while models whose name does not include \"Haiku\" or which retain a version designation below 4.6, such as Claude Haiku 4.5, including any rollout, promotion, or snapshot of it, will not qualify.\n\nResults from the \"Score\" column under the \"Text Arena | Overall\" Leaderboard tab at https://arena.ai/leaderboard/text/overall-no-style-control with style control off will be used to resolve this market. This market will resolve solely based on the specified score in the Score column of the leaderboard, regardless of any underlying granular or unrounded data presented elsewhere.\n\nA model marked \"AutoEval\" will not be considered added to the leaderboard. Only scores displayed without the \"AutoEval\" label will be considered.\n\nIf multiple models are added to the leaderboard on the same calendar date (ET), the highest-scoring model will be used for resolution. Models added to the leaderboard on the calendar date following the initial qualifying model's first appearance will not be considered. If a model is first added to the Arena.AI Leaderboard but is subsequently removed and not re-added, such that it is not displayed on the leaderboard at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Arena.AI Leaderboard.\n\nA qualifying model must be newly added to the Arena.AI Leaderboard. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the leaderboard is irrelevant for this market.\n\nThe resolution source for this market is the Chatbot Arena LLM Leaderboard found at https://arena.ai/leaderboard/text/overall-no-style-control. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the leaderboard, this market will resolve based on the first subsequent instance at which such a score becomes available on the leaderboard. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the leaderboard or if no qualifying model release occurs by June 30, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "48208.497298999995",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-10-01T00:11:31.529198Z",
+  "updatedAt": "2026-10-24T17:30:56.866027Z",
+  "closedTime": "2026-10-23 18:01:08.333147+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xAC9930b2AE455a671b62dE86876A7e8587825294",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "1440+",
+  "groupItemThreshold": "2",
+  "questionID": "0x3dc9e6e0b84796c22d0226687940b9b982c007c8a48c8228c8d077aca6bfb05f",
+  "umaEndDate": "2026-10-23 18:01:08.333147+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 48208.497298999995,
+  "endDateIso": "2027-07-01",
+  "startDateIso": "2026-10-01",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"54227367167847501116789713010233664143672822167752915513385378116918872534415\", \"81935277600867995067708260336544935651158221159111723209925186105040520348474\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 48208.497298999995,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "1111228",
+    "ticker": "next-claude-haiku-model-4pt6-text-arena-debut-20260930",
+    "slug": "next-claude-haiku-model-4pt6-text-arena-debut-20260930",
+    "title": "Next Claude Haiku Model (4.6+): Text Arena Debut?",
+    "description": "This market will resolve to \"Yes\" if the next Anthropic Claude Haiku model (4.6+) added to the Arena.AI Leaderboard (https://arena.ai/leaderboard/text/overall-no-style-control) has at least the specified score at 12:00 PM ET on the calendar date following the date on which it first appears on the leaderboard. Otherwise, this market will resolve to \"No\".\n\nA qualifying model must have a name or model identifier that includes \"Haiku\" and be designated as version 4.6 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 4.6 or higher named in the same manner as Claude Haiku 4.5 would qualify, including a new whole-number generation such as Claude Haiku 5, while models whose name does not include \"Haiku\" or which retain a version designation below 4.6, such as Claude Haiku 4.5, including any rollout, promotion, or snapshot of it, will not qualify.\n\nResults from the \"Score\" column under the \"Text Arena | Overall\" Leaderboard tab at https://arena.ai/leaderboard/text/overall-no-style-control with style control off will be used to resolve this market. This market will resolve solely based on the specified score in the Score column of the leaderboard, regardless of any underlying granular or unrounded data presented elsewhere.\n\nA model marked \"AutoEval\" will not be considered added to the leaderboard. Only scores displayed without the \"AutoEval\" label will be considered.\n\nIf multiple models are added to the leaderboard on the same calendar date (ET), the highest-scoring model will be used for resolution. Models added to the leaderboard on the calendar date following the initial qualifying model's first appearance will not be considered. If a model is first added to the Arena.AI Leaderboard but is subsequently removed and not re-added, such that it is not displayed on the leaderboard at 12:00 PM ET on the calendar date following its first appearance, its appearance will not qualify as added to the Arena.AI Leaderboard.\n\nA qualifying model must be newly added to the Arena.AI Leaderboard. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the leaderboard is irrelevant for this market.\n\nThe resolution source for this market is the Chatbot Arena LLM Leaderboard found at https://arena.ai/leaderboard/text/overall-no-style-control. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the leaderboard, this market will resolve based on the first subsequent instance at which such a score becomes available on the leaderboard. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the leaderboard or if no qualifying model release occurs by June 30, 2027, 11:59 PM ET, this market will resolve to \"No\".",
+    "resolutionSource": "https://arena.ai/leaderboard/text/overall-no-style-control",
+    "startDate": "2026-10-01T00:11:50Z",
+    "creationDate": "2026-10-01T00:13:45.115224Z",
+    "endDate": "2027-07-01T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/claude-4pt7-released-by-LSHFPBEUsncm.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 150884.13788899998,
+    "openInterest": 47123.627204000004,
+    "sortBy": "ascending",
+    "createdAt": "2026-10-01T00:11:29.64221Z",
+    "updatedAt": "2026-10-24T17:59:02.824329Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 8,
+    "cyom": false,
+    "closedTime": "2026-10-23T18:01:15Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-10-01T00:11:51Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.6645,
+  "oneWeekPriceChange": -0.6895,
+  "lastTradePrice": 0.002,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-10-01T00:11:42.761717Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1790899219,
+   "p": 0.435
+  },
+  {
+   "t": 1790985623,
+   "p": 0.345
+  },
+  {
+   "t": 1791072019,
+   "p": 0.375
+  },
+  {
+   "t": 1791158423,
+   "p": 0.335
+  },
+  {
+   "t": 1791244822,
+   "p": 0.38
+  },
+  {
+   "t": 1791331225,
+   "p": 0.365
+  },
+  {
+   "t": 1791417638,
+   "p": 0.345
+  },
+  {
+   "t": 1791504039,
+   "p": 0.48
+  },
+  {
+   "t": 1791590426,
+   "p": 0.585
+  },
+  {
+   "t": 1791676832,
+   "p": 0.755
+  },
+  {
+   "t": 1791763242,
+   "p": 0.61
+  },
+  {
+   "t": 1791849635,
+   "p": 0.715
+  },
+  {
+   "t": 1791936033,
+   "p": 0.725
+  },
+  {
+   "t": 1792022449,
+   "p": 0.615
+  },
+  {
+   "t": 1792108834,
+   "p": 0.685
+  },
+  {
+   "t": 1792195240,
+   "p": 0.73
+  },
+  {
+   "t": 1792368033,
+   "p": 0.6
+  },
+  {
+   "t": 1792454433,
+   "p": 0.725
+  },
+  {
+   "t": 1792540835,
+   "p": 0.675
+  },
+  {
+   "t": 1792713651,
+   "p": 0.0015
+  }
+ ]
+}

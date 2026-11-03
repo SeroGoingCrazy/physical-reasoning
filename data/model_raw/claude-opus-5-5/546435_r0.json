@@ -1,0 +1,27 @@
+{
+ "id": "546435",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.04,
+ "reasoning": "The 2025 Best Play nominees are English, The Hills of California, John Proctor Is the Villain, Oh, Mary!, and Purpose. Purpose, by Branden Jacobs-Jenkins, won the Pulitzer Prize and major critics' awards, which makes it the clear frontrunner. Oh, Mary! is a popular comedy hit and a plausible upset pick, but Tony voters tend to favor serious, critically lauded dramas in this category. I also believe Purpose actually won the award, though I'm basing that on memory rather than anything I can check. Either way, Oh, Mary!'s chances look low.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 779,
+  "output_tokens": 399,
+  "output_tokens_details": {
+   "thinking_tokens": 172
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.011095999999999998
+}

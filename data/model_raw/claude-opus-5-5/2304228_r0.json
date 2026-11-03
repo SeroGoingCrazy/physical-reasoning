@@ -1,0 +1,27 @@
+{
+ "id": "2304228",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.7,
+ "reasoning": "Through 2025 and into 2026, polls consistently had the Social Democrats far ahead at roughly 33-35%. That makes it very unlikely the Sweden Democrats finish first. For second place, SD (about 19-21%) has generally polled a couple of points ahead of the Moderates (about 17-19%). SD also finished second in 2022 with 20.5% to M's 19.1%. However, the gap is small. Kristersson's Moderates could gain from incumbency and campaign dynamics, and SD has sometimes underperformed or overperformed its polls. Overall, SD is the favorite for second, with meaningful risk of M overtaking it.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 874,
+  "output_tokens": 429,
+  "output_tokens_details": {
+   "thinking_tokens": 196
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.012076
+}

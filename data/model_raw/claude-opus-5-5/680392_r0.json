@@ -1,0 +1,27 @@
+{
+ "id": 680392,
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.8,
+ "reasoning": "The November 2025 deal funded most of the government through a CR expiring January 30, 2026, so any lapse would begin Saturday, January 31, inside the window. As best I recall, though I'm not certain, Congress stalled in late January 2026 over DHS/ICE funding after the Minneapolis shooting. The Senate passed a package splitting off DHS, but the House was out until early February. That would mean a brief partial lapse began January 31 and ended around February 3. Partial shutdowns count, so the main risk is whether OPM posted the shutdown status on its operating status page by the deadline. I think it likely did.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 686,
+  "output_tokens": 802,
+  "output_tokens_details": {
+   "thinking_tokens": 586
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.018784
+}

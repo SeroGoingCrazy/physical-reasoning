@@ -1,0 +1,27 @@
+{
+ "id": "546066",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.96,
+ "reasoning": "As of May 20, 2025, Republicans were moving the 'One Big Beautiful Bill Act' through reconciliation, and leadership had set a July 4 target for final passage. I believe I know how this resolved. The House passed its version in late May. The Senate passed an amended version on July 1, 2025, with Vice President Vance breaking a 50-50 tie. The House then passed the Senate version on July 3, 2025, and the President signed it on July 4. Final passage by both chambers therefore falls within the July 1\u20136 window. The main residual uncertainty is how 'passed by both chambers' is interpreted, but the final House vote on July 3 fits the window.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 660,
+  "output_tokens": 406,
+  "output_tokens_details": {
+   "thinking_tokens": 173
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.01076
+}

@@ -1,0 +1,27 @@
+{
+ "id": "546435",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.65,
+ "reasoning": "The 2025 Best Play nominees were announced May 1, 2025, and Oh, Mary! (Cole Escola's comedy about Mary Todd Lincoln) was widely viewed as the frontrunner. It was a major critical and commercial hit, and Escola was also nominated for Best Actor in a Play. The main rivals were Eureka Day and Purpose, both strongly reviewed, and Good Night, and Good Luck was also in the field. Frontrunner status in a crowded category usually translates to a win at roughly 55-70% of the time, so I put Oh, Mary! at about 0.65. I do not know the actual result.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 779,
+  "output_tokens": 855,
+  "output_tokens_details": {
+   "thinking_tokens": 627
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0005054
+}

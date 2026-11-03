@@ -1,0 +1,216 @@
+{
+ "market": {
+  "id": "2686769",
+  "question": "Iran full airspace closure by July 15?",
+  "conditionId": "0x6c486242e79252cc0bb57163a3b8d95e3b9538ea6a1de2e91848beeb5c6ad986",
+  "slug": "iran-full-airspace-closure-by-july-15-20260625195254149",
+  "resolutionSource": "",
+  "endDate": "2026-07-16T03:59:00Z",
+  "startDate": "2026-06-25T23:23:30.308911Z",
+  "description": "This market will resolve to \u201cYes\u201d if Iran initiates a general closure of its airspace, that is not solely due to weather conditions, between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cgeneral closure\u201d refers to a cancellation or suspension of aviation which is generally applicable to all commercial flights transiting Iranian airspace (\u201cTehran FIR\u201d). A qualifying closure must apply generally to all of Iran or the Tehran FIR; limited cancellations, delays, or partial closures will not qualify. A closure which applies generally to commercial aviation across Iranian airspace, with limited exceptions for certain categories of flights, however, will qualify (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted).\n\nQualifying previous examples include the February 28, 2026 total closure of Iranian airspace (https://www.iranintl.com/en/202602289115) and the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508), the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/), and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in Iran (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions, earthquakes, or volcanic eruptions, will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "2765135.5831030095",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-25T23:21:25.134179Z",
+  "updatedAt": "2026-10-27T00:04:25.720452Z",
+  "closedTime": "2026-07-16 06:02:58+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "July 15",
+  "groupItemThreshold": "1",
+  "questionID": "0xa49baf53ab3f197dc19ad82a73e9bc5d6037835b02d9cf49b0cf94c09c1b4932",
+  "umaEndDate": "2026-07-16T06:02:58Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 2765135.5831030095,
+  "endDateIso": "2026-07-16",
+  "startDateIso": "2026-06-25",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"52963494160068825127098157164670656956085033747496799452064279590159408329367\", \"75658129469642677428107762473911474770056236283203014540908853100726765149941\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 2765135.5831030095,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "634802",
+    "ticker": "iran-full-airspace-closure-byptptpt-20260625195253028",
+    "slug": "iran-full-airspace-closure-byptptpt-20260625195253028",
+    "title": "Iran full airspace closure by...?",
+    "description": "This market will resolve to \u201cYes\u201d if Iran initiates a general closure of its airspace, that is not solely due to weather conditions, between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nA \u201cgeneral closure\u201d refers to a cancellation or suspension of aviation which is generally applicable to all commercial flights transiting Iranian airspace (\u201cTehran FIR\u201d). A qualifying closure must apply generally to all of Iran or the Tehran FIR; limited cancellations, delays, or partial closures will not qualify. A closure which applies generally to commercial aviation across Iranian airspace, with limited exceptions for certain categories of flights, however, will qualify (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted).\n\nQualifying previous examples include the February 28, 2026 total closure of Iranian airspace (https://www.iranintl.com/en/202602289115) and the January 2026 total closure of Iranian airspace except to international flights with express governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508), the April 2024 closure of Iran\u2019s western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/), and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in Iran (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).\n\nWarnings, No-Fly-Zones, or other flight restrictions imposed by airlines or countries other than Iran will not be sufficient for a \u201cYes\u201d resolution.\n\nAirspace closures which occur solely due to weather conditions, earthquakes, or volcanic eruptions, will not qualify.\n\nThe primary resolution sources for this market will be official information from Iranian aviation authorities and a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2026-06-25T23:23:30.308911Z",
+    "creationDate": "2026-06-25T23:25:04.311314Z",
+    "endDate": "2027-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-full-airspace-closure-byptptpt-20260625195253028-7rbGPCHobYvq.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/iran-full-airspace-closure-byptptpt-20260625195253028-7rbGPCHobYvq.jpg",
+    "active": true,
+    "closed": false,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "liquidity": 71676.5975,
+    "volume": 10829455.553248009,
+    "openInterest": 115013.64518800001,
+    "sortBy": "ascending",
+    "createdAt": "2026-06-25T23:21:24.63418Z",
+    "updatedAt": "2026-11-02T20:51:32.712948Z",
+    "competitive": 0.9807767752059631,
+    "volume24hr": 60103.040062,
+    "volume1wk": 125064.06374700001,
+    "volume1mo": 475755.163722,
+    "volume1yr": 855080.865039,
+    "enableOrderBook": true,
+    "liquidityClob": 71676.5975,
+    "negRisk": false,
+    "commentCount": 1027,
+    "cyom": false,
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-25T23:22:41Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.025,
+  "oneWeekPriceChange": -0.123,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-25T23:21:40.334801Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1782432007,
+   "p": 0.495
+  },
+  {
+   "t": 1782518407,
+   "p": 0.195
+  },
+  {
+   "t": 1782604807,
+   "p": 0.23
+  },
+  {
+   "t": 1782691206,
+   "p": 0.105
+  },
+  {
+   "t": 1782777607,
+   "p": 0.095
+  },
+  {
+   "t": 1782864007,
+   "p": 0.095
+  },
+  {
+   "t": 1782950411,
+   "p": 0.155
+  },
+  {
+   "t": 1783036808,
+   "p": 0.08
+  },
+  {
+   "t": 1783123207,
+   "p": 0.05
+  },
+  {
+   "t": 1783209607,
+   "p": 0.053
+  },
+  {
+   "t": 1783296004,
+   "p": 0.044
+  },
+  {
+   "t": 1783382409,
+   "p": 0.039
+  },
+  {
+   "t": 1783468806,
+   "p": 0.099
+  },
+  {
+   "t": 1783555213,
+   "p": 0.161
+  },
+  {
+   "t": 1783641608,
+   "p": 0.108
+  },
+  {
+   "t": 1783728008,
+   "p": 0.0785
+  },
+  {
+   "t": 1783814420,
+   "p": 0.0895
+  },
+  {
+   "t": 1783900808,
+   "p": 0.0795
+  },
+  {
+   "t": 1783987209,
+   "p": 0.0905
+  },
+  {
+   "t": 1784073611,
+   "p": 0.0235
+  },
+  {
+   "t": 1784160011,
+   "p": 0.006
+  }
+ ]
+}

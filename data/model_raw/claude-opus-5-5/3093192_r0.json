@@ -1,0 +1,27 @@
+{
+ "id": "3093192",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.44,
+ "reasoning": "Belit Onay (Greens) won the 2019 runoff with about 53% and is running as the incumbent in 2026. Hannover is a left-leaning city where Greens and SPD are both strong, which helps him in a runoff against a CDU candidate. However, Green incumbents fared poorly in the 2025 NRW municipal elections; Katja D\u00f6rner lost Bonn, for example. Local controversies, including traffic policy and the breakdown of the council coalition, plus a weaker national Green environment, add risk. If the SPD candidate reaches the runoff against Onay, CDU voters would likely swing toward the SPD. Overall this is roughly a toss-up with a slight lean against him.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 793,
+  "output_tokens": 940,
+  "output_tokens_details": {
+   "thinking_tokens": 695
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.021972000000000002
+}

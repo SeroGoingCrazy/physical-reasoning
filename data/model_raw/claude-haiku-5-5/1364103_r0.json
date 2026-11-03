@@ -1,0 +1,27 @@
+{
+ "id": "1364103",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.84,
+ "reasoning": "As of early 2026, polling for the Mecklenburg-Vorpommern Landtag has consistently shown the AfD leading with roughly high-30s percent support, well ahead of the SPD (around the low-to-mid 20s) and the CDU (around 13%). Seat allocation in the Landtag generally follows vote shares, so a lead of that size would typically translate into the most seats. The main uncertainties are the roughly seven months until the September 2026 vote, possible late consolidation behind the SPD under Manuela Schwesig, and the possibility of a tie or near-tie in seats. I do not know the actual result. Given the size of the reported gap, I estimate a fairly high probability of an AfD plurality, tempered by polling error and campaign dynamics.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 883,
+  "output_tokens": 499,
+  "output_tokens_details": {
+   "thinking_tokens": 231
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.00033779999999999997
+}

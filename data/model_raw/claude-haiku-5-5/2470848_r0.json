@@ -1,0 +1,27 @@
+{
+ "id": 2470848,
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.35,
+ "reasoning": "The 2026 World Cup final is scheduled for July 19 at MetLife Stadium, within the resolution window. Trump has signaled interest in the tournament and attended the 2025 Club World Cup final, where he presented the trophy on stage, so attendance at the final seems fairly likely but is not certain. Even if he attends, he must be visibly in the winning team's official team photo, which usually includes the trophy presentation party but is not guaranteed to feature the head of state. I estimate roughly 60-65% odds he attends and about 55% odds he appears in the team photo given attendance. I have no knowledge of how this actually resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 685,
+  "output_tokens": 781,
+  "output_tokens_details": {
+   "thinking_tokens": 556
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.000459
+}

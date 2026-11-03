@@ -1,0 +1,225 @@
+{
+ "market": {
+  "id": "573259",
+  "question": "50% India tariff in effect by August 27?",
+  "conditionId": "0x742a4343d891c74d092bcf7c5cd51aac2e7149045d0ea5edc84e52d49a135218",
+  "slug": "50-india-tariff-in-effect-by-august-27",
+  "resolutionSource": "",
+  "endDate": "2025-08-27T00:00:00Z",
+  "startDate": "2025-08-06T15:23:28.665091Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/60-india-tariff-in-effect-by-august-8-DOLwGK3KdA9x.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/60-india-tariff-in-effect-by-august-8-DOLwGK3KdA9x.jpg",
+  "description": "This market will resolve to \u201cYes\u201d if a general 50% tariff on imports into the United States from India goes into effect for any amount of time by August 27, 2025, 11:59\u202fPM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purpose of this market, \"goes into effect\" means the start date for the tariffs must have passed without being further delayed or suspended.\n\nA general tariff that includes item-specific exceptions will still qualify, as long as a policy of a general 50% tariff on imports into the United States from India goes into effect.\n\nOnly tariffs specifically targeting India will qualify. For example, a new global tariff (tariffs on all imports into the U.S.) will not count toward this market's resolution.\n\nThis market's primary resolution source will be official information from the Trump administration; however, a consensus of credible information will also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "76902.341451",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "0xE38fdFB4F2AD585168Ff9bD29A3A8b3cb52d0Ca2",
+  "createdAt": "2025-08-06T15:10:23.320531Z",
+  "updatedAt": "2025-08-28T17:00:17.623871Z",
+  "closedTime": "2025-08-27 09:06:27+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x157Ce2d672854c848c9b79C49a8Cc6cc89176a49",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0xb5f9adbe7f2a66416c64184ef284b101a31368468dae0e3e2ce15993d455e214",
+  "umaEndDate": "2025-08-27T09:06:27Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 76902.341451,
+  "endDateIso": "2025-08-27",
+  "startDateIso": "2025-08-06",
+  "hasReviewedDates": true,
+  "volume1wk": 56479.29128099999,
+  "volume1mo": 76902.34145100001,
+  "volume1yr": 76902.34145100001,
+  "clobTokenIds": "[\"24952117405722758536800434306908283712128832089388834683011817614392254425454\", \"58506136609486086113326028401221726319425631893471090327297899304158374061154\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 56479.29128099999,
+  "volume1moClob": 76902.34145100001,
+  "volume1yrClob": 76902.34145100001,
+  "volumeClob": 76902.341451,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "36075",
+    "ticker": "50-india-tariff-in-effect-by-august-27",
+    "slug": "50-india-tariff-in-effect-by-august-27",
+    "title": "50% India tariff in effect by August 27?",
+    "description": "This market will resolve to \u201cYes\u201d if a general 50% tariff on imports into the United States from India goes into effect for any amount of time by August 27, 2025, 11:59\u202fPM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nFor the purpose of this market, \"goes into effect\" means the start date for the tariffs must have passed without being further delayed or suspended.\n\nA general tariff that includes item-specific exceptions will still qualify, as long as a policy of a general 50% tariff on imports into the United States from India goes into effect.\n\nOnly tariffs specifically targeting India will qualify. For example, a new global tariff (tariffs on all imports into the U.S.) will not count toward this market's resolution.\n\nThis market's primary resolution source will be official information from the Trump administration; however, a consensus of credible information will also be used.",
+    "resolutionSource": "",
+    "startDate": "2025-08-06T15:25:16.13873Z",
+    "creationDate": "2025-08-06T15:25:16.138728Z",
+    "endDate": "2025-08-27T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/60-india-tariff-in-effect-by-august-8-DOLwGK3KdA9x.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/60-india-tariff-in-effect-by-august-8-DOLwGK3KdA9x.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 76902.341451,
+    "openInterest": 0,
+    "createdAt": "2025-08-06T15:10:22.291931Z",
+    "updatedAt": "2025-08-28T17:01:17.414827Z",
+    "volume1wk": 56479.29128099999,
+    "volume1mo": 76902.34145100001,
+    "volume1yr": 76902.34145100001,
+    "enableOrderBook": true,
+    "commentCount": 6,
+    "cyom": false,
+    "closedTime": "2025-08-27T09:06:27Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-08-06T15:23:07Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "30941",
+    "conditionId": "0x742a4343d891c74d092bcf7c5cd51aac2e7149045d0ea5edc84e52d49a135218",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 5,
+    "startDate": "2025-08-06",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.077,
+  "oneHourPriceChange": -0.015,
+  "oneWeekPriceChange": 0.572,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-08-06T15:22:36.908899Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1754524805,
+   "p": 0.2
+  },
+  {
+   "t": 1754611207,
+   "p": 0.25
+  },
+  {
+   "t": 1754697614,
+   "p": 0.355
+  },
+  {
+   "t": 1754784003,
+   "p": 0.36
+  },
+  {
+   "t": 1754870410,
+   "p": 0.36
+  },
+  {
+   "t": 1754956804,
+   "p": 0.265
+  },
+  {
+   "t": 1755043214,
+   "p": 0.385
+  },
+  {
+   "t": 1755129607,
+   "p": 0.42
+  },
+  {
+   "t": 1755216010,
+   "p": 0.38
+  },
+  {
+   "t": 1755302405,
+   "p": 0.33
+  },
+  {
+   "t": 1755388804,
+   "p": 0.31
+  },
+  {
+   "t": 1755475206,
+   "p": 0.205
+  },
+  {
+   "t": 1755561606,
+   "p": 0.32
+  },
+  {
+   "t": 1755648006,
+   "p": 0.39
+  },
+  {
+   "t": 1755734410,
+   "p": 0.605
+  },
+  {
+   "t": 1755820808,
+   "p": 0.715
+  },
+  {
+   "t": 1755907212,
+   "p": 0.735
+  },
+  {
+   "t": 1755993602,
+   "p": 0.695
+  },
+  {
+   "t": 1756080002,
+   "p": 0.83
+  },
+  {
+   "t": 1756166410,
+   "p": 0.84
+  },
+  {
+   "t": 1756252812,
+   "p": 0.9785
+  }
+ ]
+}

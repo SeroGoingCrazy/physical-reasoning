@@ -1,0 +1,291 @@
+{
+ "market": {
+  "id": "530839",
+  "question": "Will the Liberal Party win the most seats in Quebec in the next Canadian Election?",
+  "conditionId": "0x2375f0b213620282e0439a830953ba0f9663e987b21450efb37135e407b5c0d9",
+  "slug": "will-the-liberal-party-win-the-third-most-seats-in-quebec-in-the-next-canadian-election",
+  "resolutionSource": "",
+  "endDate": "2025-04-28T12:00:00Z",
+  "startDate": "2025-03-25T23:27:56.172Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-liberal-party-win-the-most-seats-in-the-next-canadian-election-itYKaB1Jk6_s.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-the-liberal-party-win-the-most-seats-in-the-next-canadian-election-itYKaB1Jk6_s.png",
+  "description": "The 2025 Canadian federal election will be held on April 28 to elect members of the House of Commons to the 45th Canadian Parliament.\n\nThis market will resolve according to the party that wins the most seats in the House of Commons in Quebec as a result of the next Canadian general election.\n\nIf voting in the next Canadian general election does not occur by December 31, 2025, this market will resolve to \"No\".\n\nIn the case of a tie between this party and any other for the most seats won in Quebec, this market will resolve in favor of the party whose listed name comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by this party, not any coalition of which it may be a part.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Canadian government, specifically Elections Canada (https://www.elections.ca/home.aspx).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "427500.850442",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-03-25T19:56:55.642969Z",
+  "updatedAt": "2025-05-01T16:20:33.657594Z",
+  "closedTime": "2025-04-30 13:59:25+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Liberal Party",
+  "groupItemThreshold": "1",
+  "questionID": "0x7d69b6a1e8a0f878c78c35f1fd77246ebad77fbc01cb74188d3246ed848c1901",
+  "umaEndDate": "2025-04-30T13:59:25Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 427500.850442,
+  "endDateIso": "2025-04-28",
+  "startDateIso": "2025-03-25",
+  "hasReviewedDates": true,
+  "volume1wk": 172334.98645500003,
+  "volume1mo": 391867.7319579997,
+  "volume1yr": 427500.8504419996,
+  "clobTokenIds": "[\"8664591633169678608014602022578565555933205076002081925978737346602252278930\", \"46706701860878383247542198422691383949519606326244351442528509830561238562779\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 172334.98645500003,
+  "volume1moClob": 391867.7319579997,
+  "volume1yrClob": 427500.8504419996,
+  "volumeClob": 427500.850442,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x7d69b6a1e8a0f878c78c35f1fd77246ebad77fbc01cb74188d3246ed848c1900",
+  "negRiskRequestID": "0x4808e8eb0a873d5eb25ca068fbc0e9390ab2d562b54ac845e47439e06206afe6",
+  "events": [
+   {
+    "id": "21623",
+    "ticker": "which-party-wins-most-seats-in-quebec",
+    "slug": "which-party-wins-most-seats-in-quebec",
+    "title": "Which party wins most seats in Quebec?",
+    "description": "The 2025 Canadian federal election will be held on April 28 to elect members of the House of Commons to the 45th Canadian Parliament.\n\nThis market will resolve according to the party that wins the most seats in the House of Commons in Quebec as a result of the next Canadian general election.\n\nIf voting in the next Canadian general election does not occur by December 31, 2025, this market will resolve to \"No\".\n\nIn the case of a tie between this party and any other for the most seats won in Quebec, this market will resolve in favor of the party whose listed name comes first in alphabetical order.\n\nThis market's resolution will be based solely on the number of seats won by this party, not any coalition of which it may be a part.\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Canadian government, specifically Elections Canada (https://www.elections.ca/home.aspx).",
+    "resolutionSource": "",
+    "startDate": "2025-03-25T23:33:40.616122Z",
+    "creationDate": "2025-03-25T23:33:40.61612Z",
+    "endDate": "2025-04-28T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-most-seats-in-quebec-qUjEj1z6MxAW.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-most-seats-in-quebec-qUjEj1z6MxAW.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 1590267.319095,
+    "openInterest": 0,
+    "sortBy": "price",
+    "createdAt": "2025-03-25T19:56:54.521388Z",
+    "updatedAt": "2025-05-01T16:20:40.129596Z",
+    "volume1wk": 446532.216745,
+    "volume1mo": 1506879.3255209993,
+    "volume1yr": 1590267.319094999,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x7d69b6a1e8a0f878c78c35f1fd77246ebad77fbc01cb74188d3246ed848c1900",
+    "commentCount": 146,
+    "cyom": false,
+    "closedTime": "2025-04-30T14:44:50Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-03-25T23:26:50Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "19553",
+    "conditionId": "0x2375f0b213620282e0439a830953ba0f9663e987b21450efb37135e407b5c0d9",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 2,
+    "startDate": "2025-03-25",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.003,
+  "oneWeekPriceChange": 0.0545,
+  "oneMonthPriceChange": 0.0595,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1742947205,
+   "p": 0.5
+  },
+  {
+   "t": 1743033606,
+   "p": 0.785
+  },
+  {
+   "t": 1743120006,
+   "p": 0.86
+  },
+  {
+   "t": 1743206406,
+   "p": 0.885
+  },
+  {
+   "t": 1743292806,
+   "p": 0.92
+  },
+  {
+   "t": 1743379205,
+   "p": 0.905
+  },
+  {
+   "t": 1743465605,
+   "p": 0.935
+  },
+  {
+   "t": 1743552006,
+   "p": 0.93
+  },
+  {
+   "t": 1743638405,
+   "p": 0.945
+  },
+  {
+   "t": 1743724805,
+   "p": 0.95
+  },
+  {
+   "t": 1743811205,
+   "p": 0.95
+  },
+  {
+   "t": 1743897605,
+   "p": 0.955
+  },
+  {
+   "t": 1743984006,
+   "p": 0.94
+  },
+  {
+   "t": 1744070406,
+   "p": 0.955
+  },
+  {
+   "t": 1744156806,
+   "p": 0.955
+  },
+  {
+   "t": 1744243205,
+   "p": 0.945
+  },
+  {
+   "t": 1744329605,
+   "p": 0.925
+  },
+  {
+   "t": 1744416006,
+   "p": 0.925
+  },
+  {
+   "t": 1744502405,
+   "p": 0.92
+  },
+  {
+   "t": 1744588805,
+   "p": 0.935
+  },
+  {
+   "t": 1744675205,
+   "p": 0.915
+  },
+  {
+   "t": 1744761605,
+   "p": 0.915
+  },
+  {
+   "t": 1744848006,
+   "p": 0.905
+  },
+  {
+   "t": 1744934404,
+   "p": 0.915
+  },
+  {
+   "t": 1745020806,
+   "p": 0.935
+  },
+  {
+   "t": 1745107206,
+   "p": 0.92
+  },
+  {
+   "t": 1745193606,
+   "p": 0.92
+  },
+  {
+   "t": 1745280006,
+   "p": 0.935
+  },
+  {
+   "t": 1745366407,
+   "p": 0.945
+  },
+  {
+   "t": 1745452806,
+   "p": 0.955
+  },
+  {
+   "t": 1745539206,
+   "p": 0.928
+  },
+  {
+   "t": 1745625606,
+   "p": 0.9245
+  },
+  {
+   "t": 1745712005,
+   "p": 0.8825
+  },
+  {
+   "t": 1745798405,
+   "p": 0.8745
+  },
+  {
+   "t": 1745884805,
+   "p": 0.938
+  },
+  {
+   "t": 1745971206,
+   "p": 0.9965
+  }
+ ]
+}

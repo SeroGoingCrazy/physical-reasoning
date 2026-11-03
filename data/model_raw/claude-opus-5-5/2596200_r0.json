@@ -1,0 +1,27 @@
+{
+ "id": "2596200",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.15,
+ "reasoning": "Spider-Man: Brand New Day opens July 31, 2026. Comparables: No Way Home opened to $260M, but it was driven by multiverse nostalgia and pent-up post-pandemic demand. Homecoming opened to $117M, and Far From Home opened on a Tuesday, so its 3-day was much lower. The record-breaking trailer views suggest very strong interest. Summer competition from The Odyssey and other tentpoles, plus the lack of a legacy-cast hook, makes a $250M-level opening less likely than something in the $170M\u2013230M range. My distribution is centered roughly around $200M with wide uncertainty, which leaves the $240M\u2013260M bracket at a modest probability.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 900,
+  "output_tokens": 600,
+  "output_tokens_details": {
+   "thinking_tokens": 350
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0156
+}

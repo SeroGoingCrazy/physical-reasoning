@@ -1,0 +1,27 @@
+{
+ "id": "2821882",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.56,
+ "reasoning": "As of the question's opening on 2026-07-06, Lisa Nandy is still Culture Secretary; she kept the post through the September 2025 reshuffle. She would need to stay in post for about six more months. Culture Secretaries historically turn over often, and Starmer's government faces significant instability after the May 2026 elections. A leadership change or a major autumn reshuffle could move Nandy, possibly to a bigger role, for example under a Burnham-aligned leadership. Absent a specific trigger, ministers often stay put over a six-month window, so I put the chance of no new Culture Secretary at a bit over half.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 784,
+  "output_tokens": 585,
+  "output_tokens_details": {
+   "thinking_tokens": 367
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.014836
+}

@@ -1,0 +1,269 @@
+{
+ "market": {
+  "id": "540159",
+  "question": "Will Carney government pass a confidence vote before June?",
+  "conditionId": "0x39260c2150c755b69f303a945279ed8602066f42dad916e3c2bbe7fa1b77fbfa",
+  "slug": "will-carney-government-pass-a-confidence-vote-before-june",
+  "resolutionSource": "",
+  "endDate": "2025-05-31T12:00:00Z",
+  "startDate": "2025-04-29T19:30:27.3758Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-carney-government-pass-a-confidence-vote-before-june-65fFXVN8PBwQ.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-carney-government-pass-a-confidence-vote-before-june-65fFXVN8PBwQ.jpg",
+  "description": "This market will resolve to \"Yes\" if the Canadian House of Commons passes a confidence vote in favor of a Liberal government by May 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nA \"confidence vote\" includes any formal vote of confidence, any vote the government designates as a matter of confidence (such as a vote on the Speech from the Throne or a budget bill), or any explicit motion of non-confidence introduced by the opposition that the government survives. Passage requires a majority of votes cast in favor of the government.\n\nThe primary resolution sources for this market will be official parliamentary records or a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "70166.44559",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-04-29T18:43:47.609302Z",
+  "updatedAt": "2025-06-01T16:24:36.743732Z",
+  "closedTime": "2025-06-01 07:30:33+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74",
+  "restricted": true,
+  "groupItemTitle": "",
+  "groupItemThreshold": "0",
+  "questionID": "0xe97151c64190da067259e4fcc056497bf6265f2d6fe3bf5779799bd46487587d",
+  "umaEndDate": "2025-06-01T07:30:33Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 70166.44559,
+  "endDateIso": "2025-05-31",
+  "startDateIso": "2025-04-29",
+  "hasReviewedDates": true,
+  "volume1wk": 12432.405874,
+  "volume1mo": 64241.197115,
+  "volume1yr": 70166.44559,
+  "clobTokenIds": "[\"75473246223650160088618322928935695819253762042184014597255895033020604243393\", \"75277154981309912961429217002275743078010651477586715199596753218129981864746\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 12432.405874,
+  "volume1moClob": 64241.197115,
+  "volume1yrClob": 70166.44559,
+  "volumeClob": 70166.44559,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "events": [
+   {
+    "id": "23627",
+    "ticker": "will-carney-government-pass-a-confidence-vote-before-june",
+    "slug": "will-carney-government-pass-a-confidence-vote-before-june",
+    "title": "Will Carney government pass a confidence vote before June?",
+    "description": "This market will resolve to \"Yes\" if the Canadian House of Commons passes a confidence vote in favor of a Liberal government by May 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nA \"confidence vote\" includes any formal vote of confidence, any vote the government designates as a matter of confidence (such as a vote on the Speech from the Throne or a budget bill), or any explicit motion of non-confidence introduced by the opposition that the government survives. Passage requires a majority of votes cast in favor of the government.\n\nThe primary resolution sources for this market will be official parliamentary records or a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2025-04-29T19:32:27.919632Z",
+    "creationDate": "2025-04-29T19:32:27.919629Z",
+    "endDate": "2025-05-31T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-carney-government-pass-a-confidence-vote-before-june-65fFXVN8PBwQ.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-carney-government-pass-a-confidence-vote-before-june-65fFXVN8PBwQ.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 70166.44559,
+    "openInterest": 0,
+    "createdAt": "2025-04-29T18:43:46.925815Z",
+    "updatedAt": "2025-06-01T16:24:42.895681Z",
+    "volume1wk": 12432.405874,
+    "volume1mo": 64241.197115,
+    "volume1yr": 70166.44559,
+    "enableOrderBook": true,
+    "commentCount": 27,
+    "cyom": false,
+    "closedTime": "2025-06-01T07:30:33Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-04-29T19:29:22Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "22254",
+    "conditionId": "0x39260c2150c755b69f303a945279ed8602066f42dad916e3c2bbe7fa1b77fbfa",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 2,
+    "startDate": "2025-04-29",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0125,
+  "oneWeekPriceChange": -0.1495,
+  "oneMonthPriceChange": -0.8545,
+  "lastTradePrice": 1,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1745971206,
+   "p": 0.765
+  },
+  {
+   "t": 1746057606,
+   "p": 0.925
+  },
+  {
+   "t": 1746144006,
+   "p": 0.885
+  },
+  {
+   "t": 1746230406,
+   "p": 0.25
+  },
+  {
+   "t": 1746316805,
+   "p": 0.145
+  },
+  {
+   "t": 1746403205,
+   "p": 0.13
+  },
+  {
+   "t": 1746489606,
+   "p": 0.105
+  },
+  {
+   "t": 1746576005,
+   "p": 0.115
+  },
+  {
+   "t": 1746662406,
+   "p": 0.12
+  },
+  {
+   "t": 1746748807,
+   "p": 0.12
+  },
+  {
+   "t": 1746835206,
+   "p": 0.115
+  },
+  {
+   "t": 1746921606,
+   "p": 0.14
+  },
+  {
+   "t": 1747008006,
+   "p": 0.145
+  },
+  {
+   "t": 1747094406,
+   "p": 0.145
+  },
+  {
+   "t": 1747180807,
+   "p": 0.25
+  },
+  {
+   "t": 1747267207,
+   "p": 0.19
+  },
+  {
+   "t": 1747353606,
+   "p": 0.215
+  },
+  {
+   "t": 1747440007,
+   "p": 0.205
+  },
+  {
+   "t": 1747526406,
+   "p": 0.2
+  },
+  {
+   "t": 1747612806,
+   "p": 0.205
+  },
+  {
+   "t": 1747699206,
+   "p": 0.19
+  },
+  {
+   "t": 1747785606,
+   "p": 0.175
+  },
+  {
+   "t": 1747872007,
+   "p": 0.14
+  },
+  {
+   "t": 1747958407,
+   "p": 0.145
+  },
+  {
+   "t": 1748044807,
+   "p": 0.145
+  },
+  {
+   "t": 1748131206,
+   "p": 0.145
+  },
+  {
+   "t": 1748217607,
+   "p": 0.13
+  },
+  {
+   "t": 1748304006,
+   "p": 0.125
+  },
+  {
+   "t": 1748390406,
+   "p": 0.115
+  },
+  {
+   "t": 1748476807,
+   "p": 0.075
+  },
+  {
+   "t": 1748563207,
+   "p": 0.0115
+  },
+  {
+   "t": 1748649607,
+   "p": 0.014
+  },
+  {
+   "t": 1748736007,
+   "p": 0.0025
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "market": {
+  "id": "2840115",
+  "question": "Will Count Binface get second place in the Clacton by-election?",
+  "conditionId": "0x124f07d29e0fbef1f36535f4f1ee289759ec8bca4a708c4934a557ff556cd05c",
+  "slug": "will-count-binface-get-second-place-in-the-clacton-by-election-copy-20260707214646969",
+  "resolutionSource": "https://www.tendringdc.gov.uk/",
+  "endDate": "2026-08-13T16:00:00Z",
+  "startDate": "2026-07-08T01:55:20.217Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/binface-353661aee8.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/binface-353661aee8.jpg",
+  "description": "A by-election for the United Kingdom parliamentary constituency of Clacton is expected to be held soon following the announced resignation of incumbent Nigel Farage.\n\nThis market will resolve according to the candidate who wins the second-most valid votes in the Clacton parliamentary by-election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' listed names. This market will resolve to the candidate that occupies the second-highest finishing position after applying this ranking.\n\nIf the election results are not known definitively by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of credible reporting. In case of ambiguity, this market will resolve solely based on official election results as published by Tendring District Council (https://www.tendringdc.gov.uk/) and the UK Parliament (https://www.parliament.uk/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "581180.9242059999",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-07-08T01:50:42.000201Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-08-14 09:56:40+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Count Binface",
+  "groupItemThreshold": "7",
+  "questionID": "0x48cbd1927b5da92939bd4e3436dcb5625a9423913924dc907975b0ae81db4007",
+  "umaEndDate": "2026-08-14T09:56:40Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 581180.9242059999,
+  "endDateIso": "2026-08-13",
+  "startDateIso": "2026-07-08",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"81447450383664195636595565283033889220683502219622758879760419790560852069403\", \"81650166254537616334126928504037699304163631394042239578492543131474016177806\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 581180.9242059999,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x48cbd1927b5da92939bd4e3436dcb5625a9423913924dc907975b0ae81db4000",
+  "negRiskRequestID": "0xa617d04adf6fdc6f8b655ceeef6a35f1690a9749f8a5de8fb813bd626b1367e7",
+  "events": [
+   {
+    "id": "678765",
+    "ticker": "clacton-by-election-2nd-place-20260707214539733",
+    "slug": "clacton-by-election-2nd-place-20260707214539733",
+    "title": "Clacton by-election: 2nd place",
+    "description": "A by-election for the United Kingdom parliamentary constituency of Clacton is expected to be held soon following the announced resignation of incumbent Nigel Farage.\n\nThis market will resolve according to the candidate who wins the second-most valid votes in the Clacton parliamentary by-election.\n\nThe named candidates will be primarily ranked by the number of valid votes received in the specified election. If two or more candidates are tied on valid votes, ties will be broken by alphabetical order of the candidates' listed names. This market will resolve to the candidate that occupies the second-highest finishing position after applying this ranking.\n\nIf the election results are not known definitively by June 30, 2027, 11:59 PM ET, this market will resolve to \"Other\".\n\nThe resolution source for this market will be a consensus of credible reporting. In case of ambiguity, this market will resolve solely based on official election results as published by Tendring District Council (https://www.tendringdc.gov.uk/) and the UK Parliament (https://www.parliament.uk/).",
+    "resolutionSource": "",
+    "startDate": "2026-07-08T01:54:28.672Z",
+    "creationDate": "2026-07-08T02:01:36.948279Z",
+    "endDate": "2026-08-13T16:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/makerfield-by-election-winner-1ceiGHP2i4dn.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/makerfield-by-election-winner-1ceiGHP2i4dn.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 749154.21454,
+    "openInterest": 363734.608903,
+    "sortBy": "price",
+    "createdAt": "2026-07-08T01:50:39.365512Z",
+    "updatedAt": "2026-08-15T06:34:44.487969Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x48cbd1927b5da92939bd4e3436dcb5625a9423913924dc907975b0ae81db4000",
+    "commentCount": 2,
+    "cyom": false,
+    "closedTime": "2026-08-14T09:56:40Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-07-07T15:05:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-07-08T01:51:23.25277Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-07-08T01:54:20Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.021,
+  "oneWeekPriceChange": 0.021,
+  "oneMonthPriceChange": 0.2645,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-07-08T01:52:28.488754Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1783555213,
+   "p": 0.905
+  },
+  {
+   "t": 1783641608,
+   "p": 0.65
+  },
+  {
+   "t": 1783728008,
+   "p": 0.695
+  },
+  {
+   "t": 1783814420,
+   "p": 0.705
+  },
+  {
+   "t": 1783900810,
+   "p": 0.705
+  },
+  {
+   "t": 1783987209,
+   "p": 0.715
+  },
+  {
+   "t": 1784073611,
+   "p": 0.735
+  },
+  {
+   "t": 1784160013,
+   "p": 0.805
+  },
+  {
+   "t": 1784246412,
+   "p": 0.805
+  },
+  {
+   "t": 1784332809,
+   "p": 0.685
+  },
+  {
+   "t": 1784419212,
+   "p": 0.655
+  },
+  {
+   "t": 1784505624,
+   "p": 0.675
+  },
+  {
+   "t": 1784592011,
+   "p": 0.565
+  },
+  {
+   "t": 1784678409,
+   "p": 0.6
+  },
+  {
+   "t": 1784764817,
+   "p": 0.695
+  },
+  {
+   "t": 1784851218,
+   "p": 0.74
+  },
+  {
+   "t": 1784937626,
+   "p": 0.735
+  },
+  {
+   "t": 1785024020,
+   "p": 0.745
+  },
+  {
+   "t": 1785110429,
+   "p": 0.775
+  },
+  {
+   "t": 1785196830,
+   "p": 0.785
+  },
+  {
+   "t": 1785369624,
+   "p": 0.785
+  },
+  {
+   "t": 1785456022,
+   "p": 0.785
+  },
+  {
+   "t": 1785542413,
+   "p": 0.795
+  },
+  {
+   "t": 1785628814,
+   "p": 0.795
+  },
+  {
+   "t": 1785715211,
+   "p": 0.91
+  },
+  {
+   "t": 1785801613,
+   "p": 0.955
+  },
+  {
+   "t": 1785888014,
+   "p": 0.966
+  },
+  {
+   "t": 1785974412,
+   "p": 0.965
+  },
+  {
+   "t": 1786060813,
+   "p": 0.969
+  },
+  {
+   "t": 1786147216,
+   "p": 0.9735
+  },
+  {
+   "t": 1786233626,
+   "p": 0.9845
+  },
+  {
+   "t": 1786320018,
+   "p": 0.9855
+  },
+  {
+   "t": 1786406423,
+   "p": 0.9865
+  },
+  {
+   "t": 1786492814,
+   "p": 0.9875
+  },
+  {
+   "t": 1786579219,
+   "p": 0.979
+  },
+  {
+   "t": 1786665619,
+   "p": 0.9765
+  }
+ ]
+}

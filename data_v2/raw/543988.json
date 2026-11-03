@@ -1,0 +1,240 @@
+{
+ "market": {
+  "id": "543988",
+  "question": "Will Lee Jun-seok win 3rd place in the South Korean presidential election?",
+  "conditionId": "0x20fe4b037a1dc0578b0d125b0b427a06d8666068e8b901b1c181e82bc844c45d",
+  "slug": "will-lee-jun-seok-win-3rd-place-in-the-south-korean-presidential-election",
+  "resolutionSource": "",
+  "endDate": "2025-06-03T12:00:00Z",
+  "startDate": "2025-05-12T20:47:37.579Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-south-korea-presidential-election-HAt566f3aBBc.png",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-south-korea-presidential-election-HAt566f3aBBc.png",
+  "description": "South Korean presidential elections are scheduled to occur on June 3, 2025, following the impeachment of Yoon Suk Yeol.\n\nThis market will resolve according to the person who receives the third greatest number of votes in the election for the next President of South Korea.\n\nIf no election for the next President of South Korea occurs by February 28, 2026, 11:59 PM ET, or the results are otherwise unknown by that date, this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official information from the Government of South Korea, however a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "4882739.177934",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-05-12T20:31:23.369365Z",
+  "updatedAt": "2025-06-05T00:26:36.882287Z",
+  "closedTime": "2025-06-04 02:35:56+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "Lee Jun-seok",
+  "groupItemThreshold": "15",
+  "questionID": "0xf20312c297e1fe0412bd3d1a2b1f60976c8be6d9bf549be1016f063d2ee2530f",
+  "umaEndDate": "2025-06-04T02:35:56Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 4882739.177934,
+  "endDateIso": "2025-06-03",
+  "startDateIso": "2025-05-12",
+  "hasReviewedDates": true,
+  "volume1wk": 2242725.6814190005,
+  "volume1mo": 4882739.177933998,
+  "volume1yr": 4882739.177933998,
+  "clobTokenIds": "[\"18822784153190851550851612255252920987837453672524508605110353969172591296446\", \"111705684490190589592295984660493450220439325137748085761024325650578405176223\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 2242725.6814190005,
+  "volume1moClob": 4882739.177933998,
+  "volume1yrClob": 4882739.177933998,
+  "volumeClob": 4882739.177934,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xf20312c297e1fe0412bd3d1a2b1f60976c8be6d9bf549be1016f063d2ee25300",
+  "negRiskRequestID": "0x886b8e33ea69076d3d7721192104fa55c02bbad6b974971fd8ea181a04004201",
+  "events": [
+   {
+    "id": "24371",
+    "ticker": "south-korea-presidential-election-3rd-place",
+    "slug": "south-korea-presidential-election-3rd-place",
+    "title": "South Korea Presidential Election 3rd Place?",
+    "description": "South Korean presidential elections are scheduled to occur on June 3, 2025, following the impeachment of Yoon Suk Yeol.\n\nThis market will resolve according to the person who receives the third greatest number of votes in the election for the next President of South Korea.\n\nIf no election for the next President of South Korea occurs by February 28, 2026, 11:59 PM ET, or the results are otherwise unknown by that date, this market will resolve to \"Other\".\n\nThe primary resolution source for this market will be official information from the Government of South Korea, however a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2025-05-12T20:48:23.500524Z",
+    "creationDate": "2025-05-12T20:48:23.500518Z",
+    "endDate": "2025-06-03T12:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-south-korea-presidential-election-HAt566f3aBBc.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-party-wins-south-korea-presidential-election-HAt566f3aBBc.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 6013646.177461,
+    "openInterest": 0,
+    "sortBy": "price",
+    "createdAt": "2025-05-12T20:31:17.164483Z",
+    "updatedAt": "2025-06-05T08:22:42.372055Z",
+    "volume1wk": 2491969.7671850007,
+    "volume1mo": 6013646.177460998,
+    "volume1yr": 6013646.177460998,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xf20312c297e1fe0412bd3d1a2b1f60976c8be6d9bf549be1016f063d2ee25300",
+    "commentCount": 15,
+    "cyom": false,
+    "closedTime": "2025-06-04T03:15:56Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-05-12T20:41:28.369937Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-05-12T20:47:11Z",
+  "cyom": false,
+  "approved": true,
+  "clobRewards": [
+   {
+    "id": "23620",
+    "conditionId": "0x20fe4b037a1dc0578b0d125b0b427a06d8666068e8b901b1c181e82bc844c45d",
+    "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "rewardsAmount": 0,
+    "rewardsDailyRate": 10,
+    "startDate": "2025-05-12",
+    "endDate": "2500-12-31"
+   }
+  ],
+  "rewardsMinSize": 100,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.0195,
+  "oneWeekPriceChange": 0.0945,
+  "lastTradePrice": 1,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": true,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-05-12T20:41:57.877242Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1747094406,
+   "p": 0.505
+  },
+  {
+   "t": 1747180807,
+   "p": 0.905
+  },
+  {
+   "t": 1747267207,
+   "p": 0.9
+  },
+  {
+   "t": 1747353606,
+   "p": 0.87
+  },
+  {
+   "t": 1747440007,
+   "p": 0.895
+  },
+  {
+   "t": 1747526406,
+   "p": 0.895
+  },
+  {
+   "t": 1747612806,
+   "p": 0.89
+  },
+  {
+   "t": 1747699206,
+   "p": 0.905
+  },
+  {
+   "t": 1747785606,
+   "p": 0.875
+  },
+  {
+   "t": 1747872007,
+   "p": 0.895
+  },
+  {
+   "t": 1747958407,
+   "p": 0.915
+  },
+  {
+   "t": 1748044807,
+   "p": 0.88
+  },
+  {
+   "t": 1748131206,
+   "p": 0.895
+  },
+  {
+   "t": 1748217607,
+   "p": 0.88
+  },
+  {
+   "t": 1748304006,
+   "p": 0.89
+  },
+  {
+   "t": 1748390406,
+   "p": 0.895
+  },
+  {
+   "t": 1748476807,
+   "p": 0.915
+  },
+  {
+   "t": 1748563207,
+   "p": 0.955
+  },
+  {
+   "t": 1748649607,
+   "p": 0.945
+  },
+  {
+   "t": 1748736007,
+   "p": 0.955
+  },
+  {
+   "t": 1748822406,
+   "p": 0.951
+  },
+  {
+   "t": 1748908807,
+   "p": 0.977
+  },
+  {
+   "t": 1748995206,
+   "p": 0.9995
+  }
+ ]
+}

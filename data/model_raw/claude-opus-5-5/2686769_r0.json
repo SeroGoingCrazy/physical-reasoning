@@ -1,0 +1,27 @@
+{
+ "id": 2686769,
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.15,
+ "reasoning": "Iran fully closed its airspace twice in early 2026: in January, and on February 28 when the US-Israeli strikes began. My understanding is that a ceasefire followed around April and Iranian airspace gradually reopened, at least partly. Tensions remain high, with the Hormuz and blockade issues and uncertain negotiations. A new general closure would almost certainly need a resumption of major hostilities or an imminent strike threat within the roughly three-week window. Iran tends to close its airspace quickly once strikes begin, so the question largely reduces to whether the war resumes before July 15. There is also ambiguity over whether a closure already in place at market creation would count as 'initiating' one, but the market's existence suggests the airspace is currently open. Weighing the elevated but not imminent escalation risk, I estimate about 15%.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1300,
+  "output_tokens": 730,
+  "output_tokens_details": {
+   "thinking_tokens": 443
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.019799999999999998
+}

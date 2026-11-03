@@ -1,0 +1,27 @@
+{
+ "id": "578688",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.03,
+ "reasoning": "There are 169 seats in the Storting. August 2025 polling had Ap around 26-28%, and SV, Sp and R each around 5-6%. MDG was the main risk, polling near the 4% threshold. Seat projections typically gave the five red-green parties roughly 84-90 seats, so falling below 78 would need a sizeable late swing or several parties missing the threshold. I also believe I recall the actual result: Ap about 53 seats, SV 9, Sp 9, R 9 and MDG 7, about 87 seats in total. That is well above 78, so I put a low probability on this resolving YES.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 862,
+  "output_tokens": 588,
+  "output_tokens_details": {
+   "thinking_tokens": 372
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.015208
+}

@@ -1,0 +1,245 @@
+{
+ "market": {
+  "id": "1167607",
+  "question": "Will the US not strike Iran by January 31, 2026?",
+  "conditionId": "0xaca2f1e173994a7b314a32e13db77fb5cd3b909ba15da5bfd159ba987ce06ff3",
+  "slug": "will-the-us-not-strike-iran-by-january-31-2026-314",
+  "resolutionSource": "",
+  "endDate": "2026-01-31T00:00:00Z",
+  "startDate": "2026-01-12T17:52:51.458728Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-next-on-i8O7r2SBkycN.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-next-on-i8O7r2SBkycN.jpg",
+  "description": "This market will resolve according to the next date (ET) the US initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate between market creation and January 31, 2026, (ET). \n\nIf the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting within 48 hours of the listed date, the respective market will resolve to \"No\" regardless of whether a strike is later confirmed to have occurred. If no strike could be verified under the prior rule by 48 hours after this market's end date, it will resolve to \"No strike by January 31,\" regardless of whether a strike is later confirmed to have occurred.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an US missile, this will qualify).\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient, regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "3713061.192454",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-01-12T15:02:17.909764Z",
+  "updatedAt": "2026-02-04T16:23:57.252432Z",
+  "closedTime": "2026-02-03 08:32:26+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "No strike by January 31",
+  "groupItemThreshold": "20",
+  "questionID": "0x2a1079797192d4578c60e7305cbb3e5b05b8b1542fee35de298759c314aaa600",
+  "umaEndDate": "2026-02-03T08:32:26Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 3713061.192454,
+  "endDateIso": "2026-01-31",
+  "startDateIso": "2026-01-12",
+  "hasReviewedDates": true,
+  "volume1wk": 1820901.7856809997,
+  "volume1mo": 3713061.1924540256,
+  "volume1yr": 3713061.1924540256,
+  "clobTokenIds": "[\"93412763384956760609840008433641888134668300818027333882176986089385768496241\", \"70512875957023202712738126996808056222484875538507324005198764012839610890907\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 1820901.7856809997,
+  "volume1moClob": 3713061.1924540256,
+  "volume1yrClob": 3713061.1924540256,
+  "volumeClob": 3713061.192454,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x2a1079797192d4578c60e7305cbb3e5b05b8b1542fee35de298759c314aaa600",
+  "negRiskRequestID": "0xf53fcad900bc963936299dcdf3f932ca5381a843fd90406d23f3e9c1a129f5c5",
+  "events": [
+   {
+    "id": "159840",
+    "ticker": "us-next-strikes-iran-on",
+    "slug": "us-next-strikes-iran-on",
+    "title": "US next strikes Iran on...?",
+    "description": "This market will resolve according to the next date (ET) the US initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate between market creation and January 31, 2026, (ET). \n\nIf the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting within 48 hours of the listed date, the respective market will resolve to \"No\" regardless of whether a strike is later confirmed to have occurred. If no strike could be verified under the prior rule by 48 hours after this market's end date, it will resolve to \"No strike by January 31,\" regardless of whether a strike is later confirmed to have occurred.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an US missile, this will qualify).\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient, regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+    "resolutionSource": "",
+    "startDate": "2026-01-12T17:53:22.314772Z",
+    "creationDate": "2026-01-12T17:53:22.31473Z",
+    "endDate": "2026-01-31T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-next-on-i8O7r2SBkycN.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-next-on-i8O7r2SBkycN.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 28513814.891189,
+    "openInterest": 0,
+    "sortBy": "ascending",
+    "createdAt": "2026-01-12T15:02:17.070934Z",
+    "updatedAt": "2026-02-04T16:24:09.695071Z",
+    "volume1wk": 20589965.216675993,
+    "volume1mo": 28513814.891189028,
+    "volume1yr": 28513814.891189028,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x2a1079797192d4578c60e7305cbb3e5b05b8b1542fee35de298759c314aaa600",
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "10127",
+      "ticker": "us-strikes-iran",
+      "slug": "us-strikes-iran",
+      "title": "US strikes iran",
+      "seriesType": "single",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "featured": false,
+      "restricted": true,
+      "createdAt": "2025-06-15T23:00:30.542644Z",
+      "updatedAt": "2026-09-30T13:44:40.617933Z",
+      "commentCount": 23222
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-02-03T08:32:26Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "seriesSlug": "us-strikes-iran",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-01-12T17:48:12.546741Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-01-12T17:52:29Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 200,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneWeekPriceChange": 0.1145,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-01-12T17:48:38.437684Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1768262416,
+   "p": 0.45
+  },
+  {
+   "t": 1768348815,
+   "p": 0.345
+  },
+  {
+   "t": 1768435217,
+   "p": 0.335
+  },
+  {
+   "t": 1768521619,
+   "p": 0.635
+  },
+  {
+   "t": 1768608017,
+   "p": 0.705
+  },
+  {
+   "t": 1768694423,
+   "p": 0.755
+  },
+  {
+   "t": 1768780815,
+   "p": 0.755
+  },
+  {
+   "t": 1768867216,
+   "p": 0.765
+  },
+  {
+   "t": 1768953617,
+   "p": 0.795
+  },
+  {
+   "t": 1769040022,
+   "p": 0.79
+  },
+  {
+   "t": 1769126433,
+   "p": 0.745
+  },
+  {
+   "t": 1769212824,
+   "p": 0.665
+  },
+  {
+   "t": 1769299235,
+   "p": 0.76
+  },
+  {
+   "t": 1769385633,
+   "p": 0.82
+  },
+  {
+   "t": 1769472029,
+   "p": 0.885
+  },
+  {
+   "t": 1769558420,
+   "p": 0.885
+  },
+  {
+   "t": 1769644834,
+   "p": 0.875
+  },
+  {
+   "t": 1769731222,
+   "p": 0.835
+  },
+  {
+   "t": 1769817622,
+   "p": 0.915
+  },
+  {
+   "t": 1769904026,
+   "p": 0.9765
+  },
+  {
+   "t": 1769990421,
+   "p": 0.9995
+  },
+  {
+   "t": 1770076822,
+   "p": 0.9995
+  }
+ ]
+}

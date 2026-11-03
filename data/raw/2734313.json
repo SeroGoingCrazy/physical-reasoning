@@ -1,0 +1,296 @@
+{
+ "market": {
+  "id": "2734313",
+  "question": "Will Donald Trump publicly insult Vladimir Putin by July 31, 2026?",
+  "conditionId": "0xeeec9ee057e3a0bcf1bc9a0991eb0ec4070432a866a618194ac23a44006b24a2",
+  "slug": "will-donald-trump-publicly-insult-vladimir-putin-by-july-31-2026-20260626210612715",
+  "resolutionSource": "",
+  "endDate": "2026-07-31T23:59:00Z",
+  "startDate": "2026-06-29T19:24:02.620777Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-donald-trump-publicly-insult-vladimir-putin-by-april-30-2026-dt7FIPP-lfN2.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-donald-trump-publicly-insult-vladimir-putin-by-april-30-2026-dt7FIPP-lfN2.jpg",
+  "description": "This market will resolve to \"Yes\" if Donald Trump makes any public statement in which he insults, mocks, or attacks the listed individual personally or professionally in a clearly negative manner between market creation and the specified date (ET). Otherwise, this market will resolve to \"No\". \n\nThis includes calling the individual weak, stupid, disloyal, a failure, using an insulting nickname, using other derogatory language, or using the negative form of a positive trait in a derogatory personal way (e.g., \u201cHe/She isn\u2019t smart\u201d). Negative forms used in reference to the individual's professional actions, policies, or decisions (e.g., \u201cHe/She isn\u2019t being smart about this policy\u201d) will not count. Policy disagreements stated without disparaging language will not count.\n\nA direct reference will qualify even if the individual is not named, so long as it is reasonably clear from context that they are the subject.\n\nAny written, verbal, or recorded public statement by Trump qualifies.\n\nThe resolution source for this market will be public statements from Donald Trump.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "1480348.4273370001",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-06-29T19:08:46.446466Z",
+  "updatedAt": "2026-08-04T02:07:08.956863Z",
+  "closedTime": "2026-08-03 02:44:45+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+  "restricted": true,
+  "groupItemTitle": "Vladimir Putin",
+  "groupItemThreshold": "5",
+  "questionID": "0x2776576eca28d0f430c17ef07f3d49924aa787f4b3ae86ce5f70b910cfb59ff2",
+  "umaEndDate": "2026-08-03T02:44:45Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 1480348.4273370001,
+  "endDateIso": "2026-07-31",
+  "startDateIso": "2026-06-29",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"91462602922833180947726112170254390614818952379099373819980544185105814335912\", \"81721579149417963189765236244745822836753525940504722923358710243774318095792\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 1480348.4273370001,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": false,
+  "negRiskRequestID": "",
+  "events": [
+   {
+    "id": "648736",
+    "ticker": "who-will-trump-publicly-insult-by-july-31-20260626210612709",
+    "slug": "who-will-trump-publicly-insult-by-july-31-20260626210612709",
+    "title": "Who will Trump publicly insult by July 31?",
+    "description": "This market will resolve to \"Yes\" if Donald Trump makes any public statement in which he insults, mocks, or attacks the listed individual personally or professionally in a clearly negative manner between market creation and the specified date (ET). Otherwise, this market will resolve to \"No\". \n\nThis includes calling the individual weak, stupid, disloyal, a failure, using an insulting nickname, using other derogatory language, or using the negative form of a positive trait in a derogatory personal way (e.g., \u201cHe/She isn\u2019t smart\u201d). Negative forms used in reference to the individual's professional actions, policies, or decisions (e.g., \u201cHe/She isn\u2019t being smart about this policy\u201d) will not count. Policy disagreements stated without disparaging language will not count.\n\nA direct reference will qualify even if the individual is not named, so long as it is reasonably clear from context that they are the subject.\n\nAny written, verbal, or recorded public statement by Trump qualifies.\n\nThe resolution source for this market will be public statements from Donald Trump.",
+    "resolutionSource": "",
+    "startDate": "2026-06-29T19:12:32.068717Z",
+    "creationDate": "2026-06-29T20:26:05.470376Z",
+    "endDate": "2026-07-31T23:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-publicly-insult-by-may-31-sAuR7oCIPSvP.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-publicly-insult-by-may-31-sAuR7oCIPSvP.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 3288344.8564389995,
+    "openInterest": 952547.535092,
+    "sortBy": "price",
+    "createdAt": "2026-06-29T19:08:44.12545Z",
+    "updatedAt": "2026-08-13T19:50:07.565806Z",
+    "enableOrderBook": true,
+    "negRisk": false,
+    "commentCount": 0,
+    "series": [
+     {
+      "id": "11556",
+      "ticker": "who-trump-insult",
+      "slug": "who-trump-insult",
+      "title": "Who Trump insult",
+      "seriesType": "single",
+      "recurrence": "monthly",
+      "image": "",
+      "icon": "",
+      "active": true,
+      "closed": false,
+      "archived": false,
+      "createdAt": "2026-04-23T15:06:59.212345Z",
+      "updatedAt": "2026-10-30T02:55:19.142047Z",
+      "volume24hr": 2079.180269,
+      "volume": 165973.162579,
+      "liquidity": 5113.38525,
+      "commentCount": 696
+     }
+    ],
+    "cyom": false,
+    "closedTime": "2026-08-05T00:41:44Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": false,
+    "automaticallyActive": true,
+    "seriesSlug": "who-trump-insult",
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-06-29T19:23:13Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 4.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0005,
+  "oneWeekPriceChange": -0.091,
+  "oneMonthPriceChange": -0.0935,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"disputed\", \"proposed\", \"disputed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-06-29T19:09:08.388278Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "culture_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.05,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1782777611,
+   "p": 0.436
+  },
+  {
+   "t": 1782864016,
+   "p": 0.1145
+  },
+  {
+   "t": 1782950415,
+   "p": 0.1155
+  },
+  {
+   "t": 1783036814,
+   "p": 0.1215
+  },
+  {
+   "t": 1783123212,
+   "p": 0.094
+  },
+  {
+   "t": 1783209612,
+   "p": 0.095
+  },
+  {
+   "t": 1783296005,
+   "p": 0.0975
+  },
+  {
+   "t": 1783382411,
+   "p": 0.0975
+  },
+  {
+   "t": 1783468807,
+   "p": 0.0535
+  },
+  {
+   "t": 1783555214,
+   "p": 0.1075
+  },
+  {
+   "t": 1783641611,
+   "p": 0.124
+  },
+  {
+   "t": 1783728010,
+   "p": 0.115
+  },
+  {
+   "t": 1783814423,
+   "p": 0.116
+  },
+  {
+   "t": 1783900813,
+   "p": 0.117
+  },
+  {
+   "t": 1783987210,
+   "p": 0.0895
+  },
+  {
+   "t": 1784073617,
+   "p": 0.108
+  },
+  {
+   "t": 1784160015,
+   "p": 0.108
+  },
+  {
+   "t": 1784246416,
+   "p": 0.108
+  },
+  {
+   "t": 1784332812,
+   "p": 0.108
+  },
+  {
+   "t": 1784419223,
+   "p": 0.082
+  },
+  {
+   "t": 1784505628,
+   "p": 0.0905
+  },
+  {
+   "t": 1784592017,
+   "p": 0.09
+  },
+  {
+   "t": 1784678412,
+   "p": 0.09
+  },
+  {
+   "t": 1784764821,
+   "p": 0.09
+  },
+  {
+   "t": 1784851231,
+   "p": 0.103
+  },
+  {
+   "t": 1784937649,
+   "p": 0.102
+  },
+  {
+   "t": 1785024046,
+   "p": 0.102
+  },
+  {
+   "t": 1785110458,
+   "p": 0.101
+  },
+  {
+   "t": 1785196853,
+   "p": 0.027
+  },
+  {
+   "t": 1785369626,
+   "p": 0.016
+  },
+  {
+   "t": 1785456024,
+   "p": 0.0325
+  },
+  {
+   "t": 1785542415,
+   "p": 0.007
+  },
+  {
+   "t": 1785628816,
+   "p": 0.0005
+  },
+  {
+   "t": 1785715212,
+   "p": 0.0005
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2596200",
+ "run": 0,
+ "group": "post",
+ "model": "claude-haiku-5-5",
+ "probability": 0.08,
+ "reasoning": "Spider-Man: Brand New Day opens July 31, 2026, so its opening weekend is not yet known as of today (2026-06-18). Comparable Spider-Man openings vary widely: Homecoming opened about $117M, Far From Home about $92.6M, and No Way Home about $260M over a holiday-boosted 3-day frame. Early tracking, which I do not have reliable access to, would be the main anchor, and my central estimate sits somewhere in the $150M to $250M range with substantial uncertainty. A 20M-wide bracket at $240M to $260M captures only a modest slice of that distribution, so I assign it a low-to-moderate probability. I have no knowledge of the actual result.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 900,
+  "output_tokens": 553,
+  "output_tokens_details": {
+   "thinking_tokens": 302
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0003665
+}

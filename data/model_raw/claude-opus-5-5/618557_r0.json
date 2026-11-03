@@ -1,0 +1,27 @@
+{
+ "id": "618557",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-opus-5-5",
+ "probability": 0.3,
+ "reasoning": "Yampil' (Lyman/Siversk axis) was contested by late September 2025, with Russian pressure from the Serebrianka forest and Zakitne/Hryhorivka directions and reports of infiltration near the town. ISW only shades territory red once advances are confirmed, typically by geolocated footage, and it is conservative about infiltrations. For the question to resolve YES, the central intersection would need to be assessed as Russian-controlled within a month. The Russian advance in this sector was slow but steady. Russian claims about Siversk-area towns came later in the year, but ISW confirmation of central Yampil' by the end of October is uncertain. I estimate a moderate-low probability.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 1148,
+  "output_tokens": 723,
+  "output_tokens_details": {
+   "thinking_tokens": 481
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.019052
+}

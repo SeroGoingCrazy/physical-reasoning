@@ -1,0 +1,782 @@
+{
+ "market": {
+  "id": "2089111",
+  "question": "Will Ciro Gomes win the 2026 Cear\u00e1 gubernatorial election?",
+  "conditionId": "0x927d2b026c8cbd96e5a9cb7a3f2457bc06725d145f4913c1931d8cbf8464aee7",
+  "slug": "will-ciro-gomes-win-the-2026-cear-gubernatorial-election",
+  "resolutionSource": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+  "endDate": "2026-10-05T03:59:00Z",
+  "startDate": "2026-04-27T21:35:53.352265Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ciro-gomes-win-the-2026-cear-gubernatorial-election-fhhu6do9bN7s.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-ciro-gomes-win-the-2026-cear-gubernatorial-election-fhhu6do9bN7s.jpg",
+  "description": "The Cear\u00e1 gubernatorial election is scheduled to take place in Brazil on October 4, 2026, with a runoff on October 25, 2026, if no candidate receives a majority of the valid votes in the first round.\n\nThis market will resolve according to the candidate who wins this election.\n\nTemporary, interim, or placeholder governors appointed by any means before the specified election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "184947.12139999995",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-04-26T21:26:13.328493Z",
+  "updatedAt": "2026-10-07T20:08:32.901404Z",
+  "closedTime": "2026-10-05 19:59:13+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Ciro Gomes",
+  "groupItemThreshold": "1",
+  "questionID": "0x6750199a0bc9333c898fde2c7875f0afb7e0ba2efafecf96d14ecb39e2911901",
+  "umaEndDate": "2026-10-05T19:59:13Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 184947.12139999995,
+  "endDateIso": "2026-10-05",
+  "startDateIso": "2026-04-27",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"105484939946786732629358238535517573537022130860998447943263640174281414340108\", \"6420041504394787020962944132154760366808172886037862610912845165905940455037\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 184947.12139999995,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x6750199a0bc9333c898fde2c7875f0afb7e0ba2efafecf96d14ecb39e2911900",
+  "negRiskRequestID": "0xd69283aa57622376c042de5f7cf76fd36e4897d788c871d415c255b18743fd59",
+  "events": [
+   {
+    "id": "421398",
+    "ticker": "cear-governor-election-winner",
+    "slug": "cear-governor-election-winner",
+    "title": "Cear\u00e1 Governor Election Winner",
+    "description": "The Cear\u00e1 gubernatorial election is scheduled to take place in Brazil on October 4, 2026, with a runoff on October 25, 2026, if no candidate receives a majority of the valid votes in the first round.\n\nThis market will resolve according to the candidate who wins this election.\n\nTemporary, interim, or placeholder governors appointed by any means before the specified election will not be considered.\n\nIf the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., www.tse.jus.br/eleicoes/resultados-eleicoes).",
+    "resolutionSource": "",
+    "startDate": "2026-04-27T21:35:50.362276Z",
+    "creationDate": "2026-04-27T21:42:37.533892Z",
+    "endDate": "2026-10-05T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cear-governor-election-winner-4G9cKVaciSOY.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/cear-governor-election-winner-4G9cKVaciSOY.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 411296.78670500003,
+    "openInterest": 98936.197017,
+    "sortBy": "price",
+    "createdAt": "2026-04-26T21:26:12.437228Z",
+    "updatedAt": "2026-10-06T19:52:08.753667Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x6750199a0bc9333c898fde2c7875f0afb7e0ba2efafecf96d14ecb39e2911900",
+    "commentCount": 22,
+    "cyom": false,
+    "closedTime": "2026-10-05T19:59:14Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-10-04T12:00:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-04-27T21:28:46.030876Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-04-27T21:34:34Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 20,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.3545,
+  "oneWeekPriceChange": -0.3645,
+  "oneMonthPriceChange": -0.6445,
+  "lastTradePrice": 0.002,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-04-27T21:33:18.032095Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1777334412,
+   "p": 0.59
+  },
+  {
+   "t": 1777420810,
+   "p": 0.495
+  },
+  {
+   "t": 1777507215,
+   "p": 0.505
+  },
+  {
+   "t": 1777593614,
+   "p": 0.48
+  },
+  {
+   "t": 1777680009,
+   "p": 0.52
+  },
+  {
+   "t": 1777766407,
+   "p": 0.46
+  },
+  {
+   "t": 1777852806,
+   "p": 0.465
+  },
+  {
+   "t": 1777939219,
+   "p": 0.43
+  },
+  {
+   "t": 1778025610,
+   "p": 0.46
+  },
+  {
+   "t": 1778112010,
+   "p": 0.485
+  },
+  {
+   "t": 1778198408,
+   "p": 0.555
+  },
+  {
+   "t": 1778284824,
+   "p": 0.58
+  },
+  {
+   "t": 1778371210,
+   "p": 0.675
+  },
+  {
+   "t": 1778457611,
+   "p": 0.665
+  },
+  {
+   "t": 1778544013,
+   "p": 0.635
+  },
+  {
+   "t": 1778630413,
+   "p": 0.635
+  },
+  {
+   "t": 1778716818,
+   "p": 0.635
+  },
+  {
+   "t": 1778803211,
+   "p": 0.62
+  },
+  {
+   "t": 1778889618,
+   "p": 0.65
+  },
+  {
+   "t": 1778976028,
+   "p": 0.665
+  },
+  {
+   "t": 1779062413,
+   "p": 0.665
+  },
+  {
+   "t": 1779148809,
+   "p": 0.715
+  },
+  {
+   "t": 1779235213,
+   "p": 0.72
+  },
+  {
+   "t": 1779321615,
+   "p": 0.725
+  },
+  {
+   "t": 1779408018,
+   "p": 0.715
+  },
+  {
+   "t": 1779494412,
+   "p": 0.625
+  },
+  {
+   "t": 1779580808,
+   "p": 0.625
+  },
+  {
+   "t": 1779667208,
+   "p": 0.605
+  },
+  {
+   "t": 1779753608,
+   "p": 0.67
+  },
+  {
+   "t": 1779840009,
+   "p": 0.665
+  },
+  {
+   "t": 1779926411,
+   "p": 0.65
+  },
+  {
+   "t": 1780012813,
+   "p": 0.645
+  },
+  {
+   "t": 1780099222,
+   "p": 0.64
+  },
+  {
+   "t": 1780185612,
+   "p": 0.62
+  },
+  {
+   "t": 1780272007,
+   "p": 0.62
+  },
+  {
+   "t": 1780358408,
+   "p": 0.58
+  },
+  {
+   "t": 1780444808,
+   "p": 0.615
+  },
+  {
+   "t": 1780531206,
+   "p": 0.615
+  },
+  {
+   "t": 1780617619,
+   "p": 0.575
+  },
+  {
+   "t": 1780704004,
+   "p": 0.6
+  },
+  {
+   "t": 1780790415,
+   "p": 0.61
+  },
+  {
+   "t": 1780876805,
+   "p": 0.625
+  },
+  {
+   "t": 1780963206,
+   "p": 0.72
+  },
+  {
+   "t": 1781049607,
+   "p": 0.69
+  },
+  {
+   "t": 1781136011,
+   "p": 0.555
+  },
+  {
+   "t": 1781222408,
+   "p": 0.605
+  },
+  {
+   "t": 1781308808,
+   "p": 0.635
+  },
+  {
+   "t": 1781395211,
+   "p": 0.645
+  },
+  {
+   "t": 1781481608,
+   "p": 0.755
+  },
+  {
+   "t": 1781568012,
+   "p": 0.75
+  },
+  {
+   "t": 1781654410,
+   "p": 0.73
+  },
+  {
+   "t": 1781740824,
+   "p": 0.625
+  },
+  {
+   "t": 1781827225,
+   "p": 0.625
+  },
+  {
+   "t": 1781913607,
+   "p": 0.625
+  },
+  {
+   "t": 1782000010,
+   "p": 0.605
+  },
+  {
+   "t": 1782086409,
+   "p": 0.575
+  },
+  {
+   "t": 1782172811,
+   "p": 0.575
+  },
+  {
+   "t": 1782259209,
+   "p": 0.575
+  },
+  {
+   "t": 1782345612,
+   "p": 0.575
+  },
+  {
+   "t": 1782432007,
+   "p": 0.575
+  },
+  {
+   "t": 1782518409,
+   "p": 0.575
+  },
+  {
+   "t": 1782604808,
+   "p": 0.575
+  },
+  {
+   "t": 1782691208,
+   "p": 0.595
+  },
+  {
+   "t": 1782777609,
+   "p": 0.595
+  },
+  {
+   "t": 1782864009,
+   "p": 0.595
+  },
+  {
+   "t": 1782950411,
+   "p": 0.665
+  },
+  {
+   "t": 1783036810,
+   "p": 0.675
+  },
+  {
+   "t": 1783123209,
+   "p": 0.65
+  },
+  {
+   "t": 1783209609,
+   "p": 0.675
+  },
+  {
+   "t": 1783296005,
+   "p": 0.705
+  },
+  {
+   "t": 1783382410,
+   "p": 0.68
+  },
+  {
+   "t": 1783468806,
+   "p": 0.685
+  },
+  {
+   "t": 1783555213,
+   "p": 0.725
+  },
+  {
+   "t": 1783641609,
+   "p": 0.715
+  },
+  {
+   "t": 1783728009,
+   "p": 0.73
+  },
+  {
+   "t": 1783814422,
+   "p": 0.725
+  },
+  {
+   "t": 1783900810,
+   "p": 0.735
+  },
+  {
+   "t": 1783987209,
+   "p": 0.685
+  },
+  {
+   "t": 1784073612,
+   "p": 0.72
+  },
+  {
+   "t": 1784160013,
+   "p": 0.685
+  },
+  {
+   "t": 1784246413,
+   "p": 0.675
+  },
+  {
+   "t": 1784332809,
+   "p": 0.68
+  },
+  {
+   "t": 1784419212,
+   "p": 0.675
+  },
+  {
+   "t": 1784505626,
+   "p": 0.685
+  },
+  {
+   "t": 1784592013,
+   "p": 0.675
+  },
+  {
+   "t": 1784678410,
+   "p": 0.675
+  },
+  {
+   "t": 1784764818,
+   "p": 0.695
+  },
+  {
+   "t": 1784851220,
+   "p": 0.695
+  },
+  {
+   "t": 1784937636,
+   "p": 0.69
+  },
+  {
+   "t": 1785024026,
+   "p": 0.7
+  },
+  {
+   "t": 1785110432,
+   "p": 0.7
+  },
+  {
+   "t": 1785196835,
+   "p": 0.695
+  },
+  {
+   "t": 1785369625,
+   "p": 0.7
+  },
+  {
+   "t": 1785456022,
+   "p": 0.7
+  },
+  {
+   "t": 1785542413,
+   "p": 0.705
+  },
+  {
+   "t": 1785628814,
+   "p": 0.705
+  },
+  {
+   "t": 1785715211,
+   "p": 0.71
+  },
+  {
+   "t": 1785801613,
+   "p": 0.71
+  },
+  {
+   "t": 1785888014,
+   "p": 0.715
+  },
+  {
+   "t": 1785974413,
+   "p": 0.7
+  },
+  {
+   "t": 1786060813,
+   "p": 0.62
+  },
+  {
+   "t": 1786147217,
+   "p": 0.595
+  },
+  {
+   "t": 1786233627,
+   "p": 0.605
+  },
+  {
+   "t": 1786320019,
+   "p": 0.605
+  },
+  {
+   "t": 1786406423,
+   "p": 0.645
+  },
+  {
+   "t": 1786492815,
+   "p": 0.665
+  },
+  {
+   "t": 1786579220,
+   "p": 0.66
+  },
+  {
+   "t": 1786665620,
+   "p": 0.66
+  },
+  {
+   "t": 1786752018,
+   "p": 0.695
+  },
+  {
+   "t": 1786838420,
+   "p": 0.685
+  },
+  {
+   "t": 1786924822,
+   "p": 0.72
+  },
+  {
+   "t": 1787011232,
+   "p": 0.71
+  },
+  {
+   "t": 1787097621,
+   "p": 0.71
+  },
+  {
+   "t": 1787184025,
+   "p": 0.71
+  },
+  {
+   "t": 1787270422,
+   "p": 0.615
+  },
+  {
+   "t": 1787356822,
+   "p": 0.645
+  },
+  {
+   "t": 1787443219,
+   "p": 0.645
+  },
+  {
+   "t": 1787529623,
+   "p": 0.645
+  },
+  {
+   "t": 1787616021,
+   "p": 0.645
+  },
+  {
+   "t": 1787702423,
+   "p": 0.605
+  },
+  {
+   "t": 1787788823,
+   "p": 0.605
+  },
+  {
+   "t": 1787875223,
+   "p": 0.615
+  },
+  {
+   "t": 1787961624,
+   "p": 0.615
+  },
+  {
+   "t": 1788048023,
+   "p": 0.675
+  },
+  {
+   "t": 1788134422,
+   "p": 0.67
+  },
+  {
+   "t": 1788220834,
+   "p": 0.685
+  },
+  {
+   "t": 1788307221,
+   "p": 0.645
+  },
+  {
+   "t": 1788393626,
+   "p": 0.645
+  },
+  {
+   "t": 1788480019,
+   "p": 0.61
+  },
+  {
+   "t": 1788566420,
+   "p": 0.65
+  },
+  {
+   "t": 1788652826,
+   "p": 0.645
+  },
+  {
+   "t": 1788739234,
+   "p": 0.645
+  },
+  {
+   "t": 1788825617,
+   "p": 0.645
+  },
+  {
+   "t": 1788912025,
+   "p": 0.635
+  },
+  {
+   "t": 1788998420,
+   "p": 0.625
+  },
+  {
+   "t": 1789084822,
+   "p": 0.595
+  },
+  {
+   "t": 1789171222,
+   "p": 0.585
+  },
+  {
+   "t": 1789257621,
+   "p": 0.585
+  },
+  {
+   "t": 1789344018,
+   "p": 0.635
+  },
+  {
+   "t": 1789430417,
+   "p": 0.615
+  },
+  {
+   "t": 1789516818,
+   "p": 0.585
+  },
+  {
+   "t": 1789603220,
+   "p": 0.595
+  },
+  {
+   "t": 1789689623,
+   "p": 0.575
+  },
+  {
+   "t": 1789776024,
+   "p": 0.58
+  },
+  {
+   "t": 1789862423,
+   "p": 0.585
+  },
+  {
+   "t": 1789948820,
+   "p": 0.575
+  },
+  {
+   "t": 1790035220,
+   "p": 0.465
+  },
+  {
+   "t": 1790121622,
+   "p": 0.52
+  },
+  {
+   "t": 1790208033,
+   "p": 0.49
+  },
+  {
+   "t": 1790294425,
+   "p": 0.425
+  },
+  {
+   "t": 1790380820,
+   "p": 0.41
+  },
+  {
+   "t": 1790467220,
+   "p": 0.38
+  },
+  {
+   "t": 1790553634,
+   "p": 0.365
+  },
+  {
+   "t": 1790640021,
+   "p": 0.37
+  },
+  {
+   "t": 1790726422,
+   "p": 0.285
+  },
+  {
+   "t": 1790812824,
+   "p": 0.31
+  },
+  {
+   "t": 1790899222,
+   "p": 0.27
+  },
+  {
+   "t": 1790985626,
+   "p": 0.305
+  },
+  {
+   "t": 1791072022,
+   "p": 0.365
+  },
+  {
+   "t": 1791158426,
+   "p": 0.004
+  }
+ ]
+}

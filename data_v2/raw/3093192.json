@@ -1,0 +1,402 @@
+{
+ "market": {
+  "id": "3093192",
+  "question": "Will Belit Onay win the next Hannover mayoral election?",
+  "conditionId": "0x60baa48f4a62dd886f1fdf63ddaef9555ac2432d59b0a380e0c6431ea3e086df",
+  "slug": "will-belit-onay-win-the-next-hannover-mayoral-election-20260724232337443",
+  "resolutionSource": "",
+  "endDate": "2027-05-01T03:59:00Z",
+  "startDate": "2026-07-24T23:43:52.618725Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/untitled-market-1-20260723153648609-mUaD7evkjFfC.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/untitled-market-1-20260723153648609-mUaD7evkjFfC.jpg",
+  "description": "The next Hannover mayoral election is scheduled to be held on September 13, 2026, to elect the mayor of Hannover, Germany (Oberb\u00fcrgermeister der Landeshauptstadt Hannover). A runoff election is scheduled for September 27, 2026, if no candidate receives more than half of the valid votes in the first round.\n\nThis market will resolve according to the candidate who becomes the next mayor of Hannover as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by April 30, 2027, 11:59 PM ET, the market will resolve to \u201cOther.\u201d\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from the Landeshauptstadt Hannover, including its election office and municipal election committee.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "29370.537768",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-07-24T23:24:52.959524Z",
+  "updatedAt": "2026-09-28T18:51:01.187468Z",
+  "closedTime": "2026-09-27 22:31:05+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0xF43d55F3A8B7484Ed4B6931f93CB6F9eF5Dd369D",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Belit Onay",
+  "groupItemThreshold": "0",
+  "questionID": "0xb934c8e5c9ac59a8373a63704dd15daaa7bd702e4ac721908c0680ce7785b600",
+  "umaEndDate": "2026-09-27T22:31:05Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 29370.537768,
+  "endDateIso": "2027-05-01",
+  "startDateIso": "2026-07-24",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"595692777873736963445116441287747368342900932750558047967637644834380157077\", \"89860948538323755700963128304987414512167276883983552202950216575234323947482\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "3.5",
+  "volumeClob": 29370.537768,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0xb934c8e5c9ac59a8373a63704dd15daaa7bd702e4ac721908c0680ce7785b600",
+  "negRiskRequestID": "0x2d1d17d779810181132088ec6faf41d3324ad12805d977091108f2a457c5e9f8",
+  "events": [
+   {
+    "id": "745570",
+    "ticker": "hannover-mayoral-election-winner-20260723155039214",
+    "slug": "hannover-mayoral-election-winner-20260723155039214",
+    "title": "Hannover Mayoral Election Winner",
+    "description": "The next Hannover mayoral election is scheduled to be held on September 13, 2026, to elect the mayor of Hannover, Germany (Oberb\u00fcrgermeister der Landeshauptstadt Hannover). A runoff election is scheduled for September 27, 2026, if no candidate receives more than half of the valid votes in the first round.\n\nThis market will resolve according to the candidate who becomes the next mayor of Hannover as a result of this election.\n\nTemporary, interim, or placeholder mayors appointed before the election will not be considered.\n\nIf the result of this election isn't known by April 30, 2027, 11:59 PM ET, the market will resolve to \u201cOther.\u201d\n\nThe primary resolution source for this market will be a consensus of credible reporting; however, if there is any ambiguity in the results, this market will resolve according to official information from the Landeshauptstadt Hannover, including its election office and municipal election committee.",
+    "resolutionSource": "",
+    "startDate": "2026-07-24T23:43:52.618725Z",
+    "creationDate": "2026-07-24T23:47:13.821316Z",
+    "endDate": "2027-05-01T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/hannover-region-presidential-election-winner-20260722233938481-hVS_Rq93Dc6U.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 57343.871959,
+    "openInterest": 17469.439784,
+    "sortBy": "price",
+    "createdAt": "2026-07-24T23:24:52.570023Z",
+    "updatedAt": "2026-09-28T18:53:16.61192Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0xb934c8e5c9ac59a8373a63704dd15daaa7bd702e4ac721908c0680ce7785b600",
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2026-09-27T22:31:05Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-07-24T23:25:12.714457Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-07-24T23:42:52Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.051,
+  "oneWeekPriceChange": 0.0645,
+  "oneMonthPriceChange": 0.2945,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-07-24T23:39:49.692495Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1784937610,
+   "p": 0.395
+  },
+  {
+   "t": 1785024011,
+   "p": 0.53
+  },
+  {
+   "t": 1785110413,
+   "p": 0.545
+  },
+  {
+   "t": 1785196816,
+   "p": 0.49
+  },
+  {
+   "t": 1785283236,
+   "p": 0.495
+  },
+  {
+   "t": 1785369623,
+   "p": 0.54
+  },
+  {
+   "t": 1785456020,
+   "p": 0.47
+  },
+  {
+   "t": 1785542412,
+   "p": 0.5
+  },
+  {
+   "t": 1785628812,
+   "p": 0.55
+  },
+  {
+   "t": 1785715210,
+   "p": 0.495
+  },
+  {
+   "t": 1785801611,
+   "p": 0.495
+  },
+  {
+   "t": 1785888012,
+   "p": 0.495
+  },
+  {
+   "t": 1785974410,
+   "p": 0.495
+  },
+  {
+   "t": 1786060811,
+   "p": 0.495
+  },
+  {
+   "t": 1786147214,
+   "p": 0.495
+  },
+  {
+   "t": 1786233624,
+   "p": 0.495
+  },
+  {
+   "t": 1786320016,
+   "p": 0.495
+  },
+  {
+   "t": 1786406421,
+   "p": 0.495
+  },
+  {
+   "t": 1786492813,
+   "p": 0.495
+  },
+  {
+   "t": 1786579217,
+   "p": 0.525
+  },
+  {
+   "t": 1786665616,
+   "p": 0.5
+  },
+  {
+   "t": 1786752015,
+   "p": 0.445
+  },
+  {
+   "t": 1786838416,
+   "p": 0.44
+  },
+  {
+   "t": 1786924817,
+   "p": 0.565
+  },
+  {
+   "t": 1787011227,
+   "p": 0.555
+  },
+  {
+   "t": 1787097617,
+   "p": 0.535
+  },
+  {
+   "t": 1787184020,
+   "p": 0.57
+  },
+  {
+   "t": 1787270417,
+   "p": 0.605
+  },
+  {
+   "t": 1787356816,
+   "p": 0.635
+  },
+  {
+   "t": 1787443215,
+   "p": 0.595
+  },
+  {
+   "t": 1787529618,
+   "p": 0.595
+  },
+  {
+   "t": 1787616016,
+   "p": 0.595
+  },
+  {
+   "t": 1787702417,
+   "p": 0.595
+  },
+  {
+   "t": 1787788818,
+   "p": 0.595
+  },
+  {
+   "t": 1787875217,
+   "p": 0.61
+  },
+  {
+   "t": 1787961618,
+   "p": 0.745
+  },
+  {
+   "t": 1788048017,
+   "p": 0.815
+  },
+  {
+   "t": 1788134418,
+   "p": 0.815
+  },
+  {
+   "t": 1788220828,
+   "p": 0.815
+  },
+  {
+   "t": 1788307216,
+   "p": 0.815
+  },
+  {
+   "t": 1788393620,
+   "p": 0.81
+  },
+  {
+   "t": 1788480017,
+   "p": 0.76
+  },
+  {
+   "t": 1788566417,
+   "p": 0.76
+  },
+  {
+   "t": 1788652822,
+   "p": 0.775
+  },
+  {
+   "t": 1788739231,
+   "p": 0.775
+  },
+  {
+   "t": 1788825615,
+   "p": 0.795
+  },
+  {
+   "t": 1788912022,
+   "p": 0.735
+  },
+  {
+   "t": 1788998417,
+   "p": 0.765
+  },
+  {
+   "t": 1789084818,
+   "p": 0.7
+  },
+  {
+   "t": 1789171218,
+   "p": 0.67
+  },
+  {
+   "t": 1789257617,
+   "p": 0.705
+  },
+  {
+   "t": 1789344015,
+   "p": 0.89
+  },
+  {
+   "t": 1789430414,
+   "p": 0.94
+  },
+  {
+   "t": 1789516815,
+   "p": 0.935
+  },
+  {
+   "t": 1789603216,
+   "p": 0.92
+  },
+  {
+   "t": 1789689619,
+   "p": 0.955
+  },
+  {
+   "t": 1789776019,
+   "p": 0.945
+  },
+  {
+   "t": 1789862419,
+   "p": 0.925
+  },
+  {
+   "t": 1789948816,
+   "p": 0.925
+  },
+  {
+   "t": 1790035216,
+   "p": 0.945
+  },
+  {
+   "t": 1790121618,
+   "p": 0.955
+  },
+  {
+   "t": 1790208029,
+   "p": 0.95
+  },
+  {
+   "t": 1790294420,
+   "p": 0.9625
+  },
+  {
+   "t": 1790380817,
+   "p": 0.956
+  },
+  {
+   "t": 1790467216,
+   "p": 0.957
+  }
+ ]
+}

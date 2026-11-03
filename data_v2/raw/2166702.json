@@ -1,0 +1,205 @@
+{
+ "market": {
+  "id": "2166702",
+  "question": "Will Luca Niculescu be the next Prime Minister of Romania?",
+  "conditionId": "0x9b8a472f0f5f8a3b2c11b345d969ed90203c800b8c60ef4e4b7f5ad38df5338f",
+  "slug": "will-luca-niculescu-be-the-next-prime-minister-of-romania",
+  "resolutionSource": "",
+  "endDate": "2026-12-31T00:00:00Z",
+  "startDate": "2026-05-05T17:16:48.398Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ro26-luca-niculescu-87a2d78f1b.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ro26-luca-niculescu-87a2d78f1b.jpg",
+  "description": "This market will resolve to the next individual who officially assumes the office of Prime Minister of Romania by December 31, 2027, 11:59 PM ET.\n\nTo count for resolution, the individual must be formally appointed by the President of Romania and receive a vote of confidence from Parliament, resulting in the official formation of a new government. Any interim or caretaker Prime Minister who does not receive a parliamentary vote of confidence will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by December 31, 2027, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the Government of Romania; however, a consensus of credible reporting may also be used.",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"1\", \"0\"]",
+  "volume": "520589.54123400006",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-05-05T16:37:53.394634Z",
+  "updatedAt": "2026-10-21T20:11:12.179548Z",
+  "closedTime": "2026-10-20 22:42:21.655615+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Luca Niculescu",
+  "groupItemThreshold": "36",
+  "questionID": "0x39fbd3d0ce494e60dce9704513928bdfcaa29f6fb349277a49daf7efc14ce724",
+  "umaEndDate": "2026-10-20 22:42:21.655615+00:00:00",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 520589.54123400006,
+  "endDateIso": "2026-12-31",
+  "startDateIso": "2026-05-05",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"65057750565250219127941515517695620491075931791765593327307829586347576070328\", \"30044547678829499378008432891171459016862015636167720981500963462030356345070\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volumeClob": 520589.54123400006,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x39fbd3d0ce494e60dce9704513928bdfcaa29f6fb349277a49daf7efc14ce700",
+  "negRiskRequestID": "0x31a66478b66fd2d8f145edc09e7170a95d93d8b76f9d3a1ebbda31ea0dc9421e",
+  "events": [
+   {
+    "id": "452161",
+    "ticker": "next-prime-minister-of-romania-732",
+    "slug": "next-prime-minister-of-romania-732",
+    "title": "Next Prime Minister of Romania?",
+    "description": "This market will resolve to the next individual who officially assumes the office of Prime Minister of Romania by December 31, 2027, 11:59 PM ET.\n\nTo count for resolution, the individual must be formally appointed by the President of Romania and receive a vote of confidence from Parliament, resulting in the official formation of a new government. Any interim or caretaker Prime Minister who does not receive a parliamentary vote of confidence will not count toward the resolution of this market.\n\nIf no such Prime Minister takes office by December 31, 2027, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the Government of Romania; however, a consensus of credible reporting may also be used.",
+    "resolutionSource": "",
+    "startDate": "2026-05-05T17:14:06.181Z",
+    "creationDate": "2026-05-05T17:21:37.075199Z",
+    "endDate": "2028-01-01T04:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-romania-party-LQ77lH2izZmR.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/next-prime-minister-of-romania-party-LQ77lH2izZmR.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 5747517.28338,
+    "openInterest": 248390.51667099996,
+    "sortBy": "price",
+    "createdAt": "2026-05-05T16:37:42.465001Z",
+    "updatedAt": "2026-10-21T20:13:23.047322Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x39fbd3d0ce494e60dce9704513928bdfcaa29f6fb349277a49daf7efc14ce700",
+    "commentCount": 679,
+    "cyom": false,
+    "closedTime": "2026-10-20T22:43:45Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "startTime": "2026-06-30T12:09:00Z",
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Romania",
+    "electionType": "Prime Minister",
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-05-05T17:10:06.155739Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-05-05T17:15:28Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 80,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": 0.046,
+  "oneWeekPriceChange": 0.1945,
+  "lastTradePrice": 0.999,
+  "bestBid": 0.999,
+  "bestAsk": 1,
+  "automaticallyActive": false,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": true,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-05-05T17:11:31.013049Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "zero_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0,
+   "takerOnly": true,
+   "rebateRate": 0
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1790985629,
+   "p": 0.0555
+  },
+  {
+   "t": 1791072024,
+   "p": 0.191
+  },
+  {
+   "t": 1791158429,
+   "p": 0.087
+  },
+  {
+   "t": 1791244828,
+   "p": 0.429
+  },
+  {
+   "t": 1791331233,
+   "p": 0.5845
+  },
+  {
+   "t": 1791417658,
+   "p": 0.6935
+  },
+  {
+   "t": 1791590434,
+   "p": 0.534
+  },
+  {
+   "t": 1791676842,
+   "p": 0.5485
+  },
+  {
+   "t": 1791763251,
+   "p": 0.5925
+  },
+  {
+   "t": 1791849646,
+   "p": 0.5755
+  },
+  {
+   "t": 1791936044,
+   "p": 0.805
+  },
+  {
+   "t": 1792108848,
+   "p": 0.911
+  },
+  {
+   "t": 1792195255,
+   "p": 0.7635
+  },
+  {
+   "t": 1792368047,
+   "p": 0.964
+  },
+  {
+   "t": 1792454447,
+   "p": 0.9545
+  }
+ ]
+}

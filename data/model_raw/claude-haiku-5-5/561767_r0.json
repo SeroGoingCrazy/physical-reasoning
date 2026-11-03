@@ -1,0 +1,27 @@
+{
+ "id": "561767",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.8,
+ "reasoning": "As of July 2025, credible reports (Reuters, The Information) said OpenAI was building a Chromium-based browser to compete with Chrome, so a 2025 launch was plausible but unconfirmed. The criteria require a public release, not a closed beta, by year end. I also have a recollection that OpenAI launched a browser called ChatGPT Atlas on macOS in October 2025 with broad public access, which would resolve YES. That recollection is after today's date and I cannot verify it, so I weight it only modestly and keep the forecast well below certainty.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 761,
+  "output_tokens": 720,
+  "output_tokens_details": {
+   "thinking_tokens": 520
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.00043610000000000003
+}

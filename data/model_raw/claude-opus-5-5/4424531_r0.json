@@ -1,0 +1,27 @@
+{
+ "id": "4424531",
+ "run": 0,
+ "group": "post",
+ "model": "claude-opus-5-5",
+ "probability": 0.35,
+ "reasoning": "Yoaz Hendel's Reservists party, later reported as running together with Yaron Zelekha's New Economic Party, polled around 3 to 5 seats through 2025-26. That is roughly at or slightly above the 3.25% threshold. Under 2.75% corresponds to fewer than about 3.3 seats' worth of votes. Small centre-right protest parties polling near the threshold are often squeezed on election day by strategic voting, as Jewish Home was in 2022. That makes a sub-2.75% result plausible. On the other hand, a merger or joint run with a larger opposition list (e.g., Bennett or Eisenkot) would push the counted share far above 2.75%. Polling above the threshold also suggests a solo run would more likely land around 3-4%. A withdrawal scenario adds ambiguity. Weighing these, I estimate roughly a one-in-three chance.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 958,
+  "output_tokens": 873,
+  "output_tokens_details": {
+   "thinking_tokens": 561
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.021292
+}

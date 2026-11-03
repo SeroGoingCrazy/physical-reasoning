@@ -1,0 +1,283 @@
+{
+ "market": {
+  "id": "4037599",
+  "question": "Will Lula win the most votes in the first round of the 2026 Brazil presidential election?",
+  "conditionId": "0xf19d6b617a3c6382448444824b42ba172be2d88b8a1491f7dfc7be6327e510a1",
+  "slug": "will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election",
+  "resolutionSource": "https://dadosabertos.tse.jus.br/",
+  "endDate": "2026-10-05T03:59:00Z",
+  "startDate": "2026-08-31T17:48:03Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brpres-lula-3d61b3284f.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brpres-lula-3d61b3284f.jpg",
+  "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate who receives the most valid votes in the first round of this election.\n\nCandidates will be primarily ranked by order of valid votes won. If two or more candidates are tied for any position, ties will be broken by alphabetical order of the candidates\u2019 listed full names as they appear in this market. This market will resolve to the candidate that occupies the highest finishing position after applying this ranking.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "3409754.557963999",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2026-08-31T17:47:03.958721Z",
+  "updatedAt": "2026-10-06T03:24:26.111182Z",
+  "closedTime": "2026-10-05 03:40:14+00",
+  "new": false,
+  "featured": false,
+  "archived": false,
+  "resolvedBy": "0x69c47De9D4D3Dad79590d61b9e05918E03775f24",
+  "restricted": true,
+  "groupItemTitle": "Lula",
+  "groupItemThreshold": "0",
+  "questionID": "0x0f561cef965e214d6b73996fb44a083554b30f5f3bb839d9fd6916a20a393600",
+  "umaEndDate": "2026-10-05T03:40:14Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 3409754.557963999,
+  "endDateIso": "2026-10-05",
+  "startDateIso": "2026-08-31",
+  "hasReviewedDates": true,
+  "clobTokenIds": "[\"59263952479040461395118740393989526475872507834003057062766690093774519981624\", \"53720115379916959421923495014610746985393867525164093155920821553793706417884\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "3.5",
+  "volumeClob": 3409754.557963999,
+  "makerBaseFee": 1000,
+  "takerBaseFee": 1000,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x0f561cef965e214d6b73996fb44a083554b30f5f3bb839d9fd6916a20a393600",
+  "negRiskRequestID": "0x71961f6cd3cdd7c382a6bca707e92e3c0d2047bfb7cd1b2fffab82d4eb985bac",
+  "events": [
+   {
+    "id": "943054",
+    "ticker": "brazil-presidential-election-first-round-winner",
+    "slug": "brazil-presidential-election-first-round-winner",
+    "title": "Brazil Presidential Election First Round Winner",
+    "description": "A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate who receives the most valid votes in the first round of this election.\n\nCandidates will be primarily ranked by order of valid votes won. If two or more candidates are tied for any position, ties will be broken by alphabetical order of the candidates\u2019 listed full names as they appear in this market. This market will resolve to the candidate that occupies the highest finishing position after applying this ranking.\n\nIf the result of this election isn't known definitively by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral Court (Tribunal Superior Eleitoral, TSE) (e.g., https://dadosabertos.tse.jus.br/).",
+    "resolutionSource": "https://dadosabertos.tse.jus.br/",
+    "startDate": "2026-08-31T17:48:03Z",
+    "creationDate": "2026-08-31T17:48:54.078232Z",
+    "endDate": "2026-10-05T03:59:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/brazil-presidential-election-37lx5Jgvkbr8.png",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 6102617.0082399985,
+    "openInterest": 2491596.4066600003,
+    "sortBy": "price",
+    "createdAt": "2026-08-31T17:47:03.335061Z",
+    "updatedAt": "2026-10-06T03:43:44.237144Z",
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x0f561cef965e214d6b73996fb44a083554b30f5f3bb839d9fd6916a20a393600",
+    "commentCount": 66,
+    "cyom": false,
+    "closedTime": "2026-10-05T03:49:11Z",
+    "showAllOutcomes": true,
+    "showMarketImages": true,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": false,
+    "gmpChartMode": "default",
+    "negRiskAugmented": true,
+    "countryName": "Brazil",
+    "featuredOrder": 6,
+    "estimateValue": false,
+    "cumulativeMarkets": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2026-08-31T17:47:31.594051Z",
+    "eventMetadata": {
+     "context_requires_regen": true
+    },
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2026-08-31T17:48:03Z",
+  "cyom": false,
+  "approved": true,
+  "rewardsMinSize": 150,
+  "rewardsMaxSpread": 6.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.6095,
+  "oneHourPriceChange": -0.0005,
+  "oneWeekPriceChange": -0.7445,
+  "oneMonthPriceChange": -0.8995,
+  "lastTradePrice": 0.002,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"proposed\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2026-08-31T17:47:31.667842Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": true,
+  "feeType": "politics_fees",
+  "feeSchedule": {
+   "exponent": 1,
+   "rate": 0.04,
+   "takerOnly": true,
+   "rebateRate": 0.25
+  },
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1788220839,
+   "p": 0.915
+  },
+  {
+   "t": 1788307226,
+   "p": 0.875
+  },
+  {
+   "t": 1788393631,
+   "p": 0.855
+  },
+  {
+   "t": 1788480022,
+   "p": 0.87
+  },
+  {
+   "t": 1788566423,
+   "p": 0.89
+  },
+  {
+   "t": 1788652829,
+   "p": 0.895
+  },
+  {
+   "t": 1788739236,
+   "p": 0.905
+  },
+  {
+   "t": 1788825618,
+   "p": 0.875
+  },
+  {
+   "t": 1788912028,
+   "p": 0.88
+  },
+  {
+   "t": 1788998422,
+   "p": 0.845
+  },
+  {
+   "t": 1789084825,
+   "p": 0.795
+  },
+  {
+   "t": 1789171225,
+   "p": 0.765
+  },
+  {
+   "t": 1789257624,
+   "p": 0.755
+  },
+  {
+   "t": 1789344020,
+   "p": 0.765
+  },
+  {
+   "t": 1789430419,
+   "p": 0.765
+  },
+  {
+   "t": 1789516820,
+   "p": 0.765
+  },
+  {
+   "t": 1789603223,
+   "p": 0.765
+  },
+  {
+   "t": 1789689626,
+   "p": 0.765
+  },
+  {
+   "t": 1789776028,
+   "p": 0.705
+  },
+  {
+   "t": 1789862427,
+   "p": 0.725
+  },
+  {
+   "t": 1789948823,
+   "p": 0.68
+  },
+  {
+   "t": 1790035223,
+   "p": 0.68
+  },
+  {
+   "t": 1790121626,
+   "p": 0.695
+  },
+  {
+   "t": 1790208036,
+   "p": 0.705
+  },
+  {
+   "t": 1790294429,
+   "p": 0.735
+  },
+  {
+   "t": 1790380823,
+   "p": 0.735
+  },
+  {
+   "t": 1790467223,
+   "p": 0.725
+  },
+  {
+   "t": 1790553637,
+   "p": 0.745
+  },
+  {
+   "t": 1790640024,
+   "p": 0.755
+  },
+  {
+   "t": 1790726426,
+   "p": 0.745
+  },
+  {
+   "t": 1790812828,
+   "p": 0.675
+  },
+  {
+   "t": 1790899226,
+   "p": 0.725
+  },
+  {
+   "t": 1790985630,
+   "p": 0.755
+  },
+  {
+   "t": 1791072025,
+   "p": 0.62
+  },
+  {
+   "t": 1791158431,
+   "p": 0.0015
+  }
+ ]
+}

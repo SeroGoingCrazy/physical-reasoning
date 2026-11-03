@@ -1,0 +1,27 @@
+{
+ "id": "1308327",
+ "run": 0,
+ "group": "pre",
+ "model": "claude-haiku-5-5",
+ "probability": 0.2,
+ "reasoning": "The question was opened on Saturday, January 31, 2026, the day a partial shutdown began after the January 30 funding deadline. Criteria exclude a continuation of that lapse, so YES needs a new lapse announced by February 14, which would require a reopening followed by another funding gap. My understanding is that the January 31 lapse was expected to be brief, pending House action in early February. The main path to YES is a lapse around the February 13-14 expiration of a stopgap covering DHS or other remaining agencies, and that deadline falls right at the end of the window. I'm uncertain about the exact deal terms and whether OPM would post a new notice for a partial lapse, so I put moderate-low odds on YES. I do not know how this resolved.",
+ "stop_reason": "end_turn",
+ "usage": {
+  "cache_creation": {
+   "ephemeral_1h_input_tokens": 0,
+   "ephemeral_5m_input_tokens": 0
+  },
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "inference_geo": "global",
+  "input_tokens": 726,
+  "output_tokens": 1415,
+  "output_tokens_details": {
+   "thinking_tokens": 1158
+  },
+  "server_tool_use": null,
+  "service_tier": "standard",
+  "speed": "standard"
+ },
+ "cost_usd": 0.0007801
+}

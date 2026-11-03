@@ -1,0 +1,225 @@
+{
+ "market": {
+  "id": "578688",
+  "question": "Will the red bloc win less than 78 seats in the Norwegian election?",
+  "conditionId": "0xc6ca3f2428f4fc9e6335c3e0b0ab6fd5dd64f3aca36093e839020379bc835b1a",
+  "slug": "will-the-red-bloc-win-less-than-78-seats-in-the-norwegian-election",
+  "resolutionSource": "",
+  "endDate": "2025-09-08T00:00:00Z",
+  "liquidity": "0",
+  "startDate": "2025-08-21T18:08:11.723025Z",
+  "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-the-red-bloc-win-in-norwegian-election-9cDgClClbRwJ.jpg",
+  "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-the-red-bloc-win-in-norwegian-election-9cDgClClbRwJ.jpg",
+  "description": "The red bloc coalition in Norway refers to the following five parties\u2014Labour (Ap), Socialist Left (SV), Red (R), Centre (Sp), and the Green Party (MDG).\n\nParliamentary elections are scheduled to be held in Norway on September 8, 2025.\n\nThis market will resolve based on the number of seats Labour (Ap), Socialist Left (SV), Red (R), Centre (Sp), and the Green Party (MDG) wins in the Norwegian Storting (Norway's parliament) as a result of the next Norwegian parliamentary election. \n\nIf voting in the next Norwegian parliamentary election does not occur by February 28, 2026, this market will resolve to the lowest listed bracket.\n\nThis market's resolution will be based solely on the number of seats held by the listed parties regardless of if they end up forming a coalition. \n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Norway's government (e.g. via https://www.valg.no/en/).",
+  "outcomes": "[\"Yes\", \"No\"]",
+  "outcomePrices": "[\"0\", \"1\"]",
+  "volume": "27116.509417",
+  "active": true,
+  "closed": true,
+  "marketMakerAddress": "",
+  "createdAt": "2025-08-19T19:56:50.256904Z",
+  "updatedAt": "2025-09-11T03:19:39.334485Z",
+  "closedTime": "2025-09-11 03:19:19+00",
+  "new": false,
+  "featured": false,
+  "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+  "archived": false,
+  "resolvedBy": "0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d",
+  "restricted": true,
+  "groupItemTitle": "<78 seats",
+  "groupItemThreshold": "0",
+  "questionID": "0x1d1dc2a8df248b640278b7438f9d9187b731dcd6a19c87f91ce6f00584189900",
+  "umaEndDate": "2025-09-11T03:19:19Z",
+  "enableOrderBook": true,
+  "orderPriceMinTickSize": 0.001,
+  "orderMinSize": 5,
+  "umaResolutionStatus": "resolved",
+  "volumeNum": 27116.509417,
+  "liquidityNum": 0,
+  "endDateIso": "2025-09-08",
+  "startDateIso": "2025-08-21",
+  "hasReviewedDates": true,
+  "volume1wk": 21140.372582,
+  "volume1mo": 27116.509416999997,
+  "volume1yr": 27116.509416999997,
+  "clobTokenIds": "[\"16381289219057816757829186655253455935876682539843157020494733747613148343686\", \"90402519175316986011228079714012767381153249454790454966873675760308932222293\"]",
+  "comboStatus": "disabled",
+  "umaBond": "500",
+  "umaReward": "5",
+  "volume1wkClob": 21140.372582,
+  "volume1moClob": 27116.509416999997,
+  "volume1yrClob": 27116.509416999997,
+  "volumeClob": 27116.509417,
+  "liquidityAmm": 0,
+  "liquidityClob": 0,
+  "customLiveness": 0,
+  "acceptingOrders": false,
+  "negRisk": true,
+  "negRiskMarketID": "0x1d1dc2a8df248b640278b7438f9d9187b731dcd6a19c87f91ce6f00584189900",
+  "negRiskRequestID": "0x2aa47072c2caf10c100ec086dca4231d29b65d65f3e935ae5176cb7f530e28d6",
+  "events": [
+   {
+    "id": "38549",
+    "ticker": "how-many-seats-will-the-red-bloc-win-in-norwegian-election",
+    "slug": "how-many-seats-will-the-red-bloc-win-in-norwegian-election",
+    "title": "How many seats will the red bloc win in Norwegian Election?",
+    "description": "The red bloc coalition in Norway is refers to the following five parties\u2014Labour (Ap), Socialist Left (SV), Red (R), Centre (Sp), and the Green Party (MDG).\n\nParliamentary elections are scheduled to be held in Norway on September 8, 2025.\n\nThis market will resolve based on the number of seats the red bloc wins in the Norwegian Storting (Norway's parliament) as a result of the next Norwegian parliamentary election. \n\nIf voting in the next Norwegian parliamentary election does not occur by February 28, 2026, this market will resolve to the lowest listed bracket.\n\nThis market's resolution will be based solely on the number of seats held by the named coalition.\n\nThis market will resolve based solely on the official results as reported by Norway's government (e.g. via https://www.valg.no/en/).",
+    "resolutionSource": "",
+    "startDate": "2025-08-21T18:28:27.404845Z",
+    "creationDate": "2025-08-21T18:28:27.40484Z",
+    "endDate": "2025-09-08T00:00:00Z",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-the-red-bloc-win-in-norwegian-election-9cDgClClbRwJ.jpg",
+    "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-seats-will-the-red-bloc-win-in-norwegian-election-9cDgClClbRwJ.jpg",
+    "active": true,
+    "closed": true,
+    "archived": false,
+    "new": false,
+    "featured": false,
+    "restricted": true,
+    "volume": 74901.297641,
+    "openInterest": 0,
+    "createdAt": "2025-08-19T19:56:49.416244Z",
+    "updatedAt": "2025-09-17T00:43:53.750782Z",
+    "volume1wk": 48932.914322,
+    "volume1mo": 74901.297641,
+    "volume1yr": 74901.297641,
+    "enableOrderBook": true,
+    "negRisk": true,
+    "negRiskMarketID": "0x1d1dc2a8df248b640278b7438f9d9187b731dcd6a19c87f91ce6f00584189900",
+    "commentCount": 0,
+    "cyom": false,
+    "closedTime": "2025-09-15T19:25:38Z",
+    "showAllOutcomes": true,
+    "showMarketImages": false,
+    "automaticallyResolved": true,
+    "enableNegRisk": true,
+    "automaticallyActive": true,
+    "gmpChartMode": "default",
+    "negRiskAugmented": false,
+    "pendingDeployment": false,
+    "deploying": false,
+    "deployingTimestamp": "2025-08-21T18:06:01.024775Z",
+    "version": "v1"
+   }
+  ],
+  "ready": false,
+  "funded": false,
+  "acceptingOrdersTimestamp": "2025-08-21T18:07:49Z",
+  "cyom": false,
+  "competitive": 0,
+  "approved": true,
+  "rewardsMinSize": 50,
+  "rewardsMaxSpread": 3.5,
+  "spread": 0.001,
+  "automaticallyResolved": true,
+  "oneDayPriceChange": -0.0005,
+  "oneWeekPriceChange": -0.0335,
+  "lastTradePrice": 0.001,
+  "bestAsk": 0.001,
+  "automaticallyActive": true,
+  "clearBookOnStart": true,
+  "seriesColor": "",
+  "showGmpSeries": false,
+  "showGmpOutcome": false,
+  "manualActivation": false,
+  "negRiskOther": false,
+  "umaResolutionStatuses": "[\"proposed\", \"resolved\"]",
+  "pendingDeployment": false,
+  "deploying": false,
+  "deployingTimestamp": "2025-08-21T18:06:29.301605Z",
+  "rfqEnabled": false,
+  "holdingRewardsEnabled": false,
+  "feesEnabled": false,
+  "feeType": null,
+  "fallbackResolutionType": "none",
+  "resolutionMechanism": "oracle",
+  "tradingEligible": true,
+  "version": "v1"
+ },
+ "price_history": [
+  {
+   "t": 1755820804,
+   "p": 0.495
+  },
+  {
+   "t": 1755907214,
+   "p": 0.036
+  },
+  {
+   "t": 1755993611,
+   "p": 0.022
+  },
+  {
+   "t": 1756080011,
+   "p": 0.0525
+  },
+  {
+   "t": 1756166409,
+   "p": 0.0535
+  },
+  {
+   "t": 1756252803,
+   "p": 0.051
+  },
+  {
+   "t": 1756339210,
+   "p": 0.051
+  },
+  {
+   "t": 1756425604,
+   "p": 0.0475
+  },
+  {
+   "t": 1756512004,
+   "p": 0.048
+  },
+  {
+   "t": 1756598407,
+   "p": 0.041
+  },
+  {
+   "t": 1756684802,
+   "p": 0.0365
+  },
+  {
+   "t": 1756771214,
+   "p": 0.0435
+  },
+  {
+   "t": 1756857614,
+   "p": 0.0435
+  },
+  {
+   "t": 1756944004,
+   "p": 0.034
+  },
+  {
+   "t": 1757030405,
+   "p": 0.031
+  },
+  {
+   "t": 1757116814,
+   "p": 0.016
+  },
+  {
+   "t": 1757203211,
+   "p": 0.024
+  },
+  {
+   "t": 1757289618,
+   "p": 0.024
+  },
+  {
+   "t": 1757376010,
+   "p": 0.001
+  },
+  {
+   "t": 1757462407,
+   "p": 0.001
+  },
+  {
+   "t": 1757548808,
+   "p": 0.001
+  }
+ ]
+}
