@@ -18,10 +18,10 @@ Filters require at least $20,000 traded volume, a creation-to-resolution horizon
 
 **Score and timing.** Define each question's paired loss difference as
 
-\[
+$$
 d_i=(p_{\mathrm{model},i}-y_i)^2-(p_{\mathrm{market},i}-y_i)^2,
 \qquad \Delta=\bar d_{\mathrm{post}}-\bar d_{\mathrm{pre}}.
-\]
+$$
 
 Positive Δ means worse market-relative performance in the later group. The main market baseline is the daily price at or before seven days prior to settlement. **It is later than the model's assigned date:** mean horizons of 60 versus 133 days imply nominal information leads of about 53 versus 126 days. Subtracting market loss does not remove this asymmetry or differences in question composition.
 
